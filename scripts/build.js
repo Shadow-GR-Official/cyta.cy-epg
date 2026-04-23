@@ -5,7 +5,7 @@ import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
 // --------------------
-// SAFE FOLDERS
+// SAFE OUTPUT FOLDERS
 // --------------------
 fs.mkdirSync("./data", { recursive: true });
 fs.mkdirSync("./cache", { recursive: true });
@@ -13,7 +13,10 @@ fs.mkdirSync("./cache", { recursive: true });
 // --------------------
 // ENDPOINTS
 // --------------------
-const FETCH_EPG_URL =
+const CHANNELS_URL =
+  "https://epg.cyta.com.cy/api/mediacatalog/fetchChannels?language=1";
+
+const FETCH_EPG_BASE =
   "https://epg.cyta.com.cy/api/mediacatalog/fetchEpg";
 
 const DETAILS_URL =
@@ -24,49 +27,78 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://dummy.stream";
 
-// --------------------
-// LIMIT LOAD (important for API stability)
-// --------------------
 const limit = pLimit(5);
 
 // --------------------
-// FETCH BASE EPG (BROWSER MIMIC + RETRY)
+// FETCH CHANNELS (DYNAMIC)
 // --------------------
-async function fetchBaseEpg() {
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    try {
-      const res = await axios.get(FETCH_EPG_URL, {
-        timeout: 30000,
-        headers: {
-          "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
-          "Accept": "application/json, text/plain, */*",
-          "Accept-Language": "el-GR,el;q=0.9,en;q=0.8",
-          "Referer": "https://epg.cyta.com.cy/",
-          "Origin": "https://epg.cyta.com.cy",
-          "Connection": "keep-alive",
-          "Cache-Control": "no-cache"
-        }
-      });
-
-      return res.data.channelEpgs || [];
-    } catch (err) {
-      console.log(`⚠️ fetchEpg attempt ${attempt} failed`);
-
-      if (err.response) {
-        console.log("STATUS:", err.response.status);
+async function fetchChannels() {
+  try {
+    const res = await axios.get(CHANNELS_URL, {
+      timeout: 30000,
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json",
+        "Referer": "https://epg.cyta.com.cy/"
       }
+    });
 
-      await new Promise(r => setTimeout(r, 3000));
-    }
+    return (res.data.channels || []).map(c => c.id);
+  } catch (err) {
+    console.log("❌ fetchChannels failed");
+    return [];
   }
-
-  console.log("❌ fetchEpg completely failed");
-  return [];
 }
 
 // --------------------
-// EXTRACT ONLY EVENT IDS
+// BUILD EPG URL (AUTO DATE + CHANNELS)
+// --------------------
+function buildEpgUrl(channelIds) {
+  const start = DateTime.now()
+    .setZone("Europe/Nicosia")
+    .startOf("day")
+    .toMillis();
+
+  const end = DateTime.now()
+    .setZone("Europe/Nicosia")
+    .endOf("day")
+    .toMillis();
+
+  return `${FETCH_EPG_BASE}?startTimeEpoch=${start}&endTimeEpoch=${end}&language=1&channelIds=${channelIds.join(",")}`;
+}
+
+// --------------------
+// FETCH BASE EPG
+// --------------------
+async function fetchBaseEpg() {
+  const channelIds = await fetchChannels();
+
+  if (!channelIds.length) {
+    console.log("❌ no channels found");
+    return [];
+  }
+
+  const url = buildEpgUrl(channelIds);
+
+  try {
+    const res = await axios.get(url, {
+      timeout: 30000,
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json",
+        "Referer": "https://epg.cyta.com.cy/"
+      }
+    });
+
+    return res.data.channelEpgs || [];
+  } catch (err) {
+    console.log("❌ fetchEpg failed");
+    return [];
+  }
+}
+
+// --------------------
+// EXTRACT ONLY EVENT IDs
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -78,15 +110,14 @@ function extractEventIds(channelEpgs) {
 }
 
 // --------------------
-// SAFE DETAILS FETCH
+// FETCH DETAILS
 // --------------------
 async function fetchDetails(id) {
   try {
     const res = await axios.get(DETAILS_URL + id, {
       timeout: 20000,
       headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+        "User-Agent": "Mozilla/5.0",
         "Accept": "application/json"
       }
     });
@@ -98,7 +129,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FORMAT (DST SAFE)
+// TIME FORMAT
 // --------------------
 function formatTime(epoch) {
   return DateTime
@@ -113,7 +144,7 @@ async function build() {
   const raw = await fetchBaseEpg();
 
   if (!raw.length) {
-    console.log("⚠️ No EPG data received - exit safe");
+    console.log("⚠️ no EPG data");
     return;
   }
 
@@ -143,12 +174,12 @@ async function build() {
   const clean = enriched.filter(Boolean);
 
   if (!clean.length) {
-    console.log("⚠️ No valid events after enrichment");
+    console.log("⚠️ empty enriched data");
     return;
   }
 
   // --------------------
-  // XMLTV BUILD
+  // XMLTV
   // --------------------
   const builder = new XMLBuilder({
     ignoreAttributes: false,
@@ -172,16 +203,14 @@ async function build() {
   fs.writeFileSync(OUTPUT_XML, xml.trim());
 
   // --------------------
-  // M3U BUILD
+  // M3U
   // --------------------
   const channels = [...new Set(clean.map(e => e.channel))];
 
   const m3u = ["#EXTM3U"];
 
   for (const id of channels) {
-    m3u.push(
-      `#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`
-    );
+    m3u.push(`#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`);
     m3u.push(`${STREAM_BASE}/${id}`);
   }
 
