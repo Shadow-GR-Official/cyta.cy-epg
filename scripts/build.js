@@ -26,7 +26,13 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://127.0.0.1";
 
-const limit = pLimit(5);
+// πιο safe για weekly
+const limit = pLimit(3);
+
+// --------------------
+// INDENT HELPER
+// --------------------
+const indent = (spaces, str) => " ".repeat(spaces) + str;
 
 // --------------------
 // FETCH CHANNELS
@@ -60,47 +66,49 @@ async function fetchChannels() {
 }
 
 // --------------------
-// EPG URL
+// BUILD URL (WITH DAY OFFSET)
 // --------------------
-function buildEpgUrl(channelIds) {
-  const start = DateTime.now()
+function buildEpgUrl(channelIds, dayOffset = 0) {
+  const base = DateTime.now()
     .setZone("Europe/Nicosia")
-    .startOf("day")
-    .toMillis();
+    .plus({ days: dayOffset });
 
-  const end = DateTime.now()
-    .setZone("Europe/Nicosia")
-    .endOf("day")
-    .toMillis();
+  const start = base.startOf("day").toMillis();
+  const end = base.endOf("day").toMillis();
 
   return `${FETCH_EPG_BASE}?startTimeEpoch=${start}&endTimeEpoch=${end}&language=1&channelIds=${channelIds.join(",")}`;
 }
 
 // --------------------
-// BASE EPG
+// FETCH WEEK (7 DAYS)
 // --------------------
-async function fetchBaseEpg() {
+async function fetchBaseEpg(days = 7) {
   const channelMap = await fetchChannels();
   const channelIds = [...channelMap.keys()];
 
-  try {
-    const res = await axios.get(buildEpgUrl(channelIds), {
-      timeout: 30000,
-      headers: {
-        "User-Agent": "Mozilla/5.0",
-        Accept: "application/json",
-        Referer: "https://epg.cyta.com.cy/"
-      }
-    });
+  let all = [];
 
-    return {
-      data: res.data.channelEpgs || [],
-      channelMap
-    };
-  } catch {
-    console.log("❌ fetchEpg failed");
-    return { data: [], channelMap };
+  for (let d = 0; d < days; d++) {
+    try {
+      const res = await axios.get(buildEpgUrl(channelIds, d), {
+        timeout: 30000,
+        headers: {
+          "User-Agent": "Mozilla/5.0",
+          Accept: "application/json",
+          Referer: "https://epg.cyta.com.cy/"
+        }
+      });
+
+      const dayData = res.data.channelEpgs || [];
+      all = all.concat(dayData);
+
+      console.log(`✔ Day ${d} OK`);
+    } catch {
+      console.log(`⚠️ Day ${d} failed`);
+    }
   }
+
+  return { data: all, channelMap };
 }
 
 // --------------------
@@ -113,6 +121,18 @@ function extractEventIds(channelEpgs) {
       channelId: ev.channelId
     }))
   );
+}
+
+// --------------------
+// DEDUPE EVENTS
+// --------------------
+function dedupeEvents(events) {
+  const seen = new Set();
+  return events.filter(e => {
+    if (seen.has(e.id)) return false;
+    seen.add(e.id);
+    return true;
+  });
 }
 
 // --------------------
@@ -153,14 +173,11 @@ function escapeXml(str) {
 }
 
 // --------------------
-// XML BUILDER (FINAL)
+// XML BUILDER (FINAL FORMAT - PERFECT)
 // --------------------
 function buildXML(channelMap, clean) {
   const lines = [];
   const seenChannels = new Set();
-
-  const i2 = (s) => "  " + s;
-  const i4 = (s) => "    " + s;
 
   lines.push(`<?xml version="1.0" encoding="UTF-8"?>`);
   lines.push(`<tv>`);
@@ -173,34 +190,39 @@ function buildXML(channelMap, clean) {
     const ch = channelMap.get(chId);
     if (!ch) continue;
 
-    lines.push(i2(`<channel id="${chId}">`));
-    lines.push(i4(`<display-name>${escapeXml(ch.name)}</display-name>`));
-    lines.push(i2(`</channel>`));
+    lines.push(indent(2, `<channel id="${chId}">`));
+    lines.push(indent(4, `<display-name>${escapeXml(ch.name)}</display-name>`));
+    lines.push(indent(2, `</channel>`));
 
     seenChannels.add(chId);
   }
 
   // PROGRAMMES
   for (const e of clean) {
-    lines.push(i2(
-      `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
-    ));
+    lines.push(
+      indent(
+        2,
+        `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
+      )
+    );
 
-    lines.push(i4(`<title lang="el">${escapeXml(e.title)}</title>`));
+    lines.push(indent(4, `<title lang="el">${escapeXml(e.title)}</title>`));
 
     if (e.desc && e.desc !== e.title) {
-      lines.push(i4(`<desc lang="el">${escapeXml(e.desc)}</desc>`));
+      lines.push(indent(4, `<desc lang="el">${escapeXml(e.desc)}</desc>`));
     }
 
     if (e.category) {
-      lines.push(i4(`<category lang="el">${escapeXml(e.category)}</category>`));
+      lines.push(
+        indent(4, `<category lang="el">${escapeXml(e.category)}</category>`)
+      );
     }
 
     if (e.rating) {
-      lines.push(i4(`<rating>${escapeXml(e.rating)}</rating>`));
+      lines.push(indent(4, `<rating>${escapeXml(e.rating)}</rating>`));
     }
 
-    lines.push(i2(`</programme>`));
+    lines.push(indent(2, `</programme>`));
   }
 
   lines.push(`</tv>`);
@@ -209,7 +231,7 @@ function buildXML(channelMap, clean) {
 }
 
 // --------------------
-// M3U
+// M3U (UNCHANGED)
 // --------------------
 function buildM3U(channelMap, eventChannels) {
   const m3u = ["#EXTM3U"];
@@ -234,14 +256,14 @@ function buildM3U(channelMap, eventChannels) {
 // MAIN
 // --------------------
 async function build() {
-  const { data, channelMap } = await fetchBaseEpg();
+  const { data, channelMap } = await fetchBaseEpg(7);
 
   if (!data.length) {
     console.log("⚠️ No EPG data");
     return;
   }
 
-  const eventsBase = extractEventIds(data);
+  const eventsBase = dedupeEvents(extractEventIds(data));
 
   const enriched = await Promise.all(
     eventsBase.map(ev =>
@@ -270,7 +292,7 @@ async function build() {
   const eventChannels = [...new Set(clean.map(e => e.channel))];
   fs.writeFileSync(OUTPUT_M3U, buildM3U(channelMap, eventChannels));
 
-  console.log("✅ BUILD COMPLETE");
+  console.log("✅ BUILD COMPLETE (WEEKLY)");
 }
 
 build();
