@@ -5,7 +5,7 @@ import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
 // --------------------
-// SAFE OUTPUT FOLDERS
+// FOLDERS
 // --------------------
 fs.mkdirSync("./data", { recursive: true });
 fs.mkdirSync("./cache", { recursive: true });
@@ -25,12 +25,12 @@ const DETAILS_URL =
 const OUTPUT_XML = "./data/epg.xml";
 const OUTPUT_M3U = "./data/channels.m3u";
 
-const STREAM_BASE = "http://dummy.stream";
+const STREAM_BASE = "http://127.0.0.1";
 
 const limit = pLimit(5);
 
 // --------------------
-// FETCH CHANNELS (DYNAMIC)
+// FETCH CHANNELS (ID → NAME → LOGO)
 // --------------------
 async function fetchChannels() {
   try {
@@ -43,15 +43,25 @@ async function fetchChannels() {
       }
     });
 
-    return (res.data.channels || []).map(c => c.id);
+    const map = new Map();
+
+    for (const c of res.data.channels || []) {
+      map.set(c.id, {
+        id: c.id,
+        name: c.name,
+        logo: c.picture?.icons?.[0] || ""
+      });
+    }
+
+    return map;
   } catch (err) {
     console.log("❌ fetchChannels failed");
-    return [];
+    return new Map();
   }
 }
 
 // --------------------
-// BUILD EPG URL (AUTO DATE + CHANNELS)
+// BUILD EPG URL (TODAY AUTO)
 // --------------------
 function buildEpgUrl(channelIds) {
   const start = DateTime.now()
@@ -71,12 +81,9 @@ function buildEpgUrl(channelIds) {
 // FETCH BASE EPG
 // --------------------
 async function fetchBaseEpg() {
-  const channelIds = await fetchChannels();
+  const channelMap = await fetchChannels();
 
-  if (!channelIds.length) {
-    console.log("❌ no channels found");
-    return [];
-  }
+  const channelIds = [...channelMap.keys()];
 
   const url = buildEpgUrl(channelIds);
 
@@ -90,15 +97,18 @@ async function fetchBaseEpg() {
       }
     });
 
-    return res.data.channelEpgs || [];
+    return {
+      data: res.data.channelEpgs || [],
+      channelMap
+    };
   } catch (err) {
     console.log("❌ fetchEpg failed");
-    return [];
+    return { data: [], channelMap };
   }
 }
 
 // --------------------
-// EXTRACT ONLY EVENT IDs
+// EXTRACT EVENT IDS ONLY
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -129,7 +139,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FORMAT
+// TIME FORMAT (CYTA SAFE)
 // --------------------
 function formatTime(epoch) {
   return DateTime
@@ -138,23 +148,45 @@ function formatTime(epoch) {
 }
 
 // --------------------
+// M3U BUILDER (EXACT FORMAT YOU WANTED)
+// --------------------
+function buildM3U(channelMap, eventChannels) {
+  const m3u = ["#EXTM3U"];
+
+  for (const id of eventChannels) {
+    const ch = channelMap.get(id);
+
+    const tvgId = ch?.id || id;
+    const tvgName = ch?.name || id;
+    const logo = ch?.logo || "";
+
+    m3u.push(
+      `#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" tvg-logo="${logo}",${tvgName}`
+    );
+
+    m3u.push(`${STREAM_BASE}/${tvgId}`);
+  }
+
+  return m3u.join("\n");
+}
+
+// --------------------
 // MAIN BUILD
 // --------------------
 async function build() {
-  const raw = await fetchBaseEpg();
+  const { data, channelMap } = await fetchBaseEpg();
 
-  if (!raw.length) {
-    console.log("⚠️ no EPG data");
+  if (!data.length) {
+    console.log("⚠️ No EPG data");
     return;
   }
 
-  const eventsBase = extractEventIds(raw);
+  const eventsBase = extractEventIds(data);
 
   const enriched = await Promise.all(
     eventsBase.map(ev =>
       limit(async () => {
         const d = await fetchDetails(ev.id);
-
         if (!d) return null;
 
         return {
@@ -174,7 +206,7 @@ async function build() {
   const clean = enriched.filter(Boolean);
 
   if (!clean.length) {
-    console.log("⚠️ empty enriched data");
+    console.log("⚠️ No enriched data");
     return;
   }
 
@@ -203,18 +235,13 @@ async function build() {
   fs.writeFileSync(OUTPUT_XML, xml.trim());
 
   // --------------------
-  // M3U
+  // M3U (EXACT FORMAT)
   // --------------------
-  const channels = [...new Set(clean.map(e => e.channel))];
+  const eventChannels = [...new Set(clean.map(e => e.channel))];
 
-  const m3u = ["#EXTM3U"];
+  const m3u = buildM3U(channelMap, eventChannels);
 
-  for (const id of channels) {
-    m3u.push(`#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`);
-    m3u.push(`${STREAM_BASE}/${id}`);
-  }
-
-  fs.writeFileSync(OUTPUT_M3U, m3u.join("\n"));
+  fs.writeFileSync(OUTPUT_M3U, m3u);
 
   console.log("✅ BUILD COMPLETE");
 }
