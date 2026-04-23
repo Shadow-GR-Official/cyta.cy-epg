@@ -20,10 +20,10 @@ jobs:
       - name: Install deps
         run: npm install
 
-      - name: Build EPG
+      - name: Run build
         run: node scripts/build.js
 
-      - name: Commit output
+      - name: Commit results
         run: |
           git config --global user.name "epg-bot"
           git config --global user.email "bot@github.com"
