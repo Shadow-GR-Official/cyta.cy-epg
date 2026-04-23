@@ -4,47 +4,69 @@ import { XMLBuilder } from "fast-xml-parser";
 import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
-const FETCH_EPG_URL = "https://epg.cyta.com.cy/api/mediacatalog/fetchEpg";
-const DETAILS_URL = "https://epg.cyta.com.cy/api/mediacatalog/fetchEpgDetails?language=1&id=";
+const FETCH_EPG_URL =
+  "https://epg.cyta.com.cy/api/mediacatalog/fetchEpg";
+
+const DETAILS_URL =
+  "https://epg.cyta.com.cy/api/mediacatalog/fetchEpgDetails?language=1&id=";
 
 const OUTPUT_XML = "./data/epg.xml";
 const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://dummy.stream";
-const limit = pLimit(10);
+
+// 🔥 LOW LOAD (important for Cyta API stability)
+const limit = pLimit(5);
 
 // --------------------
-// FETCH BASE (FIXED STRUCTURE)
+// SAFE FETCH BASE (NO CRASH)
 // --------------------
 async function fetchBaseEpg() {
-  const res = await axios.get(FETCH_EPG_URL);
-  return res.data.channelEpgs;
+  try {
+    const res = await axios.get(FETCH_EPG_URL, { timeout: 30000 });
+    return res.data.channelEpgs || [];
+  } catch (err) {
+    console.error("⚠️ fetchEpg failed, retrying...");
+
+    try {
+      const retry = await axios.get(FETCH_EPG_URL, { timeout: 30000 });
+      return retry.data.channelEpgs || [];
+    } catch (err2) {
+      console.error("❌ fetchEpg failed completely");
+      return [];
+    }
+  }
 }
 
 // --------------------
-// EXTRACT ONLY EVENT IDS (IMPORTANT FIX)
+// EXTRACT ONLY IDs (IMPORTANT RULE)
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
-    ch.epgPlayables.map(ev => ({
+    (ch.epgPlayables || []).map(ev => ({
       id: ev.id,
-      channelId: ev.channelId,
-      startTime: ev.startTime,
-      endTime: ev.endTime
+      channelId: ev.channelId
     }))
   );
 }
 
 // --------------------
-// FETCH DETAILS
+// SAFE DETAILS FETCH
 // --------------------
 async function fetchDetails(id) {
-  const res = await axios.get(DETAILS_URL + id);
-  return res.data.playbillDetail;
+  try {
+    const res = await axios.get(DETAILS_URL + id, {
+      timeout: 20000
+    });
+
+    return res.data.playbillDetail;
+  } catch (err) {
+    return null; // skip broken event
+  }
 }
 
 // --------------------
-// TIME FIX (EPG SAFE)
+// TIME CONVERT (DST SAFE)
 // --------------------
 function formatTime(epoch) {
   return DateTime
@@ -58,12 +80,19 @@ function formatTime(epoch) {
 async function build() {
   const raw = await fetchBaseEpg();
 
+  if (!raw.length) {
+    console.log("⚠️ No data received - exit safely");
+    return;
+  }
+
   const eventsBase = extractEventIds(raw);
 
   const enriched = await Promise.all(
     eventsBase.map(ev =>
       limit(async () => {
         const d = await fetchDetails(ev.id);
+
+        if (!d) return null;
 
         return {
           id: ev.id,
@@ -79,17 +108,19 @@ async function build() {
     )
   );
 
+  const clean = enriched.filter(Boolean);
+
   // --------------------
-  // XMLTV (NO FORMATTING SPACING)
+  // XMLTV (NO SPACES / CLEAN OUTPUT)
   // --------------------
-  const builder = new XMLBuilder({
+  const xml = new XMLBuilder({
     ignoreAttributes: false,
     format: false
   });
 
-  const xml = builder.build({
+  const outputXML = xml.build({
     tv: {
-      programme: enriched.map(e => ({
+      programme: clean.map(e => ({
         "@_start": e.start,
         "@_stop": e.stop,
         "@_channel": e.channel,
@@ -101,25 +132,23 @@ async function build() {
     }
   });
 
-  fs.writeFileSync(OUTPUT_XML, xml.trim());
+  fs.writeFileSync(OUTPUT_XML, outputXML.trim());
 
   // --------------------
-  // M3U (logos[0] rule + dummy stream)
+  // M3U (minimal + stable)
   // --------------------
-  const channels = [...new Set(enriched.map(e => e.channel))];
+  const channels = [...new Set(clean.map(e => e.channel))];
 
   const m3u = ["#EXTM3U"];
 
   for (const id of channels) {
-    m3u.push(
-      `#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`
-    );
+    m3u.push(`#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`);
     m3u.push(`${STREAM_BASE}/${id}`);
   }
 
   fs.writeFileSync(OUTPUT_M3U, m3u.join("\n"));
 
-  console.log("BUILD COMPLETE ✔");
+  console.log("✅ BUILD DONE");
 }
 
 build();
