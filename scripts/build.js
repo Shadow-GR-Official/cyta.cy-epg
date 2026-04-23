@@ -5,7 +5,7 @@ import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
 // --------------------
-// FOLDERS (IMPORTANT FIX)
+// FOLDERS SAFE INIT
 // --------------------
 fs.mkdirSync("./data", { recursive: true });
 fs.mkdirSync("./cache", { recursive: true });
@@ -24,33 +24,43 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://dummy.stream";
 
-// 🔥 LOW LOAD (prevents API blocking)
+// 🔥 LOWER LOAD (important for stability)
 const limit = pLimit(5);
 
 // --------------------
-// SAFE BASE FETCH (NO CRASH)
+// SAFE FETCH EPG (WITH HEADERS + RETRY)
 // --------------------
 async function fetchBaseEpg() {
-  try {
-    const res = await axios.get(FETCH_EPG_URL, { timeout: 30000 });
-    return res.data.channelEpgs || [];
-  } catch (err) {
-    console.error("⚠️ fetchEpg failed, retrying...");
-
+  for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      const retry = await axios.get(FETCH_EPG_URL, {
-        timeout: 30000
+      const res = await axios.get(FETCH_EPG_URL, {
+        timeout: 30000,
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+          "Accept": "application/json",
+          "Referer": "https://epg.cyta.com.cy/"
+        }
       });
-      return retry.data.channelEpgs || [];
-    } catch (err2) {
-      console.error("❌ fetchEpg failed completely");
-      return [];
+
+      return res.data.channelEpgs || [];
+    } catch (err) {
+      console.log(`⚠️ fetchEpg attempt ${attempt} failed`);
+
+      if (err.response) {
+        console.log("STATUS:", err.response.status);
+      }
+
+      await new Promise(r => setTimeout(r, 3000));
     }
   }
+
+  console.log("❌ fetchEpg completely failed");
+  return [];
 }
 
 // --------------------
-// EXTRACT ONLY EVENT IDs (CRITICAL RULE)
+// EXTRACT ONLY EVENT IDS (STRICT RULE)
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -67,12 +77,16 @@ function extractEventIds(channelEpgs) {
 async function fetchDetails(id) {
   try {
     const res = await axios.get(DETAILS_URL + id, {
-      timeout: 20000
+      timeout: 20000,
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "application/json"
+      }
     });
 
     return res.data.playbillDetail;
-  } catch (err) {
-    return null; // skip broken event instead of crashing
+  } catch {
+    return null;
   }
 }
 
@@ -92,7 +106,7 @@ async function build() {
   const raw = await fetchBaseEpg();
 
   if (!raw.length) {
-    console.log("⚠️ No EPG data - exiting safely");
+    console.log("⚠️ No EPG data received - exit safe");
     return;
   }
 
@@ -102,7 +116,6 @@ async function build() {
     eventsBase.map(ev =>
       limit(async () => {
         const d = await fetchDetails(ev.id);
-
         if (!d) return null;
 
         return {
@@ -127,7 +140,7 @@ async function build() {
   }
 
   // --------------------
-  // XMLTV BUILD (NO FORMATTING SPACES)
+  // XMLTV BUILD
   // --------------------
   const builder = new XMLBuilder({
     ignoreAttributes: false,
@@ -151,7 +164,7 @@ async function build() {
   fs.writeFileSync(OUTPUT_XML, xml.trim());
 
   // --------------------
-  // M3U BUILD (minimal + stable)
+  // M3U BUILD
   // --------------------
   const channels = [...new Set(clean.map(e => e.channel))];
 
