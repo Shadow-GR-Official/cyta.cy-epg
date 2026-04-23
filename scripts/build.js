@@ -132,7 +132,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FIX (CYTA SAFE)
+// TIME FIX
 // --------------------
 function formatTime(epoch) {
   return DateTime.fromMillis(Number(epoch), {
@@ -153,40 +153,60 @@ function escapeXml(str) {
 }
 
 // --------------------
-// XML BUILDER (STACKED - NO BLANK LINES)
+// XML BUILDER (VODAFONE STREAM STYLE)
 // --------------------
 function buildXML(channelMap, clean) {
-  let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
+  const lines = [];
+  const seenChannels = new Set();
 
-  // CHANNELS FIRST
-  for (const [id, ch] of channelMap.entries()) {
-    xml += `<channel id="${id}">`;
-    xml += `<display-name>${escapeXml(ch.name)}</display-name>`;
-    xml += `</channel>`;
+  lines.push(`<?xml version="1.0" encoding="UTF-8"?>`);
+  lines.push(`<tv>`);
+
+  // --------------------
+  // CHANNELS (ONLY ONCE)
+  // --------------------
+  for (const e of clean) {
+    const chId = e.channel;
+    if (seenChannels.has(chId)) continue;
+
+    const ch = channelMap.get(chId);
+    if (!ch) continue;
+
+    lines.push(`<channel id="${chId}">`);
+    lines.push(`<display-name>${escapeXml(ch.name)}</display-name>`);
+    lines.push(`</channel>`);
+
+    seenChannels.add(chId);
   }
 
-  // PROGRAMMES SECOND
+  // --------------------
+  // PROGRAMMES
+  // --------------------
   for (const e of clean) {
-    xml += `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`;
-    xml += `<title lang="el">${escapeXml(e.title)}</title>`;
+    lines.push(
+      `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
+    );
+
+    lines.push(`<title lang="el">${escapeXml(e.title)}</title>`);
 
     if (e.desc && e.desc !== e.title) {
-      xml += `<desc lang="el">${escapeXml(e.desc)}</desc>`;
+      lines.push(`<desc lang="el">${escapeXml(e.desc)}</desc>`);
     }
 
     if (e.category) {
-      xml += `<category lang="el">${escapeXml(e.category)}</category>`;
+      lines.push(`<category lang="el">${escapeXml(e.category)}</category>`);
     }
 
     if (e.rating) {
-      xml += `<rating>${escapeXml(e.rating)}</rating>`;
+      lines.push(`<rating>${escapeXml(e.rating)}</rating>`);
     }
 
-    xml += `</programme>`;
+    lines.push(`</programme>`);
   }
 
-  xml += `</tv>`;
-  return xml;
+  lines.push(`</tv>`);
+
+  return lines.join("\n");
 }
 
 // --------------------
@@ -246,14 +266,10 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
-  // WRITE XML
-  const xml = buildXML(channelMap, clean);
-  fs.writeFileSync(OUTPUT_XML, xml);
+  fs.writeFileSync(OUTPUT_XML, buildXML(channelMap, clean));
 
-  // WRITE M3U
   const eventChannels = [...new Set(clean.map(e => e.channel))];
-  const m3u = buildM3U(channelMap, eventChannels);
-  fs.writeFileSync(OUTPUT_M3U, m3u);
+  fs.writeFileSync(OUTPUT_M3U, buildM3U(channelMap, eventChannels));
 
   console.log("✅ BUILD COMPLETE");
 }
