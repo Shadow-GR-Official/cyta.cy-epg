@@ -47,7 +47,7 @@ async function fetchChannels() {
     for (const c of res.data.channels || []) {
       map.set(c.id, {
         id: c.id,
-        name: c.name,
+        name: (c.name || "").trim(),
         logo: c.picture?.icons?.[0] || ""
       });
     }
@@ -132,7 +132,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FIX (NO SPACE BUG)
+// TIME FIX (CYTA SAFE)
 // --------------------
 function formatTime(epoch) {
   return DateTime.fromMillis(Number(epoch), {
@@ -153,7 +153,7 @@ function escapeXml(str) {
 }
 
 // --------------------
-// XML BUILDER (FIXED ORDER)
+// XML BUILDER (STACKED - NO BLANK LINES)
 // --------------------
 function buildXML(channelMap, clean) {
   let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
@@ -162,7 +162,7 @@ function buildXML(channelMap, clean) {
   for (const [id, ch] of channelMap.entries()) {
     xml += `<channel id="${id}">`;
     xml += `<display-name>${escapeXml(ch.name)}</display-name>`;
-    xml += `</channel>\n`;
+    xml += `</channel>`;
   }
 
   // PROGRAMMES SECOND
@@ -182,7 +182,7 @@ function buildXML(channelMap, clean) {
       xml += `<rating>${escapeXml(e.rating)}</rating>`;
     }
 
-    xml += `</programme>\n`;
+    xml += `</programme>`;
   }
 
   xml += `</tv>`;
@@ -190,7 +190,7 @@ function buildXML(channelMap, clean) {
 }
 
 // --------------------
-// M3U (UNCHANGED - SAFE)
+// M3U
 // --------------------
 function buildM3U(channelMap, eventChannels) {
   const m3u = ["#EXTM3U"];
@@ -198,7 +198,7 @@ function buildM3U(channelMap, eventChannels) {
   for (const id of eventChannels) {
     const ch = channelMap.get(id);
 
-    const name = ch?.name || id;
+    const name = (ch?.name || id).trim();
     const logo = ch?.logo || "";
 
     m3u.push(
@@ -246,7 +246,7 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
-  // WRITE XML (FIXED)
+  // WRITE XML
   const xml = buildXML(channelMap, clean);
   fs.writeFileSync(OUTPUT_XML, xml);
 
