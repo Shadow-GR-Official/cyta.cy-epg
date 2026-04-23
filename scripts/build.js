@@ -5,7 +5,7 @@ import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
 // --------------------
-// FOLDERS SAFE INIT
+// SAFE FOLDERS
 // --------------------
 fs.mkdirSync("./data", { recursive: true });
 fs.mkdirSync("./cache", { recursive: true });
@@ -24,11 +24,13 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://dummy.stream";
 
-// 🔥 LOWER LOAD (important for stability)
+// --------------------
+// LIMIT LOAD (important for API stability)
+// --------------------
 const limit = pLimit(5);
 
 // --------------------
-// SAFE FETCH EPG (WITH HEADERS + RETRY)
+// FETCH BASE EPG (BROWSER MIMIC + RETRY)
 // --------------------
 async function fetchBaseEpg() {
   for (let attempt = 1; attempt <= 3; attempt++) {
@@ -37,9 +39,13 @@ async function fetchBaseEpg() {
         timeout: 30000,
         headers: {
           "User-Agent":
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-          "Accept": "application/json",
-          "Referer": "https://epg.cyta.com.cy/"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
+          "Accept": "application/json, text/plain, */*",
+          "Accept-Language": "el-GR,el;q=0.9,en;q=0.8",
+          "Referer": "https://epg.cyta.com.cy/",
+          "Origin": "https://epg.cyta.com.cy",
+          "Connection": "keep-alive",
+          "Cache-Control": "no-cache"
         }
       });
 
@@ -60,7 +66,7 @@ async function fetchBaseEpg() {
 }
 
 // --------------------
-// EXTRACT ONLY EVENT IDS (STRICT RULE)
+// EXTRACT ONLY EVENT IDS
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -79,7 +85,8 @@ async function fetchDetails(id) {
     const res = await axios.get(DETAILS_URL + id, {
       timeout: 20000,
       headers: {
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122 Safari/537.36",
         "Accept": "application/json"
       }
     });
@@ -91,7 +98,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME CONVERSION (DST SAFE)
+// TIME FORMAT (DST SAFE)
 // --------------------
 function formatTime(epoch) {
   return DateTime
@@ -116,6 +123,7 @@ async function build() {
     eventsBase.map(ev =>
       limit(async () => {
         const d = await fetchDetails(ev.id);
+
         if (!d) return null;
 
         return {
