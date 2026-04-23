@@ -1,6 +1,5 @@
 import axios from "axios";
 import fs from "fs";
-import { XMLBuilder } from "fast-xml-parser";
 import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
@@ -30,7 +29,7 @@ const STREAM_BASE = "http://127.0.0.1";
 const limit = pLimit(5);
 
 // --------------------
-// FETCH CHANNELS (ID → NAME → LOGO)
+// FETCH CHANNELS
 // --------------------
 async function fetchChannels() {
   try {
@@ -38,8 +37,8 @@ async function fetchChannels() {
       timeout: 30000,
       headers: {
         "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Referer": "https://epg.cyta.com.cy/"
+        Accept: "application/json",
+        Referer: "https://epg.cyta.com.cy/"
       }
     });
 
@@ -54,14 +53,14 @@ async function fetchChannels() {
     }
 
     return map;
-  } catch (err) {
+  } catch {
     console.log("❌ fetchChannels failed");
     return new Map();
   }
 }
 
 // --------------------
-// BUILD EPG URL (TODAY AUTO)
+// EPG URL
 // --------------------
 function buildEpgUrl(channelIds) {
   const start = DateTime.now()
@@ -78,22 +77,19 @@ function buildEpgUrl(channelIds) {
 }
 
 // --------------------
-// FETCH BASE EPG
+// BASE EPG
 // --------------------
 async function fetchBaseEpg() {
   const channelMap = await fetchChannels();
-
   const channelIds = [...channelMap.keys()];
 
-  const url = buildEpgUrl(channelIds);
-
   try {
-    const res = await axios.get(url, {
+    const res = await axios.get(buildEpgUrl(channelIds), {
       timeout: 30000,
       headers: {
         "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json",
-        "Referer": "https://epg.cyta.com.cy/"
+        Accept: "application/json",
+        Referer: "https://epg.cyta.com.cy/"
       }
     });
 
@@ -101,14 +97,14 @@ async function fetchBaseEpg() {
       data: res.data.channelEpgs || [],
       channelMap
     };
-  } catch (err) {
+  } catch {
     console.log("❌ fetchEpg failed");
     return { data: [], channelMap };
   }
 }
 
 // --------------------
-// EXTRACT EVENT IDS ONLY
+// EVENTS
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -120,16 +116,13 @@ function extractEventIds(channelEpgs) {
 }
 
 // --------------------
-// FETCH DETAILS
+// DETAILS
 // --------------------
 async function fetchDetails(id) {
   try {
     const res = await axios.get(DETAILS_URL + id, {
       timeout: 20000,
-      headers: {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "application/json"
-      }
+      headers: { Accept: "application/json" }
     });
 
     return res.data.playbillDetail;
@@ -139,16 +132,65 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FORMAT (CYTA SAFE)
+// TIME FIX (NO SPACE BUG)
 // --------------------
 function formatTime(epoch) {
-  return DateTime
-    .fromMillis(Number(epoch), { zone: "Europe/Nicosia" })
-    .toFormat("yyyyMMddHHmmss ZZZZ");
+  return DateTime.fromMillis(Number(epoch), {
+    zone: "Europe/Nicosia"
+  }).toFormat("yyyyMMddHHmmss ZZZZ");
 }
 
 // --------------------
-// M3U BUILDER (EXACT FORMAT YOU WANTED)
+// XML ESCAPE
+// --------------------
+function escapeXml(str) {
+  return (str || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+// --------------------
+// XML BUILDER (FIXED ORDER)
+// --------------------
+function buildXML(channelMap, clean) {
+  let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n`;
+
+  // CHANNELS FIRST
+  for (const [id, ch] of channelMap.entries()) {
+    xml += `<channel id="${id}">`;
+    xml += `<display-name>${escapeXml(ch.name)}</display-name>`;
+    xml += `</channel>\n`;
+  }
+
+  // PROGRAMMES SECOND
+  for (const e of clean) {
+    xml += `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`;
+    xml += `<title lang="el">${escapeXml(e.title)}</title>`;
+
+    if (e.desc && e.desc !== e.title) {
+      xml += `<desc lang="el">${escapeXml(e.desc)}</desc>`;
+    }
+
+    if (e.category) {
+      xml += `<category lang="el">${escapeXml(e.category)}</category>`;
+    }
+
+    if (e.rating) {
+      xml += `<rating>${escapeXml(e.rating)}</rating>`;
+    }
+
+    xml += `</programme>\n`;
+  }
+
+  xml += `</tv>`;
+  return xml;
+}
+
+// --------------------
+// M3U (UNCHANGED - SAFE)
 // --------------------
 function buildM3U(channelMap, eventChannels) {
   const m3u = ["#EXTM3U"];
@@ -156,22 +198,21 @@ function buildM3U(channelMap, eventChannels) {
   for (const id of eventChannels) {
     const ch = channelMap.get(id);
 
-    const tvgId = ch?.id || id;
-    const tvgName = ch?.name || id;
+    const name = ch?.name || id;
     const logo = ch?.logo || "";
 
     m3u.push(
-      `#EXTINF:-1 tvg-id="${tvgId}" tvg-name="${tvgName}" tvg-logo="${logo}",${tvgName}`
+      `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name}`
     );
 
-    m3u.push(`${STREAM_BASE}/${tvgId}`);
+    m3u.push(`${STREAM_BASE}/${id}`);
   }
 
   return m3u.join("\n");
 }
 
 // --------------------
-// MAIN BUILD
+// MAIN
 // --------------------
 async function build() {
   const { data, channelMap } = await fetchBaseEpg();
@@ -205,42 +246,13 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
-  if (!clean.length) {
-    console.log("⚠️ No enriched data");
-    return;
-  }
+  // WRITE XML (FIXED)
+  const xml = buildXML(channelMap, clean);
+  fs.writeFileSync(OUTPUT_XML, xml);
 
-  // --------------------
-  // XMLTV
-  // --------------------
-  const builder = new XMLBuilder({
-    ignoreAttributes: false,
-    format: false
-  });
-
-  const xml = builder.build({
-    tv: {
-      programme: clean.map(e => ({
-        "@_start": e.start,
-        "@_stop": e.stop,
-        "@_channel": e.channel,
-        title: e.title,
-        desc: e.desc,
-        category: e.category,
-        rating: e.rating
-      }))
-    }
-  });
-
-  fs.writeFileSync(OUTPUT_XML, xml.trim());
-
-  // --------------------
-  // M3U (EXACT FORMAT)
-  // --------------------
+  // WRITE M3U
   const eventChannels = [...new Set(clean.map(e => e.channel))];
-
   const m3u = buildM3U(channelMap, eventChannels);
-
   fs.writeFileSync(OUTPUT_M3U, m3u);
 
   console.log("✅ BUILD COMPLETE");
