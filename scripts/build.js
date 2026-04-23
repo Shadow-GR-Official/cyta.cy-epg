@@ -132,7 +132,7 @@ async function fetchDetails(id) {
 }
 
 // --------------------
-// TIME FIX
+// TIME FORMAT
 // --------------------
 function formatTime(epoch) {
   return DateTime.fromMillis(Number(epoch), {
@@ -153,18 +153,19 @@ function escapeXml(str) {
 }
 
 // --------------------
-// XML BUILDER (VODAFONE STREAM STYLE)
+// XML BUILDER (FINAL)
 // --------------------
 function buildXML(channelMap, clean) {
   const lines = [];
   const seenChannels = new Set();
 
+  const i2 = (s) => "  " + s;
+  const i4 = (s) => "    " + s;
+
   lines.push(`<?xml version="1.0" encoding="UTF-8"?>`);
   lines.push(`<tv>`);
 
-  // --------------------
-  // CHANNELS (ONLY ONCE)
-  // --------------------
+  // CHANNELS
   for (const e of clean) {
     const chId = e.channel;
     if (seenChannels.has(chId)) continue;
@@ -172,35 +173,34 @@ function buildXML(channelMap, clean) {
     const ch = channelMap.get(chId);
     if (!ch) continue;
 
-    lines.push(  `<channel id="${chId}">`);
-    lines.push(    `<display-name>${escapeXml(ch.name)}</display-name>`);
-    lines.push(  `</channel>`);
+    lines.push(i2(`<channel id="${chId}">`));
+    lines.push(i4(`<display-name>${escapeXml(ch.name)}</display-name>`));
+    lines.push(i2(`</channel>`));
 
     seenChannels.add(chId);
   }
 
-  // --------------------
   // PROGRAMMES
-  // --------------------
   for (const e of clean) {
-    lines.push(  `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
-    );
+    lines.push(i2(
+      `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
+    ));
 
-    lines.push(    `<title lang="el">${escapeXml(e.title)}</title>`);
+    lines.push(i4(`<title lang="el">${escapeXml(e.title)}</title>`));
 
     if (e.desc && e.desc !== e.title) {
-      lines.push(    `<desc lang="el">${escapeXml(e.desc)}</desc>`);
+      lines.push(i4(`<desc lang="el">${escapeXml(e.desc)}</desc>`));
     }
 
     if (e.category) {
-      lines.push(    `<category lang="el">${escapeXml(e.category)}</category>`);
+      lines.push(i4(`<category lang="el">${escapeXml(e.category)}</category>`));
     }
 
     if (e.rating) {
-      lines.push(    `<rating>${escapeXml(e.rating)}</rating>`);
+      lines.push(i4(`<rating>${escapeXml(e.rating)}</rating>`));
     }
 
-    lines.push(  `</programme>`);
+    lines.push(i2(`</programme>`));
   }
 
   lines.push(`</tv>`);
