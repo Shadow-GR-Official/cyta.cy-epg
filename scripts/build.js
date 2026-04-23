@@ -4,6 +4,15 @@ import { XMLBuilder } from "fast-xml-parser";
 import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
+// --------------------
+// FOLDERS (IMPORTANT FIX)
+// --------------------
+fs.mkdirSync("./data", { recursive: true });
+fs.mkdirSync("./cache", { recursive: true });
+
+// --------------------
+// ENDPOINTS
+// --------------------
 const FETCH_EPG_URL =
   "https://epg.cyta.com.cy/api/mediacatalog/fetchEpg";
 
@@ -15,11 +24,11 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://dummy.stream";
 
-// 🔥 LOW LOAD (important for Cyta API stability)
+// 🔥 LOW LOAD (prevents API blocking)
 const limit = pLimit(5);
 
 // --------------------
-// SAFE FETCH BASE (NO CRASH)
+// SAFE BASE FETCH (NO CRASH)
 // --------------------
 async function fetchBaseEpg() {
   try {
@@ -29,7 +38,9 @@ async function fetchBaseEpg() {
     console.error("⚠️ fetchEpg failed, retrying...");
 
     try {
-      const retry = await axios.get(FETCH_EPG_URL, { timeout: 30000 });
+      const retry = await axios.get(FETCH_EPG_URL, {
+        timeout: 30000
+      });
       return retry.data.channelEpgs || [];
     } catch (err2) {
       console.error("❌ fetchEpg failed completely");
@@ -39,7 +50,7 @@ async function fetchBaseEpg() {
 }
 
 // --------------------
-// EXTRACT ONLY IDs (IMPORTANT RULE)
+// EXTRACT ONLY EVENT IDs (CRITICAL RULE)
 // --------------------
 function extractEventIds(channelEpgs) {
   return channelEpgs.flatMap(ch =>
@@ -61,12 +72,12 @@ async function fetchDetails(id) {
 
     return res.data.playbillDetail;
   } catch (err) {
-    return null; // skip broken event
+    return null; // skip broken event instead of crashing
   }
 }
 
 // --------------------
-// TIME CONVERT (DST SAFE)
+// TIME CONVERSION (DST SAFE)
 // --------------------
 function formatTime(epoch) {
   return DateTime
@@ -81,7 +92,7 @@ async function build() {
   const raw = await fetchBaseEpg();
 
   if (!raw.length) {
-    console.log("⚠️ No data received - exit safely");
+    console.log("⚠️ No EPG data - exiting safely");
     return;
   }
 
@@ -110,15 +121,20 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
+  if (!clean.length) {
+    console.log("⚠️ No valid events after enrichment");
+    return;
+  }
+
   // --------------------
-  // XMLTV (NO SPACES / CLEAN OUTPUT)
+  // XMLTV BUILD (NO FORMATTING SPACES)
   // --------------------
-  const xml = new XMLBuilder({
+  const builder = new XMLBuilder({
     ignoreAttributes: false,
     format: false
   });
 
-  const outputXML = xml.build({
+  const xml = builder.build({
     tv: {
       programme: clean.map(e => ({
         "@_start": e.start,
@@ -132,23 +148,25 @@ async function build() {
     }
   });
 
-  fs.writeFileSync(OUTPUT_XML, outputXML.trim());
+  fs.writeFileSync(OUTPUT_XML, xml.trim());
 
   // --------------------
-  // M3U (minimal + stable)
+  // M3U BUILD (minimal + stable)
   // --------------------
   const channels = [...new Set(clean.map(e => e.channel))];
 
   const m3u = ["#EXTM3U"];
 
   for (const id of channels) {
-    m3u.push(`#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`);
+    m3u.push(
+      `#EXTINF:-1 tvg-id="${id}" tvg-name="${id}" tvg-logo="",${id}`
+    );
     m3u.push(`${STREAM_BASE}/${id}`);
   }
 
   fs.writeFileSync(OUTPUT_M3U, m3u.join("\n"));
 
-  console.log("✅ BUILD DONE");
+  console.log("✅ BUILD COMPLETE");
 }
 
 build();
