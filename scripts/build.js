@@ -172,9 +172,9 @@ function buildXML(channelMap, clean) {
     const ch = channelMap.get(chId);
     if (!ch) continue;
 
-    lines.push(2, `<channel id="${chId}">`);
-    lines.push(4, `<display-name>${escapeXml(ch.name)}</display-name>`);
-    lines.push(2, `</channel>`);
+    lines.push(  `<channel id="${chId}">`);
+    lines.push(    `<display-name>${escapeXml(ch.name)}</display-name>`);
+    lines.push(  `</channel>`);
 
     seenChannels.add(chId);
   }
@@ -183,25 +183,24 @@ function buildXML(channelMap, clean) {
   // PROGRAMMES
   // --------------------
   for (const e of clean) {
-    lines.push(2, 
-      `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
+    lines.push(  `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
     );
 
-    lines.push(4, `<title lang="el">${escapeXml(e.title)}</title>`);
+    lines.push(    `<title lang="el">${escapeXml(e.title)}</title>`);
 
     if (e.desc && e.desc !== e.title) {
-      lines.push(4, `<desc lang="el">${escapeXml(e.desc)}</desc>`);
+      lines.push(    `<desc lang="el">${escapeXml(e.desc)}</desc>`);
     }
 
     if (e.category) {
-      lines.push(4, `<category lang="el">${escapeXml(e.category)}</category>`);
+      lines.push(    `<category lang="el">${escapeXml(e.category)}</category>`);
     }
 
     if (e.rating) {
-      lines.push(4, `<rating>${escapeXml(e.rating)}</rating>`);
+      lines.push(    `<rating>${escapeXml(e.rating)}</rating>`);
     }
 
-    lines.push(2, `</programme>`);
+    lines.push(  `</programme>`);
   }
 
   lines.push(`</tv>`);
