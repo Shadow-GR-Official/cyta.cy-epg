@@ -89,8 +89,6 @@ http://127.0.0.1/218874
 http://127.0.0.1/35973256
 #EXTINF:-1 tvg-id="13132700" tvg-name="Food Network HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/46/20240226081016214n53.png",Food Network HD
 http://127.0.0.1/13132700
-#EXTINF:-1 tvg-id="9744258" tvg-name="INSIGHT TV HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202502/20250228/1/20250228075847584fse.png",INSIGHT TV HD
-http://127.0.0.1/9744258
 #EXTINF:-1 tvg-id="216382" tvg-name="Fashion TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/55/20240226080821336t3n.png",Fashion TV
 http://127.0.0.1/216382
 #EXTINF:-1 tvg-id="123833" tvg-name="FTV UHD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/48/202402260809111730b8.png",FTV UHD
