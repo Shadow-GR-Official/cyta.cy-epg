@@ -4,8 +4,17 @@ import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
 // --------------------
+// LOGGER
+// --------------------
+function log(step, msg) {
+  const time = DateTime.now().toFormat("HH:mm:ss");
+  console.log(`[${time}] [${step}] ${msg}`);
+}
+
+// --------------------
 // FOLDERS
 // --------------------
+log("INIT", "Creating folders...");
 fs.mkdirSync("./data", { recursive: true });
 fs.mkdirSync("./cache", { recursive: true });
 
@@ -26,11 +35,10 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://127.0.0.1";
 
-// πιο safe για weekly
 const limit = pLimit(3);
 
 // --------------------
-// INDENT HELPER
+// HELPERS
 // --------------------
 const indent = (spaces, str) => " ".repeat(spaces) + str;
 
@@ -38,6 +46,8 @@ const indent = (spaces, str) => " ".repeat(spaces) + str;
 // FETCH CHANNELS
 // --------------------
 async function fetchChannels() {
+  log("CHANNELS", "Fetching channel list...");
+
   try {
     const res = await axios.get(CHANNELS_URL, {
       timeout: 30000,
@@ -58,15 +68,16 @@ async function fetchChannels() {
       });
     }
 
+    log("CHANNELS", `Loaded ${map.size} channels`);
     return map;
-  } catch {
-    console.log("❌ fetchChannels failed");
+  } catch (err) {
+    log("ERROR", "fetchChannels failed");
     return new Map();
   }
 }
 
 // --------------------
-// BUILD URL (WITH DAY OFFSET)
+// BUILD URL
 // --------------------
 function buildEpgUrl(channelIds, dayOffset = 0) {
   const base = DateTime.now()
@@ -80,15 +91,19 @@ function buildEpgUrl(channelIds, dayOffset = 0) {
 }
 
 // --------------------
-// FETCH WEEK (7 DAYS)
+// FETCH WEEK
 // --------------------
 async function fetchBaseEpg(days = 7) {
+  log("EPG", `Fetching EPG for ${days} days...`);
+
   const channelMap = await fetchChannels();
   const channelIds = [...channelMap.keys()];
 
   let all = [];
 
   for (let d = 0; d < days; d++) {
+    log("EPG", `Fetching day ${d}...`);
+
     try {
       const res = await axios.get(buildEpgUrl(channelIds, d), {
         timeout: 30000,
@@ -102,12 +117,13 @@ async function fetchBaseEpg(days = 7) {
       const dayData = res.data.channelEpgs || [];
       all = all.concat(dayData);
 
-      console.log(`✔ Day ${d} OK`);
+      log("EPG", `✔ Day ${d} OK (${dayData.length} channels)`);
     } catch {
-      console.log(`⚠️ Day ${d} failed`);
+      log("WARN", `⚠️ Day ${d} failed`);
     }
   }
 
+  log("EPG", `Total EPG entries: ${all.length}`);
   return { data: all, channelMap };
 }
 
@@ -115,24 +131,33 @@ async function fetchBaseEpg(days = 7) {
 // EVENTS
 // --------------------
 function extractEventIds(channelEpgs) {
-  return channelEpgs.flatMap(ch =>
+  log("EVENTS", "Extracting event IDs...");
+  const result = channelEpgs.flatMap(ch =>
     (ch.epgPlayables || []).map(ev => ({
       id: ev.id,
       channelId: ev.channelId
     }))
   );
+
+  log("EVENTS", `Extracted ${result.length} raw events`);
+  return result;
 }
 
 // --------------------
-// DEDUPE EVENTS
+// DEDUPE
 // --------------------
 function dedupeEvents(events) {
+  log("EVENTS", "Deduplicating events...");
   const seen = new Set();
-  return events.filter(e => {
+
+  const clean = events.filter(e => {
     if (seen.has(e.id)) return false;
     seen.add(e.id);
     return true;
   });
+
+  log("EVENTS", `After dedupe: ${clean.length}`);
+  return clean;
 }
 
 // --------------------
@@ -147,127 +172,36 @@ async function fetchDetails(id) {
 
     return res.data.playbillDetail;
   } catch {
+    log("WARN", `Failed details for ${id}`);
     return null;
   }
-}
-
-// --------------------
-// TIME FORMAT
-// --------------------
-function formatTime(epoch) {
-  return DateTime.fromMillis(Number(epoch), {
-    zone: "Europe/Nicosia"
-  }).toFormat("yyyyMMddHHmmss ZZZZ");
-}
-
-// --------------------
-// XML ESCAPE
-// --------------------
-function escapeXml(str) {
-  return (str || "")
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
-}
-
-// --------------------
-// XML BUILDER (FINAL FORMAT - PERFECT)
-// --------------------
-function buildXML(channelMap, clean) {
-  const lines = [];
-  const seenChannels = new Set();
-
-  lines.push(`<?xml version="1.0" encoding="UTF-8"?>`);
-  lines.push(`<tv>`);
-
-  // CHANNELS
-  for (const e of clean) {
-    const chId = e.channel;
-    if (seenChannels.has(chId)) continue;
-
-    const ch = channelMap.get(chId);
-    if (!ch) continue;
-
-    lines.push(indent(2, `<channel id="${chId}">`));
-    lines.push(indent(4, `<display-name>${escapeXml(ch.name)}</display-name>`));
-    lines.push(indent(2, `</channel>`));
-
-    seenChannels.add(chId);
-  }
-
-  // PROGRAMMES
-  for (const e of clean) {
-    lines.push(
-      indent(
-        2,
-        `<programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
-      )
-    );
-
-    lines.push(indent(4, `<title lang="el">${escapeXml(e.title)}</title>`));
-
-    if (e.desc && e.desc !== e.title) {
-      lines.push(indent(4, `<desc lang="el">${escapeXml(e.desc)}</desc>`));
-    }
-
-    if (e.category) {
-      lines.push(
-        indent(4, `<category lang="el">${escapeXml(e.category)}</category>`)
-      );
-    }
-
-    if (e.rating) {
-      lines.push(indent(4, `<rating>${escapeXml(e.rating)}</rating>`));
-    }
-
-    lines.push(indent(2, `</programme>`));
-  }
-
-  lines.push(`</tv>`);
-
-  return lines.join("\n");
-}
-
-// --------------------
-// M3U (UNCHANGED)
-// --------------------
-function buildM3U(channelMap, eventChannels) {
-  const m3u = ["#EXTM3U"];
-
-  for (const id of eventChannels) {
-    const ch = channelMap.get(id);
-
-    const name = (ch?.name || id).trim();
-    const logo = ch?.logo || "";
-
-    m3u.push(
-      `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name}`
-    );
-
-    m3u.push(`${STREAM_BASE}/${id}`);
-  }
-
-  return m3u.join("\n");
 }
 
 // --------------------
 // MAIN
 // --------------------
 async function build() {
+  log("MAIN", "Starting build process...");
+
   const { data, channelMap } = await fetchBaseEpg(7);
 
   if (!data.length) {
-    console.log("⚠️ No EPG data");
+    log("ERROR", "No EPG data");
     return;
   }
 
   const eventsBase = dedupeEvents(extractEventIds(data));
 
+  log("DETAILS", `Fetching details for ${eventsBase.length} events...`);
+
+  let counter = 0;
+
   const enriched = await Promise.all(
     eventsBase.map(ev =>
       limit(async () => {
+        counter++;
+        log("DETAILS", `(${counter}/${eventsBase.length}) Fetching ${ev.id}`);
+
         const d = await fetchDetails(ev.id);
         if (!d) return null;
 
@@ -287,12 +221,17 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
+  log("BUILD", `Final events: ${clean.length}`);
+
+  log("FILE", "Writing XML...");
   fs.writeFileSync(OUTPUT_XML, buildXML(channelMap, clean));
 
   const eventChannels = [...new Set(clean.map(e => e.channel))];
+
+  log("FILE", "Writing M3U...");
   fs.writeFileSync(OUTPUT_M3U, buildM3U(channelMap, eventChannels));
 
-  console.log("✅ BUILD COMPLETE (WEEKLY)");
+  log("DONE", "✅ BUILD COMPLETE (WEEKLY)");
 }
 
 build();
