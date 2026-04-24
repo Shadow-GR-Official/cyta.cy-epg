@@ -3,6 +3,11 @@ import fs from "fs";
 import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
+// --------------------
+// HELPERS
+// --------------------
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 function formatTime(epoch) {
   return DateTime.fromMillis(Number(epoch), {
     zone: "Europe/Nicosia"
@@ -41,7 +46,8 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://127.0.0.1";
 
-const limit = pLimit(3);
+// 🔥 πιο safe
+const limit = pLimit(1);
 
 // --------------------
 // HELPERS
@@ -76,7 +82,7 @@ async function fetchChannels() {
 
     log("CHANNELS", `Loaded ${map.size} channels`);
     return map;
-  } catch (err) {
+  } catch {
     log("ERROR", "fetchChannels failed");
     return new Map();
   }
@@ -127,6 +133,9 @@ async function fetchBaseEpg(days = 7) {
     } catch {
       log("WARN", `⚠️ Day ${d} failed`);
     }
+
+    // μικρό throttle
+    await sleep(500);
   }
 
   log("EPG", `Total EPG entries: ${all.length}`);
@@ -167,19 +176,34 @@ function dedupeEvents(events) {
 }
 
 // --------------------
-// DETAILS
+// DETAILS (FIXED)
 // --------------------
-async function fetchDetails(id) {
-  try {
-    const res = await axios.get(DETAILS_URL + id, {
-      timeout: 20000,
-      headers: { Accept: "application/json" }
-    });
+async function fetchDetails(id, retries = 3) {
+  for (let i = 1; i <= retries; i++) {
+    try {
+      const res = await axios.get(DETAILS_URL + id, {
+        timeout: 20000,
+        headers: { Accept: "application/json" }
+      });
 
-    return res.data.playbillDetail;
-  } catch {
-    log("WARN", `Failed details for ${id}`);
-    return null;
+      return res.data.playbillDetail;
+    } catch (err) {
+      const status = err?.response?.status;
+
+      log(
+        "WARN",
+        `Details ${id} failed (try ${i}) status=${status || "NO_RESPONSE"}`
+      );
+
+      if (i === retries) {
+        log("ERROR", `Details ${id} FAILED`);
+        return null;
+      }
+
+      const delay = 1000 * i;
+      log("WAIT", `Retrying ${id} in ${delay}ms`);
+      await sleep(delay);
+    }
   }
 }
 
@@ -201,15 +225,33 @@ async function build() {
   log("DETAILS", `Fetching details for ${eventsBase.length} events...`);
 
   let counter = 0;
+  let consecutiveFails = 0;
 
   const enriched = await Promise.all(
     eventsBase.map(ev =>
       limit(async () => {
         counter++;
+
         log("DETAILS", `(${counter}/${eventsBase.length}) Fetching ${ev.id}`);
 
+        // throttle
+        await sleep(80);
+
         const d = await fetchDetails(ev.id);
-        if (!d) return null;
+
+        if (!d) {
+          consecutiveFails++;
+
+          if (consecutiveFails >= 10) {
+            log("BLOCK", "Too many fails → cooling down 5s...");
+            await sleep(5000);
+            consecutiveFails = 0;
+          }
+
+          return null;
+        }
+
+        consecutiveFails = 0;
 
         return {
           id: ev.id,
