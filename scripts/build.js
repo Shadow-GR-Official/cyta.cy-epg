@@ -46,13 +46,7 @@ const OUTPUT_M3U = "./data/channels.m3u";
 
 const STREAM_BASE = "http://127.0.0.1";
 
-// 🔥 πιο safe
 const limit = pLimit(1);
-
-// --------------------
-// HELPERS
-// --------------------
-const indent = (spaces, str) => " ".repeat(spaces) + str;
 
 // --------------------
 // FETCH CHANNELS
@@ -134,7 +128,6 @@ async function fetchBaseEpg(days = 7) {
       log("WARN", `⚠️ Day ${d} failed`);
     }
 
-    // μικρό throttle
     await sleep(500);
   }
 
@@ -143,18 +136,33 @@ async function fetchBaseEpg(days = 7) {
 }
 
 // --------------------
-// EVENTS
+// EVENTS (FIXED PARSER)
 // --------------------
 function extractEventIds(channelEpgs) {
   log("EVENTS", "Extracting event IDs...");
-  const result = channelEpgs.flatMap(ch =>
-    (ch.epgPlayables || []).map(ev => ({
-      id: ev.id,
-      channelId: ev.channelId
-    }))
-  );
 
-  log("EVENTS", `Extracted ${result.length} raw events`);
+  const result = [];
+
+  for (const ch of channelEpgs) {
+    for (const ev of ch.epgPlayables || []) {
+      if (!ev?.id) continue;
+
+      // 🔥 skip invalid ids (fix @@ bug)
+      if (!/^\d+$/.test(ev.id)) {
+        log("SKIP", `Invalid event id: ${ev.id}`);
+        continue;
+      }
+
+      if (!ev.channelId) continue;
+
+      result.push({
+        id: ev.id,
+        channelId: ev.channelId
+      });
+    }
+  }
+
+  log("EVENTS", `Extracted ${result.length} CLEAN events`);
   return result;
 }
 
@@ -162,21 +170,17 @@ function extractEventIds(channelEpgs) {
 // DEDUPE
 // --------------------
 function dedupeEvents(events) {
-  log("EVENTS", "Deduplicating events...");
   const seen = new Set();
 
-  const clean = events.filter(e => {
+  return events.filter(e => {
     if (seen.has(e.id)) return false;
     seen.add(e.id);
     return true;
   });
-
-  log("EVENTS", `After dedupe: ${clean.length}`);
-  return clean;
 }
 
 // --------------------
-// DETAILS (FIXED)
+// DETAILS
 // --------------------
 async function fetchDetails(id, retries = 3) {
   for (let i = 1; i <= retries; i++) {
@@ -200,11 +204,85 @@ async function fetchDetails(id, retries = 3) {
         return null;
       }
 
-      const delay = 1000 * i;
-      log("WAIT", `Retrying ${id} in ${delay}ms`);
-      await sleep(delay);
+      await sleep(1000 * i);
     }
   }
+}
+
+// --------------------
+// XML + M3U
+// --------------------
+function escapeXml(str) {
+  return (str || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+function buildXML(channelMap, clean) {
+  const lines = [];
+  const seenChannels = new Set();
+
+  lines.push(`<?xml version="1.0" encoding="UTF-8"?>`);
+  lines.push(`<tv>`);
+
+  for (const e of clean) {
+    if (seenChannels.has(e.channel)) continue;
+
+    const ch = channelMap.get(e.channel);
+    if (!ch) continue;
+
+    lines.push(`  <channel id="${e.channel}">`);
+    lines.push(`    <display-name>${escapeXml(ch.name)}</display-name>`);
+    lines.push(`  </channel>`);
+
+    seenChannels.add(e.channel);
+  }
+
+  for (const e of clean) {
+    lines.push(
+      `  <programme start="${e.start}" stop="${e.stop}" channel="${e.channel}">`
+    );
+
+    lines.push(`    <title lang="el">${escapeXml(e.title)}</title>`);
+
+    if (e.desc && e.desc !== e.title) {
+      lines.push(`    <desc lang="el">${escapeXml(e.desc)}</desc>`);
+    }
+
+    if (e.category) {
+      lines.push(`    <category lang="el">${escapeXml(e.category)}</category>`);
+    }
+
+    if (e.rating) {
+      lines.push(`    <rating>${escapeXml(e.rating)}</rating>`);
+    }
+
+    lines.push(`  </programme>`);
+  }
+
+  lines.push(`</tv>`);
+  return lines.join("\n");
+}
+
+function buildM3U(channelMap, eventChannels) {
+  const m3u = ["#EXTM3U"];
+
+  for (const id of eventChannels) {
+    const ch = channelMap.get(id);
+
+    const name = (ch?.name || id).trim();
+    const logo = ch?.logo || "";
+
+    m3u.push(
+      `#EXTINF:-1 tvg-id="${id}" tvg-name="${name}" tvg-logo="${logo}",${name}`
+    );
+    m3u.push(`${STREAM_BASE}/${id}`);
+  }
+
+  return m3u.join("\n");
 }
 
 // --------------------
@@ -214,44 +292,35 @@ async function build() {
   log("MAIN", "Starting build process...");
 
   const { data, channelMap } = await fetchBaseEpg(7);
-
-  if (!data.length) {
-    log("ERROR", "No EPG data");
-    return;
-  }
+  if (!data.length) return;
 
   const eventsBase = dedupeEvents(extractEventIds(data));
 
-  log("DETAILS", `Fetching details for ${eventsBase.length} events...`);
-
   let counter = 0;
-  let consecutiveFails = 0;
+  let fails = 0;
 
   const enriched = await Promise.all(
     eventsBase.map(ev =>
       limit(async () => {
         counter++;
 
-        log("DETAILS", `(${counter}/${eventsBase.length}) Fetching ${ev.id}`);
+        log("DETAILS", `(${counter}/${eventsBase.length}) ${ev.id}`);
 
-        // throttle
         await sleep(80);
 
         const d = await fetchDetails(ev.id);
 
         if (!d) {
-          consecutiveFails++;
-
-          if (consecutiveFails >= 10) {
-            log("BLOCK", "Too many fails → cooling down 5s...");
+          fails++;
+          if (fails >= 10) {
+            log("BLOCK", "Cooldown 5s...");
             await sleep(5000);
-            consecutiveFails = 0;
+            fails = 0;
           }
-
           return null;
         }
 
-        consecutiveFails = 0;
+        fails = 0;
 
         return {
           id: ev.id,
@@ -269,17 +338,13 @@ async function build() {
 
   const clean = enriched.filter(Boolean);
 
-  log("BUILD", `Final events: ${clean.length}`);
-
-  log("FILE", "Writing XML...");
   fs.writeFileSync(OUTPUT_XML, buildXML(channelMap, clean));
+  fs.writeFileSync(
+    OUTPUT_M3U,
+    buildM3U(channelMap, [...new Set(clean.map(e => e.channel))])
+  );
 
-  const eventChannels = [...new Set(clean.map(e => e.channel))];
-
-  log("FILE", "Writing M3U...");
-  fs.writeFileSync(OUTPUT_M3U, buildM3U(channelMap, eventChannels));
-
-  log("DONE", "✅ BUILD COMPLETE (WEEKLY)");
+  log("DONE", "✅ BUILD COMPLETE");
 }
 
 build();
