@@ -25,69 +25,11 @@ http://127.0.0.1/574264
 http://127.0.0.1/216630
 #EXTINF:-1 tvg-id="206750" tvg-name="4E" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/91/20240226071601832a0g.png",4E
 http://127.0.0.1/206750
-#EXTINF:-1 tvg-id="349455" tvg-name="Euronews ENG" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/76/20240226080215373n93.png",Euronews ENG
-http://127.0.0.1/349455
-#EXTINF:-1 tvg-id="213719" tvg-name="Bloomberg" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/3/20240226072910393f6z.png",Bloomberg
-http://127.0.0.1/213719
-#EXTINF:-1 tvg-id="71037984" tvg-name="Bloomberg TV+" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/95/202402260728503936lt.png",Bloomberg TV+
-http://127.0.0.1/71037984
-#EXTINF:-1 tvg-id="71037999" tvg-name="Bloomberg Original" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/23/202402260728203636g4.png",Bloomberg Original
-http://127.0.0.1/71037999
-#EXTINF:-1 tvg-id="213775" tvg-name="Deutsche Welle" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/40/20240226075126264cw6.png",Deutsche Welle
-http://127.0.0.1/213775
-#EXTINF:-1 tvg-id="56064497" tvg-name="CGTN" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/76/202402260745212133ne.png",CGTN
-http://127.0.0.1/56064497
-#EXTINF:-1 tvg-id="213889" tvg-name="France 24 (French)" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/40/20240226081530388ldd.png",France 24 (French)
-http://127.0.0.1/213889
-#EXTINF:-1 tvg-id="2743" tvg-name="Baby TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/79/20240226072416290fgl.png",Baby TV
-http://127.0.0.1/2743
-#EXTINF:-1 tvg-id="2266" tvg-name="Cartoonito" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/6/20240226074101283rwq.png",Cartoonito
-http://127.0.0.1/2266
-#EXTINF:-1 tvg-id="2374" tvg-name="Cartoon Network" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/19/20240226074036387j06.png",Cartoon Network
-http://127.0.0.1/2374
-#EXTINF:-1 tvg-id="2394" tvg-name="Disney Channel" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/15/20240226075456184g7t.png",Disney Channel
-http://127.0.0.1/2394
-#EXTINF:-1 tvg-id="2926" tvg-name="Disney Junior" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/5/202402260754304017nq.png",Disney Junior
-http://127.0.0.1/2926
-#EXTINF:-1 tvg-id="213936" tvg-name="TV 5 Monde" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/5/202402260952012863qs.png",TV 5 Monde
-http://127.0.0.1/213936
-#EXTINF:-1 tvg-id="574094" tvg-name="Euronews (Russıan)" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/5/202402260801254888bv.png",Euronews (Russıan)
-http://127.0.0.1/574094
-#EXTINF:-1 tvg-id="55844755" tvg-name="Current Time HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/83/20240226075031206wng.png",Current Time HD
-http://127.0.0.1/55844755
-#EXTINF:-1 tvg-id="211368" tvg-name="Al Jazeera" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/53/20240226071746246tk1.png",Al Jazeera
-http://127.0.0.1/211368
-#EXTINF:-1 tvg-id="56063885" tvg-name="CCTV 4E" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/44/2024022607165623136y.png",CCTV 4E
-http://127.0.0.1/56063885
-#EXTINF:-1 tvg-id="604956" tvg-name="Cytavision Sports1 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/34/202410220455142970e2.png",Cytavision Sports1 HD
-http://127.0.0.1/604956
-#EXTINF:-1 tvg-id="8242848" tvg-name="Cytavision Sports2 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/7/20241022060134117a6i.png",Cytavision Sports2 HD
-http://127.0.0.1/8242848
-#EXTINF:-1 tvg-id="8242808" tvg-name="Cytavision Sports3 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/6/202410220559590722vc.png",Cytavision Sports3 HD
-http://127.0.0.1/8242808
-#EXTINF:-1 tvg-id="9744271" tvg-name="Novacinema 4 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/18/2024022609371127111c.png",Novacinema 4 HD
-http://127.0.0.1/9744271
-#EXTINF:-1 tvg-id="10963625" tvg-name="Novalife HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/16/20240226093905353ntp.png",Novalife HD
-http://127.0.0.1/10963625
-#EXTINF:-1 tvg-id="216595" tvg-name="FOX life HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/78/202402260813353617dr.png",FOX life HD
-http://127.0.0.1/216595
-#EXTINF:-1 tvg-id="2755" tvg-name="FOX HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/63/20240226081431262r72.png",FOX HD
-http://127.0.0.1/2755
-#EXTINF:-1 tvg-id="607141" tvg-name="Movies Best HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/75/20240226083721213atq.png",Movies Best HD
-http://127.0.0.1/607141
-#EXTINF:-1 tvg-id="9821930" tvg-name="TCM HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/29/20240226094951270l2x.png",TCM HD
-http://127.0.0.1/9821930
-#EXTINF:-1 tvg-id="573851" tvg-name="Greek Cınema" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/68/2024022608161559721p.png",Greek Cınema
-http://127.0.0.1/573851
-#EXTINF:-1 tvg-id="38335692" tvg-name="Discovery Channel HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/99/20240226083355307wmw.png",Discovery Channel HD
-http://127.0.0.1/38335692
-#EXTINF:-1 tvg-id="9821917" tvg-name="BBC Earth HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/78/20240226072600411k0m.png",BBC Earth HD
-http://127.0.0.1/9821917
-#EXTINF:-1 tvg-id="38335714" tvg-name="Animal Planet HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/54/202402260720303224dl.png",Animal Planet HD
-http://127.0.0.1/38335714
-#EXTINF:-1 tvg-id="216459" tvg-name="National Geographic HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/4/20240226084611317pqk.png",National Geographic HD
-http://127.0.0.1/216459
-#EXTINF:-1 tvg-id="2831" tvg-name="National Geographic Wild HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/7/20240226084636299kn2.png",National Geographic Wild HD
-http://127.0.0.1/2831
-#EXTINF:-1 tvg-id="2767" tvg-name="History HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/64/20240226082226220rt6.png",History HD
-http://127.0.0.1/2767
+#EXTINF:-1 tvg-id="2221" tvg-name="Vergina TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/67/20240226095410311qhe.png",Vergina TV
+http://127.0.0.1/2221
+#EXTINF:-1 tvg-id="289555" tvg-name="OMEGA" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/46/20240226094201324iom.png",OMEGA
+http://127.0.0.1/289555
+#EXTINF:-1 tvg-id="289542" tvg-name="ANT1 TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240229/33/20240229062906677f9c.png",ANT1 TV
+http://127.0.0.1/289542
+#EXTINF:-1 tvg-id="289607" tvg-name="Alpha Cyprus" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/95/20240226071915856r5k.png",Alpha Cyprus
+http://127.0.0.1/289607
