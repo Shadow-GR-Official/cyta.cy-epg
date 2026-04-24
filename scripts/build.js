@@ -3,6 +3,12 @@ import fs from "fs";
 import { DateTime } from "luxon";
 import pLimit from "p-limit";
 
+function formatTime(epoch) {
+  return DateTime.fromMillis(Number(epoch), {
+    zone: "Europe/Nicosia"
+  }).toFormat("yyyyMMddHHmmss ZZZZ");
+}
+
 // --------------------
 // LOGGER
 // --------------------
