@@ -15,7 +15,7 @@ http://127.0.0.1/289530
 http://127.0.0.1/39337317
 #EXTINF:-1 tvg-id="289568" tvg-name="PLUS TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/73/20240226074716415a0b.png",PLUS TV
 http://127.0.0.1/289568
-#EXTINF:-1 tvg-id="561166" tvg-name="Capital TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202603/20260319/37/10072122078847a134f0.jpg",Capital TV
+#EXTINF:-1 tvg-id="561166" tvg-name="Capital TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202604/20260407/68/08372620644147a1e4f2.jpg",Capital TV
 http://127.0.0.1/561166
 #EXTINF:-1 tvg-id="561178" tvg-name="One Channel" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/16/20240226094246283fjh.png",One Channel
 http://127.0.0.1/561178
@@ -151,10 +151,6 @@ http://127.0.0.1/8243873
 http://127.0.0.1/24654412
 #EXTINF:-1 tvg-id="74516237" tvg-name="Cytavision Sports8 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/48/20241022051205328wpa.png",Cytavision Sports8 HD
 http://127.0.0.1/74516237
-#EXTINF:-1 tvg-id="54111209" tvg-name="CVSPORTS 4K1" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202511/20251126/42/09104495164747a134f0.jpg",CVSPORTS 4K1
-http://127.0.0.1/54111209
-#EXTINF:-1 tvg-id="103956040" tvg-name="CVSPORTS 4K2" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202511/20251126/20/09120607065247a134f0.jpg",CVSPORTS 4K2
-http://127.0.0.1/103956040
 #EXTINF:-1 tvg-id="66620028" tvg-name="CVSPORTS Multiview" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/49/20241022050230314udo.png",CVSPORTS Multiview
 http://127.0.0.1/66620028
 #EXTINF:-1 tvg-id="24745114" tvg-name="Cablenet Sports 1 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240220/35/202402200857403307s9.png",Cablenet Sports 1 HD
@@ -215,6 +211,10 @@ http://127.0.0.1/52103947
 http://127.0.0.1/52105052
 #EXTINF:-1 tvg-id="77956035" tvg-name="Cytavision Sports8 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/38/20241022051015080u2x.png",Cytavision Sports8 HD Real Time
 http://127.0.0.1/77956035
+#EXTINF:-1 tvg-id="54111209" tvg-name="CVSPORTS 4K1" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202511/20251126/42/09104495164747a134f0.jpg",CVSPORTS 4K1
+http://127.0.0.1/54111209
+#EXTINF:-1 tvg-id="103956040" tvg-name="CVSPORTS 4K2" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202511/20251126/20/09120607065247a134f0.jpg",CVSPORTS 4K2
+http://127.0.0.1/103956040
 #EXTINF:-1 tvg-id="52187736" tvg-name="Cablenet Sports 1 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202411/20241107/71/202411070655438701kj.png",Cablenet Sports 1 HD Real Time
 http://127.0.0.1/52187736
 #EXTINF:-1 tvg-id="52187749" tvg-name="Cablenet Sports 2 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202411/20241107/75/202411070656137844og.png",Cablenet Sports 2 HD Real Time
