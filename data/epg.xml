@@ -288,9 +288,6 @@
   <channel id="52027180">
     <display-name>Novasportsextra4HD</display-name>
   </channel>
-  <channel id="4185119">
-    <display-name>Eurosport 1 HD</display-name>
-  </channel>
   <channel id="5183085">
     <display-name>Eurosport 2 HD</display-name>
   </channel>
@@ -16327,19 +16324,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506005100 GMT+3" stop="20260506030200 GMT+3" channel="97085851">
+  <programme start="20260506005100 GMT+3" stop="20260506030100 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506030200 GMT+3" stop="20260506031400 GMT+3" channel="97085851">
+  <programme start="20260506030100 GMT+3" stop="20260506031500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506031400 GMT+3" stop="20260506064400 GMT+3" channel="97085851">
+  <programme start="20260506031500 GMT+3" stop="20260506064400 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16351,57 +16348,51 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506070000 GMT+3" stop="20260506071500 GMT+3" channel="97085851">
+  <programme start="20260506070000 GMT+3" stop="20260506070900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506071500 GMT+3" stop="20260506092000 GMT+3" channel="97085851">
+  <programme start="20260506071500 GMT+3" stop="20260506091400 GMT+3" channel="97085851">
     <title lang="el">European Super Cup 2002 Real Madrid vs Feyenoord</title>
     <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506092000 GMT+3" stop="20260506112500 GMT+3" channel="97085851">
+  <programme start="20260506092100 GMT+3" stop="20260506112500 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
     <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506112500 GMT+3" stop="20260506133000 GMT+3" channel="97085851">
+  <programme start="20260506112500 GMT+3" stop="20260506133100 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: R.C. Celta vs Real Madrid</title>
     <desc lang="el">Matchday 27 of Liga. Real Madrid travel to Vigo to face Real Club Celta in the Balaidos Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506133000 GMT+3" stop="20260506143500 GMT+3" channel="97085851">
+  <programme start="20260506133100 GMT+3" stop="20260506143400 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506143500 GMT+3" stop="20260506164500 GMT+3" channel="97085851">
+  <programme start="20260506143400 GMT+3" stop="20260506164600 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506164500 GMT+3" stop="20260506175000 GMT+3" channel="97085851">
+  <programme start="20260506164600 GMT+3" stop="20260506175000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506175000 GMT+3" stop="20260506200500 GMT+3" channel="97085851">
+  <programme start="20260506175000 GMT+3" stop="20260506200400 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Deportivo Alavés</title>
     <desc lang="el">Matchday 33 of Liga. Real Madrid host Deportivo Alavés in the Estadio Santiago Bernabéu.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506200500 GMT+3" stop="20260506202500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life</title>
-    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -16417,7 +16408,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506214500 GMT+3" stop="20260507000000 GMT+3" channel="97085851">
+  <programme start="20260506214500 GMT+3" stop="20260506235100 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs At. Madrid</title>
     <desc lang="el">Matchday 29 of Liga. Real Madrid host Atlético de Madrid in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -17021,31 +17012,31 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506140000 GMT+3" stop="20260506160000 GMT+3" channel="46137467">
+  <programme start="20260506150000 GMT+3" stop="20260506170000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internazionali BNL d&apos;Italia της σειράς WTA 1000, που διεξάγεται το διάστημα 05 έως 17 Μαϊου στη Ρώμη της Ιταλίας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internazionali BNL d&apos;Italia της σειράς WTA 1000, που διεξάγεται το διάστημα 05 έως 17 Μαϊου στη Ρώμη της Ιταλίας. Περιγραφή: Δ. Στρούμπος Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506160000 GMT+3" stop="20260506180000 GMT+3" channel="46137467">
+  <programme start="20260506170000 GMT+3" stop="20260506190000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mutua Madrid Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Απριλίου έως 3 Μαϊου στη Μαδρίτη. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506180000 GMT+3" stop="20260506200000 GMT+3" channel="46137467">
+  <programme start="20260506190000 GMT+3" stop="20260506210000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mutua Madrid Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Απριλίου έως 3 Μαϊου στη Μαδρίτη. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506200000 GMT+3" stop="20260506220000 GMT+3" channel="46137467">
+  <programme start="20260506210000 GMT+3" stop="20260506230000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mutua Madrid Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Απριλίου έως 3 Μαϊου στη Μαδρίτη. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260506220000 GMT+3" stop="20260507000000 GMT+3" channel="46137467">
+  <programme start="20260506230000 GMT+3" stop="20260507010000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internazionali BNL d&apos;Italia της σειράς WTA 1000, που διεξάγεται το διάστημα 05 έως 17 Μαϊου στη Ρώμη της Ιταλίας. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -17131,267 +17122,9 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260506000000 GMT+3" stop="20260506010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506010000 GMT+3" stop="20260506020000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506020000 GMT+3" stop="20260506023000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506023000 GMT+3" stop="20260506040000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506040000 GMT+3" stop="20260506053000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506053000 GMT+3" stop="20260506063000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506063000 GMT+3" stop="20260506073000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506073000 GMT+3" stop="20260506093000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506093000 GMT+3" stop="20260506100000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506100000 GMT+3" stop="20260506110000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506110000 GMT+3" stop="20260506120000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506120000 GMT+3" stop="20260506130000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506130000 GMT+3" stop="20260506140000 GMT+3" channel="4185119">
-    <title lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</title>
-    <desc lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506140000 GMT+3" stop="20260506150000 GMT+3" channel="4185119">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506150000 GMT+3" stop="20260506153000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506153000 GMT+3" stop="20260506163000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506163000 GMT+3" stop="20260506184500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506184500 GMT+3" stop="20260506191500 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506191500 GMT+3" stop="20260506200000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506200000 GMT+3" stop="20260506210000 GMT+3" channel="4185119">
-    <title lang="el">Γκραν Πρι - Σεούλ</title>
-    <desc lang="el">Γκραν Πρι - Σεούλ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506210000 GMT+3" stop="20260506230000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506230000 GMT+3" stop="20260507010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260505230000 GMT+3" stop="20260506003000 GMT+3" channel="5183085">
     <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
     <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506003000 GMT+3" stop="20260506010000 GMT+3" channel="5183085">
-    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
-    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506010000 GMT+3" stop="20260506020000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506020000 GMT+3" stop="20260506040000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506040000 GMT+3" stop="20260506053000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506053000 GMT+3" stop="20260506073000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506073000 GMT+3" stop="20260506083000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506083000 GMT+3" stop="20260506093000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506093000 GMT+3" stop="20260506100000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506100000 GMT+3" stop="20260506110000 GMT+3" channel="5183085">
-    <title lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</title>
-    <desc lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506110000 GMT+3" stop="20260506120000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506120000 GMT+3" stop="20260506123000 GMT+3" channel="5183085">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506123000 GMT+3" stop="20260506140000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506140000 GMT+3" stop="20260506160000 GMT+3" channel="5183085">
-    <title lang="el">ΣΤΙΒΟΣ: - ΠΑΡΙΣΙ Μαραθώνιος</title>
-    <desc lang="el">ΣΤΙΒΟΣ: - ΠΑΡΙΣΙ Μαραθώνιος</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506160000 GMT+3" stop="20260506170000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506170000 GMT+3" stop="20260506180000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506180000 GMT+3" stop="20260506190000 GMT+3" channel="5183085">
-    <title lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</title>
-    <desc lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506190000 GMT+3" stop="20260506210000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506210000 GMT+3" stop="20260506213000 GMT+3" channel="5183085">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506213000 GMT+3" stop="20260506230000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506230000 GMT+3" stop="20260506233000 GMT+3" channel="5183085">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260506233000 GMT+3" stop="20260507010000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -23146,7 +22879,7 @@
   </programme>
   <programme start="20260507210000 GMT+3" stop="20260507220000 GMT+3" channel="9744271">
     <title lang="el">NCIS 23 Κ23 ΕΠ19</title>
-    <desc lang="el">Η μοναδική ομάδα του NCIS επιστρέφει, έτοιμη κι αυτή τη φορά να δώσει απαντήσεις σε υποθέσεις δολοφονιών, τρομοκρατίας και κατασκοπείας που σχετίζονται με το Ναυτικό. Αστυνομική, 2024. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
+    <desc lang="el">Καθώς μια μυστική συμφωνία ασυλίας απειλεί να αφήσει έναν άνδρα ελεύθερο, ο Πάρκερ παλεύει να κρατήσει την υπόθεση ζωντανή. Όμως όταν εμφανίζεται η αποξενωμένη αδελφή του και παλιές πληγές ανοίγουν, η μάχη γίνεται προσωπική. Αστυνομική, 2024. Σκηνοθεσία: Νταϊάνα Βάλενταϊν. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -27934,18 +27667,6 @@
   <programme start="20260507104500 GMT+3" stop="20260507110000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ350</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507110000 GMT+3" stop="20260507120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ71</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507120000 GMT+3" stop="20260507130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ91</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -34069,19 +33790,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507000000 GMT+3" stop="20260507010000 GMT+3" channel="97085851">
+  <programme start="20260507000000 GMT+3" stop="20260507010100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507010000 GMT+3" stop="20260507031500 GMT+3" channel="97085851">
+  <programme start="20260507010100 GMT+3" stop="20260507030900 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Espanyol vs Real Madrid</title>
     <desc lang="el">Matchday 34 of Liga. Real Madrid travel to Barcelona to face Espanyol in the RCDE Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507031500 GMT+3" stop="20260507040000 GMT+3" channel="97085851">
+  <programme start="20260506235100 GMT+3" stop="20260507000000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Highlights</title>
     <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
@@ -34093,31 +33814,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507041500 GMT+3" stop="20260507064500 GMT+3" channel="97085851">
+  <programme start="20260507041500 GMT+3" stop="20260507063000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 22 of Liga. Real Madrid host Rayo Vallecano in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507064500 GMT+3" stop="20260507070000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life</title>
-    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507070000 GMT+3" stop="20260507071500 GMT+3" channel="97085851">
+  <programme start="20260507070100 GMT+3" stop="20260507071500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507071500 GMT+3" stop="20260507090000 GMT+3" channel="97085851">
-    <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
-    <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507090000 GMT+3" stop="20260507093000 GMT+3" channel="97085851">
+  <programme start="20260507071500 GMT+3" stop="20260507093000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
     <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
     <category lang="el">Αθλητικά</category>
@@ -34544,21 +34253,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507193000 GMT+3" stop="20260507203000 GMT+3" channel="216415">
-    <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague. Μπάσκετ</desc>
+  <programme start="20260507193000 GMT+3" stop="20260507210000 GMT+3" channel="216415">
+    <title lang="el">SailGP</title>
+    <desc lang="el">Το πρωτάθλημα ιστιοπλοϊας SailGP επισκέπτεται διάσημες παραλιακές πόλεις όπου φέρνει αντιμέτωπους αθλητές που συμμετέχουν με τις εθνικές τους ομάδες. Δείτε τα στιγμιότυπα από το τέταρτο event της σεζόν 2026 στo Ρίο. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507203000 GMT+3" stop="20260507223000 GMT+3" channel="216415">
-    <title lang="el">Μονακό - Ολυμπιακός (Ζ)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
+  <programme start="20260507210000 GMT+3" stop="20260507230000 GMT+3" channel="216415">
+    <title lang="el">Χάποελ Τελ Αβίβ - Ρεάλ Μαδρίτης (Ζ)</title>
+    <desc lang="el">Η Χάποελ και η Ρεάλ έρχονται αντιμέτωπες στον τέταρτο αγώνα των πλέι οφ. Η Ρεάλ προηγείται με 2-1 νίκες αφού στο τρίτο ματς η Χάποελ κατέκτησε τη νίκη με 76-69 οδηγώντας τη σειρά σε τέταρτο παιχνίδι. Περιγραφή: Δ. Καρύδας Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507223000 GMT+3" stop="20260507233000 GMT+3" channel="216415">
-    <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague. Μπάσκετ</desc>
+  <programme start="20260507230000 GMT+3" stop="20260507233000 GMT+3" channel="216415">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -34713,25 +34422,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507160000 GMT+3" stop="20260507200000 GMT+3" channel="10973069">
+  <programme start="20260507160000 GMT+3" stop="20260507210000 GMT+3" channel="10973069">
     <title lang="el">Γκολφ: 45o Ryder Cup</title>
     <desc lang="el">To 45ο Ryder Cup διεξάγεται το διάστημα 26-28/9/2025 στη Νέα Υόρκη και φέρνει αντιμέτωπους τους κορυφαίους παίκτες γκολφ των ΗΠΑ και της Ευρώπης. Η ομάδα της Ευρώπης είναι η κάτοχος του τίτλου. Γκολφ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507200000 GMT+3" stop="20260507220000 GMT+3" channel="10973069">
-    <title lang="el">Χάποελ Τελ Αβίβ - Ρεάλ Μαδρίτης (Ζ)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507220000 GMT+3" stop="20260508000000 GMT+3" channel="10973069">
+  <programme start="20260507210000 GMT+3" stop="20260507230000 GMT+3" channel="10973069">
     <title lang="el">Ουλμ - Μπεσίκτας</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507000000 GMT+3" stop="20260507060000 GMT+3" channel="46137467">
+  <programme start="20260507010000 GMT+3" stop="20260507060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -34855,234 +34558,6 @@
   <programme start="20260507180000 GMT+3" stop="20260508000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507010000 GMT+3" stop="20260507020000 GMT+3" channel="4185119">
-    <title lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</title>
-    <desc lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507020000 GMT+3" stop="20260507023000 GMT+3" channel="4185119">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507023000 GMT+3" stop="20260507040000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507040000 GMT+3" stop="20260507053000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507053000 GMT+3" stop="20260507063000 GMT+3" channel="4185119">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507063000 GMT+3" stop="20260507073000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507073000 GMT+3" stop="20260507093000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507093000 GMT+3" stop="20260507100000 GMT+3" channel="4185119">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507100000 GMT+3" stop="20260507103000 GMT+3" channel="4185119">
-    <title lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</title>
-    <desc lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507103000 GMT+3" stop="20260507110000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507110000 GMT+3" stop="20260507120000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507120000 GMT+3" stop="20260507140000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507140000 GMT+3" stop="20260507150000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507150000 GMT+3" stop="20260507163000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507163000 GMT+3" stop="20260507184500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507184500 GMT+3" stop="20260507191500 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507191500 GMT+3" stop="20260507203000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507203000 GMT+3" stop="20260507213000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507213000 GMT+3" stop="20260507230000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507230000 GMT+3" stop="20260508010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507010000 GMT+3" stop="20260507020000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507020000 GMT+3" stop="20260507040000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507040000 GMT+3" stop="20260507053000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507053000 GMT+3" stop="20260507073000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507073000 GMT+3" stop="20260507083000 GMT+3" channel="5183085">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507083000 GMT+3" stop="20260507100000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507100000 GMT+3" stop="20260507110000 GMT+3" channel="5183085">
-    <title lang="el">Γκραν Πρι - Σεούλ</title>
-    <desc lang="el">Γκραν Πρι - Σεούλ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507110000 GMT+3" stop="20260507114500 GMT+3" channel="5183085">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507114500 GMT+3" stop="20260507123000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507123000 GMT+3" stop="20260507130000 GMT+3" channel="5183085">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507130000 GMT+3" stop="20260507140000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 4ο Σκέλος - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507140000 GMT+3" stop="20260507160000 GMT+3" channel="5183085">
-    <title lang="el">ΣΤΙΒΟΣ: - Βοστώνη Μαραθώνιος</title>
-    <desc lang="el">ΣΤΙΒΟΣ: - Βοστώνη Μαραθώνιος</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507160000 GMT+3" stop="20260507180000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507180000 GMT+3" stop="20260507193000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507193000 GMT+3" stop="20260507200000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507200000 GMT+3" stop="20260507203000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507203000 GMT+3" stop="20260507210000 GMT+3" channel="5183085">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507210000 GMT+3" stop="20260508010000 GMT+3" channel="5183085">
-    <title lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 1η ΗΜΕΡΑ</title>
-    <desc lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 1η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260507000000 GMT+3" stop="20260507010000 GMT+3" channel="52101919">
@@ -40700,7 +40175,7 @@
   </programme>
   <programme start="20260508015000 GMT+3" stop="20260508024000 GMT+3" channel="9744271">
     <title lang="el">NCIS 23 Κ23 ΕΠ19</title>
-    <desc lang="el">Η μοναδική ομάδα του NCIS επιστρέφει, έτοιμη κι αυτή τη φορά να δώσει απαντήσεις σε υποθέσεις δολοφονιών, τρομοκρατίας και κατασκοπείας που σχετίζονται με το Ναυτικό. Αστυνομική, 2024. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
+    <desc lang="el">Καθώς μια μυστική συμφωνία ασυλίας απειλεί να αφήσει έναν άνδρα ελεύθερο, ο Πάρκερ παλεύει να κρατήσει την υπόθεση ζωντανή. Όμως όταν εμφανίζεται η αποξενωμένη αδελφή του και παλιές πληγές ανοίγουν, η μάχη γίνεται προσωπική. Αστυνομική, 2024. Σκηνοθεσία: Νταϊάνα Βάλενταϊν. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -40782,7 +40257,7 @@
   </programme>
   <programme start="20260508230500 GMT+3" stop="20260508235500 GMT+3" channel="9744271">
     <title lang="el">NCIS 23 Κ23 ΕΠ19</title>
-    <desc lang="el">Η μοναδική ομάδα του NCIS επιστρέφει, έτοιμη κι αυτή τη φορά να δώσει απαντήσεις σε υποθέσεις δολοφονιών, τρομοκρατίας και κατασκοπείας που σχετίζονται με το Ναυτικό. Αστυνομική, 2024. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
+    <desc lang="el">Καθώς μια μυστική συμφωνία ασυλίας απειλεί να αφήσει έναν άνδρα ελεύθερο, ο Πάρκερ παλεύει να κρατήσει την υπόθεση ζωντανή. Όμως όταν εμφανίζεται η αποξενωμένη αδελφή του και παλιές πληγές ανοίγουν, η μάχη γίνεται προσωπική. Αστυνομική, 2024. Σκηνοθεσία: Νταϊάνα Βάλενταϊν. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -41241,13 +40716,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508101000 GMT+3" stop="20260508103000 GMT+3" channel="2755">
+  <programme start="20260508101000 GMT+3" stop="20260508103500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ3</title>
     <desc lang="el">Ο Λέοναρντ ζητά από μία συνάδελφο να βγουν ραντεβού, αφού ανακαλύπτει ότι η Πένι βγαίνει με κάποιον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508103000 GMT+3" stop="20260508105500 GMT+3" channel="2755">
+  <programme start="20260508103500 GMT+3" stop="20260508105500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ4</title>
     <desc lang="el">Ο Σέλντον απολύεται και εξερευνά τι έχει να προσφέρει η ζωή πέρα ​​από τη φυσική, αναγκάζοντας τον Λέοναρντ να λάβει δραστικά μέτρα για να βγάλει τον φίλο του από τη δύσκολη θέση. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41259,13 +40734,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508112000 GMT+3" stop="20260508114000 GMT+3" channel="2755">
+  <programme start="20260508112000 GMT+3" stop="20260508114500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ16</title>
     <desc lang="el">Ο Τζέικ και ο Τσαρλς συνειδητοποιούν ότι έπεσαν θύματα του συστήματος πυραμίδας NutriBoom και πρέπει να βρουν τρόπο να διακόψουν τα συμβόλαιά τους. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508114000 GMT+3" stop="20260508123000 GMT+3" channel="2755">
+  <programme start="20260508114500 GMT+3" stop="20260508123000 GMT+3" channel="2755">
     <title lang="el">Bones 11 Κ11 ΕΠ13</title>
     <desc lang="el">Η ομάδα ερευνά το πτώμα ενός δημοτικού υπαλλήλου που βρέθηκε σε αποσύνθεση στο πάρκο. Τα στοιχεία δείχνουν ότι ο δολοφόνος ζούσε με το πτώμα για μήνες πριν το ξεφορτωθεί. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41277,31 +40752,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508131500 GMT+3" stop="20260508135500 GMT+3" channel="2755">
+  <programme start="20260508131500 GMT+3" stop="20260508140000 GMT+3" channel="2755">
     <title lang="el">Tracker 1 Κ1 ΕΠ13</title>
     <desc lang="el">Ο Κόλτερ ερευνά την εξαφάνιση δύο ερασιτεχνών κυνηγών καταιγίδων. Πρωταγωνιστούν: Justin Hartley,Colter Shaw,Robin Weigert,Teddi Bruin,Abby McEnany. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508135500 GMT+3" stop="20260508144000 GMT+3" channel="2755">
+  <programme start="20260508140000 GMT+3" stop="20260508144500 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ9</title>
     <desc lang="el">Οι αμφιβολίες του Ντέβον για τη σχέση του κορυφώνονται, καθώς οι φίλοι και η οικογένειά του συγκεντρώνονται για τη μέρα του γάμου του. Καθώς η κορυφαία εταιρεία ιατρικών συσκευών του Τσαστέιν, η Κβοβάντις, συνεχίζει να είναι πετυχημένη, η Τζούλιαν κάνει μια ανακάλυψη που την ανησυχεί όσον αφορά τη συμμετοχή της σε αυτήν. Στο μεταξύ, ο Κόνραντ συνεχίζει να προσπαθεί να βελτιώσει τη σχέση του με τον Μάρσαλ και ο Μπελ δέχεται μία ριψοκίνδυνη πρόταση για να εξαφανιστεί ένα λάθος από το παρελθόν του. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508144000 GMT+3" stop="20260508150500 GMT+3" channel="2755">
+  <programme start="20260508144500 GMT+3" stop="20260508151000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 1 Κ1 ΕΠ7</title>
     <desc lang="el">Το τροχόσπιτο των Σίμπσον πέφτει σε γκρεμό. Ο Χόμερ και ο Μπαρτ χάνονται αναζητώντας βοήθεια. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508150500 GMT+3" stop="20260508153000 GMT+3" channel="2755">
+  <programme start="20260508151000 GMT+3" stop="20260508153500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 1 Κ1 ΕΠ8</title>
     <desc lang="el">Ο Μπαρτ κάνει κάτι που σοκάρει όλη την πόλη καθώς και τους νέους φίλους που ήθελε να εντυπωσιάσει. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508153000 GMT+3" stop="20260508155500 GMT+3" channel="2755">
+  <programme start="20260508153500 GMT+3" stop="20260508155500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ5</title>
     <desc lang="el">Φοβούμενος ότι χάνει τον χρόνο του με την Πένι, ο Λέοναρντ ξεκινά σχέση με τη Λέσλι. Στο μεταξύ, ο Σέλντον ανησυχεί για μια αλλαγή στη ρουτίνα του με τα χάμπουργκερ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41313,25 +40788,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508162000 GMT+3" stop="20260508164000 GMT+3" channel="2755">
+  <programme start="20260508162000 GMT+3" stop="20260508164500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ17</title>
     <desc lang="el">Η προσπάθεια του Τζέικ να συνδεθεί με την αδερφή του πάει στραβά όταν το επισκέπτεται. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508164000 GMT+3" stop="20260508170500 GMT+3" channel="2755">
+  <programme start="20260508164500 GMT+3" stop="20260508170500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ18</title>
     <desc lang="el">Όταν μια φωτιά καταστρέφει την καντίνα του Τσαρλς, ο Πιμέντο εμφανίζεται απρόσμενα στο σκηνικό ως ασφαλιστής. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508170500 GMT+3" stop="20260508175000 GMT+3" channel="2755">
+  <programme start="20260508170500 GMT+3" stop="20260508175500 GMT+3" channel="2755">
     <title lang="el">Bones 11 Κ11 ΕΠ15</title>
     <desc lang="el">Η ομάδα ερευνά το πτώμα ενός ιδιωτικού ντετέκτιβ το οποίο βρέθηκε παγωμένο αφού το είχαν πετάξει στον ποταμό Ποτόμακ. Το θύμα δρούσε ως μεσολαβητής σε παράνομες ενέργειες. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin,T. J. Thyne. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508175000 GMT+3" stop="20260508184000 GMT+3" channel="2755">
+  <programme start="20260508175500 GMT+3" stop="20260508184000 GMT+3" channel="2755">
     <title lang="el">Bones 11 Κ11 ΕΠ16</title>
     <desc lang="el">Η ομάδα ερευνά τον θάνατο του επικεφαλής της χορωδίας του πανεπιστημίου Lynwood, το πτώμα του οποίου βρέθηκε στο εργαστήριο της σχολής. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin,T. J. Thyne. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41361,13 +40836,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508210000 GMT+3" stop="20260508212000 GMT+3" channel="2755">
+  <programme start="20260508210000 GMT+3" stop="20260508212500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ7</title>
     <desc lang="el">Όταν ο Γουόλοβιτς απορρίπτει μια φίλη της Πένι, εκείνη αναλαμβάνει να τον αντικαταστήσει στην ομάδα Halo των αγοριών. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260508212000 GMT+3" stop="20260508215000 GMT+3" channel="2755">
+  <programme start="20260508212500 GMT+3" stop="20260508215000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ8</title>
     <desc lang="el">Οι γονείς του Ραζ τού κανονίζουν ραντεβού στα τυφλά, και όταν ανακαλύπτει ότι μπορεί να της μιλήσει, εκείνη δείχνει ενδιαφέρον για τον Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -51699,7 +51174,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260508071500 GMT+3" stop="20260509060000 GMT+3" channel="97085851">
+  <programme start="20260508071500 GMT+3" stop="20260508090000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 22 of Liga. Real Madrid host Rayo Vallecano in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -51964,7 +51439,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260508003000 GMT+3" stop="20260508023000 GMT+3" channel="46137848">
-    <title lang="el">Μονακό - Ολυμπιακός</title>
+    <title lang="el">Χάποελ Τελ Αβίβ - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -51985,21 +51460,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260508094500 GMT+3" stop="20260508104500 GMT+3" channel="46137848">
-    <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508104500 GMT+3" stop="20260508124500 GMT+3" channel="46137848">
+  <programme start="20260508114500 GMT+3" stop="20260508134500 GMT+3" channel="46137848">
     <title lang="el">Μονακό - Ολυμπιακός</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508124500 GMT+3" stop="20260508134500 GMT+3" channel="46137848">
-    <title lang="el">Playmakers</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Pre &amp; post game show με ρεπορτάζ, σχόλια και ανάλυση από τον expert Δημήτρη Μαυροειδή για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52095,7 +51558,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260508180000 GMT+3" stop="20260508200000 GMT+3" channel="216415">
-    <title lang="el">EuroLeague 2025/26</title>
+    <title lang="el">Μονακό - Ολυμπιακός</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -52107,7 +51570,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260508211500 GMT+3" stop="20260508231500 GMT+3" channel="216415">
-    <title lang="el">EuroLeague 2025/26 (Ζ)</title>
+    <title lang="el">Παναθηναϊκός - Βαλένθια (Ζ)</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -52152,7 +51615,7 @@
   </programme>
   <programme start="20260508193000 GMT+3" stop="20260508213000 GMT+3" channel="218883">
     <title lang="el">Πάντερμπορν - Καρλσρούη (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Κολωνία. Ποδόσφαιρο</desc>
+    <desc lang="el">Η Πάντερμπορν (4η-58β) φιλοξενεί την Καρλσρούη (8η-43β) στην 33η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Ακ. Κουζούλης Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52215,7 +51678,7 @@
   </programme>
   <programme start="20260508213000 GMT+3" stop="20260508233000 GMT+3" channel="10965536">
     <title lang="el">Ντόρτμουντ - Άιντραχτ Φρανκφούρτης (Ζ)</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
+    <desc lang="el">Η Ντόρτμουντ (2η-67β) προέρχεται από ήττα με 1-0 εκτός από την Γκλάντμπαχ και υποδέχεται την Άιντραχτ Φρανκφούρτης (8η-43β), που έχασε εντός έδρας με 2-1 από το Αμβούργο και βρέθηκε εκτός επτάδας. Περιγραφή: Μ. Κατσαφάδος Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52311,13 +51774,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260508153000 GMT+3" stop="20260508173000 GMT+3" channel="10973069">
+  <programme start="20260508153000 GMT+3" stop="20260508180000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 153 (Ζ)</title>
-    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
+    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Ακ. Κουζούλης Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260508173000 GMT+3" stop="20260508200000 GMT+3" channel="10973069">
+  <programme start="20260508180000 GMT+3" stop="20260508200000 GMT+3" channel="10973069">
     <title lang="el">Νεπτούνας - Αμβούργο</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
@@ -52465,192 +51928,6 @@
   <programme start="20260508180000 GMT+3" stop="20260509000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508010000 GMT+3" stop="20260508020000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508020000 GMT+3" stop="20260508023000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508023000 GMT+3" stop="20260508040000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508040000 GMT+3" stop="20260508053000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508053000 GMT+3" stop="20260508063000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508063000 GMT+3" stop="20260508073000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508073000 GMT+3" stop="20260508093000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508093000 GMT+3" stop="20260508103000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508103000 GMT+3" stop="20260508120000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508120000 GMT+3" stop="20260508130000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508130000 GMT+3" stop="20260508133000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508133000 GMT+3" stop="20260508173000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508173000 GMT+3" stop="20260508191500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508191500 GMT+3" stop="20260508210000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508210000 GMT+3" stop="20260508220000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508220000 GMT+3" stop="20260508230000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508230000 GMT+3" stop="20260509000000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508010000 GMT+3" stop="20260508020000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508020000 GMT+3" stop="20260508040000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508040000 GMT+3" stop="20260508053000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508053000 GMT+3" stop="20260508073000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508073000 GMT+3" stop="20260508090000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508090000 GMT+3" stop="20260508100000 GMT+3" channel="5183085">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508100000 GMT+3" stop="20260508110000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Γιονγκπιόνγκ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508110000 GMT+3" stop="20260508120000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 5ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508120000 GMT+3" stop="20260508140000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508140000 GMT+3" stop="20260508160000 GMT+3" channel="5183085">
-    <title lang="el">ΣΤΙΒΟΣ: - ΛΟΝΔΙΝΟ Μαραθώνιος</title>
-    <desc lang="el">ΣΤΙΒΟΣ: - ΛΟΝΔΙΝΟ Μαραθώνιος</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508160000 GMT+3" stop="20260508180000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508180000 GMT+3" stop="20260508190000 GMT+3" channel="5183085">
-    <title lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</title>
-    <desc lang="el">Βερολίνο - ΑΝΑΣΚΟΠΗΣΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508190000 GMT+3" stop="20260508210000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260508210000 GMT+3" stop="20260509010000 GMT+3" channel="5183085">
-    <title lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 2Η ΗΜΕΡΑ</title>
-    <desc lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 2Η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260508000000 GMT+3" stop="20260508020000 GMT+3" channel="52101919">
@@ -58508,73 +57785,73 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509001500 GMT+3" stop="20260509004000 GMT+3" channel="2755">
+  <programme start="20260509001500 GMT+3" stop="20260509003500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 37 Κ37 ΕΠ9</title>
     <desc lang="el">Η Πάτι και ο Μπαρτ συμμαχούν για την απόλυτη φάρσα: να δηλώσουν τον Χόμερ επισήμως νεκρό. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509004000 GMT+3" stop="20260509010000 GMT+3" channel="2755">
+  <programme start="20260509003500 GMT+3" stop="20260509010000 GMT+3" channel="2755">
     <title lang="el">Bob&apos;s Burgers 16 Κ16 ΕΠ12</title>
     <desc lang="el">Bob&apos;s Burgers 16 Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509010000 GMT+3" stop="20260509012500 GMT+3" channel="2755">
+  <programme start="20260509010000 GMT+3" stop="20260509012000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 1 Κ1 ΕΠ9</title>
     <desc lang="el">Το δώρο του Χόμερ ωθεί τη Μαρτζ να ξεκινήσει μπόουλινγκ με έναν δάσκαλο που διδάσκει «πολλά». Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509012500 GMT+3" stop="20260509015000 GMT+3" channel="2755">
+  <programme start="20260509012000 GMT+3" stop="20260509015000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 1 Κ1 ΕΠ10</title>
     <desc lang="el">Ο Μπαρτ φωτογραφίζει τον Χόμερ με μια σέξι χορεύτρια σε ένα μπάτσελορ πάρτι. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509015000 GMT+3" stop="20260509021500 GMT+3" channel="2755">
+  <programme start="20260509015000 GMT+3" stop="20260509021000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ7</title>
     <desc lang="el">Όταν ο Γουόλοβιτς απορρίπτει μια φίλη της Πένι, εκείνη αναλαμβάνει να τον αντικαταστήσει στην ομάδα Halo των αγοριών. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509021500 GMT+3" stop="20260509023500 GMT+3" channel="2755">
+  <programme start="20260509021000 GMT+3" stop="20260509023500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ8</title>
     <desc lang="el">Οι γονείς του Ραζ τού κανονίζουν ραντεβού στα τυφλά, και όταν ανακαλύπτει ότι μπορεί να της μιλήσει, εκείνη δείχνει ενδιαφέρον για τον Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509023500 GMT+3" stop="20260509032000 GMT+3" channel="2755">
+  <programme start="20260509023500 GMT+3" stop="20260509031500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ1</title>
     <desc lang="el">Ο Κόλτερ κάνει μια συγκλονιστική ανακάλυψη. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509032000 GMT+3" stop="20260509040500 GMT+3" channel="2755">
+  <programme start="20260509031500 GMT+3" stop="20260509040000 GMT+3" channel="2755">
     <title lang="el">Bones 11 Κ11 ΕΠ15</title>
     <desc lang="el">Η ομάδα ερευνά το πτώμα ενός ιδιωτικού ντετέκτιβ το οποίο βρέθηκε παγωμένο αφού το είχαν πετάξει στον ποταμό Ποτόμακ. Το θύμα δρούσε ως μεσολαβητής σε παράνομες ενέργειες. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin,T. J. Thyne. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509040500 GMT+3" stop="20260509045000 GMT+3" channel="2755">
+  <programme start="20260509040000 GMT+3" stop="20260509044500 GMT+3" channel="2755">
     <title lang="el">Bones 11 Κ11 ΕΠ16</title>
     <desc lang="el">Η ομάδα ερευνά τον θάνατο του επικεφαλής της χορωδίας του πανεπιστημίου Lynwood, το πτώμα του οποίου βρέθηκε στο εργαστήριο της σχολής. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin,T. J. Thyne. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509045000 GMT+3" stop="20260509051500 GMT+3" channel="2755">
+  <programme start="20260509044500 GMT+3" stop="20260509051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ7</title>
     <desc lang="el">Όταν ο Γουόλοβιτς απορρίπτει μια φίλη της Πένι, εκείνη αναλαμβάνει να τον αντικαταστήσει στην ομάδα Halo των αγοριών. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509051500 GMT+3" stop="20260509054000 GMT+3" channel="2755">
+  <programme start="20260509051000 GMT+3" stop="20260509053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ8</title>
     <desc lang="el">Οι γονείς του Ραζ τού κανονίζουν ραντεβού στα τυφλά, και όταν ανακαλύπτει ότι μπορεί να της μιλήσει, εκείνη δείχνει ενδιαφέρον για τον Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509054000 GMT+3" stop="20260509060000 GMT+3" channel="2755">
+  <programme start="20260509053500 GMT+3" stop="20260509060000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ17</title>
     <desc lang="el">Η προσπάθεια του Τζέικ να συνδεθεί με την αδερφή του πάει στραβά όταν το επισκέπτεται. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -69987,12 +69264,12 @@
   </programme>
   <programme start="20260509214500 GMT+3" stop="20260509231500 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών (Ζ)</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με ρεπορτάζ, συνεντεύξεις και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο! Παρουσιάζουν οι Γ. Δούσκας και Απ. Λάμπος. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με ρεπορτάζ, συνεντεύξεις και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260509231500 GMT+3" stop="20260510011500 GMT+3" channel="216415">
-    <title lang="el">EuroLeague 2025/26</title>
+  <programme start="20260509231500 GMT+3" stop="20260510010000 GMT+3" channel="216415">
+    <title lang="el">Ολυμπιακός - Μονακό</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70184,7 +69461,7 @@
     <rating>18</rating>
   </programme>
   <programme start="20260509163000 GMT+3" stop="20260509183000 GMT+3" channel="10973069">
-    <title lang="el">Λειψία - Ζανκτ Πάουλι (Ζ)</title>
+    <title lang="el">Χόφενχαϊμ - Βέρντερ Βρέμης (Ζ)</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70236,7 +69513,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260509163000 GMT+3" stop="20260509183000 GMT+3" channel="46137467">
-    <title lang="el">Χόφενχαϊμ - Βέρντερ Βρέμης (Ζ)</title>
+    <title lang="el">Λειψία - Ζανκτ Πάουλι (Ζ)</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70355,168 +69632,6 @@
   <programme start="20260509180000 GMT+3" stop="20260510000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509000000 GMT+3" stop="20260509010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509010000 GMT+3" stop="20260509020000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509020000 GMT+3" stop="20260509023000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509023000 GMT+3" stop="20260509040000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509040000 GMT+3" stop="20260509053000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509053000 GMT+3" stop="20260509063000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509063000 GMT+3" stop="20260509073000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509073000 GMT+3" stop="20260509083000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509083000 GMT+3" stop="20260509093000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509093000 GMT+3" stop="20260509110000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509110000 GMT+3" stop="20260509114500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509114500 GMT+3" stop="20260509174500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509174500 GMT+3" stop="20260509191500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509191500 GMT+3" stop="20260509210000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509210000 GMT+3" stop="20260509230000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509230000 GMT+3" stop="20260510000000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509010000 GMT+3" stop="20260509020000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509020000 GMT+3" stop="20260509040000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509040000 GMT+3" stop="20260509053000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509053000 GMT+3" stop="20260509063000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509063000 GMT+3" stop="20260509073000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κεκιάο - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509073000 GMT+3" stop="20260509090000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509090000 GMT+3" stop="20260509100000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509100000 GMT+3" stop="20260509110000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509110000 GMT+3" stop="20260509133000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509133000 GMT+3" stop="20260509203000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260509203000 GMT+3" stop="20260510010000 GMT+3" channel="5183085">
-    <title lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 3η ΗΜΕΡΑ</title>
-    <desc lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 3η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260509000000 GMT+3" stop="20260509010000 GMT+3" channel="52101919">
@@ -76153,7 +75268,7 @@
   </programme>
   <programme start="20260510182000 GMT+3" stop="20260510191000 GMT+3" channel="9744271">
     <title lang="el">NCIS 23 Κ23 ΕΠ19</title>
-    <desc lang="el">Η μοναδική ομάδα του NCIS επιστρέφει, έτοιμη κι αυτή τη φορά να δώσει απαντήσεις σε υποθέσεις δολοφονιών, τρομοκρατίας και κατασκοπείας που σχετίζονται με το Ναυτικό. Αστυνομική, 2024. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
+    <desc lang="el">Καθώς μια μυστική συμφωνία ασυλίας απειλεί να αφήσει έναν άνδρα ελεύθερο, ο Πάρκερ παλεύει να κρατήσει την υπόθεση ζωντανή. Όμως όταν εμφανίζεται η αποξενωμένη αδελφή του και παλιές πληγές ανοίγουν, η μάχη γίνεται προσωπική. Αστυνομική, 2024. Σκηνοθεσία: Νταϊάνα Βάλενταϊν. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -86566,48 +85681,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260510000000 GMT+3" stop="20260510040000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510040000 GMT+3" stop="20260510073000 GMT+3" channel="24654412">
-    <title lang="el">UFC 328 - New Jersey (USA) (Z)</title>
-    <desc lang="el">UFC FIGHTINGS 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510073000 GMT+3" stop="20260510120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510120000 GMT+3" stop="20260510141500 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510141500 GMT+3" stop="20260510150000 GMT+3" channel="24654412">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510150000 GMT+3" stop="20260510200000 GMT+3" channel="24654412">
-    <title lang="el">38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510200000 GMT+3" stop="20260511000000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260510000000 GMT+3" stop="20260510060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -87786,13 +86859,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260510011500 GMT+3" stop="20260510021500 GMT+3" channel="216415">
+  <programme start="20260510010000 GMT+3" stop="20260510020000 GMT+3" channel="216415">
     <title lang="el">SailGP</title>
     <desc lang="el">Το πρωτάθλημα ιστιοπλοϊας SailGP επισκέπτεται διάσημες παραλιακές πόλεις όπου φέρνει αντιμέτωπους αθλητές που συμμετέχουν με τις εθνικές τους ομάδες. Δείτε τα στιγμιότυπα από το τέταρτο event της σεζόν 2026 στo Ρίο. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260510021500 GMT+3" stop="20260510060000 GMT+3" channel="216415">
+  <programme start="20260510020000 GMT+3" stop="20260510060000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -87846,7 +86919,7 @@
   </programme>
   <programme start="20260510140000 GMT+3" stop="20260510153000 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με ρεπορτάζ, συνεντεύξεις και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο! Παρουσιάζουν οι Γ. Δούσκας και Απ. Λάμπος. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με ρεπορτάζ, συνεντεύξεις και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -87870,7 +86943,7 @@
   </programme>
   <programme start="20260510190000 GMT+3" stop="20260510194500 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών (Ζ)</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports εστιάζει στον ποδοσφαιρικό παλμό της ημέρας με ρεπορτάζ, απευθείας συνδέσεις, φάσεις και πλούσιο θέαμα από τα γήπεδα της Ελλάδας και της Ευρώπης! Παρουσιάζουν οι Γ. Δούσκας και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports εστιάζει στον ποδοσφαιρικό παλμό της ημέρας με ρεπορτάζ, απευθείας συνδέσεις, φάσεις και πλούσιο θέαμα από τα γήπεδα της Ελλάδας και της Ευρώπης! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -87888,7 +86961,7 @@
   </programme>
   <programme start="20260510211500 GMT+3" stop="20260510224500 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών (Ζ)</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με στιγμιότυπα και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο, ρεπορτάζ και συνεντεύξεις των πρωταγωνιστών! Παρουσιάζουν οι Γ. Δούσκας και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με στιγμιότυπα και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο, ρεπορτάζ και συνεντεύξεις των πρωταγωνιστών! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -88217,198 +87290,6 @@
   <programme start="20260510180000 GMT+3" stop="20260511000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510000000 GMT+3" stop="20260510010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510010000 GMT+3" stop="20260510020000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510020000 GMT+3" stop="20260510023000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510023000 GMT+3" stop="20260510040000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510040000 GMT+3" stop="20260510053000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510053000 GMT+3" stop="20260510063000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510063000 GMT+3" stop="20260510073000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510073000 GMT+3" stop="20260510093000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510093000 GMT+3" stop="20260510110000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510110000 GMT+3" stop="20260510123000 GMT+3" channel="4185119">
-    <title lang="el">- - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510123000 GMT+3" stop="20260510130000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510130000 GMT+3" stop="20260510173000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510173000 GMT+3" stop="20260510181500 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510181500 GMT+3" stop="20260510191500 GMT+3" channel="4185119">
-    <title lang="el">- - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510191500 GMT+3" stop="20260510210000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510210000 GMT+3" stop="20260510220000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510220000 GMT+3" stop="20260510230000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510230000 GMT+3" stop="20260511000000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510010000 GMT+3" stop="20260510020000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510020000 GMT+3" stop="20260510040000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510040000 GMT+3" stop="20260510053000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510053000 GMT+3" stop="20260510073000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510073000 GMT+3" stop="20260510090000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510090000 GMT+3" stop="20260510100000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510100000 GMT+3" stop="20260510110000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510110000 GMT+3" stop="20260510124500 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510124500 GMT+3" stop="20260510144500 GMT+3" channel="5183085">
-    <title lang="el">Χώμα: ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Φάλκενμπουργκ ()</title>
-    <desc lang="el">Χώμα: ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Φάλκενμπουργκ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510144500 GMT+3" stop="20260510150000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510150000 GMT+3" stop="20260510164500 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510164500 GMT+3" stop="20260510183000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510183000 GMT+3" stop="20260510200000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΣΕΦΙΛΝΤ - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510200000 GMT+3" stop="20260511010000 GMT+3" channel="5183085">
-    <title lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 4η ημέρα</title>
-    <desc lang="el">ΤΟΥΡΝΟΥΑ ΤΡΑΪΣΤ - 4η ημέρα</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260510000000 GMT+3" stop="20260510020000 GMT+3" channel="52101919">
@@ -88876,48 +87757,6 @@
   <programme start="20260510223000 GMT+3" stop="20260511013000 GMT+3" channel="52103947">
     <title lang="el">PHILADELPHIA - NEW YORK (Z)</title>
     <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510000000 GMT+3" stop="20260510040000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510040000 GMT+3" stop="20260510073000 GMT+3" channel="52105052">
-    <title lang="el">UFC 328 - New Jersey (USA) (Z)</title>
-    <desc lang="el">UFC FIGHTINGS 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510073000 GMT+3" stop="20260510120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510120000 GMT+3" stop="20260510141500 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510141500 GMT+3" stop="20260510150000 GMT+3" channel="52105052">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510150000 GMT+3" stop="20260510200000 GMT+3" channel="52105052">
-    <title lang="el">38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260510200000 GMT+3" stop="20260511000000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -103304,42 +102143,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511180000 GMT+3" stop="20260511200000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511200000 GMT+3" stop="20260511220000 GMT+3" channel="24654412">
-    <title lang="el">ΒΡΑΒΕΥΣΕΙΣ ΑΡΙΣΤΩΝ ΙΠΠΟΔΡΟΜΟΥ 2025 (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511220000 GMT+3" stop="20260512000000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -104519,7 +103322,7 @@
   </programme>
   <programme start="20260511124500 GMT+3" stop="20260511140000 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports εστιάζει στον ποδοσφαιρικό παλμό της ημέρας με ρεπορτάζ, απευθείας συνδέσεις, φάσεις και πλούσιο θέαμα από τα γήπεδα της Ελλάδας και της Ευρώπης! Παρουσιάζουν οι Γ. Δούσκας και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports εστιάζει στον ποδοσφαιρικό παλμό της ημέρας με ρεπορτάζ, απευθείας συνδέσεις, φάσεις και πλούσιο θέαμα από τα γήπεδα της Ελλάδας και της Ευρώπης! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -104531,7 +103334,7 @@
   </programme>
   <programme start="20260511161500 GMT+3" stop="20260511174500 GMT+3" channel="216415">
     <title lang="el">Η Ωρα των Πρωταθλητών</title>
-    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με στιγμιότυπα και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο, ρεπορτάζ και συνεντεύξεις των πρωταγωνιστών! Παρουσιάζουν οι Γ. Δούσκας και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
+    <desc lang="el">Η μακροβιότερη εκπομπή του Novasports κλείνει την ποδοσφαιρική βραδιά με στιγμιότυπα και αναλύσεις όσων συνέβησαν στον αγωνιστικό χώρο, ρεπορτάζ και συνεντεύξεις των πρωταγωνιστών! Παρουσιάζουν οι Απ. Λάμπος και Λ. Κουντουριώτη. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -104869,192 +103672,6 @@
   <programme start="20260511180000 GMT+3" stop="20260512000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511000000 GMT+3" stop="20260511010000 GMT+3" channel="4185119">
-    <title lang="el">Χώμα: ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Φάλκενμπουργκ ()</title>
-    <desc lang="el">Χώμα: ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Φάλκενμπουργκ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511010000 GMT+3" stop="20260511023000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511023000 GMT+3" stop="20260511043000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511043000 GMT+3" stop="20260511063000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511063000 GMT+3" stop="20260511080000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511080000 GMT+3" stop="20260511093000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511093000 GMT+3" stop="20260511110000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511110000 GMT+3" stop="20260511123000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511123000 GMT+3" stop="20260511140000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511140000 GMT+3" stop="20260511150000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511150000 GMT+3" stop="20260511160000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511160000 GMT+3" stop="20260511180000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511180000 GMT+3" stop="20260511190000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511190000 GMT+3" stop="20260511210000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511210000 GMT+3" stop="20260511230000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511230000 GMT+3" stop="20260512010000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511010000 GMT+3" stop="20260511023000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511023000 GMT+3" stop="20260511043000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511043000 GMT+3" stop="20260511063000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511063000 GMT+3" stop="20260511080000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511080000 GMT+3" stop="20260511093000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511093000 GMT+3" stop="20260511110000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511110000 GMT+3" stop="20260511123000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511123000 GMT+3" stop="20260511133000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511133000 GMT+3" stop="20260511160000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511160000 GMT+3" stop="20260511170000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511170000 GMT+3" stop="20260511180000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511180000 GMT+3" stop="20260511200000 GMT+3" channel="5183085">
-    <title lang="el">ΣΤΙΒΟΣ: - ΛΟΝΔΙΝΟ Μαραθώνιος</title>
-    <desc lang="el">ΣΤΙΒΟΣ: - ΛΟΝΔΙΝΟ Μαραθώνιος</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511200000 GMT+3" stop="20260511220000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - ΤΡΟ ΜΠΡΟ ΛΕΟΝ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511220000 GMT+3" stop="20260511230000 GMT+3" channel="5183085">
-    <title lang="el">Γκραν Πρι - Σεούλ</title>
-    <desc lang="el">Γκραν Πρι - Σεούλ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511230000 GMT+3" stop="20260512023000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260511000000 GMT+3" stop="20260511010000 GMT+3" channel="52101919">
@@ -105408,42 +104025,6 @@
   <programme start="20260511233000 GMT+3" stop="20260512000000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511180000 GMT+3" stop="20260511200000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511200000 GMT+3" stop="20260511220000 GMT+3" channel="52105052">
-    <title lang="el">ΒΡΑΒΕΥΣΕΙΣ ΑΡΙΣΤΩΝ ΙΠΠΟΔΡΟΜΟΥ 2025 (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511220000 GMT+3" stop="20260512000000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -110006,7 +108587,7 @@
   </programme>
   <programme start="20260512020500 GMT+3" stop="20260512025500 GMT+3" channel="9744271">
     <title lang="el">NCIS 23 Κ23 ΕΠ19</title>
-    <desc lang="el">Η μοναδική ομάδα του NCIS επιστρέφει, έτοιμη κι αυτή τη φορά να δώσει απαντήσεις σε υποθέσεις δολοφονιών, τρομοκρατίας και κατασκοπείας που σχετίζονται με το Ναυτικό. Αστυνομική, 2024. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
+    <desc lang="el">Καθώς μια μυστική συμφωνία ασυλίας απειλεί να αφήσει έναν άνδρα ελεύθερο, ο Πάρκερ παλεύει να κρατήσει την υπόθεση ζωντανή. Όμως όταν εμφανίζεται η αποξενωμένη αδελφή του και παλιές πληγές ανοίγουν, η μάχη γίνεται προσωπική. Αστυνομική, 2024. Σκηνοθεσία: Νταϊάνα Βάλενταϊν. Πρωταγωνιστές: Σον Μάρεϊ, Κατρίνα Λο, Γκάρι Κόουλ.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -119523,42 +118104,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512180000 GMT+3" stop="20260512210000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512210000 GMT+3" stop="20260512214500 GMT+3" channel="24654412">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (39η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512214500 GMT+3" stop="20260513000000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -121243,180 +119788,6 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260512010000 GMT+3" stop="20260512043000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512043000 GMT+3" stop="20260512080000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512080000 GMT+3" stop="20260512093000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512093000 GMT+3" stop="20260512100000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512100000 GMT+3" stop="20260512110000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512110000 GMT+3" stop="20260512123000 GMT+3" channel="4185119">
-    <title lang="el">- - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512123000 GMT+3" stop="20260512133000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512133000 GMT+3" stop="20260512143000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512143000 GMT+3" stop="20260512184500 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512184500 GMT+3" stop="20260512194500 GMT+3" channel="4185119">
-    <title lang="el">- - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">- - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512194500 GMT+3" stop="20260512210000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512210000 GMT+3" stop="20260512220000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
-    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512220000 GMT+3" stop="20260512223000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512223000 GMT+3" stop="20260512233000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512233000 GMT+3" stop="20260513010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512023000 GMT+3" stop="20260512063000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512063000 GMT+3" stop="20260512093000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512093000 GMT+3" stop="20260512100000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512100000 GMT+3" stop="20260512110000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512110000 GMT+3" stop="20260512114500 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512114500 GMT+3" stop="20260512123000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512123000 GMT+3" stop="20260512140000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512140000 GMT+3" stop="20260512153000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
-    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512153000 GMT+3" stop="20260512180000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512180000 GMT+3" stop="20260512190000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512190000 GMT+3" stop="20260512200000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512200000 GMT+3" stop="20260512210000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - Λα Βουέλτα - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512210000 GMT+3" stop="20260512223000 GMT+3" channel="5183085">
-    <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512223000 GMT+3" stop="20260513010000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260512000000 GMT+3" stop="20260512040000 GMT+3" channel="52101919">
     <title lang="el">AYIA NAPA YOUTH TOURNAMENT (Finals) 8/4/26</title>
     <desc lang="el">AYIA NAPA YOUTH TOURNAMENT 2026</desc>
@@ -121738,42 +120109,6 @@
   <programme start="20260512210000 GMT+3" stop="20260513000000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512180000 GMT+3" stop="20260512210000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512210000 GMT+3" stop="20260512214500 GMT+3" channel="52105052">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (39η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512214500 GMT+3" stop="20260513000000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
