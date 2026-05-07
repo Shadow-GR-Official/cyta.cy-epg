@@ -143,6 +143,8 @@ http://127.0.0.1/8242848
 http://127.0.0.1/8242808
 #EXTINF:-1 tvg-id="8242862" tvg-name="Cytavision Sports4 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/80/20241022055854170t4p.png",Cytavision Sports4 HD
 http://127.0.0.1/8242862
+#EXTINF:-1 tvg-id="8242886" tvg-name="Cytavision Sports5 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/70/20241022055754124kzq.png",Cytavision Sports5 HD
+http://127.0.0.1/8242886
 #EXTINF:-1 tvg-id="8243873" tvg-name="Cytavision Sports6 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/66/20241022055654128zyz.png",Cytavision Sports6 HD
 http://127.0.0.1/8243873
 #EXTINF:-1 tvg-id="24654412" tvg-name="Cytavision Sports7 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/63/202410220554452982iv.png",Cytavision Sports7 HD
@@ -201,6 +203,8 @@ http://127.0.0.1/52098866
 http://127.0.0.1/52101930
 #EXTINF:-1 tvg-id="52103938" tvg-name="Cytavision Sports4 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202411/20241107/7/20241107065003844m9n.png",Cytavision Sports4 HD Real Time
 http://127.0.0.1/52103938
+#EXTINF:-1 tvg-id="52105043" tvg-name="Cytavision Sports5 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/16/202410220539037952hn.png",Cytavision Sports5 HD Real Time
+http://127.0.0.1/52105043
 #EXTINF:-1 tvg-id="52103947" tvg-name="Cytavision Sports6 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/82/20241022053758795tt7.png",Cytavision Sports6 HD Real Time
 http://127.0.0.1/52103947
 #EXTINF:-1 tvg-id="52105052" tvg-name="Cytavision Sports7 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/88/20241022053638860cjz.png",Cytavision Sports7 HD Real Time
@@ -227,7 +231,3 @@ http://127.0.0.1/52196754
 http://127.0.0.1/52196581
 #EXTINF:-1 tvg-id="52196763" tvg-name="PPV6 Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/90/20241022102945256yfw.png",PPV6 Real Time
 http://127.0.0.1/52196763
-#EXTINF:-1 tvg-id="8242886" tvg-name="Cytavision Sports5 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/70/20241022055754124kzq.png",Cytavision Sports5 HD
-http://127.0.0.1/8242886
-#EXTINF:-1 tvg-id="52105043" tvg-name="Cytavision Sports5 HD Real Time" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/16/202410220539037952hn.png",Cytavision Sports5 HD Real Time
-http://127.0.0.1/52105043

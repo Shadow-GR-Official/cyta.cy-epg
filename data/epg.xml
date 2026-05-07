@@ -216,6 +216,9 @@
   <channel id="8242862">
     <display-name>Cytavision Sports4 HD</display-name>
   </channel>
+  <channel id="8242886">
+    <display-name>Cytavision Sports5 HD</display-name>
+  </channel>
   <channel id="8243873">
     <display-name>Cytavision Sports6 HD</display-name>
   </channel>
@@ -303,6 +306,9 @@
   <channel id="52103938">
     <display-name>Cytavision Sports4 HD Real Time</display-name>
   </channel>
+  <channel id="52105043">
+    <display-name>Cytavision Sports5 HD Real Time</display-name>
+  </channel>
   <channel id="52103947">
     <display-name>Cytavision Sports6 HD Real Time</display-name>
   </channel>
@@ -341,12 +347,6 @@
   </channel>
   <channel id="52196763">
     <display-name>PPV6 Real Time</display-name>
-  </channel>
-  <channel id="8242886">
-    <display-name>Cytavision Sports5 HD</display-name>
-  </channel>
-  <channel id="52105043">
-    <display-name>Cytavision Sports5 HD Real Time</display-name>
   </channel>
   <programme start="20260507000000 GMT+3" stop="20260507003000 GMT+3" channel="561066">
     <title lang="el">Μην Κάψεις την Κουζίνα (E)</title>
@@ -14600,7 +14600,7 @@
   </programme>
   <programme start="20260507093000 GMT+3" stop="20260507100000 GMT+3" channel="211368">
     <title lang="el">The Bottom Line ΕΠ18</title>
-    <desc lang="el">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons. (2026)</desc>
+    <desc lang="el">Host Steve Clemons asks former Israeli negotiator Daniel Levy about the fallout of Israel&apos;s constant wars in the Middle East. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -14676,15 +14676,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507190000 GMT+3" stop="20260507193000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260507193000 GMT+3" stop="20260507200000 GMT+3" channel="211368">
-    <title lang="el">Program to be Announced</title>
-    <desc lang="el">Program to be Announced</desc>
+  <programme start="20260507190000 GMT+3" stop="20260507200000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -14706,14 +14700,26 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507220000 GMT+3" stop="20260507230000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+  <programme start="20260507220000 GMT+3" stop="20260507223000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260507230000 GMT+3" stop="20260508000000 GMT+3" channel="211368">
-    <title lang="el">Who Killed Shireen?</title>
+  <programme start="20260507223000 GMT+3" stop="20260507230000 GMT+3" channel="211368">
+    <title lang="el">Who Killed Shireen? P1</title>
+    <desc lang="el">An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments. (2025)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507230000 GMT+3" stop="20260507233000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507233000 GMT+3" stop="20260508000000 GMT+3" channel="211368">
+    <title lang="el">Who Killed Shireen? P2</title>
     <desc lang="el">An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -15237,6 +15243,42 @@
   <programme start="20260507220000 GMT+3" stop="20260508000000 GMT+3" channel="8242862">
     <title lang="el">CRYSTAL PALACE - SHAKHTAR DONETSK (Z)</title>
     <desc lang="el">UEFA CONFERENCE LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507000000 GMT+3" stop="20260507060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507060000 GMT+3" stop="20260507120000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507120000 GMT+3" stop="20260507170000 GMT+3" channel="8242886">
+    <title lang="el">ATP 1000 - ROME (MD 2) (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507170000 GMT+3" stop="20260507190000 GMT+3" channel="8242886">
+    <title lang="el">Stefanos TSITSIPAS - Tomas MACHAC (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507190000 GMT+3" stop="20260507220000 GMT+3" channel="8242886">
+    <title lang="el">ATP 1000 - ROME (MD 2) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507220000 GMT+3" stop="20260508000000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -17643,6 +17685,42 @@
   <programme start="20260507220000 GMT+3" stop="20260508000000 GMT+3" channel="52103938">
     <title lang="el">CRYSTAL PALACE - SHAKHTAR DONETSK (Z)</title>
     <desc lang="el">UEFA CONFERENCE LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507000000 GMT+3" stop="20260507060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507060000 GMT+3" stop="20260507120000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507120000 GMT+3" stop="20260507170000 GMT+3" channel="52105043">
+    <title lang="el">ATP 1000 - ROME (MD 2) (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507170000 GMT+3" stop="20260507190000 GMT+3" channel="52105043">
+    <title lang="el">Stefanos TSITSIPAS - Tomas MACHAC (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507190000 GMT+3" stop="20260507220000 GMT+3" channel="52105043">
+    <title lang="el">ATP 1000 - ROME (MD 2) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 1000 - ROME</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260507220000 GMT+3" stop="20260508000000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -27858,6 +27936,18 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260508110000 GMT+3" stop="20260508120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ224</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ15</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260508130000 GMT+3" stop="20260508140000 GMT+3" channel="1945">
     <title lang="el">CNN This Morning ΕΠ92</title>
     <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
@@ -27903,6 +27993,18 @@
   <programme start="20260508180000 GMT+3" stop="20260508190000 GMT+3" channel="1945">
     <title lang="el">One World ΕΠ92</title>
     <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508190000 GMT+3" stop="20260508194500 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ92</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508194500 GMT+3" stop="20260508200000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ9</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -32233,8 +32335,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260508040000 GMT+3" stop="20260508050000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <title lang="el">Al Jazeera World</title>
+    <desc lang="el">Israel&apos;s intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today&apos;s conflict with Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -32250,15 +32352,27 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260508060000 GMT+3" stop="20260508070000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+  <programme start="20260508060000 GMT+3" stop="20260508063000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260508070000 GMT+3" stop="20260508080000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+  <programme start="20260508063000 GMT+3" stop="20260508070000 GMT+3" channel="211368">
+    <title lang="el">The Bottom Line ΕΠ18</title>
+    <desc lang="el">Host Steve Clemons asks former Israeli negotiator Daniel Levy about the fallout of Israel&apos;s constant wars in the Middle East. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508070000 GMT+3" stop="20260508073000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508073000 GMT+3" stop="20260508080000 GMT+3" channel="211368">
+    <title lang="el">The Listening Post ΕΠ18</title>
+    <desc lang="el">Another assassination attempt on Trump reveals mistrust in the media and conspiracy theories fill the gap. Plus, Israel steps up its information war on Lebanon. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -32384,7 +32498,7 @@
   </programme>
   <programme start="20260508223000 GMT+3" stop="20260508230000 GMT+3" channel="211368">
     <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -33417,6 +33531,114 @@
   <programme start="20260508233000 GMT+3" stop="20260509000000 GMT+3" channel="53005467">
     <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26 # 33 6/5/26</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508000000 GMT+3" stop="20260508010000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.1</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508010000 GMT+3" stop="20260508030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508030000 GMT+3" stop="20260508050000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - EΘΝΙΚΟΣ ΑΣΣΙΑΣ (22/04/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508050000 GMT+3" stop="20260508070000 GMT+3" channel="75835625">
+    <title lang="el">2011-12 OMONOIA NTE HAAGK</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508070000 GMT+3" stop="20260508090000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508090000 GMT+3" stop="20260508100000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508100000 GMT+3" stop="20260508100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508100500 GMT+3" stop="20260508110000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.17 - ΑΝΤΡΕΑΣ ΑΝΤΡΕΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508110000 GMT+3" stop="20260508120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508140000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508140000 GMT+3" stop="20260508160000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ 2-0 2010-11</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508160000 GMT+3" stop="20260508173000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508173000 GMT+3" stop="20260508180000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΠΑΦΟΣ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260508190000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508190000 GMT+3" stop="20260508190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508190500 GMT+3" stop="20260508200000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508200000 GMT+3" stop="20260508220000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508220000 GMT+3" stop="20260509000000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -35646,13 +35868,79 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260508214000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508214000 GMT+3" stop="20260509004500 GMT+3" channel="52196563">
+    <title lang="el">TORINO - SASSUOLO (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260508020000 GMT+3" stop="20260508060000 GMT+3" channel="52196745">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260508215500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508215500 GMT+3" stop="20260509010000 GMT+3" channel="52196745">
+    <title lang="el">LEVANTE - OSASUNA (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260508020000 GMT+3" stop="20260508060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260509000000 GMT+3" channel="52196572">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -35664,13 +35952,79 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260509000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260508000000 GMT+3" stop="20260508060000 GMT+3" channel="52196581">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260509000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260508000000 GMT+3" stop="20260508060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508060000 GMT+3" stop="20260508120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508120000 GMT+3" stop="20260508180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508180000 GMT+3" stop="20260508210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508210000 GMT+3" stop="20260508220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260508220000 GMT+3" stop="20260509000000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -40428,9 +40782,15 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260509024500 GMT+3" stop="20260509061000 GMT+3" channel="9745267">
+  <programme start="20260509024000 GMT+3" stop="20260509042000 GMT+3" channel="9745267">
     <title lang="el">Elevator Game</title>
     <desc lang="el">Μια παρέα εφήβων καλεί έναν αστικό θρύλο επιδιώκοντας διαδικτυακή δόξα και παγιδεύεται ανάμεσα σε ορόφους, όταν μια σκοτεινή παρουσία ανταποκρίνεται μετατρέποντας το παιχνίδι σε αγώνα ζωής. Τρόμου, 2023. Σκηνοθεσία: Ρεμπέκα ΜακΚέντρι. Πρωταγωνιστές: Τζίνο Ανάνια, Μέγκαν Μπεστ, Αλεκ Κάρλος.</desc>
+    <category lang="el">Ταινίες</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260509042000 GMT+3" stop="20260509061000 GMT+3" channel="9745267">
+    <title lang="el">Κραυγή Σιωπής</title>
+    <desc lang="el">Μια φιλική επίσκεψη διακοπών παίρνει σκοτεινή τροπή, όταν η ευγένεια παγιδεύει μια οικογένεια σε μία αυξανόμενη απειλή αποκαλύπτοντας πώς η σιωπή μπορεί να γίνει όπλο τρόμου. (Τζέιμς ΜακΑβοϊ, Μακένζι Ντέιβις) 2024, 106&apos; Τρόμου, 2024. Σκηνοθεσία: Τζέιμς Ουότκινς. Πρωταγωνιστές: Τζέιμς ΜακΑβοϊ, Μακένζι Ντέιβις, Σκουτ ΜακΝέρι.</desc>
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
@@ -41042,6 +41402,12 @@
   <programme start="20260509090000 GMT+3" stop="20260509092500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ17</title>
     <desc lang="el">Η προσπάθεια του Τζέικ να συνδεθεί με την αδερφή του πάει στραβά όταν το επισκέπτεται. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260509092500 GMT+3" stop="20260509094500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 5 Κ5 ΕΠ18</title>
+    <desc lang="el">Όταν μια φωτιά καταστρέφει την καντίνα του Τσαρλς, ο Πιμέντο εμφανίζεται απρόσμενα στο σκηνικό ως ασφαλιστής. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -41969,13 +42335,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509060000 GMT+3" stop="20260509065000 GMT+3" channel="216459">
+  <programme start="20260509060000 GMT+3" stop="20260509064500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Μυστικές Αποστολές ΕΠ1</title>
     <desc lang="el">Μερικές από τις πιο φονικές μηχανές του κόσμου αλλά και πολλά πυρηνικά όπλα βρίσκονται παρατημένα στους ωκεανούς μας. Κρυμμένα εδώ και δεκαετίες, αυτά τα μυστικά ναυάγια θα αποκαλύψουν την αλήθεια για την απαρχή της πυρηνικής εποχής. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509065000 GMT+3" stop="20260509073500 GMT+3" channel="216459">
+  <programme start="20260509064500 GMT+3" stop="20260509073500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Χωρίς Ίχνος ΕΠ1</title>
     <desc lang="el">Άραγε τα μαθήματα που πήραμε από αεροπορικές καταστροφές θα μας βοηθήσουμε να λύσουμε τα μυστήρια πίσω από εξαφανισμένες πτήσεις; (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -42083,25 +42449,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509210000 GMT+3" stop="20260509215500 GMT+3" channel="216459">
+  <programme start="20260509210000 GMT+3" stop="20260509215000 GMT+3" channel="216459">
     <title lang="el">Χαμένοι Θησαυροί της Βίβλου: Μυστικά της Πίστης Κ1 ΕΠ2</title>
     <desc lang="el">Το βιβλίο της Αποκάλυψης αφηγείται μια αποκαλυπτική μάχη καλού εναντίον κακού στο τέλος του κόσμου. Λέει ότι η μάχη θα λάβει χώρα σε ένα μέρος που ονομάζεται Αρμαγεδδών, αλλά ο Αρμαγεδδών δεν είναι μύθος. Πήρε το όνομά του από έναν πραγματικό αρχαίο οικισμό: τη Μεγιδδώ. Τώρα, οι αρχαιολόγοι διερευνούν τι συνέβη εδώ για να εμπνεύσουν τη δραματική βιβλική ιστορία. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509215500 GMT+3" stop="20260509224000 GMT+3" channel="216459">
+  <programme start="20260509215000 GMT+3" stop="20260509223500 GMT+3" channel="216459">
     <title lang="el">Αίγυπτος από Ψηλά Κ1 ΕΠ2</title>
     <desc lang="el">Ένα θεαματικό εναέριο ταξίδι πάνω από τη σύγχρονη Αίγυπτο αποκαλύπτει πώς η χώρα χτίζει για το μέλλον ενώ διατηρεί τη μοναδική, αρχαία ιστορία της. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509224000 GMT+3" stop="20260509233000 GMT+3" channel="216459">
+  <programme start="20260509223500 GMT+3" stop="20260509232500 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ14 ΕΠ1</title>
     <desc lang="el">Ο Τιμ και ο Φαζ αντιμετωπίζουν μια τολμηρή αποστολή: να διασώσουν ένα Frogeye Sprite κρυμμένο σε ένα γκαράζ για πάνω από 50 χρόνια, το οποίο έχει σκουριάσει, έχει κατασχεθεί και διαλύεται. Με έναν κλειδαρά καθ&apos; οδόν, μπορούν να το αποκαταστήσουν εγκαίρως για μια συγκινητική αποκάλυψη στον αμπελώνα - με την απρόσμενη βοήθεια της κυρίας Τζοάνα Λάμλεϊ; Ο χρόνος περνάει. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260509233000 GMT+3" stop="20260510000500 GMT+3" channel="216459">
+  <programme start="20260509232500 GMT+3" stop="20260510000000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ1</title>
     <desc lang="el">Η Εύα ταξιδεύει στο Φαράγγι του Χαλκού στο Μεξικό για να συναντήσει τους Ραραμούρι, οι οποίοι είναι διάσημοι για την ικανότητά τους να τρέχουν μεγάλες αποστάσεις σε δύσβατα εδάφη χωρίς τη βοήθεια αθλητικών παπουτσιών ή συμπληρωμάτων υψηλής τεχνολογίας. Προκαλεί τον εαυτό της να τρέξει έναν υπερμαραθώνιο χρησιμοποιώντας τις μεθόδους τους και μαθαίνει ότι το μυστικό της υπερ-ικανότητάς τους δεν είναι τελικά και τόσο κρυφό. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -50190,8 +50556,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260509053000 GMT+3" stop="20260509060000 GMT+3" channel="211368">
-    <title lang="el">The Silencing of Anas Al Sharif</title>
-    <desc lang="el">A haunting look at the targeted killing of journalist Anas al Sharif and the war on truth in Gaza. (2025)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">As AI reshapes how children learn in China, its expansion into the US raises questions about education, influence and who controls the future of learning. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -50202,8 +50568,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260509063000 GMT+3" stop="20260509070000 GMT+3" channel="211368">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region..</desc>
+    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
+    <desc lang="el">How Spain conquered with armies and missionaries - fusing faith, force, and gold into global dominance. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -50215,7 +50581,7 @@
   </programme>
   <programme start="20260509073000 GMT+3" stop="20260509080000 GMT+3" channel="211368">
     <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -50298,7 +50664,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260509150000 GMT+3" stop="20260509160000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera World Κ13</title>
+    <title lang="el">Al Jazeera World</title>
     <desc lang="el">A series of one-hour documentaries showcasing films from across the Al Jazeera Network. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -50317,7 +50683,7 @@
   </programme>
   <programme start="20260509173000 GMT+3" stop="20260509180000 GMT+3" channel="211368">
     <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -51560,6 +51926,114 @@
   <programme start="20260509233000 GMT+3" stop="20260510003000 GMT+3" channel="53005467">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 1) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509000000 GMT+3" stop="20260509020000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509020000 GMT+3" stop="20260509040000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ 2-0 2010-11</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509040000 GMT+3" stop="20260509053000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509053000 GMT+3" stop="20260509060000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΠΑΦΟΣ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509070000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509070000 GMT+3" stop="20260509080000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509080000 GMT+3" stop="20260509100000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509100000 GMT+3" stop="20260509120000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509140000 GMT+3" channel="75835625">
+    <title lang="el">2011-12 ΟΜΟΝΟΙΑ - ΑΕΚ 2-0 A</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509140000 GMT+3" stop="20260509160000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509160000 GMT+3" stop="20260509180000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (14/01/2026)</title>
+    <desc lang="el">ΚΥΠΕΛΛΟ COCA COLA 2025-2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509180000 GMT+3" stop="20260509190500 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.17 - ΑΝΤΡΕΑΣ ΑΝΤΡΕΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509190500 GMT+3" stop="20260509193000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509193000 GMT+3" stop="20260509213000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509213000 GMT+3" stop="20260509220000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΡΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509220000 GMT+3" stop="20260509223000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509223000 GMT+3" stop="20260509230000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΠΑΦΟΣ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509230000 GMT+3" stop="20260510000000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -53894,6 +54368,210 @@
     <title lang="el">Football Nation (Season 2) # 10 CONMEBOL (E)</title>
     <desc lang="el">Football Nation (Season 2)</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509004500 GMT+3" stop="20260509060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509172000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509172000 GMT+3" stop="20260509210000 GMT+3" channel="52196563">
+    <title lang="el">ΑΕΛ - ΟΛΥΜΠΙΑΚΟΣ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509210000 GMT+3" stop="20260510000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509010000 GMT+3" stop="20260509060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509172000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509172000 GMT+3" stop="20260509210000 GMT+3" channel="52196745">
+    <title lang="el">ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ - ΑΚΡΙΤΑΣ ΧΛΩΡΑΚΑΣ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509210000 GMT+3" stop="20260510000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509000000 GMT+3" stop="20260509060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509172000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509172000 GMT+3" stop="20260509210000 GMT+3" channel="52196572">
+    <title lang="el">Ε. Ν. ΠΑΡΑΛΙΜΝΙΟΥ - ΕΘΝΙΚΟΣ ΑΧΝΑΣ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509210000 GMT+3" stop="20260510000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509000000 GMT+3" stop="20260509060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509133000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509133000 GMT+3" stop="20260509165500 GMT+3" channel="52196754">
+    <title lang="el">LIVERPOOL - CHELSEA (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509165500 GMT+3" stop="20260509192500 GMT+3" channel="52196754">
+    <title lang="el">SUNDERLAND - MANCHESTER UTD (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509192500 GMT+3" stop="20260509215500 GMT+3" channel="52196754">
+    <title lang="el">MANCHESTER CITY - BRENTFORD (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509215500 GMT+3" stop="20260510000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509000000 GMT+3" stop="20260509060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509165000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509165000 GMT+3" stop="20260509185500 GMT+3" channel="52196581">
+    <title lang="el">BRIGHTON - WOLVES (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509185500 GMT+3" stop="20260509214000 GMT+3" channel="52196581">
+    <title lang="el">LAZIO - INTER (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509214000 GMT+3" stop="20260510004500 GMT+3" channel="52196581">
+    <title lang="el">LECCE - JUVENTUS (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509000000 GMT+3" stop="20260509060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509060000 GMT+3" stop="20260509120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509120000 GMT+3" stop="20260509165000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509165000 GMT+3" stop="20260509191000 GMT+3" channel="52196763">
+    <title lang="el">FULHAM - BOURNEMOUTH (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509191000 GMT+3" stop="20260509215500 GMT+3" channel="52196763">
+    <title lang="el">ΑΕΚ - ΚΕΡΑΥΝΟΣ (Z)</title>
+    <desc lang="el">ECOMMBX BASKET LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260509215500 GMT+3" stop="20260510010000 GMT+3" channel="52196763">
+    <title lang="el">REAL SOCIEDAD - REAL BETIS (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
     <rating>K</rating>
   </programme>
   <programme start="20260510000000 GMT+3" stop="20260510005500 GMT+3" channel="561066">
@@ -60175,121 +60853,121 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260510000500 GMT+3" stop="20260510005000 GMT+3" channel="216459">
+  <programme start="20260510000000 GMT+3" stop="20260510005000 GMT+3" channel="216459">
     <title lang="el">Χαμένοι Θησαυροί της Βίβλου: Μυστικά της Πίστης Κ1 ΕΠ2</title>
     <desc lang="el">Το βιβλίο της Αποκάλυψης αφηγείται μια αποκαλυπτική μάχη καλού εναντίον κακού στο τέλος του κόσμου. Λέει ότι η μάχη θα λάβει χώρα σε ένα μέρος που ονομάζεται Αρμαγεδδών, αλλά ο Αρμαγεδδών δεν είναι μύθος. Πήρε το όνομά του από έναν πραγματικό αρχαίο οικισμό: τη Μεγιδδώ. Τώρα, οι αρχαιολόγοι διερευνούν τι συνέβη εδώ για να εμπνεύσουν τη δραματική βιβλική ιστορία. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510005000 GMT+3" stop="20260510014000 GMT+3" channel="216459">
+  <programme start="20260510005000 GMT+3" stop="20260510013500 GMT+3" channel="216459">
     <title lang="el">Αίγυπτος από Ψηλά Κ1 ΕΠ2</title>
     <desc lang="el">Ένα θεαματικό εναέριο ταξίδι πάνω από τη σύγχρονη Αίγυπτο αποκαλύπτει πώς η χώρα χτίζει για το μέλλον ενώ διατηρεί τη μοναδική, αρχαία ιστορία της. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510014000 GMT+3" stop="20260510022500 GMT+3" channel="216459">
+  <programme start="20260510013500 GMT+3" stop="20260510022000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ3</title>
     <desc lang="el">Αντιμετωπίζοντας θανατηφόρες τραγωδίες που θα μπορούσαν να έχουν αποφευχθεί, οι ερευνητές &apos;χτενίζουν&apos; τα υπολείμματα τριών ξεχωριστών εναέριων συγκρούσεων, σε μια προσπάθεια να αποτρέψουν άλλο ένα μοιραίο δυστύχημα. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510022500 GMT+3" stop="20260510031000 GMT+3" channel="216459">
+  <programme start="20260510022000 GMT+3" stop="20260510031000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ4</title>
     <desc lang="el">Όταν ένα αεροσκάφος χάνει όλες του τις μηχανές, η εκπαίδευση του πιλότου μπορεί να σώσει την κατάσταση. Για άλλη μία φορά είναι στο χέρι των ερευνητών να ανακαλύψουν τι πήγε στραβά. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510031000 GMT+3" stop="20260510040000 GMT+3" channel="216459">
+  <programme start="20260510031000 GMT+3" stop="20260510035500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ5</title>
     <desc lang="el">Τρία μυστηριώδη ατυχήματα κάνουν τους ερευνητές να αναζητούν στοιχεία. Στο τέλος, όλες οι έρευνες οδηγούν στο ίδιο σημείο: το ντεπόζιτο. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510040000 GMT+3" stop="20260510044500 GMT+3" channel="216459">
+  <programme start="20260510035500 GMT+3" stop="20260510044500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ7</title>
     <desc lang="el">Εάν ο πιλότος δεν είναι έτοιμος τη στιγμή που φαίνεται ο αεροδιάδρομος, η προσγείωση μπορεί γρήγορα να μετατραπεί σε τραγωδία. Στην τελική προσέγγιση, ένα ινδονησιακό τζετ συντρίβεται με πολύ μεγάλη ταχύτητα. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510044500 GMT+3" stop="20260510053500 GMT+3" channel="216459">
+  <programme start="20260510044500 GMT+3" stop="20260510053000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ6</title>
     <desc lang="el">Τρία αεροπλάνα εκτός ελέγχου αναγκάζουν τους ερευνητές να αμφισβητούν τον κάθε υπολογισμό. Πρόκειται για ένα ρίσκο που μπορεί να αποφευχθεί, και όμως επαναλαμβανόμενα δυστυχήματα επιβεβαιώνουν την ανάγκη για εφεδρικά συστήματα. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510053500 GMT+3" stop="20260510060000 GMT+3" channel="216459">
+  <programme start="20260510053000 GMT+3" stop="20260510055500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ2</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε για την επιστήμη πίσω από το αγωνιστικό έλκηθρο, τους κινδύνους της όρθιας ανάποδης τούμπας και τους τρόπους με τους οποίους μπορούμε να ντροπιαστούμε και να τραυματιστούμε καθισμένοι πάνω σε ένα Swegway. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510060000 GMT+3" stop="20260510065000 GMT+3" channel="216459">
+  <programme start="20260510055500 GMT+3" stop="20260510064500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ1 ΕΠ4</title>
     <desc lang="el">Ο Ρίτσαρντ Χάμοντ ανακαλύπτει τα μυστικά του τηλεσκόπιου Keck, το οποίο έχει δει πιο μακριά μέσα στο διάστημα από οποιοδήποτε άλλο. (2008)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510065000 GMT+3" stop="20260510074000 GMT+3" channel="216459">
+  <programme start="20260510064500 GMT+3" stop="20260510073500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ2 ΕΠ1</title>
     <desc lang="el">Ανακαλύψτε πώς ένα ιστιοφόρο του 19ου αιώνα, μια μάσκα αερίου, αλλά και μια τεχνητή οδοντοστοιχία, ενέπνευσαν το σχεδιασμό της παγκοσμίου φήμης Όπερας του Σίδνεϊ. (2009)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510074000 GMT+3" stop="20260510083000 GMT+3" channel="216459">
+  <programme start="20260510073500 GMT+3" stop="20260510082500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ2 ΕΠ2</title>
     <desc lang="el">Χτισμένο πάνω σε ένα τεχνητό νησί, το νέο αεροδρόμιο της πόλης του Χονγκ Κονγκ άντλησε την έμπνευση του από ένα βομβαρδιστικό του Β&apos; Παγκοσμίου Πολέμου, τους κατασκόπους του Ψυχρού Πολέμου και μια μπάντα πνευστών οργάνων. (2009)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510083000 GMT+3" stop="20260510092000 GMT+3" channel="216459">
+  <programme start="20260510082500 GMT+3" stop="20260510091500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ2 ΕΠ3</title>
     <desc lang="el">Ο Richard Hammond επισκέπτεται την ψηλότερη οδική γέφυρα στον πλανήτη, ανακαλύπτοντας πώς το τεφλόν και η αρχαία κελτική ναυπηγική βοήθησαν τους σχεδιαστές της. (2009)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510092000 GMT+3" stop="20260510101000 GMT+3" channel="216459">
+  <programme start="20260510091500 GMT+3" stop="20260510100500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ2 ΕΠ4</title>
     <desc lang="el">Ο Richard Hammond εξετάζει την αψίδα του νέου σταδίου του Wembley, που έσπασε όλα τα ρεκόρ και αποτελεί στοιχείο-κλειδί στον στόχο των σχεδιαστών να διατηρήσουν το θρυλικό status του σταδίου. (2009)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510101000 GMT+3" stop="20260510110000 GMT+3" channel="216459">
+  <programme start="20260510100500 GMT+3" stop="20260510105500 GMT+3" channel="216459">
     <title lang="el">Προκλήσεις Μηχανικής Κ2 ΕΠ5</title>
     <desc lang="el">Ο Richard Hammond διερευνά τις πολλαπλές επιρροές πίσω από τη δημιουργία του HMS Illustrious, αποκαλύπτοντας πώς ένα μπούμερανγκ μπορεί να βοηθήσει στο σχεδιασμό ενός τεράστιου αεροπλανοφόρου. (2009)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510110000 GMT+3" stop="20260510114500 GMT+3" channel="216459">
+  <programme start="20260510105500 GMT+3" stop="20260510114000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ3</title>
     <desc lang="el">Με το καλοκαίρι στο απόγειό του, οι κάτοικοι της Αλάσκα καλούνται να πάρουν μεγάλα ρίσκα για να διασφαλίσουν το καλοκαιρινό τους φαγητό και να προετοιμαστούν για έναν επιτυχημένο χειμώνα. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510114500 GMT+3" stop="20260510123000 GMT+3" channel="216459">
+  <programme start="20260510114000 GMT+3" stop="20260510122500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ4</title>
     <desc lang="el">Η Επόμενη Γενιά προσαρμόζεται στον ακραίο καιρό της Αλάσκα για να εξερευνήσει επικίνδυνα εδάφη ελπίζοντας να ανακαλύψει νέες σανίδες σωτηρίας. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510123000 GMT+3" stop="20260510131500 GMT+3" channel="216459">
+  <programme start="20260510122500 GMT+3" stop="20260510131000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ5</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να ολοκληρώσουν τις φθινοπωρινές τους εργασίες για να προστατευτούν σε μια κατά τ&apos; άλλα αβέβαιη και δύσκολη χειμερινή σεζόν. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510131500 GMT+3" stop="20260510140000 GMT+3" channel="216459">
+  <programme start="20260510131000 GMT+3" stop="20260510135500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ6</title>
     <desc lang="el">Καθώς το καλοκαίρι τελειώνει, η επόμενη γενιά κατοίκων της Αλάσκα χρησιμοποιούν τη γη και τη θάλασσα για να κυνηγήσουν και να συγκεντρώσουν πόρους πριν καταφθάσει ο σκοτεινός χειμώνας. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510140000 GMT+3" stop="20260510144500 GMT+3" channel="216459">
+  <programme start="20260510135500 GMT+3" stop="20260510144000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ7</title>
     <desc lang="el">Το αρκτικό φθινόπωρο πλησιάζει στο τέλος του καθώς ο χειμώνας χτυπάει την πόρτα, και η επόμενη γενιά κατοίκων της Αλάσκα ακούν τις προειδοποιήσεις και ετοιμάζονται να τον υποδεχτούν. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510144500 GMT+3" stop="20260510150500 GMT+3" channel="216459">
+  <programme start="20260510144000 GMT+3" stop="20260510150500 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ7</title>
     <desc lang="el">Τα αγόρια πηγαίνουν στο Colorado Springs, όπου ο Jim ανακαλύπτει ένα από τα μεγαλύτερα αντικείμενα που θα μπορούσαν να δοθούν για δημοπρασία: ένα προβολέα αεροσκάφους του Β&apos; Παγκοσμίου Πολέμου. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -60301,43 +60979,43 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510153000 GMT+3" stop="20260510162000 GMT+3" channel="216459">
+  <programme start="20260510153000 GMT+3" stop="20260510161500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ5 ΕΠ3</title>
     <desc lang="el">Μια νέα ανακάλυψη ναυαγίου στη Βαλτική οδηγεί τους εξερευνητές να αναζητήσουν τον μεγαλύτερο χαμένο θησαυρό του κόσμου, και αποκαλύπτει την ιστορία της &apos;Δουνκέρκης&apos; της Γερμανίας. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510162000 GMT+3" stop="20260510170500 GMT+3" channel="216459">
+  <programme start="20260510161500 GMT+3" stop="20260510170000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ5 ΕΠ1</title>
     <desc lang="el">Η αφαίρεση των νερών της Χαβάης αποκαλύπτει τα μυστικά όπλα της Ιαπωνίας, από μίνι υποβρύχια μέχρι μαχητικά αεροσκάφη, με το ναυάγιο του USS Arizona να αποτελεί υπενθύμιση των δυνάμεων που εξαπολύθηκαν. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510170500 GMT+3" stop="20260510175000 GMT+3" channel="216459">
+  <programme start="20260510170000 GMT+3" stop="20260510175000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ5 ΕΠ4</title>
     <desc lang="el">Βυθισμένα ναυάγια και χαμένα πεδία μάχης αποκαλύπτουν μυστικά για την πιο διάσημη πολιορκία της Αμερικής και αφηγούνται πώς το Τέξας, ενάντια στις πιθανότητες, διασφάλισε την ανεξαρτησία του. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510175000 GMT+3" stop="20260510184000 GMT+3" channel="216459">
+  <programme start="20260510175000 GMT+3" stop="20260510183500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ5 ΕΠ5</title>
     <desc lang="el">Νέες ανακαλύψεις που έγιναν σε μια χαμένη πόλη και μια ανθρωποθυσία βαθιά σε μια υποβρύχια σπηλιά αποκαλύπτουν μυστικά για την άνοδο και πτώση των αρχαίων Μάγια. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510184000 GMT+3" stop="20260510192500 GMT+3" channel="216459">
+  <programme start="20260510183500 GMT+3" stop="20260510192500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ5 ΕΠ6</title>
     <desc lang="el">Μυστηριώδη αεροπορικά ερείπια στην Καραϊβική και μυστικά τούνελ κατά μήκος των συνόρων Αμερικής-Μεξικού αποκαλύπτουν την έκταση του αδιάκοπου πολέμου ενάντια στα ναρκωτικά. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510192500 GMT+3" stop="20260510201500 GMT+3" channel="216459">
+  <programme start="20260510192500 GMT+3" stop="20260510201000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ2</title>
     <desc lang="el">Ταξιδέψτε σε όλη την Ευρώπη για να ανακαλύψετε εξαιρετικά επιτεύγματα μηχανικής και καινοτομίας. Μέσα από δυναμικές ιστορίες και συζητήσεις με μηχανικούς, ανακαλύψτε πώς η αδιάκοπη εφευρετικότητα έχει διαμορφώσει αυτά τα τεράστια, βαριά και εμβληματικά ορόσημα, όπως το ολλανδικό κάστρο Ντε Χάαρ και το ισπανικό ξενοδοχείο Marques de Riscal, επαναπροσδιορίζοντας για πάντα τι είναι δυνατό σε όλη την Ευρώπη. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510201500 GMT+3" stop="20260510210000 GMT+3" channel="216459">
+  <programme start="20260510201000 GMT+3" stop="20260510210000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ14 ΕΠ1</title>
     <desc lang="el">Ο Τιμ και ο Φαζ αντιμετωπίζουν μια τολμηρή αποστολή: να διασώσουν ένα Frogeye Sprite κρυμμένο σε ένα γκαράζ για πάνω από 50 χρόνια, το οποίο έχει σκουριάσει, έχει κατασχεθεί και διαλύεται. Με έναν κλειδαρά καθ&apos; οδόν, μπορούν να το αποκαταστήσουν εγκαίρως για μια συγκινητική αποκάλυψη στον αμπελώνα - με την απρόσμενη βοήθεια της κυρίας Τζοάνα Λάμλεϊ; Ο χρόνος περνάει. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -60355,13 +61033,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510223000 GMT+3" stop="20260510231500 GMT+3" channel="216459">
+  <programme start="20260510223000 GMT+3" stop="20260510232000 GMT+3" channel="216459">
     <title lang="el">Γεύσεις από σπίτι με τον Άντονι Πορόφσκι Κ1 ΕΠ5</title>
     <desc lang="el">Μέσω της Οξφόρδης και της ακτής του Γιόρκσιρ μέχρι το Λονδίνο, ο Άντονι βοηθά τη Φλόρενς να ξεθάψει οικογενειακές ιστορίες που αποκαλύπτουν την προέλευση της αγάπης τους για το φαγητό. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260510231500 GMT+3" stop="20260511000000 GMT+3" channel="216459">
+  <programme start="20260510232000 GMT+3" stop="20260511000500 GMT+3" channel="216459">
     <title lang="el">Συλλήψεις στα Σύνορα Κ10 ΕΠ8</title>
     <desc lang="el">Το Εσωτερικής Ασφάλειας του Πουέρτο Ρίκο βρίσκει εγκαταλειμμένη κοκαΐνη στην παραλία. Η Υπηρεσία Συνόρων κατάσχει πάνω από 120 κιλά μεθαμφεταμίνης κρυμμένα σε παλέτες, και κλεμμένα αυτοκίνητα κρυμμένα σε κοντέινερ για εξαγωγή. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68337,7 +69015,7 @@
   </programme>
   <programme start="20260510013000 GMT+3" stop="20260510020000 GMT+3" channel="211368">
     <title lang="el">The Bottom Line ΕΠ19</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2026)</desc>
+    <desc lang="el">Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -68360,14 +69038,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260510040000 GMT+3" stop="20260510050000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <title lang="el">Al Jazeera World</title>
+    <desc lang="el">Israel&apos;s intelligence investigated in a story of spies, moles and blind spots, from early-state betrayals to 7th October 2023 and today&apos;s conflict with Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260510050000 GMT+3" stop="20260510060000 GMT+3" channel="211368">
-    <title lang="el">Newshour</title>
-    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+  <programme start="20260510050000 GMT+3" stop="20260510053000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510053000 GMT+3" stop="20260510060000 GMT+3" channel="211368">
+    <title lang="el">The Silencing of Anas Al Sharif</title>
+    <desc lang="el">A haunting look at the targeted killing of journalist Anas al Sharif and the war on truth in Gaza. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -68433,7 +69117,7 @@
   </programme>
   <programme start="20260510113000 GMT+3" stop="20260510120000 GMT+3" channel="211368">
     <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -68445,7 +69129,7 @@
   </programme>
   <programme start="20260510123000 GMT+3" stop="20260510130000 GMT+3" channel="211368">
     <title lang="el">The Bottom Line ΕΠ19</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2026)</desc>
+    <desc lang="el">Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -69640,6 +70324,138 @@
   <programme start="20260510220000 GMT+3" stop="20260511000000 GMT+3" channel="53005467">
     <title lang="el">Le Havre - Marseille 10/5/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510000000 GMT+3" stop="20260510020000 GMT+3" channel="75835625">
+    <title lang="el">2011-12 ΟΜΟΝΟΙΑ - ΑΕΚ 2-0 A</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510020000 GMT+3" stop="20260510040000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510040000 GMT+3" stop="20260510060000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (14/01/2026)</title>
+    <desc lang="el">ΚΥΠΕΛΛΟ COCA COLA 2025-2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510070000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.17 - ΑΝΤΡΕΑΣ ΑΝΤΡΕΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510070000 GMT+3" stop="20260510073000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510073000 GMT+3" stop="20260510093000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510093000 GMT+3" stop="20260510100000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΡΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510100000 GMT+3" stop="20260510103000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510103000 GMT+3" stop="20260510110000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΠΑΦΟΣ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510110000 GMT+3" stop="20260510120000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510123000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510123000 GMT+3" stop="20260510143000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510143000 GMT+3" stop="20260510150000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510150000 GMT+3" stop="20260510160000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510160000 GMT+3" stop="20260510170000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510170000 GMT+3" stop="20260510171500 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510171500 GMT+3" stop="20260510180000 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - PRE GAME (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510180000 GMT+3" stop="20260510200000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510200000 GMT+3" stop="20260510203000 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - POST GAME (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510203000 GMT+3" stop="20260510213000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ (Z)</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510213000 GMT+3" stop="20260510233000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510233000 GMT+3" stop="20260511000000 GMT+3" channel="75835625">
+    <title lang="el">ΣΤΗΝ ΨΑΘΑΡΚΑ S2, EP.8</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -71851,6 +72667,204 @@
   <programme start="20260510220000 GMT+3" stop="20260511000000 GMT+3" channel="52187749">
     <title lang="el">Monaco - Lille 10/5/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510000000 GMT+3" stop="20260510060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510170000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510170000 GMT+3" stop="20260510230000 GMT+3" channel="52196563">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510230000 GMT+3" stop="20260511000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510000000 GMT+3" stop="20260510060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510172000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510172000 GMT+3" stop="20260510210000 GMT+3" channel="52196745">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΑΠΟΕΛ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510210000 GMT+3" stop="20260511000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510000000 GMT+3" stop="20260510060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510155000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510155000 GMT+3" stop="20260510182000 GMT+3" channel="52196572">
+    <title lang="el">NOTTINGHAM FOREST - NEWCASTLE (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510182000 GMT+3" stop="20260510215500 GMT+3" channel="52196572">
+    <title lang="el">WEST HAM UTD - ARSENAL (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510215500 GMT+3" stop="20260511010000 GMT+3" channel="52196572">
+    <title lang="el">BARCELONA - REAL MADRID (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510000000 GMT+3" stop="20260510060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510155000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510155000 GMT+3" stop="20260510192500 GMT+3" channel="52196754">
+    <title lang="el">BURNLEY - ASTON VILLA (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510192500 GMT+3" stop="20260510214000 GMT+3" channel="52196754">
+    <title lang="el">ΑΕΚ- ΠΑΝΑΘΗΝΑΙΚΟΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510214000 GMT+3" stop="20260511004500 GMT+3" channel="52196754">
+    <title lang="el">MILAN - ATALANTA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510004500 GMT+3" stop="20260510060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510180000 GMT+3" stop="20260510192500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510192500 GMT+3" stop="20260510223000 GMT+3" channel="52196581">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΣ - ΠΑΟΚ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510223000 GMT+3" stop="20260511000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510010000 GMT+3" stop="20260510060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510060000 GMT+3" stop="20260510120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510120000 GMT+3" stop="20260510140000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510140000 GMT+3" stop="20260510195500 GMT+3" channel="52196763">
+    <title lang="el">38η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260510195500 GMT+3" stop="20260511000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77963,13 +78977,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511000000 GMT+3" stop="20260511004500 GMT+3" channel="216459">
+  <programme start="20260511000500 GMT+3" stop="20260511005000 GMT+3" channel="216459">
     <title lang="el">Ο Τούτσι στην Ιταλία Κ1 ΕΠ5</title>
     <desc lang="el">Ο Στάνλεϊ ανακαλύπτει απρόσμενες γεύσεις σε αυτή την άγρια περιοχή, αποκαλύπτοντας πώς το τραχύ έδαφος επηρεάζει το φαγητό και την κουλτούρα της. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511004500 GMT+3" stop="20260511013500 GMT+3" channel="216459">
+  <programme start="20260511005000 GMT+3" stop="20260511013500 GMT+3" channel="216459">
     <title lang="el">Ο Τούτσι στην Ιταλία Κ1 ΕΠ3</title>
     <desc lang="el">Ο Στάνλεϊ ταξιδεύει πέρα από τη Ρώμη στη λιγότερο γνωστή ύπαιθρο του Λάτσιο για να κατανοήσει τη σχέση μεταξύ της αρχαίας μητρόπολης και της αγροτικής ενδοχώρας. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -77981,25 +78995,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511022000 GMT+3" stop="20260511030500 GMT+3" channel="216459">
+  <programme start="20260511022000 GMT+3" stop="20260511031000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ1</title>
     <desc lang="el">Όταν ένα φορτηγό πέφτει πάνω σε έναν σωρό από χιόνι στα βουνά, ο Θορντ και ο πρωτάρης Τέργιε πρέπει να θέσουν τη ζωή τους σε κίνδυνο για να σώσουν το πολύτιμο φορτίο του. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511030500 GMT+3" stop="20260511035500 GMT+3" channel="216459">
+  <programme start="20260511031000 GMT+3" stop="20260511035500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ3</title>
     <desc lang="el">Όταν επικρατεί χάος στα βουνά και οι κλήσεις έκτακτης ανάγκης δεν σταματούν, ο Θορντ ξεμένει από επιλογές. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511035500 GMT+3" stop="20260511044000 GMT+3" channel="216459">
+  <programme start="20260511035500 GMT+3" stop="20260511044500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ4</title>
     <desc lang="el">Ο Τζο Ρότζερ και ο Όλε Χένρικ πασχίζουν να σώσουν ένα τρέιλερ που μεταφέρει αλάτι, το οποίο απειλεί να μολύνει τον μεγαλύτερο ποταμό της Νορβηγίας που φιλοξενεί σολομούς. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260511044000 GMT+3" stop="20260511053000 GMT+3" channel="216459">
+  <programme start="20260511044500 GMT+3" stop="20260511053000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ2</title>
     <desc lang="el">Όταν ένα φορτηγό προσκρούει σε προστατευτική μπάρα και ανατρέπεται, ο Θορντ και ο Μπιορν συνεργάζονται όλη νύχτα για να σώσουν ένα πολύτιμο φορτίο φρέσκου σολομού. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -85649,21 +86663,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260511040000 GMT+3" stop="20260511050000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511050000 GMT+3" stop="20260511053000 GMT+3" channel="211368">
+  <programme start="20260511040000 GMT+3" stop="20260511043000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260511053000 GMT+3" stop="20260511060000 GMT+3" channel="211368">
-    <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+  <programme start="20260511043000 GMT+3" stop="20260511050000 GMT+3" channel="211368">
+    <title lang="el">The Bottom Line ΕΠ19</title>
+    <desc lang="el">Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511050000 GMT+3" stop="20260511060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85674,8 +86688,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511063000 GMT+3" stop="20260511070000 GMT+3" channel="211368">
-    <title lang="el">The Bottom Line ΕΠ19</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2026)</desc>
+    <title lang="el">Counting the Cost ΕΠ28</title>
+    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85686,8 +86700,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511073000 GMT+3" stop="20260511080000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
+    <desc lang="el">How Spain conquered with armies and missionaries - fusing faith, force, and gold into global dominance. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85710,20 +86724,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511093000 GMT+3" stop="20260511100000 GMT+3" channel="211368">
-    <title lang="el">Fault Lines</title>
-    <desc lang="el">Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the role of the US in the world. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260511100000 GMT+3" stop="20260511103000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260511103000 GMT+3" stop="20260511110000 GMT+3" channel="211368">
-    <title lang="el">Counting the Cost ΕΠ28</title>
-    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
+  <programme start="20260511100000 GMT+3" stop="20260511110000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85734,8 +86742,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511113000 GMT+3" stop="20260511120000 GMT+3" channel="211368">
-    <title lang="el">The Listening Post ΕΠ19</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
+    <title lang="el">Business of War</title>
+    <desc lang="el">Hind Hassan explores the US weapons industry - the largest of them all – tracing its impacts on American democracy and beyond. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85746,8 +86754,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511123000 GMT+3" stop="20260511130000 GMT+3" channel="211368">
-    <title lang="el">Studio B: The AI Series</title>
-    <desc lang="el">Nobel peace prize Laureate Maria Ressa discusses AI with Professor Michael Wooldridge and how far the technology has come. (2024)</desc>
+    <title lang="el">The Listening Post ΕΠ19</title>
+    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85770,8 +86778,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511150000 GMT+3" stop="20260511160000 GMT+3" channel="211368">
-    <title lang="el">Who Killed Shireen?</title>
-    <desc lang="el">An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments. (2025)</desc>
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85806,8 +86814,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260511193000 GMT+3" stop="20260511200000 GMT+3" channel="211368">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region..</desc>
+    <title lang="el">UpFront ΕΠ14</title>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -85841,9 +86849,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260511230000 GMT+3" stop="20260512000000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera World Κ13</title>
-    <desc lang="el">A series of one-hour documentaries showcasing films from across the Al Jazeera Network. (2026)</desc>
+  <programme start="20260511230000 GMT+3" stop="20260511233000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511233000 GMT+3" stop="20260512000000 GMT+3" channel="211368">
+    <title lang="el">Witness</title>
+    <desc lang="el">Determined to break the siege on Gaza, two filmmakers share their dramatic first-hand accounts aboard the Global Sumud Flotilla. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -86810,6 +87824,150 @@
   <programme start="20260511223000 GMT+3" stop="20260512003000 GMT+3" channel="53005467">
     <title lang="el">Valencia Basket - Kosner Baskonia 10/5/26 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511000000 GMT+3" stop="20260511020000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511020000 GMT+3" stop="20260511023000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511023000 GMT+3" stop="20260511033000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511033000 GMT+3" stop="20260511040000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.50</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511040000 GMT+3" stop="20260511043000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511043000 GMT+3" stop="20260511053000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511053000 GMT+3" stop="20260511073000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511073000 GMT+3" stop="20260511080000 GMT+3" channel="75835625">
+    <title lang="el">ΣΤΗΝ ΨΑΘΑΡΚΑ S2, EP.8</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511080000 GMT+3" stop="20260511090000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511090000 GMT+3" stop="20260511100000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511100000 GMT+3" stop="20260511100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511100500 GMT+3" stop="20260511110000 GMT+3" channel="75835625">
+    <title lang="el">... ΣΥΝΕΧΕΙΑ ΑΕΚ - ΟΜΟΝΟΙΑ (14/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511110000 GMT+3" stop="20260511120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511133000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511133000 GMT+3" stop="20260511140000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511140000 GMT+3" stop="20260511160000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511160000 GMT+3" stop="20260511180000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260511190000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511190000 GMT+3" stop="20260511190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511190500 GMT+3" stop="20260511193000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511193000 GMT+3" stop="20260511210000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511210000 GMT+3" stop="20260511213000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511213000 GMT+3" stop="20260511233000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511233000 GMT+3" stop="20260512000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -88743,6 +89901,180 @@
   <programme start="20260511220000 GMT+3" stop="20260512000000 GMT+3" channel="52187749">
     <title lang="el">Toulouse - Lyon 10/5/26</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260511214000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511214000 GMT+3" stop="20260512004500 GMT+3" channel="52196563">
+    <title lang="el">NAPOLI - BOLOGNA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260511215500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511215500 GMT+3" stop="20260512010000 GMT+3" channel="52196745">
+    <title lang="el">RAYO VALLECANO - GIRONA (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511010000 GMT+3" stop="20260511060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260511215000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511215000 GMT+3" stop="20260512010000 GMT+3" channel="52196572">
+    <title lang="el">TOTTENHAM - LEEDS (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511004500 GMT+3" stop="20260511060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260512000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260512000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511000000 GMT+3" stop="20260511060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511060000 GMT+3" stop="20260511120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511120000 GMT+3" stop="20260511180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511180000 GMT+3" stop="20260511195500 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511195500 GMT+3" stop="20260511220500 GMT+3" channel="52196763">
+    <title lang="el">ΒΡΑΒΕΥΣΕΙΣ ΑΡΙΣΤΩΝ ΙΠΠΟΔΡΟΜΟΥ 2025 (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260511220500 GMT+3" stop="20260512000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -102348,15 +103680,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512010000 GMT+3" stop="20260512013000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512013000 GMT+3" stop="20260512020000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+  <programme start="20260512010000 GMT+3" stop="20260512020000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102378,21 +103704,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512040000 GMT+3" stop="20260512050000 GMT+3" channel="211368">
-    <title lang="el">Who Killed Shireen?</title>
-    <desc lang="el">An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments. (2025)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512050000 GMT+3" stop="20260512053000 GMT+3" channel="211368">
+  <programme start="20260512040000 GMT+3" stop="20260512043000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512053000 GMT+3" stop="20260512060000 GMT+3" channel="211368">
-    <title lang="el">The Listening Post ΕΠ19</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
+  <programme start="20260512043000 GMT+3" stop="20260512050000 GMT+3" channel="211368">
+    <title lang="el">Business of War</title>
+    <desc lang="el">Hind Hassan explores the US weapons industry - the largest of them all – tracing its impacts on American democracy and beyond. (2025)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512050000 GMT+3" stop="20260512060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102403,8 +103729,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512063000 GMT+3" stop="20260512070000 GMT+3" channel="211368">
-    <title lang="el">Studio B: The AI Series</title>
-    <desc lang="el">Nobel peace prize Laureate Maria Ressa discusses AI with Professor Michael Wooldridge and how far the technology has come. (2024)</desc>
+    <title lang="el">The Listening Post ΕΠ19</title>
+    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102415,8 +103741,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512073000 GMT+3" stop="20260512080000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
-    <desc lang="el">Portugal&apos;s global trade empire - from fortified ports to faith-fuelled profits across Africa, Brazil, and Asia. (2026)</desc>
+    <title lang="el">UpFront ΕΠ14</title>
+    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102439,20 +103765,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512093000 GMT+3" stop="20260512100000 GMT+3" channel="211368">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region..</desc>
+    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
+    <desc lang="el">Portugal&apos;s global trade empire - from fortified ports to faith-fuelled profits across Africa, Brazil, and Asia. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512100000 GMT+3" stop="20260512103000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260512103000 GMT+3" stop="20260512110000 GMT+3" channel="211368">
-    <title lang="el">The Bottom Line ΕΠ19</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2026)</desc>
+  <programme start="20260512100000 GMT+3" stop="20260512110000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102463,8 +103783,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512113000 GMT+3" stop="20260512120000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Witness</title>
+    <desc lang="el">Determined to break the siege on Gaza, two filmmakers share their dramatic first-hand accounts aboard the Global Sumud Flotilla. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102475,8 +103795,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512123000 GMT+3" stop="20260512130000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102499,8 +103819,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512150000 GMT+3" stop="20260512160000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102535,8 +103855,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512193000 GMT+3" stop="20260512200000 GMT+3" channel="211368">
-    <title lang="el">Counting the Cost</title>
-    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2026)</desc>
+    <title lang="el">The Bottom Line ΕΠ19</title>
+    <desc lang="el">Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -102565,14 +103885,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260512223000 GMT+3" stop="20260512230000 GMT+3" channel="211368">
-    <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <title lang="el">Counting the Cost ΕΠ29</title>
+    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260512230000 GMT+3" stop="20260513000000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera World Κ13</title>
-    <desc lang="el">A series of one-hour documentaries showcasing films from across the Al Jazeera Network. (2026)</desc>
+  <programme start="20260512230000 GMT+3" stop="20260512233000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512233000 GMT+3" stop="20260513000000 GMT+3" channel="211368">
+    <title lang="el">Making Peace Κ1</title>
+    <desc lang="el">In post-genocide Rwanda, fragile encounters see survivors and perpetrators face the past to reopen paths to coexistence. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -103575,6 +104901,138 @@
   <programme start="20260512220000 GMT+3" stop="20260513000000 GMT+3" channel="53005467">
     <title lang="el">UCAM Murcia - Basquet Girona 9/5/26 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512000000 GMT+3" stop="20260512013000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512013000 GMT+3" stop="20260512020000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512020000 GMT+3" stop="20260512040000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512040000 GMT+3" stop="20260512060000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512070000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512070000 GMT+3" stop="20260512073000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512073000 GMT+3" stop="20260512090000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512090000 GMT+3" stop="20260512100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512100000 GMT+3" stop="20260512100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512100500 GMT+3" stop="20260512110000 GMT+3" channel="75835625">
+    <title lang="el">...ΣΥΝΕΧΕΙΑ ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512110000 GMT+3" stop="20260512113000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512113000 GMT+3" stop="20260512120000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.9</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512130000 GMT+3" channel="75835625">
+    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.27</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512130000 GMT+3" stop="20260512150000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - EΘΝΙΚΟΣ ΑΣΣΙΑΣ (22/04/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512150000 GMT+3" stop="20260512170000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512170000 GMT+3" stop="20260512190000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512190000 GMT+3" stop="20260512190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512190500 GMT+3" stop="20260512200000 GMT+3" channel="75835625">
+    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.27</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512200000 GMT+3" stop="20260512210000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512210000 GMT+3" stop="20260512223000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512223000 GMT+3" stop="20260512230000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512230000 GMT+3" stop="20260513000000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -105697,6 +107155,198 @@
   <programme start="20260512223000 GMT+3" stop="20260513003000 GMT+3" channel="52187749">
     <title lang="el">Valencia Basket - Kosner Baskonia 10/5/26 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512004500 GMT+3" stop="20260512060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260512185500 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512185500 GMT+3" stop="20260512220000 GMT+3" channel="52196563">
+    <title lang="el">ΚΗΦΙΣΙΑ - ΑΤΡΟΜΗΤΟΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512220000 GMT+3" stop="20260513000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512010000 GMT+3" stop="20260512060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260512185500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512185500 GMT+3" stop="20260512220000 GMT+3" channel="52196745">
+    <title lang="el">ΠΑΝΑΙΤΩΛΙΚΟΣ - ΛΑΡΙΣΑ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512220000 GMT+3" stop="20260513000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512010000 GMT+3" stop="20260512060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260512195500 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512195500 GMT+3" stop="20260512222500 GMT+3" channel="52196572">
+    <title lang="el">CELTA VIGO - LEVANTE (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512222500 GMT+3" stop="20260513013000 GMT+3" channel="52196572">
+    <title lang="el">OSASUNA - ATLETICO MADRID (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260513000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260513000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512000000 GMT+3" stop="20260512060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512060000 GMT+3" stop="20260512120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512120000 GMT+3" stop="20260512180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512180000 GMT+3" stop="20260512210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512210000 GMT+3" stop="20260512220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (39η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260512220000 GMT+3" stop="20260513000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -119069,15 +120719,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513010000 GMT+3" stop="20260513013000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260513013000 GMT+3" stop="20260513020000 GMT+3" channel="211368">
-    <title lang="el">Apocalypse Maybe</title>
-    <desc lang="el">Hawaiians respond to a threat of nuclear attack and a survivor tells of coping with the Hiroshima bombing. (2024)</desc>
+  <programme start="20260513010000 GMT+3" stop="20260513020000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119099,21 +120743,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513040000 GMT+3" stop="20260513050000 GMT+3" channel="211368">
-    <title lang="el">Who Killed Shireen?</title>
-    <desc lang="el">An investigation into the murder of Al Jazeera journalist Shireen Abu Akleh uncovers new evidence as well as a cover-up by the Israeli and American governments. (2025)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260513050000 GMT+3" stop="20260513053000 GMT+3" channel="211368">
+  <programme start="20260513040000 GMT+3" stop="20260513043000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513053000 GMT+3" stop="20260513060000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+  <programme start="20260513043000 GMT+3" stop="20260513050000 GMT+3" channel="211368">
+    <title lang="el">Witness</title>
+    <desc lang="el">Determined to break the siege on Gaza, two filmmakers share their dramatic first-hand accounts aboard the Global Sumud Flotilla. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513050000 GMT+3" stop="20260513060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119124,8 +120768,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513063000 GMT+3" stop="20260513070000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119136,8 +120780,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513073000 GMT+3" stop="20260513080000 GMT+3" channel="211368">
-    <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers. (2026)</desc>
+    <title lang="el">The Bottom Line ΕΠ19</title>
+    <desc lang="el">Economist Richard Wolff argues that the War on Iran will do lasting damage to the global economy. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119160,20 +120804,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513093000 GMT+3" stop="20260513100000 GMT+3" channel="211368">
-    <title lang="el">Counting the Cost</title>
-    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2026)</desc>
+    <title lang="el">Counting the Cost ΕΠ29</title>
+    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513100000 GMT+3" stop="20260513103000 GMT+3" channel="211368">
-    <title lang="el">News Live</title>
-    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260513103000 GMT+3" stop="20260513110000 GMT+3" channel="211368">
-    <title lang="el">Studio B: The AI Series</title>
-    <desc lang="el">Nobel peace prize Laureate Maria Ressa discusses AI with Professor Michael Wooldridge and how far the technology has come. (2024)</desc>
+  <programme start="20260513100000 GMT+3" stop="20260513110000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119184,8 +120822,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513113000 GMT+3" stop="20260513120000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
-    <desc lang="el">Portugal&apos;s global trade empire - from fortified ports to faith-fuelled profits across Africa, Brazil, and Asia. (2026)</desc>
+    <title lang="el">Making Peace Κ1</title>
+    <desc lang="el">In post-genocide Rwanda, fragile encounters see survivors and perpetrators face the past to reopen paths to coexistence. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119196,8 +120834,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513123000 GMT+3" stop="20260513130000 GMT+3" channel="211368">
-    <title lang="el">Apocalypse Maybe</title>
-    <desc lang="el">Hawaiians respond to a threat of nuclear attack and a survivor tells of coping with the Hiroshima bombing. (2024)</desc>
+    <title lang="el">Al Jazeera Untangles - The Coloniser&apos;s Academy</title>
+    <desc lang="el">Portugal&apos;s global trade empire - from fortified ports to faith-fuelled profits across Africa, Brazil, and Asia. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119220,8 +120858,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513150000 GMT+3" stop="20260513160000 GMT+3" channel="211368">
-    <title lang="el">Al Jazeera World Κ13</title>
-    <desc lang="el">A series of one-hour documentaries showcasing films from across the Al Jazeera Network. (2026)</desc>
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119238,8 +120876,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513173000 GMT+3" stop="20260513180000 GMT+3" channel="211368">
-    <title lang="el">The Listening Post ΕΠ19</title>
-    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
+    <title lang="el">Counting the Cost ΕΠ29</title>
+    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119256,8 +120894,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513193000 GMT+3" stop="20260513200000 GMT+3" channel="211368">
-    <title lang="el">The Bottom Line ΕΠ19</title>
-    <desc lang="el">Al Jazeera English gets to the bottom line on US politics and policies and how they affect the world. (2026)</desc>
+    <title lang="el">Business of War</title>
+    <desc lang="el">Hind Hassan explores the US weapons industry - the largest of them all – tracing its impacts on American democracy and beyond. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -119286,14 +120924,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513223000 GMT+3" stop="20260513230000 GMT+3" channel="211368">
-    <title lang="el">101 East</title>
-    <desc lang="el">101 East reports on the people and events shaping the Asia Pacific region..</desc>
+    <title lang="el">The Listening Post ΕΠ19</title>
+    <desc lang="el">What is being reported by world media and how? Richard Gizbert guides you through the global news maze. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513230000 GMT+3" stop="20260514000000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+  <programme start="20260513230000 GMT+3" stop="20260513233000 GMT+3" channel="211368">
+    <title lang="el">News Live</title>
+    <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513233000 GMT+3" stop="20260514000000 GMT+3" channel="211368">
+    <title lang="el">Fault Lines</title>
+    <desc lang="el">Fault Lines and Lighthouse investigate a deadly siege in Sudan&apos;s El Fasher, where civilians were trapped, starved and killed as the war escalated. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -120302,6 +121946,126 @@
   <programme start="20260513220000 GMT+3" stop="20260514000000 GMT+3" channel="53005467">
     <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26 (Z)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513010000 GMT+3" channel="75835625">
+    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.27</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513010000 GMT+3" stop="20260513030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - EΘΝΙΚΟΣ ΑΣΣΙΑΣ (22/04/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513030000 GMT+3" stop="20260513050000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΚΑΡΜΙΩΤΙΣΣΑ (02/05/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513050000 GMT+3" stop="20260513070000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513070000 GMT+3" stop="20260513080000 GMT+3" channel="75835625">
+    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.27</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513080000 GMT+3" stop="20260513090000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513090000 GMT+3" stop="20260513100000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513100000 GMT+3" stop="20260513100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513100500 GMT+3" stop="20260513113000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513113000 GMT+3" stop="20260513120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513140000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (04/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513140000 GMT+3" stop="20260513150000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513150000 GMT+3" stop="20260513170000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513170000 GMT+3" stop="20260513183000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513183000 GMT+3" stop="20260513190000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΕΚ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513190000 GMT+3" stop="20260513190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513190500 GMT+3" stop="20260513210000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513210000 GMT+3" stop="20260513220000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513220000 GMT+3" stop="20260513230000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513230000 GMT+3" stop="20260514000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -122383,6 +124147,192 @@
     <title lang="el">Lens - Paris Saint-Germain 13/5/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513180000 GMT+3" stop="20260513184000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513184000 GMT+3" stop="20260513215000 GMT+3" channel="52196563">
+    <title lang="el">ΚΕΡΑΥΝΟΣ - ΑΕΚ (Z)</title>
+    <desc lang="el">ECOMMBX BASKET LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513215000 GMT+3" stop="20260514020000 GMT+3" channel="52196563">
+    <title lang="el">LAZIO - INTER (FINAL) (Z)</title>
+    <desc lang="el">COPPA ITALIA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513180000 GMT+3" stop="20260513192500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513192500 GMT+3" stop="20260513223000 GMT+3" channel="52196745">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΣ - ΠΑΝΑΘΗΝΑΙΚΟΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513223000 GMT+3" stop="20260514000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513013000 GMT+3" stop="20260513060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513165500 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513165500 GMT+3" stop="20260513195500 GMT+3" channel="52196572">
+    <title lang="el">ΒΟΛΟΣ - ΑΡΗΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513195500 GMT+3" stop="20260513222500 GMT+3" channel="52196572">
+    <title lang="el">VILLARREAL - SEVILLA (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513222500 GMT+3" stop="20260514013000 GMT+3" channel="52196572">
+    <title lang="el">ALAVES - BARCELONA (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513180000 GMT+3" stop="20260514000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513180000 GMT+3" stop="20260514000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513000000 GMT+3" stop="20260513060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513060000 GMT+3" stop="20260513120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513120000 GMT+3" stop="20260513140000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513140000 GMT+3" stop="20260513215000 GMT+3" channel="52196763">
+    <title lang="el">39η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513215000 GMT+3" stop="20260514010000 GMT+3" channel="52196763">
+    <title lang="el">MANCHESTER CITY - CRYSTAL PALACE (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
     <rating>K</rating>
   </programme>
 </tv>
