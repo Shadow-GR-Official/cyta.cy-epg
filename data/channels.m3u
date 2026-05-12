@@ -95,8 +95,6 @@ http://127.0.0.1/9744258
 http://127.0.0.1/216382
 #EXTINF:-1 tvg-id="123833" tvg-name="FTV UHD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/48/202402260809111730b8.png",FTV UHD
 http://127.0.0.1/123833
-#EXTINF:-1 tvg-id="573950" tvg-name="MAD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/28/202402260835162075ef.png",MAD
-http://127.0.0.1/573950
 #EXTINF:-1 tvg-id="574035" tvg-name="MAD Viral" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/48/20240226083450358mgv.png",MAD Viral
 http://127.0.0.1/574035
 #EXTINF:-1 tvg-id="574124" tvg-name="MAD Greekζ" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/0/20240226081641326tc1.png",MAD Greekζ
