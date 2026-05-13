@@ -17271,91 +17271,97 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513023000 GMT+3" stop="20260513043000 GMT+3" channel="4185119">
+  <programme start="20260513023000 GMT+3" stop="20260513043400 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513043000 GMT+3" stop="20260513063000 GMT+3" channel="4185119">
+  <programme start="20260513043400 GMT+3" stop="20260513063200 GMT+3" channel="4185119">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513063000 GMT+3" stop="20260513080000 GMT+3" channel="4185119">
+  <programme start="20260513063200 GMT+3" stop="20260513080000 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513080000 GMT+3" stop="20260513093000 GMT+3" channel="4185119">
+  <programme start="20260513080000 GMT+3" stop="20260513093600 GMT+3" channel="4185119">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513093000 GMT+3" stop="20260513100000 GMT+3" channel="4185119">
+  <programme start="20260513093600 GMT+3" stop="20260513095800 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513100000 GMT+3" stop="20260513110000 GMT+3" channel="4185119">
+  <programme start="20260513095800 GMT+3" stop="20260513110000 GMT+3" channel="4185119">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513110000 GMT+3" stop="20260513123000 GMT+3" channel="4185119">
+  <programme start="20260513110000 GMT+3" stop="20260513121000 GMT+3" channel="4185119">
     <title lang="el">- - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">- - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513123000 GMT+3" stop="20260513130000 GMT+3" channel="4185119">
+  <programme start="20260513121000 GMT+3" stop="20260513130000 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513130000 GMT+3" stop="20260513184500 GMT+3" channel="4185119">
+  <programme start="20260513130000 GMT+3" stop="20260513185000 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513184500 GMT+3" stop="20260513194500 GMT+3" channel="4185119">
+  <programme start="20260513185000 GMT+3" stop="20260513194100 GMT+3" channel="4185119">
     <title lang="el">- - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">- - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513194500 GMT+3" stop="20260513200000 GMT+3" channel="4185119">
+  <programme start="20260513194100 GMT+3" stop="20260513194500 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513194500 GMT+3" stop="20260513200800 GMT+3" channel="4185119">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
     <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513200000 GMT+3" stop="20260513210000 GMT+3" channel="4185119">
+  <programme start="20260513200800 GMT+3" stop="20260513210800 GMT+3" channel="4185119">
     <title lang="el">Γκραν Πρι - Μπογκοτά</title>
     <desc lang="el">Γκραν Πρι - Μπογκοτά</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513210000 GMT+3" stop="20260513220000 GMT+3" channel="4185119">
+  <programme start="20260513210800 GMT+3" stop="20260513221500 GMT+3" channel="4185119">
     <title lang="el">Σέιλ GP - Βερμούδες</title>
     <desc lang="el">Σέιλ GP - Βερμούδες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513220000 GMT+3" stop="20260513230000 GMT+3" channel="4185119">
+  <programme start="20260513221500 GMT+3" stop="20260513231500 GMT+3" channel="4185119">
     <title lang="el">PRO SERIES - Γύρος Ουγγαρίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Γύρος Ουγγαρίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513230000 GMT+3" stop="20260514010000 GMT+3" channel="4185119">
+  <programme start="20260513231500 GMT+3" stop="20260514011500 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -17373,55 +17379,55 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513023000 GMT+3" stop="20260513043000 GMT+3" channel="5183085">
+  <programme start="20260513023000 GMT+3" stop="20260513043100 GMT+3" channel="5183085">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513043000 GMT+3" stop="20260513063000 GMT+3" channel="5183085">
+  <programme start="20260513043100 GMT+3" stop="20260513062900 GMT+3" channel="5183085">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513063000 GMT+3" stop="20260513080000 GMT+3" channel="5183085">
+  <programme start="20260513062900 GMT+3" stop="20260513075900 GMT+3" channel="5183085">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513080000 GMT+3" stop="20260513093000 GMT+3" channel="5183085">
+  <programme start="20260513075900 GMT+3" stop="20260513092900 GMT+3" channel="5183085">
     <title lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513093000 GMT+3" stop="20260513100000 GMT+3" channel="5183085">
+  <programme start="20260513092900 GMT+3" stop="20260513100100 GMT+3" channel="5183085">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513100000 GMT+3" stop="20260513110000 GMT+3" channel="5183085">
+  <programme start="20260513100100 GMT+3" stop="20260513110300 GMT+3" channel="5183085">
     <title lang="el">FIA WEC - 6 ώρες Σπα</title>
     <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513110000 GMT+3" stop="20260513113000 GMT+3" channel="5183085">
+  <programme start="20260513110300 GMT+3" stop="20260513113000 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βουτζιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513113000 GMT+3" stop="20260513123000 GMT+3" channel="5183085">
+  <programme start="20260513113000 GMT+3" stop="20260513122800 GMT+3" channel="5183085">
     <title lang="el">Τρέιλ GT: Γουόρλντ Σίρις Ανασκόπηση Σεζόν</title>
     <desc lang="el">Τρέιλ GT: Γουόρλντ Σίρις Ανασκόπηση Σεζόν</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513123000 GMT+3" stop="20260513140000 GMT+3" channel="5183085">
+  <programme start="20260513122800 GMT+3" stop="20260513140000 GMT+3" channel="5183085">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
@@ -17433,19 +17439,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513153000 GMT+3" stop="20260513180000 GMT+3" channel="5183085">
+  <programme start="20260513153000 GMT+3" stop="20260513175900 GMT+3" channel="5183085">
     <title lang="el">- UK Τσάμπιονσιπ - Τελικός</title>
     <desc lang="el">- UK Τσάμπιονσιπ - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513180000 GMT+3" stop="20260513200000 GMT+3" channel="5183085">
+  <programme start="20260513175900 GMT+3" stop="20260513195900 GMT+3" channel="5183085">
     <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
     <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513200000 GMT+3" stop="20260513220000 GMT+3" channel="5183085">
+  <programme start="20260513195900 GMT+3" stop="20260513220000 GMT+3" channel="5183085">
     <title lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -28156,6 +28162,18 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260514110000 GMT+3" stop="20260514120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ228</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260514120000 GMT+3" stop="20260514130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ19</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260514130000 GMT+3" stop="20260514140000 GMT+3" channel="1945">
     <title lang="el">CNN This Morning ΕΠ96</title>
     <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
@@ -32627,8 +32645,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260514093000 GMT+3" stop="20260514100000 GMT+3" channel="211368">
-    <title lang="el">UpFront ΕΠ14</title>
-    <desc lang="el">Redi Tlhabi asks former Israeli Prime Minister Ehud Olmert about the direction of his country and what it wants from its wars in Lebanon and Iran. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">Turkish Foreign Minister discusses the U.S. offensive on Iran, Gulf security, and Turkiye&apos;s role in the Middle East. (2023)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -32748,7 +32766,7 @@
   </programme>
   <programme start="20260514223000 GMT+3" stop="20260514230000 GMT+3" channel="211368">
     <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">The Native American celebrity chef explores his ancestral culinary philosophy for a healthier future. (2024)</desc>
+    <desc lang="el">Turkish Foreign Minister discusses the U.S. offensive on Iran, Gulf security, and Turkiye&apos;s role in the Middle East. (2023)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -35208,13 +35226,13 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260514010000 GMT+3" stop="20260514023000 GMT+3" channel="4185119">
+  <programme start="20260514011500 GMT+3" stop="20260514024900 GMT+3" channel="4185119">
     <title lang="el">HOME NATIONS SERIES - Όπεν Σκωτίας - Τελικός</title>
     <desc lang="el">HOME NATIONS SERIES - Όπεν Σκωτίας - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514023000 GMT+3" stop="20260514043000 GMT+3" channel="4185119">
+  <programme start="20260514024900 GMT+3" stop="20260514043000 GMT+3" channel="4185119">
     <title lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -35292,13 +35310,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514000000 GMT+3" stop="20260514010000 GMT+3" channel="5183085">
+  <programme start="20260514000000 GMT+3" stop="20260514005900 GMT+3" channel="5183085">
     <title lang="el">Γκραν Πρι - Μπογκοτά</title>
     <desc lang="el">Γκραν Πρι - Μπογκοτά</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514010000 GMT+3" stop="20260514023000 GMT+3" channel="5183085">
+  <programme start="20260514005900 GMT+3" stop="20260514023000 GMT+3" channel="5183085">
     <title lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Γύρος Ιταλίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -41376,13 +41394,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515060000 GMT+3" stop="20260515063000 GMT+3" channel="216595">
+  <programme start="20260515060000 GMT+3" stop="20260515062500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 4 Κ4 ΕΠ21</title>
     <desc lang="el">Ο Phil θέλει να μοιραστεί τα μυστικά των κτηματομεσιτών με τους συμμαθητές του Luke και του Manny στην ημέρα καριέρας, αλλά δυστυχώς για τον Phil, εμφανίζεται ο άσπονδος εχθρός του Gil Thorpe και τα πράγματα παίρνουν άσχημη τροπή. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515063000 GMT+3" stop="20260515065000 GMT+3" channel="216595">
+  <programme start="20260515062500 GMT+3" stop="20260515065000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 4 Κ4 ΕΠ22</title>
     <desc lang="el">Ο πρώην φίλος του Mitch, ο Teddy, ένας πολύ ελκυστικός και πετυχημένος γιατρός, προσκαλεί την οικογένεια σε μια φιλανθρωπική εκδήλωση. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41400,127 +41418,127 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515082000 GMT+3" stop="20260515090000 GMT+3" channel="216595">
+  <programme start="20260515082000 GMT+3" stop="20260515090500 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ5</title>
     <desc lang="el">Την πρώτη μέρα της δίκης του Πάντι για φόνο, η Μάουρα μαθαίνει από τη Χόουπ για τον πατέρα της. Ο Κόρσακ ανοίγεται για το τραγικό παρελθόν του Κάβανο. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515090000 GMT+3" stop="20260515092500 GMT+3" channel="216595">
+  <programme start="20260515090500 GMT+3" stop="20260515093000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ13</title>
     <desc lang="el">Όταν ο Marshall και η Lily φοβούνται πως δεν πρόκειται να μείνουν έγκυος, επισκέπτονται έναν ειδικό να τους βοηθήσει, μόνο που έρχονται πρόσωπο με πρόσωπο με των σωσία του Barney. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515092500 GMT+3" stop="20260515094500 GMT+3" channel="216595">
+  <programme start="20260515093000 GMT+3" stop="20260515095500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ14</title>
     <desc lang="el">Η παρέα ταξιδεύει στη Μινεσότα για τη κηδεία του πατέρα του Marshall. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515094500 GMT+3" stop="20260515103000 GMT+3" channel="216595">
+  <programme start="20260515095500 GMT+3" stop="20260515104000 GMT+3" channel="216595">
     <title lang="el">Chicago Med 10 Κ10 ΕΠ17</title>
     <desc lang="el">Charles και Archer κάνουν μεταμόσχευση καρδιάς σε έναν ασθενή που πιστεύει ότι η νέα του καρδιά δεν θέλει να είναι στο σώμα του. Πρωταγωνιστούν: Oliver Platt,Luke Mitchell,Nick Gehlfuss. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515103000 GMT+3" stop="20260515111500 GMT+3" channel="216595">
+  <programme start="20260515104000 GMT+3" stop="20260515112000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ17</title>
     <desc lang="el">Η Kidd δένεται με μια προβληματική έφηβη που ενδιαφέρεται για το πρόγραμμα Girls on Fire. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515111500 GMT+3" stop="20260515120000 GMT+3" channel="216595">
+  <programme start="20260515112000 GMT+3" stop="20260515120500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ7</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515120000 GMT+3" stop="20260515124000 GMT+3" channel="216595">
+  <programme start="20260515120500 GMT+3" stop="20260515125000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ5</title>
     <desc lang="el">Andy και Sullivan βρίσκουν έναν τρόπο να βρίσκονται σε επαφή, ο Ben διαχειρίζεται μια σκληρή απώλεια και ο Jack με την Inara έρχονται πιο κοντά. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515124000 GMT+3" stop="20260515130500 GMT+3" channel="216595">
+  <programme start="20260515125000 GMT+3" stop="20260515131000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 4 Κ4 ΕΠ23</title>
     <desc lang="el">Ο Phil αγοράζει ένα ολοκαίνουργο τροχόσπιτο ελπίζοντας να πάει ένα ταξίδι με την οικογένεια του. Η Claire όμως τον αφήνει να καταλάβει από μόνος του το πόσο κακή είναι η ιδέα του. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515130500 GMT+3" stop="20260515132500 GMT+3" channel="216595">
+  <programme start="20260515131000 GMT+3" stop="20260515133500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 4 Κ4 ΕΠ24</title>
     <desc lang="el">Όλοι πηγαίνουν στη Florida για να συμπαρασταθούν στον Phil μετά το θάνατο της μητέρας του. Η Claire βοηθάει τον Phil στην τελευταία επιθυμία της Gracie για τον Frank, ενώ τα παιδιά σκέφτονται τα δώρα που τους άφησε η γιαγιά τους. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515132500 GMT+3" stop="20260515141000 GMT+3" channel="216595">
+  <programme start="20260515133500 GMT+3" stop="20260515142000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ6</title>
     <desc lang="el">Όταν η ταλαιπωρημένη Τζέιν χύνει ζεστό καφέ σε έναν άγνωστο, ένα βίντεο με την κακή της μέρα που γίνεται βάιραλ θέτει σε κίνδυνο την καριέρα και τη φήμη της. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515141000 GMT+3" stop="20260515145000 GMT+3" channel="216595">
+  <programme start="20260515142000 GMT+3" stop="20260515150000 GMT+3" channel="216595">
     <title lang="el">Masterchef 15 Κ15 ΕΠ4</title>
     <desc lang="el">Τα 12 κορυφαία ζευγάρια πρέπει να εντυπωσιάσουν τους κριτές με το καλύτερο πιάτο τους για δείπνο. Πρωταγωνιστούν: Gordon Ramsay,Joe Bastianich,Tiffany Derry. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515145000 GMT+3" stop="20260515151500 GMT+3" channel="216595">
+  <programme start="20260515150000 GMT+3" stop="20260515152500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ15</title>
     <desc lang="el">Όταν η Zoey κανονίζει ραντεβού για τον Ted με τη ξαδέλφη της, η παρέα καταλαβαίνει πόσο αφελής είναι, και την αποκαλούν “Honey”. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515151500 GMT+3" stop="20260515153500 GMT+3" channel="216595">
+  <programme start="20260515152500 GMT+3" stop="20260515155000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ16</title>
     <desc lang="el">Ο Barney μετονομάζει τις 13 Φεβρουαρίου σε «Ημέρα Απόγνωσης», μια γιορτή για τους απελπισμένους, τους μοναχικούς, και τις γυναίκες με χαμηλή αυτοεκτίμηση. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515153500 GMT+3" stop="20260515162000 GMT+3" channel="216595">
+  <programme start="20260515155000 GMT+3" stop="20260515163500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ6</title>
     <desc lang="el">Ο Castle και η Beckett ερευνούν τον παράξενο φόνο μιας νεαρής που βρέθηκε νεκρή σε στάση ιεροτελεστίας. Όταν βρίσκουν παράξενα σύμβολα στο διαμέρισμά της, ο Castle είναι πεπεισμένος ότι πρόκειται για μια συνωμοσία τύπου Κώδικα ΝταΒίντσι. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515162000 GMT+3" stop="20260515170500 GMT+3" channel="216595">
+  <programme start="20260515163500 GMT+3" stop="20260515171500 GMT+3" channel="216595">
     <title lang="el">Chicago Med 10 Κ10 ΕΠ18</title>
     <desc lang="el">Η Hannah παίρνει μια δύσκολη απόφαση για να σώσει μια ζωή. Ο Frost και ο Ripley φροντίζουν ένα νεαρό αγόρι που το δάγκωσε φίδι. Πρωταγωνιστούν: Oliver Platt,Luke Mitchell,Nick Gehlfuss. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515170500 GMT+3" stop="20260515175000 GMT+3" channel="216595">
+  <programme start="20260515171500 GMT+3" stop="20260515180000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ18</title>
     <desc lang="el">Ο Αναπληρωτής Επίτροπος Boden επιστρέφει στον Σταθμό 51 για να διερευνήσει μια καταστροφική κατάσβεση φωτιάς και το μυστήριο που την περιβάλλει, η οποία έθεσε σε κίνδυνο έναν από την ομάδα. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515175000 GMT+3" stop="20260515183500 GMT+3" channel="216595">
+  <programme start="20260515180000 GMT+3" stop="20260515184500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ8</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515183500 GMT+3" stop="20260515192000 GMT+3" channel="216595">
+  <programme start="20260515184500 GMT+3" stop="20260515193000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ6</title>
     <desc lang="el">Η Carina και ο DeLuca κυνηγούν την Opal, τη γυναίκα που είναι ύποπτη για ανθρώπινο εμπόριο. Η Maya βάζει την Andy υπεύθυνη για την ετήσια επιθεώρηση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515192000 GMT+3" stop="20260515194500 GMT+3" channel="216595">
+  <programme start="20260515193000 GMT+3" stop="20260515195500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ1</title>
     <desc lang="el">H Gloria είναι ράκος, όταν ο Manny ετοιμάζεται να φύγει από το Columbia για να επισκεφθεί τους γονείς του για ένα μήνα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515194500 GMT+3" stop="20260515201000 GMT+3" channel="216595">
+  <programme start="20260515195500 GMT+3" stop="20260515201500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ2</title>
     <desc lang="el">Η Claire εκπαιδεύεται να αναλάβει την εταιρεία του Jay, αλλά τα πράγματα πάνε γρήγορα στραβά καθώς καθίσταται σαφές ότι αυτή και ο πατέρας της έχουν πολύ διαφορετικό τρόπο διαχείρισης. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515201000 GMT+3" stop="20260515210000 GMT+3" channel="216595">
+  <programme start="20260515201500 GMT+3" stop="20260515210000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ7</title>
     <desc lang="el">Ένας δημοφιλής καθηγητής λυκείου σκοτώνεται σε ένα τροχαίο ατύχημα που ξεκάθαρα δεν είναι ατύχημα. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41634,25 +41652,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515081500 GMT+3" stop="20260515083500 GMT+3" channel="2755">
+  <programme start="20260515081500 GMT+3" stop="20260515084000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ1</title>
     <desc lang="el">Ο Τζέικ και η Έιμι πηγαίνουν μήνα του μέλιτος. Ο αρχηγός Χολτ μαθαίνει αν θα είναι ο νέος διοικητής της αστυνομίας της Νέας Υόρκης. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515083500 GMT+3" stop="20260515092000 GMT+3" channel="2755">
+  <programme start="20260515084000 GMT+3" stop="20260515092500 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ13</title>
     <desc lang="el">Ο Κόνραντ, η Κιτ, η Μίνα και ο Ράπτορ προσπαθούν να σώσουν τη ζωή μιας φοιτήτριας ιατρικής που χρειάζεται τριπλή μεταμόσχευση, φέρνοντας τον Μπελ πίσω στο χειρουργείο για μία από τις πιο επικίνδυνες επεμβάσεις του Τσαστέιν μέχρι σήμερα. Όταν η αστυνομία βρίσκει το άδειο αυτοκίνητο της Τζούλιαν σε κοντινή λίμνη, ο Ντέβον κάνει κάποιες έρευνες μόνος του, για να ανακαλύψει τι μπορεί να έχει συμβεί. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515092000 GMT+3" stop="20260515094500 GMT+3" channel="2755">
+  <programme start="20260515092500 GMT+3" stop="20260515095000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ2</title>
     <desc lang="el">Ο Χόμερ παίρνει προαγωγή, ένα κλειδί για την τουαλέτα των στελεχών και έναν ανεκτίμητο γραμματέα. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515094500 GMT+3" stop="20260515101000 GMT+3" channel="2755">
+  <programme start="20260515095000 GMT+3" stop="20260515101000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ3</title>
     <desc lang="el">Οι ιστορίες αφορούν ένα στοιχειωμένο σπίτι, μια παρεξήγηση με εξωγήινους και «Το Κοράκι». Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41706,25 +41724,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515144500 GMT+3" stop="20260515150500 GMT+3" channel="2755">
+  <programme start="20260515144500 GMT+3" stop="20260515151000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ4</title>
     <desc lang="el">Ο Μπερνς θέλει να κυβερνήσει για να μειώσει τα στάνταρ ασφάλειας και να κρατήσει το εργοστάσιό του. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515150500 GMT+3" stop="20260515153000 GMT+3" channel="2755">
+  <programme start="20260515151000 GMT+3" stop="20260515153500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ5</title>
     <desc lang="el">Η επιτυχία του Χόμερ ως μασκότ μιας μικρής ομάδας μπέιζμπολ του δίνει ευκαιρία για μεγαλύτερες. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515153000 GMT+3" stop="20260515155500 GMT+3" channel="2755">
+  <programme start="20260515153500 GMT+3" stop="20260515160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ15</title>
     <desc lang="el">Η παρέα ερωτεύεται τη δίδυμη αδερφή του Σέλντον, και το σχέδιο του Λέοναρντ να κερδίσει την καρδιά της εκτροχιάζεται όταν ο Σέλντον δηλώνει ότι θα αποφασίσει αυτός με ποιον θα βγαίνει ραντεβού. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515155500 GMT+3" stop="20260515162000 GMT+3" channel="2755">
+  <programme start="20260515160000 GMT+3" stop="20260515162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ16</title>
     <desc lang="el">Η Πένι θέλει να κάνει ένα πάρτι-έκπληξη για τον Λέοναρντ, αλλά η ασυδοσία του Σέλντον σε ένα κατάστημα ηλεκτρονικών ειδών τη βγάζει εκτός εαυτού. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41736,13 +41754,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515164500 GMT+3" stop="20260515170500 GMT+3" channel="2755">
+  <programme start="20260515164500 GMT+3" stop="20260515171000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ6</title>
     <desc lang="el">Ο Τζέικ και η Ρόζα πρέπει να αντιμετωπίσουν μια μητέρα που πενθεί όταν δουλεύουν πάνω σε μια δύσκολη υπόθεση δολοφονίας με συγκεχυμένα στοιχεία. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515170500 GMT+3" stop="20260515175500 GMT+3" channel="2755">
+  <programme start="20260515171000 GMT+3" stop="20260515175500 GMT+3" channel="2755">
     <title lang="el">Bones 12 Κ12 ΕΠ3</title>
     <desc lang="el">Το πτώμα ενός ηλικιωμένου άνδρα βρίσκεται σε μια χωματερή τοξικών ουσιών και η ομάδα εμπλέκεται στα δράματα ενός οίκου ευγηρίας. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41778,13 +41796,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515210000 GMT+3" stop="20260515212000 GMT+3" channel="2755">
+  <programme start="20260515210000 GMT+3" stop="20260515212500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ17</title>
     <desc lang="el">Ο χωρισμός της Πένι ωθεί τον Λέοναρντ να βρει το θάρρος να της ζητήσει να βγουν ραντεβού, και οι δύο πηγαίνουν στον Σέλντον για συμβουλές σχετικά με το επικείμενο ραντεβού τους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515212000 GMT+3" stop="20260515215000 GMT+3" channel="2755">
+  <programme start="20260515212500 GMT+3" stop="20260515215000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ1</title>
     <desc lang="el">Η Πένι ανοίγεται στον Σέλντον μετά από ένα όχι και τόσο καλό πρώτο ραντεβού με τον Λέοναρντ, βάζοντάς τον στην άβολη θέση να κρατήσει ένα μυστικό. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41796,19 +41814,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515221500 GMT+3" stop="20260515225000 GMT+3" channel="2755">
+  <programme start="20260515221500 GMT+3" stop="20260515223500 GMT+3" channel="2755">
     <title lang="el">Bob&apos;s Burgers 16 Κ16 ΕΠ13</title>
     <desc lang="el">Bob&apos;s Burgers 16 Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515225000 GMT+3" stop="20260515235500 GMT+3" channel="2755">
+  <programme start="20260515223500 GMT+3" stop="20260515232500 GMT+3" channel="2755">
     <title lang="el">Will Trent 4 Κ4 ΕΠ11</title>
     <desc lang="el">Ένας δολοφονημένος άντρας έχει το όνομα του θείου του Γουίλ, Αντόνιο. Πρωταγωνιστούν: Ramón Rodríguez,Erika Christensen,Iantha Richardson,Jake McLaughlin,Kevin Daniels,Sonja Sohn. (2026)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515235500 GMT+3" stop="20260516004500 GMT+3" channel="2755">
+  <programme start="20260515232500 GMT+3" stop="20260516001000 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ15</title>
     <desc lang="el">Η εμπιστοσύνη του Μπελ στην Κβοβάντις συνεχίζει να κλονίζεται, όταν το παιδί αφίσας μίας από τις ιατρικές συσκευές της, ο Χένρι Μπαρνέτ, επιστρέφει εσπευσμένα στα Επείγοντα, με συμπτώματα που μοιάζουν με επιληπτική κρίση. Στο μεταξύ, το παρελθόν της Μίνα έρχεται στο φως, όταν η μητέρα της, η διάσημη Νιγηριανή χειρουργός, δρ Οκέκε, επισκέπτεται το Τσαστέιν και ο Κόνραντ κάνει μια ριψοκίνδυνη κίνηση, όταν ο Χένρι επιστρέφει στο νοσοκομείο. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -50617,8 +50635,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260515173000 GMT+3" stop="20260515180000 GMT+3" channel="211368">
-    <title lang="el">Fault Lines</title>
-    <desc lang="el">Fault Lines and Lighthouse investigate a deadly siege in Sudan&apos;s El Fasher, where civilians were trapped, starved and killed as the war escalated. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">Turkish Foreign Minister discusses the U.S. offensive on Iran, Gulf security, and Turkiye&apos;s role in the Middle East. (2023)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -59056,49 +59074,49 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516014000 GMT+3" stop="20260516022500 GMT+3" channel="216595">
+  <programme start="20260516014000 GMT+3" stop="20260516022000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ9</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516022500 GMT+3" stop="20260516024500 GMT+3" channel="216595">
+  <programme start="20260516022000 GMT+3" stop="20260516024500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ1</title>
     <desc lang="el">H Gloria είναι ράκος, όταν ο Manny ετοιμάζεται να φύγει από το Columbia για να επισκεφθεί τους γονείς του για ένα μήνα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516024500 GMT+3" stop="20260516031000 GMT+3" channel="216595">
+  <programme start="20260516024500 GMT+3" stop="20260516030500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ2</title>
     <desc lang="el">Η Claire εκπαιδεύεται να αναλάβει την εταιρεία του Jay, αλλά τα πράγματα πάνε γρήγορα στραβά καθώς καθίσταται σαφές ότι αυτή και ο πατέρας της έχουν πολύ διαφορετικό τρόπο διαχείρισης. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516031000 GMT+3" stop="20260516035000 GMT+3" channel="216595">
+  <programme start="20260516030500 GMT+3" stop="20260516035000 GMT+3" channel="216595">
     <title lang="el">Chicago Med 10 Κ10 ΕΠ18</title>
     <desc lang="el">Η Hannah παίρνει μια δύσκολη απόφαση για να σώσει μια ζωή. Ο Frost και ο Ripley φροντίζουν ένα νεαρό αγόρι που το δάγκωσε φίδι. Πρωταγωνιστούν: Oliver Platt,Luke Mitchell,Nick Gehlfuss. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516035000 GMT+3" stop="20260516043500 GMT+3" channel="216595">
+  <programme start="20260516035000 GMT+3" stop="20260516043000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ18</title>
     <desc lang="el">Ο Αναπληρωτής Επίτροπος Boden επιστρέφει στον Σταθμό 51 για να διερευνήσει μια καταστροφική κατάσβεση φωτιάς και το μυστήριο που την περιβάλλει, η οποία έθεσε σε κίνδυνο έναν από την ομάδα. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516043500 GMT+3" stop="20260516052000 GMT+3" channel="216595">
+  <programme start="20260516043000 GMT+3" stop="20260516051500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ6</title>
     <desc lang="el">Ο Castle και η Beckett ερευνούν τον παράξενο φόνο μιας νεαρής που βρέθηκε νεκρή σε στάση ιεροτελεστίας. Όταν βρίσκουν παράξενα σύμβολα στο διαμέρισμά της, ο Castle είναι πεπεισμένος ότι πρόκειται για μια συνωμοσία τύπου Κώδικα ΝταΒίντσι. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516052000 GMT+3" stop="20260516054000 GMT+3" channel="216595">
+  <programme start="20260516051500 GMT+3" stop="20260516053500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ15</title>
     <desc lang="el">Όταν η Zoey κανονίζει ραντεβού για τον Ted με τη ξαδέλφη της, η παρέα καταλαβαίνει πόσο αφελής είναι, και την αποκαλούν “Honey”. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516054000 GMT+3" stop="20260516060000 GMT+3" channel="216595">
+  <programme start="20260516053500 GMT+3" stop="20260516060000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ6 ΕΠ16</title>
     <desc lang="el">Ο Barney μετονομάζει τις 13 Φεβρουαρίου σε «Ημέρα Απόγνωσης», μια γιορτή για τους απελπισμένους, τους μοναχικούς, και τις γυναίκες με χαμηλή αυτοεκτίμηση. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59254,67 +59272,73 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516004500 GMT+3" stop="20260516010500 GMT+3" channel="2755">
+  <programme start="20260516001000 GMT+3" stop="20260516003500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 37 Κ37 ΕΠ10</title>
     <desc lang="el">Ο Διευθυντής Σκίνερ βρίσκει ένα παιδί που το &apos;σκασε και αναγκάζεται να το φιλοξενήσει. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516010500 GMT+3" stop="20260516014000 GMT+3" channel="2755">
+  <programme start="20260516003500 GMT+3" stop="20260516010000 GMT+3" channel="2755">
     <title lang="el">Bob&apos;s Burgers 16 Κ16 ΕΠ13</title>
     <desc lang="el">Bob&apos;s Burgers 16 Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516014000 GMT+3" stop="20260516020500 GMT+3" channel="2755">
+  <programme start="20260516010000 GMT+3" stop="20260516012000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ6</title>
     <desc lang="el">Η Λίζα συμβουλεύει τον Μπαρτ πώς να διαχειριστεί την πίεση σε έναν αγώνα μίνι γκολφ με τον γείτονα. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516020500 GMT+3" stop="20260516023000 GMT+3" channel="2755">
+  <programme start="20260516012000 GMT+3" stop="20260516015000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ7</title>
     <desc lang="el">Την Ημέρα των Ευχαριστιών, ο Μπαρτ το σκάει αφού κατά λάθος κατέστρεψε το διακοσμητικό της Λίζα. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516023000 GMT+3" stop="20260516025000 GMT+3" channel="2755">
+  <programme start="20260516015000 GMT+3" stop="20260516021000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ17</title>
     <desc lang="el">Ο χωρισμός της Πένι ωθεί τον Λέοναρντ να βρει το θάρρος να της ζητήσει να βγουν ραντεβού, και οι δύο πηγαίνουν στον Σέλντον για συμβουλές σχετικά με το επικείμενο ραντεβού τους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516025000 GMT+3" stop="20260516031500 GMT+3" channel="2755">
+  <programme start="20260516021000 GMT+3" stop="20260516023500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ1</title>
     <desc lang="el">Η Πένι ανοίγεται στον Σέλντον μετά από ένα όχι και τόσο καλό πρώτο ραντεβού με τον Λέοναρντ, βάζοντάς τον στην άβολη θέση να κρατήσει ένα μυστικό. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516031500 GMT+3" stop="20260516040000 GMT+3" channel="2755">
+  <programme start="20260516023500 GMT+3" stop="20260516031500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ6</title>
     <desc lang="el">Ο Κόλτερ συναντά έναν αστυνομικό που πιστεύει ότι ένας κατά συρροή δολοφόνος κυκλοφορεί ελεύθερος. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516040000 GMT+3" stop="20260516044500 GMT+3" channel="2755">
+  <programme start="20260516031500 GMT+3" stop="20260516040000 GMT+3" channel="2755">
     <title lang="el">Bones 12 Κ12 ΕΠ3</title>
     <desc lang="el">Το πτώμα ενός ηλικιωμένου άνδρα βρίσκεται σε μια χωματερή τοξικών ουσιών και η ομάδα εμπλέκεται στα δράματα ενός οίκου ευγηρίας. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516044500 GMT+3" stop="20260516050500 GMT+3" channel="2755">
+  <programme start="20260516040000 GMT+3" stop="20260516044500 GMT+3" channel="2755">
+    <title lang="el">Bones 12 Κ12 ΕΠ4</title>
+    <desc lang="el">Η ομάδα ερευνά τον φόνο κάποιου από το παρελθόν του Booth και της Brennan. Ο Aubrey αντιμετωπίζει ένα ηθικό δίλημμα. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin. (2017)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260516044500 GMT+3" stop="20260516051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 1 Κ1 ΕΠ17</title>
     <desc lang="el">Ο χωρισμός της Πένι ωθεί τον Λέοναρντ να βρει το θάρρος να της ζητήσει να βγουν ραντεβού, και οι δύο πηγαίνουν στον Σέλντον για συμβουλές σχετικά με το επικείμενο ραντεβού τους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516050500 GMT+3" stop="20260516053000 GMT+3" channel="2755">
+  <programme start="20260516051000 GMT+3" stop="20260516053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ1</title>
     <desc lang="el">Η Πένι ανοίγεται στον Σέλντον μετά από ένα όχι και τόσο καλό πρώτο ραντεβού με τον Λέοναρντ, βάζοντάς τον στην άβολη θέση να κρατήσει ένα μυστικό. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516053000 GMT+3" stop="20260516060000 GMT+3" channel="2755">
+  <programme start="20260516053500 GMT+3" stop="20260516060000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ5</title>
     <desc lang="el">Ο Τέρι πιστεύει ότι ο Pontiac Bandit κλέβει ξανά αυτοκίνητα, αλλά ο Τζέικ είναι πεπεισμένος ότι ο φίλος του δεν θα το έκανε αυτό. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65536,15 +65560,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260516023000 GMT+3" stop="20260516030000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="213719">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260516030000 GMT+3" stop="20260516033000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65557,6 +65599,42 @@
   <programme start="20260516050000 GMT+3" stop="20260516060000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516060000 GMT+3" stop="20260516063000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516063000 GMT+3" stop="20260516070000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516070000 GMT+3" stop="20260516073000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516073000 GMT+3" stop="20260516080000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516080000 GMT+3" stop="20260516083000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516083000 GMT+3" stop="20260516090000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65575,6 +65653,24 @@
   <programme start="20260516100000 GMT+3" stop="20260516110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516110000 GMT+3" stop="20260516113000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516113000 GMT+3" stop="20260516120000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516120000 GMT+3" stop="20260516123000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65608,9 +65704,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="213719">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260516183000 GMT+3" stop="20260516190000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516190000 GMT+3" stop="20260516193000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65620,9 +65722,45 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+  <programme start="20260516200000 GMT+3" stop="20260516203000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516203000 GMT+3" stop="20260516210000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516210000 GMT+3" stop="20260516220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516223000 GMT+3" stop="20260516230000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516230000 GMT+3" stop="20260516233000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516233000 GMT+3" stop="20260517000000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ2</title>
+    <desc lang="el">AJ Andrews on baseball’s momentum, softball’s growth and why storytelling and authenticity are key to building the next generation of fans.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65638,15 +65776,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260516023000 GMT+3" stop="20260516030000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="71037984">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260516030000 GMT+3" stop="20260516033000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65659,6 +65815,42 @@
   <programme start="20260516050000 GMT+3" stop="20260516060000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516060000 GMT+3" stop="20260516063000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516063000 GMT+3" stop="20260516070000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516070000 GMT+3" stop="20260516073000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516073000 GMT+3" stop="20260516080000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516080000 GMT+3" stop="20260516083000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516083000 GMT+3" stop="20260516090000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65677,6 +65869,24 @@
   <programme start="20260516100000 GMT+3" stop="20260516110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516110000 GMT+3" stop="20260516113000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516113000 GMT+3" stop="20260516120000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516120000 GMT+3" stop="20260516123000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65710,9 +65920,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="71037984">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260516183000 GMT+3" stop="20260516190000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516190000 GMT+3" stop="20260516193000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65722,9 +65938,45 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+  <programme start="20260516200000 GMT+3" stop="20260516203000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516203000 GMT+3" stop="20260516210000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516210000 GMT+3" stop="20260516220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516223000 GMT+3" stop="20260516230000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516230000 GMT+3" stop="20260516233000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516233000 GMT+3" stop="20260517000000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ2</title>
+    <desc lang="el">AJ Andrews on baseball’s momentum, softball’s growth and why storytelling and authenticity are key to building the next generation of fans.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83587,6 +83839,18 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517003000 GMT+3" stop="20260517010000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517010000 GMT+3" stop="20260517013000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
@@ -83599,9 +83863,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517020000 GMT+3" stop="20260517023000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517023000 GMT+3" stop="20260517030000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517030000 GMT+3" stop="20260517033000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517033000 GMT+3" stop="20260517040000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517040000 GMT+3" stop="20260517043000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517043000 GMT+3" stop="20260517050000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517050000 GMT+3" stop="20260517060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517060000 GMT+3" stop="20260517063000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517063000 GMT+3" stop="20260517070000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83611,15 +83923,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517080000 GMT+3" stop="20260517083000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ2</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517083000 GMT+3" stop="20260517090000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517093000 GMT+3" stop="20260517100000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517100000 GMT+3" stop="20260517103000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517103000 GMT+3" stop="20260517110000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517110000 GMT+3" stop="20260517120000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517120000 GMT+3" stop="20260517130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83641,9 +83995,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517173000 GMT+3" stop="20260517180000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517180000 GMT+3" stop="20260517183000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517183000 GMT+3" stop="20260517190000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517190000 GMT+3" stop="20260517200000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517200000 GMT+3" stop="20260517203000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83653,15 +84031,51 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="213719">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme start="20260517210000 GMT+3" stop="20260517213000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517213000 GMT+3" stop="20260517220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517220000 GMT+3" stop="20260517223000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260517223000 GMT+3" stop="20260517230000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517003000 GMT+3" stop="20260517010000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83677,9 +84091,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517020000 GMT+3" stop="20260517023000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517023000 GMT+3" stop="20260517030000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517030000 GMT+3" stop="20260517033000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517033000 GMT+3" stop="20260517040000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517040000 GMT+3" stop="20260517043000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517043000 GMT+3" stop="20260517050000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517050000 GMT+3" stop="20260517060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517060000 GMT+3" stop="20260517063000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517063000 GMT+3" stop="20260517070000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83689,15 +84151,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517080000 GMT+3" stop="20260517083000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ2</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517083000 GMT+3" stop="20260517090000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517093000 GMT+3" stop="20260517100000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517100000 GMT+3" stop="20260517103000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517103000 GMT+3" stop="20260517110000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ2</title>
+    <desc lang="el">Can we have real intimacy with machines? Emily Chang explores the future of such connections and the technologies powering a growing market of relationships-on-demand.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517110000 GMT+3" stop="20260517120000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517120000 GMT+3" stop="20260517130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ3</title>
+    <desc lang="el">How the son of an adviser to Iran Supreme Leader Ayatollah Khamenei became a major player in international energy markets.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83719,9 +84223,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517173000 GMT+3" stop="20260517180000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517180000 GMT+3" stop="20260517183000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517183000 GMT+3" stop="20260517190000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517190000 GMT+3" stop="20260517200000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517200000 GMT+3" stop="20260517203000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ3</title>
+    <desc lang="el">Alan M. Garber, Harvard University President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83731,15 +84259,39 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="71037984">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme start="20260517210000 GMT+3" stop="20260517213000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517213000 GMT+3" stop="20260517220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ3</title>
+    <desc lang="el">AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fiber and 5G wireless connectivity.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517220000 GMT+3" stop="20260517223000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260517223000 GMT+3" stop="20260517230000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101089,9 +101641,9 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="213719">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260518000000 GMT+3" stop="20260518003000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101104,6 +101656,18 @@
   <programme start="20260518010000 GMT+3" stop="20260518020000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518020000 GMT+3" stop="20260518040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518040000 GMT+3" stop="20260518060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101134,6 +101698,12 @@
   <programme start="20260518110000 GMT+3" stop="20260518120000 GMT+3" channel="213719">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518120000 GMT+3" stop="20260518130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101179,9 +101749,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="71037984">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+  <programme start="20260518000000 GMT+3" stop="20260518003000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101194,6 +101764,18 @@
   <programme start="20260518010000 GMT+3" stop="20260518020000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518020000 GMT+3" stop="20260518040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518040000 GMT+3" stop="20260518060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -101224,6 +101806,12 @@
   <programme start="20260518110000 GMT+3" stop="20260518120000 GMT+3" channel="71037984">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518120000 GMT+3" stop="20260518130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -118183,6 +118771,30 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519010000 GMT+3" stop="20260519013000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519013000 GMT+3" stop="20260519020000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519020000 GMT+3" stop="20260519040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519040000 GMT+3" stop="20260519060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519060000 GMT+3" stop="20260519070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
@@ -118210,6 +118822,12 @@
   <programme start="20260519110000 GMT+3" stop="20260519120000 GMT+3" channel="213719">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -118261,6 +118879,30 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519010000 GMT+3" stop="20260519013000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519013000 GMT+3" stop="20260519020000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519020000 GMT+3" stop="20260519040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519040000 GMT+3" stop="20260519060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519060000 GMT+3" stop="20260519070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
@@ -118288,6 +118930,12 @@
   <programme start="20260519110000 GMT+3" stop="20260519120000 GMT+3" channel="71037984">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -120956,8 +121604,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260519123000 GMT+3" stop="20260519130000 GMT+3" channel="211368">
-    <title lang="el">Witness</title>
-    <desc lang="el">Inspirational and provocative stories providing a fresh and informative insight into the world&apos;s key events as they impact on the lives of ordinary people. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -123363,13 +124011,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519210000 GMT+3" stop="20260519220000 GMT+3" channel="4185119">
+  <programme start="20260519210000 GMT+3" stop="20260519213000 GMT+3" channel="4185119">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα powerboating SEASON PREVIEW</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα powerboating SEASON PREVIEW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519213000 GMT+3" stop="20260519223000 GMT+3" channel="4185119">
     <title lang="el">Άλμα - ROYAL WINDSOR HORSE SHOW</title>
     <desc lang="el">Άλμα - ROYAL WINDSOR HORSE SHOW</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519220000 GMT+3" stop="20260519230000 GMT+3" channel="4185119">
+  <programme start="20260519223000 GMT+3" stop="20260519230000 GMT+3" channel="4185119">
     <title lang="el">Αυστραλιανό όπεν - Μονό - Τελικός</title>
     <desc lang="el">Αυστραλιανό όπεν - Μονό - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
