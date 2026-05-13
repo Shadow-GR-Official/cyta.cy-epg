@@ -1154,7 +1154,7 @@
   </programme>
   <programme start="20260513181500 GMT+3" stop="20260513183000 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5&apos;</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -1176,9 +1176,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513210000 GMT+3" stop="20260514010000 GMT+3" channel="289530">
-    <title lang="el">Survivor</title>
-    <desc lang="el">Το Survivor, το απόλυτο παιχνίδι επιβίωσης, έρχεται ξανά στο ΣΙΓΜΑ ανανεωμένο, ανατρεπτικό και με το μεγαλύτερο χρηματικό έπαθλο που έχει δοθεί στην ελληνική τηλεόραση, 250.000 ευρώ! Σε μία αναμέτρηση που θα γράψει ιστορία, αυτή τη φορά θα αγωνιστούν Αθην</desc>
+  <programme start="20260513210000 GMT+3" stop="20260513230000 GMT+3" channel="289530">
+    <title lang="el">Patrick The Pug</title>
+    <desc lang="el">Η ζωή της Σάρα είναι χαώδης. Το τελευταίο πράγμα που χρειάζεται είναι να αναλάβει τη φροντίδα κάποιου. Κι όμως, όταν πεθαίνει η γιαγιά της, της αφήνει μια απρόσμενη κληρονομιά – ένα πολύ κακομαθημένο σκυλί, τον Πάτρικ. Κωμωδία παραγωγής 2018 σε σκηνοθεσία Μάντι Φλέτσερ με τους: Μπίτι Έντμοντσον, Εντ Σκρέιν, Τζένιφερ Σόντερς, Τομ Μπένετ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260513230000 GMT+3" stop="20260514003000 GMT+3" channel="289530">
+    <title lang="el">Triangle</title>
+    <desc lang="el">Triangle</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -15314,7 +15320,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513160000 GMT+3" stop="20260513180000 GMT+3" channel="8242886">
-    <title lang="el">ATP 1000 - ROME (QF 1) (Z)</title>
+    <title lang="el">Casper RUUD - Karen KHACHANOV (QF 1) (Z)</title>
     <desc lang="el">2026 ATP 1000 - ROME</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -15326,7 +15332,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513213000 GMT+3" stop="20260513233000 GMT+3" channel="8242886">
-    <title lang="el">ATP 1000 - ROME (QF 2) (Z)</title>
+    <title lang="el">Rafael JODAR - Luciano DARDERI (QF 2) (Z)</title>
     <desc lang="el">2026 ATP 1000 - ROME</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -17734,7 +17740,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513160000 GMT+3" stop="20260513180000 GMT+3" channel="52105043">
-    <title lang="el">ATP 1000 - ROME (QF 1) (Z)</title>
+    <title lang="el">Casper RUUD - Karen KHACHANOV (QF 1) (Z)</title>
     <desc lang="el">2026 ATP 1000 - ROME</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -17746,7 +17752,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260513213000 GMT+3" stop="20260513233000 GMT+3" channel="52105043">
-    <title lang="el">ATP 1000 - ROME (QF 2) (Z)</title>
+    <title lang="el">Rafael JODAR - Luciano DARDERI (QF 2) (Z)</title>
     <desc lang="el">2026 ATP 1000 - ROME</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -19071,13 +19077,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514010000 GMT+3" stop="20260514020000 GMT+3" channel="289530">
+  <programme start="20260514003000 GMT+3" stop="20260514013000 GMT+3" channel="289530">
     <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
     <desc lang="el">01/04/2026</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514020000 GMT+3" stop="20260514030000 GMT+3" channel="289530">
+  <programme start="20260514013000 GMT+3" stop="20260514030000 GMT+3" channel="289530">
     <title lang="el">ΤΟ&apos; ΧΟΥΜΕ ΜΕ ΤΟΝ ΚΩΣΤΑ ΤΣΟΥΡΟ</title>
     <desc lang="el">01/04/2026</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -19163,7 +19169,7 @@
   </programme>
   <programme start="20260514181500 GMT+3" stop="20260514183000 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5&apos;</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -19186,20 +19192,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260514210000 GMT+3" stop="20260514213000 GMT+3" channel="289530">
-    <title lang="el">FIFA World Cup 2026 - Preview Stories</title>
-    <desc lang="el">FIFA World Cup 2026 - Preview Stories</desc>
+    <title lang="el">FIFA World Cup 2026 - Preview Series</title>
+    <desc lang="el">FIFA World Cup 2026 - Preview Series</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514213000 GMT+3" stop="20260514230000 GMT+3" channel="289530">
+  <programme start="20260514213000 GMT+3" stop="20260514233000 GMT+3" channel="289530">
     <title lang="el">ΧΩΡΙΣ ΠΕΡΙΣΤΡΟΦΕΣ</title>
     <desc lang="el">Μεγάλη Δημοσκόπηση για τις Βουλευτικές Εκλογές</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514230000 GMT+3" stop="20260515023000 GMT+3" channel="289530">
-    <title lang="el">Survivor</title>
-    <desc lang="el">Το Survivor, το απόλυτο παιχνίδι επιβίωσης, έρχεται ξανά στο ΣΙΓΜΑ ανανεωμένο, ανατρεπτικό και με το μεγαλύτερο χρηματικό έπαθλο που έχει δοθεί στην ελληνική τηλεόραση, 250.000 ευρώ! Σε μία αναμέτρηση που θα γράψει ιστορία, αυτή τη φορά θα αγωνιστούν Αθην</desc>
+  <programme start="20260514233000 GMT+3" stop="20260515010000 GMT+3" channel="289530">
+    <title lang="el">A Good Day to Die Hard</title>
+    <desc lang="el">A Good Day to Die Hard</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -24028,31 +24034,31 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514035500 GMT+3" stop="20260514054000 GMT+3" channel="9821930">
+  <programme start="20260514035500 GMT+3" stop="20260514053000 GMT+3" channel="9821930">
     <title lang="el">Bedazzled</title>
     <desc lang="el">Bedazzled Σκηνοθεσία: Harold Ramis,. Πρωταγωνιστούν: Brendan Fraser, Miriam Shor, Elizabeth Hurley, Frances O&apos;Connor,. (2000)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514054000 GMT+3" stop="20260514073000 GMT+3" channel="9821930">
+  <programme start="20260514053000 GMT+3" stop="20260514072000 GMT+3" channel="9821930">
     <title lang="el">Entrapment</title>
     <desc lang="el">Entrapment Σκηνοθεσία: Jon Amiel,. Πρωταγωνιστούν: Sean Connery, Catherine Zeta-Jones, Ving Rhames, Will Patton, Maury Chaykin, Kevin McNally. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514073000 GMT+3" stop="20260514093000 GMT+3" channel="9821930">
+  <programme start="20260514072000 GMT+3" stop="20260514092500 GMT+3" channel="9821930">
     <title lang="el">Magnum Force</title>
     <desc lang="el">Magnum Force Σκηνοθεσία: Ted Post,. Πρωταγωνιστούν: Clint Eastwood, Hal Holbrook, Mitchell Ryan, David Soul, Felton Perry, Robert Urich. (1973)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514093000 GMT+3" stop="20260514112000 GMT+3" channel="9821930">
+  <programme start="20260514092500 GMT+3" stop="20260514111500 GMT+3" channel="9821930">
     <title lang="el">Street Kings</title>
     <desc lang="el">Street Kings Σκηνοθεσία: David Ayer,. Πρωταγωνιστούν: Keanu Reeves, Forest Whitaker, Chris Evans, Hugh Laurie, Cedric the Entertainer, Jay Mohr. (2008)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514112000 GMT+3" stop="20260514134000 GMT+3" channel="9821930">
+  <programme start="20260514111500 GMT+3" stop="20260514134000 GMT+3" channel="9821930">
     <title lang="el">Man on Fire</title>
     <desc lang="el">Man on Fire Σκηνοθεσία: Tony Scott,. Πρωταγωνιστούν: Denzel Washington, Dakota Fanning, Marc Anthony, Christopher Walken, Radha Mitchell, Giancarlo Giannini. (2004)</desc>
     <category lang="el">Ταινίες</category>
@@ -24064,13 +24070,13 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514153500 GMT+3" stop="20260514175000 GMT+3" channel="9821930">
+  <programme start="20260514153500 GMT+3" stop="20260514174500 GMT+3" channel="9821930">
     <title lang="el">L.A. Confidential</title>
     <desc lang="el">Εν μέσω διαφθοράς, φόνων και τη λάμψη διάσημων κινηματογραφικών σταρ, τρεις αστυνομικοί αγωνίζονται να αποκαλύψουν την αλήθεια πίσω από μια άγρια μαζική δολοφονία. Σκηνοθεσία: Curtis Hanson,. Πρωταγωνιστούν: Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger, Danny DeVito. (1997)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514175000 GMT+3" stop="20260514192000 GMT+3" channel="9821930">
+  <programme start="20260514174500 GMT+3" stop="20260514192000 GMT+3" channel="9821930">
     <title lang="el">Legend</title>
     <desc lang="el">Legend Σκηνοθεσία: Ridley Scott,. Πρωταγωνιστούν: Alice Playten, Mia Sara, Billy Barty, Tim Curry, Tom Cruise, David Bennet. (1985)</desc>
     <category lang="el">Ταινίες</category>
@@ -28147,18 +28153,6 @@
   <programme start="20260514104500 GMT+3" stop="20260514110000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ355</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514110000 GMT+3" stop="20260514120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ75</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514120000 GMT+3" stop="20260514130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ96</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -33527,7 +33521,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260514180000 GMT+3" stop="20260514200000 GMT+3" channel="24745114">
-    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26</title>
+    <title lang="el">Coviran Granada - Barcelona 13/5/26</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -35959,7 +35953,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260514180000 GMT+3" stop="20260514200000 GMT+3" channel="52187736">
-    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26</title>
+    <title lang="el">Coviran Granada - Barcelona 13/5/26</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -36942,19 +36936,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515023000 GMT+3" stop="20260515033000 GMT+3" channel="289530">
+  <programme start="20260515010000 GMT+3" stop="20260515020000 GMT+3" channel="289530">
     <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
     <desc lang="el">01/04/2026</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515033000 GMT+3" stop="20260515043000 GMT+3" channel="289530">
+  <programme start="20260515020000 GMT+3" stop="20260515030000 GMT+3" channel="289530">
+    <title lang="el">ΤΟ&apos; ΧΟΥΜΕ ΜΕ ΤΟΝ ΚΩΣΤΑ ΤΣΟΥΡΟ</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515030000 GMT+3" stop="20260515040000 GMT+3" channel="289530">
     <title lang="el">ΕΛΑ ΠΑΡΕ ΜΕ (E)</title>
     <desc lang="el">ΕΛΑ ΠΑΡΕ ΜΕ (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515043000 GMT+3" stop="20260515060000 GMT+3" channel="289530">
+  <programme start="20260515040000 GMT+3" stop="20260515050000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515050000 GMT+3" stop="20260515060000 GMT+3" channel="289530">
     <title lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</title>
     <desc lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -37022,7 +37028,7 @@
   </programme>
   <programme start="20260515181500 GMT+3" stop="20260515183000 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5&apos;</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -37045,8 +37051,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260515210000 GMT+3" stop="20260515213000 GMT+3" channel="289530">
-    <title lang="el">FIFA World Cup 2026 - Preview Stories</title>
-    <desc lang="el">FIFA World Cup 2026 - Preview Stories</desc>
+    <title lang="el">FIFA World Cup 2026 - Preview Series</title>
+    <desc lang="el">FIFA World Cup 2026 - Preview Series</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -39462,49 +39468,49 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515075000 GMT+3" stop="20260515081000 GMT+3" channel="2374">
+  <programme start="20260515075000 GMT+3" stop="20260515081500 GMT+3" channel="2374">
     <title lang="el">Tom and Jerry Κ1</title>
     <desc lang="el">Tom tries to use Jerry as the bait for his fishing trip. / Jerry tries to scupper Tom&apos;s piano concert when he is woken by the music. / A baby duck gets confused and thinks Tom is its mother but Jerry tries to convince it otherwise as the cat tries to make a meal of the duckling. Σκηνοθεσία: Joseph Barbera,William Hanna,. (1947)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515081000 GMT+3" stop="20260515083500 GMT+3" channel="2374">
+  <programme start="20260515081500 GMT+3" stop="20260515083500 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ2</title>
     <desc lang="el">Hi-jinx ensue when Jerry decides to mock-up a “REWARD IF FOUND” poster with Tom’s picture on it and listing the address of the neighbour with the ferocious dog as Tom&apos;s home... / Tom finds himself in a series of unfortunate events. / Butch and Meathead don&apos;t want to miss a marathon of their favorite show so they make a deal with Tom to trade a little TV time for a treasure map. Σκηνοθεσία: Darrell Van Citters,. (2017)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515083500 GMT+3" stop="20260515085500 GMT+3" channel="2374">
+  <programme start="20260515083500 GMT+3" stop="20260515090000 GMT+3" channel="2374">
     <title lang="el">Looney Tunes Cartoons Κ1</title>
     <desc lang="el">Tweety &amp; Sylvester ice skate / Bugs Bunny crashes a pool party / Wile E. Coyote paints a tunnel. / Bugs tries to ride a roller coaster, but Yosemite Sam is determined to stop him. / At the zoo, Sylvester’s lunch plans are foiled by a rhino. Σκηνοθεσία: David Gemmill,Ryan Kramer,. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515085500 GMT+3" stop="20260515092000 GMT+3" channel="2374">
+  <programme start="20260515090000 GMT+3" stop="20260515092500 GMT+3" channel="2374">
     <title lang="el">Be Cool, Scooby-Doo! Κ1 ΕΠ3</title>
     <desc lang="el">The gang hits the road in the Mystery Machine, chasing fun and adventure. But monsters and mayhem keep getting in the way. Σκηνοθεσία: Jeff Mednikow,. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515092000 GMT+3" stop="20260515100500 GMT+3" channel="2374">
+  <programme start="20260515092500 GMT+3" stop="20260515101000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">It&apos;s Family Weekend at Goodenough and Gigi&apos;s mother worries that Gigi is fitting in a bit too well and forgetting her goaty life. / Gigi becomes obsessed with mastering skateboarding - and so does Overblown Academy&apos;s wolf boy, Ren. They decide to work together and it... does not go well. / A book has gone missing from the library and Sully will stop at nothing until the mystery is solved. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515100500 GMT+3" stop="20260515105000 GMT+3" channel="2374">
+  <programme start="20260515101000 GMT+3" stop="20260515105500 GMT+3" channel="2374">
     <title lang="el">Clarence Κ2</title>
     <desc lang="el">Clarence enlists the help of his eccentric neighbour Larry to take the trio out for ice cream, and the ride of their lives! / Clarence loses the ball during a soccer game. / Clarence and Sumo cause a power outage in Sumo’s home. / Clarence is inspired to round up local animals. Σκηνοθεσία: Martin Ansolabehere,Nelson Boles,. Πρωταγωνιστούν: Spencer Rothbell, Tom Kenny, Skyler Page, Sean Giambrone,. (2016)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515105000 GMT+3" stop="20260515111500 GMT+3" channel="2374">
+  <programme start="20260515105500 GMT+3" stop="20260515112000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515111500 GMT+3" stop="20260515114000 GMT+3" channel="2374">
+  <programme start="20260515112000 GMT+3" stop="20260515114000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ2</title>
     <desc lang="el">Gumball asks Idaho to teach his family to live a simpler life. / Gumball teaches Darwin a lesson after Darwin leaves him. Σκηνοθεσία: Mic Graves. (2013)</desc>
     <category lang="el">Παιδικά</category>
@@ -39522,19 +39528,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515131000 GMT+3" stop="20260515135500 GMT+3" channel="2374">
+  <programme start="20260515131000 GMT+3" stop="20260515140000 GMT+3" channel="2374">
     <title lang="el">Totally Spies! Κ7</title>
     <desc lang="el">Exploding baby toys threaten WOOHP and Alex tries to help out Glitterstar. / The spies get stuck in Mandy’s alternate universe and it’s totally scary. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515135500 GMT+3" stop="20260515142000 GMT+3" channel="2374">
+  <programme start="20260515140000 GMT+3" stop="20260515142500 GMT+3" channel="2374">
     <title lang="el">Craig of the Creek Κ2</title>
     <desc lang="el">Tragedy strikes the Creek when the Elders get trapped under Elder Rock, and it&apos;s up to Craig, Kelsey and JP to rescue them. / When Kelsey demolishes a wall at Craig&apos;s house, her father takes away her sword. So she enlists Craig and JP to help prove to her father that she&apos;s still worthy Σκηνοθεσία: Eddy Houchins,Martin Ansolabehere,Stu Livingston,. Πρωταγωνιστούν: Philip Solomon, Phillip Solomon,. (2019)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515142000 GMT+3" stop="20260515150000 GMT+3" channel="2374">
+  <programme start="20260515142500 GMT+3" stop="20260515150000 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ7</title>
     <desc lang="el">One very spooky night, Finn and Jake come face-to-face with an urban myth. / There&apos;s a catastrophic storm headed for the Grasslands, so Finn, Lumpy Space Princess, and Beemo decide to build a bunker for protection, but Jake has plans of his own. / Finn takes a group of at-risk Candy Kingdom youth on a camping trip they’ll never forget. Σκηνοθεσία: Larry Leichliter. Πρωταγωνιστούν: Jeremy Shada, John DiMaggio, Jhon Di Maggio, Tom Kenny,. (2015)</desc>
     <category lang="el">Παιδικά</category>
@@ -39546,25 +39552,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515152000 GMT+3" stop="20260515154000 GMT+3" channel="2374">
+  <programme start="20260515152000 GMT+3" stop="20260515154500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ6</title>
     <desc lang="el">Dad misses a package and is forced into an escalating feud with the delivery guy. / Anais and Jamie form an unlikely partnership when they&apos;re accused of a crime they didn&apos;t commit. Σκηνοθεσία: Mic Graves. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515154000 GMT+3" stop="20260515160500 GMT+3" channel="2374">
+  <programme start="20260515154500 GMT+3" stop="20260515161000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ3</title>
     <desc lang="el">After Benson unjustifiably throws out Mordecai and Rigby&apos;s stick hockey table, he feels guilty and tries to help them get it back. / While playing a video game Mordecai and Rigby make a bet in which the loser of the game has to wear a blonde hairstyle. Rigby cheats. Σκηνοθεσία: J.G. Quintel,John Davis Infantino. Πρωταγωνιστούν: J. G. Quintel, J.G. Quintel, William Salyers,. (2011)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515160500 GMT+3" stop="20260515163000 GMT+3" channel="2374">
+  <programme start="20260515161000 GMT+3" stop="20260515163500 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ2</title>
     <desc lang="el">Apple &amp; Onion know exactly what gifts they want this Christmas but all their money has been squandered. Luckily they find a suitably festive way to make back that money. / Apple&apos;s curiosity of what it would be like to walk upside down like a spider should be ignored and given no further thought. It is not. Σκηνοθεσία: George Gendi,Benton Connor,Nick Edwards,. Πρωταγωνιστούν: Richard Ayoade, George Gendi,. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515163000 GMT+3" stop="20260515170000 GMT+3" channel="2374">
+  <programme start="20260515163500 GMT+3" stop="20260515170000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">During a heatwave, Richard recruits the kids to help him sneak into the Robinsons’ new above-ground pool. / Nicole wants a new family portrait where everyone’s entire face is in the photo and they’re all smiling. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -39594,13 +39600,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515185500 GMT+3" stop="20260515191500 GMT+3" channel="2374">
+  <programme start="20260515185500 GMT+3" stop="20260515192000 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ2</title>
     <desc lang="el">It&apos;s Apple&apos;s turn to buy this months&apos; groceries again meaning that the risk of starvation is at hand. / Apple and Onion must adopt unorthodox measures if they are to see this special animal at the zoo. Σκηνοθεσία: George Gendi,Benton Connor,Nick Edwards,. Πρωταγωνιστούν: Richard Ayoade, George Gendi,. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515191500 GMT+3" stop="20260515194000 GMT+3" channel="2374">
+  <programme start="20260515192000 GMT+3" stop="20260515194000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball vows to wear a shell and partake in strange Fitzgerald traditions, in order to help Penny get through a tense family birthday party with ease. / The boys are on the verge of discovering the truth about Elmore but their old nemesis decides to rewrite the story. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -39630,13 +39636,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515213000 GMT+3" stop="20260515221500 GMT+3" channel="2374">
+  <programme start="20260515213000 GMT+3" stop="20260515222000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana idolizes Durango but misses her treasure-stealing scheme. Can Lana stop her hero before it’s too late? / Lana and Bo’s solo quest turns dangerous when they discover their cargo holds a sleeping beast. / Lana loses Sprog at a pet show and uncovers her pet’s hidden dangers. Can she prove Sprog isn’t all bad? / Lana helps a kind old lady, only to learn she&apos;s a pirate! Can Lana handle being caught in Lovejoy family drama? (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515221500 GMT+3" stop="20260515224000 GMT+3" channel="2374">
+  <programme start="20260515222000 GMT+3" stop="20260515224000 GMT+3" channel="2374">
     <title lang="el">-</title>
     <desc lang="el">- Πρωταγωνιστούν: Philip Solomon, Noël Wells, Dana Davis, Charles DeWayne, Nick A Fisher,. (2020)</desc>
     <category lang="el">Παιδικά</category>
@@ -39654,7 +39660,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515235000 GMT+3" stop="20260516003000 GMT+3" channel="2374">
+  <programme start="20260515235000 GMT+3" stop="20260516002500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. / The Wattersons must get Anais to Daisyland before the park closes for good. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -41904,43 +41910,43 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260515011000 GMT+3" stop="20260515024500 GMT+3" channel="9821930">
+  <programme start="20260515011000 GMT+3" stop="20260515031000 GMT+3" channel="9821930">
     <title lang="el">Stir of Echoes</title>
     <desc lang="el">Ένας άντρας με την ικανότητα της προαίσθησης παθιάζεται με το φάντασμα μιας νεαρής γυναίκας που βιάστηκε, δολοφονήθηκε και θάφτηκε στο υπόγειο του σπιτιού του. Σκηνοθεσία: David Koepp. Πρωταγωνιστούν: Kevin Bacon, Kathryn Erbe, Illeana Douglas, Zachary Cope, Kevin Dunn, Conor O&apos;Farrell. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515024500 GMT+3" stop="20260515045000 GMT+3" channel="9821930">
+  <programme start="20260515031000 GMT+3" stop="20260515044000 GMT+3" channel="9821930">
     <title lang="el">Dirty Dancing</title>
     <desc lang="el">Ο Πάτρικ Σουέιζι και η Τζένιφερ Γκρέι ζουν τις καλύτερες στιγμές της ζωής τους σε αυτό το γεμάτο ένταση μελόδραμα με θέμα δύο αταίριαστους παρτενέρ χορού που τελικά ερωτεύονται. (1987) Σκηνοθεσία: Emile Ardolino. Πρωταγωνιστούν: Patrick Swayze, Jennifer Grey, Heather Lea Gerdes, Jerry Orbach, Karen Getz. (1987)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515045000 GMT+3" stop="20260515062500 GMT+3" channel="9821930">
+  <programme start="20260515044000 GMT+3" stop="20260515061500 GMT+3" channel="9821930">
     <title lang="el">Legend</title>
     <desc lang="el">Legend Σκηνοθεσία: Ridley Scott,. Πρωταγωνιστούν: Alice Playten, Mia Sara, Billy Barty, Tim Curry, Tom Cruise, David Bennet. (1985)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515062500 GMT+3" stop="20260515083500 GMT+3" channel="9821930">
+  <programme start="20260515061500 GMT+3" stop="20260515082500 GMT+3" channel="9821930">
     <title lang="el">Moneyball</title>
     <desc lang="el">Moneyball Σκηνοθεσία: Bennett Miller,. Πρωταγωνιστούν: Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin Wright, Chris Pratt, Reed Diamond. (2011)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515083500 GMT+3" stop="20260515103500 GMT+3" channel="9821930">
+  <programme start="20260515082500 GMT+3" stop="20260515102500 GMT+3" channel="9821930">
     <title lang="el">Big Fish</title>
     <desc lang="el">Big Fish Σκηνοθεσία: Tim Burton,. Πρωταγωνιστούν: Ewan McGregor, Albert Finney, Jessica Lange, Billy Crudup, Steve Buscemi, Danny DeVito. (2003)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515103500 GMT+3" stop="20260515122000 GMT+3" channel="9821930">
+  <programme start="20260515102500 GMT+3" stop="20260515121000 GMT+3" channel="9821930">
     <title lang="el">Law Abiding Citizen</title>
     <desc lang="el">Law Abiding Citizen Σκηνοθεσία: F. Gary Gray,. Πρωταγωνιστούν: Colm Meaney, Julian Marzal, Cecelia Ann Birt, Charlie Alston, David Huddleston, Patrick F Mcdade. (2009)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515122000 GMT+3" stop="20260515135500 GMT+3" channel="9821930">
+  <programme start="20260515121000 GMT+3" stop="20260515135500 GMT+3" channel="9821930">
     <title lang="el">Mad Max</title>
     <desc lang="el">Mad Max Σκηνοθεσία: George Miller,. Πρωταγωνιστούν: Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley, Tim Burns, Roger Ward. (1979)</desc>
     <category lang="el">Ταινίες</category>
@@ -41976,7 +41982,7 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515224500 GMT+3" stop="20260516002500 GMT+3" channel="9821930">
+  <programme start="20260515224500 GMT+3" stop="20260516005000 GMT+3" channel="9821930">
     <title lang="el">Tango &amp; Cash</title>
     <desc lang="el">Tango &amp; Cash Σκηνοθεσία: Andrei Konchalovsky,Albert Magnoli,. Πρωταγωνιστούν: Sylvester Stallone, Kurt Russell, Jack Palance, Teri Hatcher, Michael J. Pollard, Brion James. (1989)</desc>
     <category lang="el">Ταινίες</category>
@@ -42672,13 +42678,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515134500 GMT+3" stop="20260515140500 GMT+3" channel="216459">
+  <programme start="20260515134500 GMT+3" stop="20260515141000 GMT+3" channel="216459">
     <title lang="el">Σκουπίδια Αξίας Κ1 ΕΠ10</title>
     <desc lang="el">Αυτό που άρχισε σαν ένα οδοιπορικό στα βάθη ενός τρομακτικού μασονικού οίκου ευγηρίας μετατρέπεται σ&apos; ένα ταξίδι στον παράδεισο για την ομάδα. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515140500 GMT+3" stop="20260515145500 GMT+3" channel="216459">
+  <programme start="20260515141000 GMT+3" stop="20260515145500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ12</title>
     <desc lang="el">Ο βαρύς αρκτικός χειμώνας χτυπά την Αλάσκα και η επόμενη γενιά αναγκάζεται να επιβιώσει και να ευημερήσει σε θερμοκρασίες υπό το μηδέν. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -42690,13 +42696,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515154000 GMT+3" stop="20260515160000 GMT+3" channel="216459">
+  <programme start="20260515154000 GMT+3" stop="20260515160500 GMT+3" channel="216459">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ3</title>
     <desc lang="el">Η New Balance αποκαλύπτει πώς συνδυάζονται τα υπερσύγχρονα μηχανήματα, οι χειροτεχνικές ικανότητες και οι παγκόσμιες μεταφορές για να φτάσουν τα διάσημα αθλητικά παπούτσια σε όλον τον κόσμο. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515160000 GMT+3" stop="20260515162500 GMT+3" channel="216459">
+  <programme start="20260515160500 GMT+3" stop="20260515162500 GMT+3" channel="216459">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ6</title>
     <desc lang="el">Το πιο παλιό αποστακτήριο της Αμερικής συνεχίζει να χρησιμοποιεί μια συνταγή 150 χρόνων για ένα από τα πιο διάσημα ποτά του κόσμου. Δείτε πώς το Jack Daniels παραμένει ηγέτης στον χώρο του και πώς η παγκόσμια αγορά ουίσκι έχει σήμερα αξία πάνω από 800 δις τον χρόνο. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -42750,25 +42756,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515210000 GMT+3" stop="20260515214500 GMT+3" channel="216459">
+  <programme start="20260515210000 GMT+3" stop="20260515215000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ3</title>
     <desc lang="el">Εξετάστε την τολμηρή φιλοδοξία και τις τεχνικές προκλήσεις πίσω από τις ψηλότερες κατασκευές της Ευρώπης. Από τη Σαγράδα Φαμίλια της Βαρκελώνης μέχρι τους αρθρωτούς ουρανοξύστες που αναδιαμορφώνουν τον ορίζοντα του Ηνωμένου Βασιλείου και τους επαναστατικούς ενεργειακά ουδέτερους πύργους στο Άμστερνταμ, αυτό το επεισόδιο αποκαλύπτει την ακριβή μηχανική και τα προηγμένα υλικά που επιτρέπουν σε αυτά τα κτίρια να κατακτήσουν νέα ρεκόρ ύψους. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515214500 GMT+3" stop="20260515223500 GMT+3" channel="216459">
+  <programme start="20260515215000 GMT+3" stop="20260515223500 GMT+3" channel="216459">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ1</title>
     <desc lang="el">Οι ακτοφύλακες κάνουν έναν έλεγχο ρουτίνας για ναρκωτικά σε ένα σκάφος που φιλοξενεί πάρτι. Στο μεταξύ, μια δύσκολη αναχαίτιση ενός σκάφους με ναρκωτικά δοκιμάζει το πλήρωμα του HNLMS Holland. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515223500 GMT+3" stop="20260515232000 GMT+3" channel="216459">
+  <programme start="20260515223500 GMT+3" stop="20260515232500 GMT+3" channel="216459">
     <title lang="el">Β&apos; Παγκόσμιος Πόλεμος: Μυστικά από Ψηλά Κ2 ΕΠ1</title>
     <desc lang="el">Καλοκαίρι 1940: Σφοδρές αερομαχίες γεμίζουν τον ουρανό πάνω από τη νότια Αγγλία, καθώς οι πιλότοι της Βρετανικής Αεροπορίας υπερασπίζονται το νησί από ισχυρά γερμανικά βομβαρδιστικά. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260515232000 GMT+3" stop="20260516001000 GMT+3" channel="216459">
+  <programme start="20260515232500 GMT+3" stop="20260516001000 GMT+3" channel="216459">
     <title lang="el">Β&apos; Παγκόσμιος Πόλεμος: Μυστικά από Ψηλά Κ2 ΕΠ2</title>
     <desc lang="el">Η μεγαλύτερη σε διάρκεια εκστρατεία του πολέμου φέρνει αντιμέτωπες τη θανατηφόρα ευελιξία των ναζιστικών υποβρυχίων με την ικανότητα των Συμμάχων στο σπάσιμο κωδικών και τα βομβαρδιστικά μεγάλου βεληνεκούς που διαθέτουν. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -51450,9 +51456,93 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515050000 GMT+3" stop="20260515060000 GMT+3" channel="24745114">
+  <programme start="20260515050000 GMT+3" stop="20260515070000 GMT+3" channel="24745114">
     <title lang="el">Ajax - FC Utrecht 10/5/26 (E)</title>
     <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515070000 GMT+3" stop="20260515090000 GMT+3" channel="24745114">
+    <title lang="el">Toulouse - Lyon 10/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515090000 GMT+3" stop="20260515110000 GMT+3" channel="24745114">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515110000 GMT+3" stop="20260515120000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 33 12/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515120000 GMT+3" stop="20260515140000 GMT+3" channel="24745114">
+    <title lang="el">Feyenoord - AZ Alkmaar 10/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515140000 GMT+3" stop="20260515160000 GMT+3" channel="24745114">
+    <title lang="el">Le Havre - Marseille 10/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515160000 GMT+3" stop="20260515170000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 2) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515170000 GMT+3" stop="20260515173000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515173000 GMT+3" stop="20260515193000 GMT+3" channel="24745114">
+    <title lang="el">Surne Bilbao - Real Madrid 14/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515193000 GMT+3" stop="20260515200000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515200000 GMT+3" stop="20260515203000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 33 11/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515203000 GMT+3" stop="20260515210000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515210000 GMT+3" stop="20260515213000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515213000 GMT+3" stop="20260515220000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515220000 GMT+3" stop="20260516000000 GMT+3" channel="24745114">
+    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52505,7 +52595,7 @@
   </programme>
   <programme start="20260515180000 GMT+3" stop="20260515201500 GMT+3" channel="46137848">
     <title lang="el">ΠΑΟΚ - Άρης (Ζ)</title>
-    <desc lang="el">Super League - Κύπελλο Κ19 Ποδόσφαιρο, 2024.</desc>
+    <desc lang="el">Ο ΠΑΟΚ και ο Άρης συγκρούονται στον τελικό του Κυπέλλου Super League K19 που διεξάγεται στο γήπεδο του Παναιτωλικού στο Αγρίνιο και διεκδικούν το τρόπαιο της διοργάνωσης. Περιγραφή: Γ. Πάγκος Ποδόσφαιρο, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52785,7 +52875,7 @@
   </programme>
   <programme start="20260515153000 GMT+3" stop="20260515173000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 154 (Ζ)</title>
-    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
+    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Ακ. Κουζούλης Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
@@ -53700,9 +53790,93 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515050000 GMT+3" stop="20260515060000 GMT+3" channel="52187736">
+  <programme start="20260515050000 GMT+3" stop="20260515070000 GMT+3" channel="52187736">
     <title lang="el">Ajax - FC Utrecht 10/5/26 (E)</title>
     <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515070000 GMT+3" stop="20260515090000 GMT+3" channel="52187736">
+    <title lang="el">Toulouse - Lyon 10/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515090000 GMT+3" stop="20260515110000 GMT+3" channel="52187736">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515110000 GMT+3" stop="20260515120000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 33 12/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515120000 GMT+3" stop="20260515140000 GMT+3" channel="52187736">
+    <title lang="el">Feyenoord - AZ Alkmaar 10/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515140000 GMT+3" stop="20260515160000 GMT+3" channel="52187736">
+    <title lang="el">Le Havre - Marseille 10/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515160000 GMT+3" stop="20260515170000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 2) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515170000 GMT+3" stop="20260515173000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515173000 GMT+3" stop="20260515193000 GMT+3" channel="52187736">
+    <title lang="el">Surne Bilbao - Real Madrid 14/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515193000 GMT+3" stop="20260515200000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515200000 GMT+3" stop="20260515203000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 33 11/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515203000 GMT+3" stop="20260515210000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515210000 GMT+3" stop="20260515213000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515213000 GMT+3" stop="20260515220000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515220000 GMT+3" stop="20260516000000 GMT+3" channel="52187736">
+    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -54650,7 +54824,7 @@
   </programme>
   <programme start="20260516181500 GMT+3" stop="20260516182000 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5&apos;</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -54673,8 +54847,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260516210000 GMT+3" stop="20260516213000 GMT+3" channel="289530">
-    <title lang="el">FIFA World Cup 2026 - Preview Stories</title>
-    <desc lang="el">FIFA World Cup 2026 - Preview Stories</desc>
+    <title lang="el">FIFA World Cup 2026 - Preview Series</title>
+    <desc lang="el">FIFA World Cup 2026 - Preview Series</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -54684,7 +54858,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516230000 GMT+3" stop="20260517010000 GMT+3" channel="289530">
+  <programme start="20260516230000 GMT+3" stop="20260517003000 GMT+3" channel="289530">
     <title lang="el">Me, Myself and Irene</title>
     <desc lang="el">ΕΓΩ, ΑΥΤH ΚΑΙ Ο ΕΑΥΤΟΣ ΜΟΥ. Ο Τσάρλι, ένας καλοκάγαθος αστυνομικός με διπλή προσωπικότητα, αναλαμβάνει να προστατεύσει την Αϊρίν, μια κοπέλα που κρύβεται από τον απατεώνα πρώην της και τους συνεργάτες του. Κωμωδία παραγωγής 2000 σε σκηνοθεσία Μπόμπι Φάρελι &amp; Πίτερ Φάρελι με τους: Τζιμ Κάρεϊ, Ρενέ Ζέλβεγκερ, Κρις Κούπερ, Ρόμπερτ Φόρστερ.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -56958,7 +57132,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516003000 GMT+3" stop="20260516050000 GMT+3" channel="2374">
+  <programme start="20260516002500 GMT+3" stop="20260516050000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ5</title>
     <desc lang="el">The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel. / The town of Elmore becomes an all-singing, all-dancing mash up. Everyone has a song inside them, but do they really need to be heard? / Darwin is delighted when they discover their old childhood toys, but soon realises that some things are best left in the past. / Gumball spends all day with Bomb Kid who discovers that he may well be unprankable. (2017)</desc>
     <category lang="el">Παιδικά</category>
@@ -59428,19 +59602,19 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516002500 GMT+3" stop="20260516021500 GMT+3" channel="9821930">
+  <programme start="20260516005000 GMT+3" stop="20260516030500 GMT+3" channel="9821930">
     <title lang="el">Donnie Darko</title>
     <desc lang="el">Ένας διαταραγμένος έφηβος γλιτώνει από ένα παράξενο ατύχημα, αλλά στη συνέχεια βασανίζεται από οράματα ενός κουνελιού με ανθρώπινες αναλογίες. Σκηνοθεσία: Richard Kelly,. Πρωταγωνιστούν: Jake Gyllenhaal,. (2001)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516021500 GMT+3" stop="20260516044500 GMT+3" channel="9821930">
+  <programme start="20260516030500 GMT+3" stop="20260516044000 GMT+3" channel="9821930">
     <title lang="el">Stir of Echoes</title>
     <desc lang="el">Ένας άντρας με την ικανότητα της προαίσθησης παθιάζεται με το φάντασμα μιας νεαρής γυναίκας που βιάστηκε, δολοφονήθηκε και θάφτηκε στο υπόγειο του σπιτιού του. Σκηνοθεσία: David Koepp. Πρωταγωνιστούν: Kevin Bacon, Kathryn Erbe, Illeana Douglas, Zachary Cope, Kevin Dunn, Conor O&apos;Farrell. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516044500 GMT+3" stop="20260516062000 GMT+3" channel="9821930">
+  <programme start="20260516044000 GMT+3" stop="20260516062000 GMT+3" channel="9821930">
     <title lang="el">Beetlejuice</title>
     <desc lang="el">Beetlejuice Σκηνοθεσία: Tim Burton,. Πρωταγωνιστούν: Alec Baldwin, Geena Davis, Jeffrey Jones, Michael Keaton, Catherine O&apos;Hara, Winona Ryder. (1988)</desc>
     <category lang="el">Ταινίες</category>
@@ -60118,13 +60292,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516053500 GMT+3" stop="20260516060000 GMT+3" channel="216459">
+  <programme start="20260516053500 GMT+3" stop="20260516055500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ19</title>
     <desc lang="el">Σε αυτό το επεισόδιο, εισχωρούμε στην εντροπία, μαθαίνουμε τα μυστικά των καλών τρόπων όταν παίζουμε μπόουλινγκ και ανακαλύπτουμε τον καλύτερο τρόπο για να σκαλίσουμε πάνω σε σανίδα του σνόουμπορντ. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260516060000 GMT+3" stop="20260516062000 GMT+3" channel="216459">
+  <programme start="20260516055500 GMT+3" stop="20260516062000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ20</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε για τα ανάποδα άλματα με μοτοσυκλέτα, πώς να αποφύγουμε τον τραυματισμό ενώ κάνουμε παρκούρ και πώς να αποφύγουμε τον εξευτελισμό ενώ ανεβαίνουμε σκαλιά. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -65362,33 +65536,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="213719">
-    <title lang="el">Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc lang="el">Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260516023000 GMT+3" stop="20260516030000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516030000 GMT+3" stop="20260516033000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="213719">
+  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="213719">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="213719">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65401,36 +65557,6 @@
   <programme start="20260516050000 GMT+3" stop="20260516060000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516060000 GMT+3" stop="20260516063000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516063000 GMT+3" stop="20260516070000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516070000 GMT+3" stop="20260516080000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516080000 GMT+3" stop="20260516083000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516083000 GMT+3" stop="20260516090000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65449,24 +65575,6 @@
   <programme start="20260516100000 GMT+3" stop="20260516110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516110000 GMT+3" stop="20260516113000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516113000 GMT+3" stop="20260516120000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516120000 GMT+3" stop="20260516123000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65500,13 +65608,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516183000 GMT+3" stop="20260516190000 GMT+3" channel="213719">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516190000 GMT+3" stop="20260516193000 GMT+3" channel="213719">
+  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="213719">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -65518,39 +65620,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516200000 GMT+3" stop="20260516203000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516203000 GMT+3" stop="20260516210000 GMT+3" channel="213719">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516210000 GMT+3" stop="20260516213000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516213000 GMT+3" stop="20260516220000 GMT+3" channel="213719">
+  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="213719">
     <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
     <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516220000 GMT+3" stop="20260516230000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516230000 GMT+3" stop="20260517000000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65566,33 +65638,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="71037984">
-    <title lang="el">Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc lang="el">Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260516023000 GMT+3" stop="20260516030000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516030000 GMT+3" stop="20260516033000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="71037984">
+  <programme start="20260516020000 GMT+3" stop="20260516023000 GMT+3" channel="71037984">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="71037984">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65605,36 +65659,6 @@
   <programme start="20260516050000 GMT+3" stop="20260516060000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516060000 GMT+3" stop="20260516063000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516063000 GMT+3" stop="20260516070000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516070000 GMT+3" stop="20260516080000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516080000 GMT+3" stop="20260516083000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516083000 GMT+3" stop="20260516090000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65653,24 +65677,6 @@
   <programme start="20260516100000 GMT+3" stop="20260516110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516110000 GMT+3" stop="20260516113000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516113000 GMT+3" stop="20260516120000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516120000 GMT+3" stop="20260516123000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65704,13 +65710,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516183000 GMT+3" stop="20260516190000 GMT+3" channel="71037984">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516190000 GMT+3" stop="20260516193000 GMT+3" channel="71037984">
+  <programme start="20260516220000 GMT+3" stop="20260516223000 GMT+3" channel="71037984">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -65722,39 +65722,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516200000 GMT+3" stop="20260516203000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516203000 GMT+3" stop="20260516210000 GMT+3" channel="71037984">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516210000 GMT+3" stop="20260516213000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516213000 GMT+3" stop="20260516220000 GMT+3" channel="71037984">
+  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
     <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516220000 GMT+3" stop="20260516230000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516230000 GMT+3" stop="20260517000000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -69394,6 +69364,132 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260516000000 GMT+3" stop="20260516003000 GMT+3" channel="24745114">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26 # 34 14/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516003000 GMT+3" stop="20260516013000 GMT+3" channel="24745114">
+    <title lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός # 08 (E)</title>
+    <desc lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516013000 GMT+3" stop="20260516033000 GMT+3" channel="24745114">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="24745114">
+    <title lang="el">Ομάδες Όνειρο # 0317 The Best Of Brazil / Pep Guardiola&apos;s Greatest (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516043000 GMT+3" stop="20260516050000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516050000 GMT+3" stop="20260516070000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 29/4/26 (E)</title>
+    <desc lang="el">Κύπελλο Κύπρου Κόκα Κόλα 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516070000 GMT+3" stop="20260516090000 GMT+3" channel="24745114">
+    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516090000 GMT+3" stop="20260516093000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516093000 GMT+3" stop="20260516113000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Άρης 10/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516113000 GMT+3" stop="20260516133000 GMT+3" channel="24745114">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516133000 GMT+3" stop="20260516153000 GMT+3" channel="24745114">
+    <title lang="el">Ανόρθωση - Freedom24 Krasava ΕΝΥ 8/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516153000 GMT+3" stop="20260516160000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516160000 GMT+3" stop="20260516163000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516163000 GMT+3" stop="20260516170000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 30 11/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516170000 GMT+3" stop="20260516180000 GMT+3" channel="24745114">
+    <title lang="el">MatchDay 2025-26 Pre-Game 16/5/26 (Z)</title>
+    <desc lang="el">MatchDay 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516180000 GMT+3" stop="20260516200000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (Z)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516200000 GMT+3" stop="20260516211500 GMT+3" channel="24745114">
+    <title lang="el">MatchDay 2025-26 Post-Game 16/5/26 (Z)</title>
+    <desc lang="el">MatchDay 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516211500 GMT+3" stop="20260516221500 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 2) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516221500 GMT+3" stop="20260516234500 GMT+3" channel="24745114">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516234500 GMT+3" stop="20260517010000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 33 12/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260516000000 GMT+3" stop="20260516020000 GMT+3" channel="24746908">
     <title lang="el">Πάφος FC - Άρης 10/5/26 (E)</title>
     <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
@@ -70633,7 +70729,7 @@
   </programme>
   <programme start="20260516221500 GMT+3" stop="20260517001500 GMT+3" channel="218883">
     <title lang="el">ΠΑΟΚ - Άρης</title>
-    <desc lang="el">Super League - Κύπελλο Κ19 Ποδόσφαιρο, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τον τελικό του Κυπέλλου Super League K19, ενός θεσμού που έχει στόχο την αναβάθμιση του αναπτυξιακού ποδοσφαίρου και τη συλλογή αγωνιστικών εμπειριών μέσα από επίσημους αγώνες νοκ-άουτ. Ποδόσφαιρο, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -71693,6 +71789,132 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260516000000 GMT+3" stop="20260516003000 GMT+3" channel="52187736">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26 # 34 14/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516003000 GMT+3" stop="20260516013000 GMT+3" channel="52187736">
+    <title lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός # 08 (E)</title>
+    <desc lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516013000 GMT+3" stop="20260516033000 GMT+3" channel="52187736">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516033000 GMT+3" stop="20260516040000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516040000 GMT+3" stop="20260516043000 GMT+3" channel="52187736">
+    <title lang="el">Ομάδες Όνειρο # 0317 The Best Of Brazil / Pep Guardiola&apos;s Greatest (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516043000 GMT+3" stop="20260516050000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516050000 GMT+3" stop="20260516070000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 29/4/26 (E)</title>
+    <desc lang="el">Κύπελλο Κύπρου Κόκα Κόλα 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516070000 GMT+3" stop="20260516090000 GMT+3" channel="52187736">
+    <title lang="el">Casademont Zaragoza - Valencia Basket 13/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516090000 GMT+3" stop="20260516093000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516093000 GMT+3" stop="20260516113000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Άρης 10/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516113000 GMT+3" stop="20260516133000 GMT+3" channel="52187736">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516133000 GMT+3" stop="20260516153000 GMT+3" channel="52187736">
+    <title lang="el">Ανόρθωση - Freedom24 Krasava ΕΝΥ 8/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516153000 GMT+3" stop="20260516160000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516160000 GMT+3" stop="20260516163000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516163000 GMT+3" stop="20260516170000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 30 11/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516170000 GMT+3" stop="20260516180000 GMT+3" channel="52187736">
+    <title lang="el">MatchDay 2025-26 Pre-Game 16/5/26 (Z)</title>
+    <desc lang="el">MatchDay 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516180000 GMT+3" stop="20260516200000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (Z)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516200000 GMT+3" stop="20260516211500 GMT+3" channel="52187736">
+    <title lang="el">MatchDay 2025-26 Post-Game 16/5/26 (Z)</title>
+    <desc lang="el">MatchDay 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516211500 GMT+3" stop="20260516221500 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 2) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516221500 GMT+3" stop="20260516234500 GMT+3" channel="52187736">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260516234500 GMT+3" stop="20260517010000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 33 12/5/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260516000000 GMT+3" stop="20260516020000 GMT+3" channel="52187749">
     <title lang="el">Πάφος FC - Άρης 10/5/26 (E)</title>
     <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
@@ -72587,13 +72809,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517010000 GMT+3" stop="20260517023000 GMT+3" channel="289530">
+  <programme start="20260517003000 GMT+3" stop="20260517013000 GMT+3" channel="289530">
+    <title lang="el">Happy Traveller</title>
+    <desc lang="el">Ο Ευτύχης Μπλέτσας και η Ηλέκτρα Αστέρη έχουν ταξιδέψει σε όλες τις ηπείρους και έχουν επισκεφτεί κάθε γωνιά του πλανήτη. Για άλλη μια σεζόν, οι τηλεθεατές του ΣΙΓΜΑ «ταξιδεύουν» μαζί τους σε πανέμορφα μέρη της Ελλάδας και μαγικά μέρη στην άλλη άκρη της γης. Με την πιο σημαντική αποσκευή την καλή της διάθεση, η οικογένεια του Happy Traveller «πλημμυρίζει» την τηλεοπτική μας οθόνη με εντυπωσιακές εικόνες, συναρπαστικές εμπειρίες και αμέτρητα, αμέτρητα ταξίδια...</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517013000 GMT+3" stop="20260517030000 GMT+3" channel="289530">
     <title lang="el">Weekend Live</title>
     <desc lang="el">Είναι Σαββατοκύριακο. Θέλεις να μάθεις τι παίζει, να γελάσεις, να χαλαρώσεις λίγο. Όλα αυτά μπορείς να τα βρεις στο «Weekend Live», με παρουσιαστές τον Δημήτρη Πανόπουλο και τη Μάρτζυ Λαζάρου.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517023000 GMT+3" stop="20260517040000 GMT+3" channel="289530">
+  <programme start="20260517030000 GMT+3" stop="20260517040000 GMT+3" channel="289530">
     <title lang="el">ΒΕΝΤΕΤΑ</title>
     <desc lang="el">ΒΕΝΤΕΤΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -72685,13 +72913,13 @@
   </programme>
   <programme start="20260517181500 GMT+3" stop="20260517182000 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας σε 5&apos;</desc>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
   <programme start="20260517182000 GMT+3" stop="20260517185000 GMT+3" channel="289530">
-    <title lang="el">FIFA World Cup 2026 - Preview Stories</title>
-    <desc lang="el">FIFA World Cup 2026 - Preview Stories</desc>
+    <title lang="el">FIFA World Cup 2026 - Preview Series</title>
+    <desc lang="el">FIFA World Cup 2026 - Preview Series</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -72707,9 +72935,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517210000 GMT+3" stop="20260518001500 GMT+3" channel="289530">
-    <title lang="el">Survivor</title>
-    <desc lang="el">Το Survivor, το απόλυτο παιχνίδι επιβίωσης, έρχεται ξανά στο ΣΙΓΜΑ ανανεωμένο, ανατρεπτικό και με το μεγαλύτερο χρηματικό έπαθλο που έχει δοθεί στην ελληνική τηλεόραση, 250.000 ευρώ! Σε μία αναμέτρηση που θα γράψει ιστορία, αυτή τη φορά θα αγωνιστούν Αθην</desc>
+  <programme start="20260517210000 GMT+3" stop="20260517230000 GMT+3" channel="289530">
+    <title lang="el">Wild Hogs</title>
+    <desc lang="el">Τέσσερις άνδρες σε κρίση ηλικίας αποφασίζουν να καβαλήσουν τις Harley τους αφήνοντας πίσω γυναίκες, παιδιά και υποχρεώσεις. </desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517230000 GMT+3" stop="20260518003000 GMT+3" channel="289530">
+    <title lang="el">Transporter 2</title>
+    <desc lang="el">Ο επαγγελματίας οδηγός Φρανκ Μάρτιν ζει στο Μαϊάμι όπου προσωρινά αντικαθιστά ένα φίλο του ως σωφέρ για ένα διοικητικό στέλεχος της ομάδας καταπολέμησης ναρκωτικών και την οικογένειά του. Όταν ο μικρός γιος της οικογένειας πέφτει θύμα απαγωγής, ο Φρανκ προσπαθεί να σώσει το παιδί και να ξεσκεπάσει τους απαγωγείς</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -83353,18 +83587,6 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517003000 GMT+3" stop="20260517010000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517010000 GMT+3" stop="20260517013000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
@@ -83377,51 +83599,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517020000 GMT+3" stop="20260517023000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517023000 GMT+3" stop="20260517030000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517030000 GMT+3" stop="20260517040000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517040000 GMT+3" stop="20260517043000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517043000 GMT+3" stop="20260517050000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517050000 GMT+3" stop="20260517053000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517053000 GMT+3" stop="20260517060000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517060000 GMT+3" stop="20260517070000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83431,63 +83611,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517080000 GMT+3" stop="20260517083000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517083000 GMT+3" stop="20260517090000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517093000 GMT+3" stop="20260517100000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517100000 GMT+3" stop="20260517103000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517103000 GMT+3" stop="20260517110000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517110000 GMT+3" stop="20260517120000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517120000 GMT+3" stop="20260517123000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517123000 GMT+3" stop="20260517130000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83509,27 +83641,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517173000 GMT+3" stop="20260517180000 GMT+3" channel="213719">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517180000 GMT+3" stop="20260517190000 GMT+3" channel="213719">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517190000 GMT+3" stop="20260517200000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517200000 GMT+3" stop="20260517203000 GMT+3" channel="213719">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83539,19 +83653,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517210000 GMT+3" stop="20260517213000 GMT+3" channel="213719">
-    <title lang="el">Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc lang="el">Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517213000 GMT+3" stop="20260517220000 GMT+3" channel="213719">
-    <title lang="el">LEADERS with Francine Lacqua</title>
-    <desc lang="el">Bloomberg&apos;s award-winning anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517220000 GMT+3" stop="20260517223000 GMT+3" channel="213719">
+  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -83560,30 +83662,6 @@
   <programme start="20260517223000 GMT+3" stop="20260517230000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517000000 GMT+3" stop="20260517003000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517003000 GMT+3" stop="20260517010000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83599,51 +83677,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517020000 GMT+3" stop="20260517023000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517023000 GMT+3" stop="20260517030000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517030000 GMT+3" stop="20260517040000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517040000 GMT+3" stop="20260517043000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517043000 GMT+3" stop="20260517050000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517050000 GMT+3" stop="20260517053000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517053000 GMT+3" stop="20260517060000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517060000 GMT+3" stop="20260517070000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83653,63 +83689,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517080000 GMT+3" stop="20260517083000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Next Africa</title>
-    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517083000 GMT+3" stop="20260517090000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517093000 GMT+3" stop="20260517100000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517100000 GMT+3" stop="20260517103000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517103000 GMT+3" stop="20260517110000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517110000 GMT+3" stop="20260517120000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517120000 GMT+3" stop="20260517123000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517123000 GMT+3" stop="20260517130000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">This six-part, planet-spanning series offers a comprehensive look at the &quot;impossible&quot; industries vying to shape our future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83731,27 +83719,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517173000 GMT+3" stop="20260517180000 GMT+3" channel="71037984">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517180000 GMT+3" stop="20260517190000 GMT+3" channel="71037984">
-    <title lang="el">The Circuit</title>
-    <desc lang="el">A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517190000 GMT+3" stop="20260517200000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517200000 GMT+3" stop="20260517203000 GMT+3" channel="71037984">
-    <title lang="el">The David Rubenstein Show</title>
-    <desc lang="el">Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83761,19 +83731,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517210000 GMT+3" stop="20260517213000 GMT+3" channel="71037984">
-    <title lang="el">Best of the Bloomberg Women, Money &amp; Power Event</title>
-    <desc lang="el">Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517213000 GMT+3" stop="20260517220000 GMT+3" channel="71037984">
-    <title lang="el">LEADERS with Francine Lacqua</title>
-    <desc lang="el">Bloomberg&apos;s award-winning anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517220000 GMT+3" stop="20260517223000 GMT+3" channel="71037984">
+  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -83782,18 +83740,6 @@
   <programme start="20260517223000 GMT+3" stop="20260517230000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517230000 GMT+3" stop="20260517233000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Investigates</title>
-    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -87392,14 +87338,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260517200000 GMT+3" stop="20260517220000 GMT+3" channel="24654412">
-    <title lang="el">BARCELONA - REAL BETIS (Z)</title>
+    <title lang="el">MULTIGOAL R37 (Z)</title>
     <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517220000 GMT+3" stop="20260518000000 GMT+3" channel="24654412">
+  <programme start="20260517220000 GMT+3" stop="20260517221500 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517221500 GMT+3" stop="20260518001500 GMT+3" channel="24654412">
+    <title lang="el">BARCELONA - REAL BETIS (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -87490,6 +87442,84 @@
   <programme start="20260517180000 GMT+3" stop="20260518000000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517010000 GMT+3" stop="20260517030000 GMT+3" channel="24745114">
+    <title lang="el">Surne Bilbao - Real Madrid 14/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517030000 GMT+3" stop="20260517050000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - ΑΕΛ 22/4/26 (E)</title>
+    <desc lang="el">Κύπελλο Κύπρου Κόκα Κόλα 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517050000 GMT+3" stop="20260517070000 GMT+3" channel="24745114">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517070000 GMT+3" stop="20260517090000 GMT+3" channel="24745114">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517093000 GMT+3" stop="20260517113000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517113000 GMT+3" stop="20260517133000 GMT+3" channel="24745114">
+    <title lang="el">Grenoble - Troyes 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517133000 GMT+3" stop="20260517153000 GMT+3" channel="24745114">
+    <title lang="el">OL Lyonnes - Arsenal FC 2/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517153000 GMT+3" stop="20260517173000 GMT+3" channel="24745114">
+    <title lang="el">PEC Zwolle - Feyenoord 17/5/26 (Z)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517173000 GMT+3" stop="20260517193000 GMT+3" channel="24745114">
+    <title lang="el">Real Madrid - Asisa Joventut 17/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517193000 GMT+3" stop="20260517211500 GMT+3" channel="24745114">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός) (E)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517211500 GMT+3" stop="20260517230000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 28 17/5/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517230000 GMT+3" stop="20260518010000 GMT+3" channel="24745114">
+    <title lang="el">La Laguna Tenerife - Barcelona 17/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -88380,7 +88410,7 @@
   </programme>
   <programme start="20260517130000 GMT+3" stop="20260517151500 GMT+3" channel="46137848">
     <title lang="el">ΠΑΟΚ - Άρης</title>
-    <desc lang="el">Super League - Κύπελλο Κ19 Ποδόσφαιρο, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τον τελικό του Κυπέλλου Super League K19, ενός θεσμού που έχει στόχο την αναβάθμιση του αναπτυξιακού ποδοσφαίρου και τη συλλογή αγωνιστικών εμπειριών μέσα από επίσημους αγώνες νοκ-άουτ. Ποδόσφαιρο, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -89517,14 +89547,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260517200000 GMT+3" stop="20260517220000 GMT+3" channel="52105052">
-    <title lang="el">BARCELONA - REAL BETIS (Z)</title>
+    <title lang="el">MULTIGOAL R37 (Z)</title>
     <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517220000 GMT+3" stop="20260518000000 GMT+3" channel="52105052">
+  <programme start="20260517220000 GMT+3" stop="20260517221500 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517221500 GMT+3" stop="20260518001500 GMT+3" channel="52105052">
+    <title lang="el">BARCELONA - REAL BETIS (Z)</title>
+    <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -89648,21 +89684,99 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517180000 GMT+3" stop="20260517200000 GMT+3" channel="103956040">
+  <programme start="20260517180000 GMT+3" stop="20260517201500 GMT+3" channel="103956040">
+    <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
+    <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517201500 GMT+3" stop="20260517221500 GMT+3" channel="103956040">
     <title lang="el">MANCHESTER CITY - CRYSTAL PALACE 13/5/26</title>
     <desc lang="el">PREMIER LEAGUE 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517200000 GMT+3" stop="20260517220000 GMT+3" channel="103956040">
+  <programme start="20260517221500 GMT+3" stop="20260518001500 GMT+3" channel="103956040">
     <title lang="el">BARCELONA - REAL BETIS (Z)</title>
     <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517220000 GMT+3" stop="20260518000000 GMT+3" channel="103956040">
-    <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
-    <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+  <programme start="20260517010000 GMT+3" stop="20260517030000 GMT+3" channel="52187736">
+    <title lang="el">Surne Bilbao - Real Madrid 14/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517030000 GMT+3" stop="20260517050000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - ΑΕΛ 22/4/26 (E)</title>
+    <desc lang="el">Κύπελλο Κύπρου Κόκα Κόλα 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517050000 GMT+3" stop="20260517070000 GMT+3" channel="52187736">
+    <title lang="el">Saint-Etienne - Amiens 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517070000 GMT+3" stop="20260517090000 GMT+3" channel="52187736">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517090000 GMT+3" stop="20260517093000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 01 Βραζιλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517093000 GMT+3" stop="20260517113000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517113000 GMT+3" stop="20260517133000 GMT+3" channel="52187736">
+    <title lang="el">Grenoble - Troyes 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517133000 GMT+3" stop="20260517153000 GMT+3" channel="52187736">
+    <title lang="el">OL Lyonnes - Arsenal FC 2/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517153000 GMT+3" stop="20260517173000 GMT+3" channel="52187736">
+    <title lang="el">PEC Zwolle - Feyenoord 17/5/26 (Z)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517173000 GMT+3" stop="20260517193000 GMT+3" channel="52187736">
+    <title lang="el">Real Madrid - Asisa Joventut 17/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517193000 GMT+3" stop="20260517211500 GMT+3" channel="52187736">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός) (E)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517211500 GMT+3" stop="20260517230000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 28 17/5/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517230000 GMT+3" stop="20260518010000 GMT+3" channel="52187736">
+    <title lang="el">La Laguna Tenerife - Barcelona 17/5/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -90524,27 +90638,129 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518001500 GMT+3" stop="20260518020000 GMT+3" channel="289530">
-    <title lang="el">ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
-    <desc lang="el">Η πιο ανατρεπτική late night εκπομπή μας βάζει «Στην αγκαλιά του Φάνη» Λαμπρόπουλου. Ο δημοφιλής κωμικός, παρουσιαστής και ραδιοφωνικός παραγωγός, με αστείρευτο χιούμορ και αγαπησιάρικη διάθεση, υποδέχεται σε κάθε εκπομπή δύο ξεχωριστούς καλεσμένους. Ωστό</desc>
+  <programme start="20260518003000 GMT+3" stop="20260518013000 GMT+3" channel="289530">
+    <title lang="el">TRAVEL GUIDE</title>
+    <desc lang="el">Ταξιδιωτική εκπομπή με το Θάνο Παπαδημητρίου. Σημερινός προορισμός: ???</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518020000 GMT+3" stop="20260518033000 GMT+3" channel="289530">
+  <programme start="20260518013000 GMT+3" stop="20260518030000 GMT+3" channel="289530">
     <title lang="el">Weekend Live</title>
     <desc lang="el">Είναι Σαββατοκύριακο. Θέλεις να μάθεις τι παίζει, να γελάσεις, να χαλαρώσεις λίγο. Όλα αυτά μπορείς να τα βρεις στο «Weekend Live», με παρουσιαστές τον Δημήτρη Πανόπουλο και τη Μάρτζυ Λαζάρου.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518033000 GMT+3" stop="20260518050000 GMT+3" channel="289530">
+  <programme start="20260518030000 GMT+3" stop="20260518040000 GMT+3" channel="289530">
     <title lang="el">ΒΕΝΤΕΤΑ</title>
     <desc lang="el">ΒΕΝΤΕΤΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518040000 GMT+3" stop="20260518050000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
   <programme start="20260518050000 GMT+3" stop="20260518060000 GMT+3" channel="289530">
     <title lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</title>
     <desc lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518060000 GMT+3" stop="20260518064500 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518064500 GMT+3" stop="20260518100000 GMT+3" channel="289530">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος επιστρέφει, για 12η συνεχή χρονιά, για να ριχτεί στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Ό,τι συμβαίνει την ώρα που συμβαίνει σε Κύπρο και εξωτερικό γίνεται... ΠΡΩΤΟΣΕΛΙ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518100000 GMT+3" stop="20260518110000 GMT+3" channel="289530">
+    <title lang="el">Outdoor &amp; ΦΥΣΗ (E)</title>
+    <desc lang="el">Outdoor &amp; ΦΥΣΗ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518110000 GMT+3" stop="20260518133000 GMT+3" channel="289530">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
+    <desc lang="el">Ο Χρήστος Μιχάλαρος και η ομάδα του συναντούν για 6η συνεχόμενη χρονιά το τηλεοπτικό κοινό, παρουσιάζοντας ένα ενημερωτικό πρόγραμμα γεμάτο ειδήσεις, συζητήσεις, ανταποκρίσεις, αναλύσεις, δυναμικές παρεμβάσεις και αποκαλύψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518133000 GMT+3" stop="20260518134500 GMT+3" channel="289530">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+    <desc lang="el">Η Δάφνη και ο Λούις είναι ένα σύγχρονο κυπριακό ζευγάρι γύρω στα 45 που παλεύει, με χιούμορ και αγάπη, να επιβιώσει μέσα στο χάος της καθημερινότητας. Εργασία, παιδί, λογαριασμοί, τεχνολογία, υποσχέσεις, που ξεχνιούνται, Μικρές παρεξηγήσεις που γίνονται μεγάλες και πολλά ευτράπελα!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518134500 GMT+3" stop="20260518153000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518153000 GMT+3" stop="20260518163000 GMT+3" channel="289530">
+    <title lang="el">Happy Traveller</title>
+    <desc lang="el">Ο Ευτύχης Μπλέτσας και η Ηλέκτρα Αστέρη έχουν ταξιδέψει σε όλες τις ηπείρους και έχουν επισκεφτεί κάθε γωνιά του πλανήτη. Για άλλη μια σεζόν, οι τηλεθεατές του ΣΙΓΜΑ «ταξιδεύουν» μαζί τους σε πανέμορφα μέρη της Ελλάδας και μαγικά μέρη στην άλλη άκρη της γης. Με την πιο σημαντική αποσκευή την καλή της διάθεση, η οικογένεια του Happy Traveller «πλημμυρίζει» την τηλεοπτική μας οθόνη με εντυπωσιακές εικόνες, συναρπαστικές εμπειρίες και αμέτρητα, αμέτρητα ταξίδια...</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518163000 GMT+3" stop="20260518172000 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518172000 GMT+3" stop="20260518173000 GMT+3" channel="289530">
+    <title lang="el">Roaming Cyprus</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518173000 GMT+3" stop="20260518181500 GMT+3" channel="289530">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518181500 GMT+3" stop="20260518183000 GMT+3" channel="289530">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518183000 GMT+3" stop="20260518193000 GMT+3" channel="289530">
+    <title lang="el">Still Standing (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518193000 GMT+3" stop="20260518195000 GMT+3" channel="289530">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+    <desc lang="el">Η Δάφνη και ο Λούις είναι ένα σύγχρονο κυπριακό ζευγάρι γύρω στα 45 που παλεύει, με χιούμορ και αγάπη, να επιβιώσει μέσα στο χάος της καθημερινότητας. Εργασία, παιδί, λογαριασμοί, τεχνολογία, υποσχέσεις, που ξεχνιούνται, Μικρές παρεξηγήσεις που γίνονται μεγάλες και πολλά ευτράπελα!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518195000 GMT+3" stop="20260518210000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518210000 GMT+3" stop="20260518230000 GMT+3" channel="289530">
+    <title lang="el">ΧΩΡΙΣ ΠΕΡΙΣΤΡΟΦΕΣ</title>
+    <desc lang="el">Μεγάλη Δημοσκόπηση για τις Βουλευτικές Εκλογές</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518230000 GMT+3" stop="20260519003000 GMT+3" channel="289530">
+    <title lang="el">ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+    <desc lang="el">Η πιο ανατρεπτική late night εκπομπή μας βάζει «Στην αγκαλιά του Φάνη» Λαμπρόπουλου. Ο δημοφιλής κωμικός, παρουσιαστής και ραδιοφωνικός παραγωγός, με αστείρευτο χιούμορ και αγαπησιάρικη διάθεση, υποδέχεται σε κάθε εκπομπή δύο ξεχωριστούς καλεσμένους. Ωστό</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -100873,7 +101089,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518000000 GMT+3" stop="20260518003000 GMT+3" channel="213719">
+  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="213719">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -100891,43 +101107,31 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518020000 GMT+3" stop="20260518040000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg The Asia Trade</title>
-    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518040000 GMT+3" stop="20260518060000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg: The China Show</title>
-    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518060000 GMT+3" stop="20260518080000 GMT+3" channel="213719">
+  <programme start="20260518060000 GMT+3" stop="20260518070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518080000 GMT+3" stop="20260518090000 GMT+3" channel="213719">
+  <programme start="20260518070000 GMT+3" stop="20260518080000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="el">Linking the market drivers from overnight in the US and across Asia into the region&apos;s trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518090000 GMT+3" stop="20260518100000 GMT+3" channel="213719">
+  <programme start="20260518080000 GMT+3" stop="20260518090000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Daybreak: Europe</title>
     <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518100000 GMT+3" stop="20260518120000 GMT+3" channel="213719">
+  <programme start="20260518090000 GMT+3" stop="20260518110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg: The Opening Trade</title>
     <desc lang="el">Everything you need to know as markets open across Europe. We break down today&apos;s biggest stories and speak to guests with skin in the game.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518120000 GMT+3" stop="20260518130000 GMT+3" channel="213719">
+  <programme start="20260518110000 GMT+3" stop="20260518120000 GMT+3" channel="213719">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -100975,7 +101179,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518000000 GMT+3" stop="20260518003000 GMT+3" channel="71037984">
+  <programme start="20260517233000 GMT+3" stop="20260518000000 GMT+3" channel="71037984">
     <title lang="el">Best of Bloomberg Invest 2026</title>
     <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -100993,43 +101197,31 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518020000 GMT+3" stop="20260518040000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg The Asia Trade</title>
-    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518040000 GMT+3" stop="20260518060000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg: The China Show</title>
-    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518060000 GMT+3" stop="20260518080000 GMT+3" channel="71037984">
+  <programme start="20260518060000 GMT+3" stop="20260518070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518080000 GMT+3" stop="20260518090000 GMT+3" channel="71037984">
+  <programme start="20260518070000 GMT+3" stop="20260518080000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="el">Linking the market drivers from overnight in the US and across Asia into the region&apos;s trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518090000 GMT+3" stop="20260518100000 GMT+3" channel="71037984">
+  <programme start="20260518080000 GMT+3" stop="20260518090000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Daybreak: Europe</title>
     <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518100000 GMT+3" stop="20260518120000 GMT+3" channel="71037984">
+  <programme start="20260518090000 GMT+3" stop="20260518110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: The Opening Trade</title>
     <desc lang="el">Everything you need to know as markets open across Europe. We break down today&apos;s biggest stories and speak to guests with skin in the game.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518120000 GMT+3" stop="20260518130000 GMT+3" channel="71037984">
+  <programme start="20260518110000 GMT+3" stop="20260518120000 GMT+3" channel="71037984">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104413,7 +104605,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518000000 GMT+3" stop="20260518060000 GMT+3" channel="24654412">
+  <programme start="20260518001500 GMT+3" stop="20260518060000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -104482,6 +104674,114 @@
   <programme start="20260518180000 GMT+3" stop="20260519000000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518010000 GMT+3" stop="20260518030000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Auxerre 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518030000 GMT+3" stop="20260518050000 GMT+3" channel="24745114">
+    <title lang="el">Heerenveen - Ajax 17/5/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518050000 GMT+3" stop="20260518070000 GMT+3" channel="24745114">
+    <title lang="el">Lyon - Lens 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518070000 GMT+3" stop="20260518090000 GMT+3" channel="24745114">
+    <title lang="el">Marseille - Rennes 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518090000 GMT+3" stop="20260518110000 GMT+3" channel="24745114">
+    <title lang="el">PSV Eindhoven - Twente 17/5/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518110000 GMT+3" stop="20260518130000 GMT+3" channel="24745114">
+    <title lang="el">Paris FC - Paris Saint Germain 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518130000 GMT+3" stop="20260518150000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518150000 GMT+3" stop="20260518153000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518153000 GMT+3" stop="20260518173000 GMT+3" channel="24745114">
+    <title lang="el">Strasbourg - Monaco 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518173000 GMT+3" stop="20260518180000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518180000 GMT+3" stop="20260518193000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 28 17/5/26 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518193000 GMT+3" stop="20260518200000 GMT+3" channel="24745114">
+    <title lang="el">Ομάδες Όνειρο # 0317 The Best Of Brazil / Pep Guardiola&apos;s Greatest (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518200000 GMT+3" stop="20260518203000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518203000 GMT+3" stop="20260518210000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 02 Γαλλία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518210000 GMT+3" stop="20260518213000 GMT+3" channel="24745114">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 38 15/5/26</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518213000 GMT+3" stop="20260518220000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518220000 GMT+3" stop="20260518230000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 3)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="24745114">
+    <title lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός # 09 (E)</title>
+    <desc lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -105523,7 +105823,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260518124500 GMT+3" stop="20260518131500 GMT+3" channel="216415">
-    <title lang="el">Super League 2025/26</title>
+    <title lang="el">Super League 2025/26, Ανασκόπηση</title>
     <desc lang="el">Παρακολουθείστε την ανασκόπηση όλων των αναμετρήσεων της περασμένης αγωνιστικής της Super League. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -106434,7 +106734,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518000000 GMT+3" stop="20260518060000 GMT+3" channel="52105052">
+  <programme start="20260518001500 GMT+3" stop="20260518060000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -106518,7 +106818,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518000000 GMT+3" stop="20260518060000 GMT+3" channel="103956040">
+  <programme start="20260518001500 GMT+3" stop="20260518060000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -106557,6 +106857,114 @@
   <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518010000 GMT+3" stop="20260518030000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Auxerre 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518030000 GMT+3" stop="20260518050000 GMT+3" channel="52187736">
+    <title lang="el">Heerenveen - Ajax 17/5/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518050000 GMT+3" stop="20260518070000 GMT+3" channel="52187736">
+    <title lang="el">Lyon - Lens 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518070000 GMT+3" stop="20260518090000 GMT+3" channel="52187736">
+    <title lang="el">Marseille - Rennes 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518090000 GMT+3" stop="20260518110000 GMT+3" channel="52187736">
+    <title lang="el">PSV Eindhoven - Twente 17/5/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518110000 GMT+3" stop="20260518130000 GMT+3" channel="52187736">
+    <title lang="el">Paris FC - Paris Saint Germain 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518130000 GMT+3" stop="20260518150000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518150000 GMT+3" stop="20260518153000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518153000 GMT+3" stop="20260518173000 GMT+3" channel="52187736">
+    <title lang="el">Strasbourg - Monaco 17/5/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518173000 GMT+3" stop="20260518180000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 04 Ρεκόρ (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518180000 GMT+3" stop="20260518193000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 28 17/5/26 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518193000 GMT+3" stop="20260518200000 GMT+3" channel="52187736">
+    <title lang="el">Ομάδες Όνειρο # 0317 The Best Of Brazil / Pep Guardiola&apos;s Greatest (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518200000 GMT+3" stop="20260518203000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518203000 GMT+3" stop="20260518210000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 02 Γαλλία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518210000 GMT+3" stop="20260518213000 GMT+3" channel="52187736">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 38 15/5/26</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518213000 GMT+3" stop="20260518220000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 03 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518220000 GMT+3" stop="20260518230000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 3)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="52187736">
+    <title lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός # 09 (E)</title>
+    <desc lang="el">Μάικλ Τζόρνταν: Ο Τελευταίος Χορός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -107373,6 +107781,132 @@
   <programme start="20260519221500 GMT+3" stop="20260520000000 GMT+3" channel="54184415">
     <title lang="el">ΒΟΥΛΕΥΤΙΚΕΣ ΕΚΛΟΓΕΣ 2026</title>
     <desc lang="el">ΒΟΥΛΕΥΤΙΚΕΣ ΕΚΛΟΓΕΣ 2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519003000 GMT+3" stop="20260519013000 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519013000 GMT+3" stop="20260519030000 GMT+3" channel="289530">
+    <title lang="el">ΤΟ&apos; ΧΟΥΜΕ ΜΕ ΤΟΝ ΚΩΣΤΑ ΤΣΟΥΡΟ</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519030000 GMT+3" stop="20260519040000 GMT+3" channel="289530">
+    <title lang="el">ΕΛΑ ΠΑΡΕ ΜΕ (E)</title>
+    <desc lang="el">ΕΛΑ ΠΑΡΕ ΜΕ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519040000 GMT+3" stop="20260519050000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519050000 GMT+3" stop="20260519060000 GMT+3" channel="289530">
+    <title lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</title>
+    <desc lang="el">ΟΡΓΙΣΜΕΝΗ ΚΑΡΔΙΑ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519060000 GMT+3" stop="20260519064500 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519064500 GMT+3" stop="20260519100000 GMT+3" channel="289530">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος επιστρέφει, για 12η συνεχή χρονιά, για να ριχτεί στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Ό,τι συμβαίνει την ώρα που συμβαίνει σε Κύπρο και εξωτερικό γίνεται... ΠΡΩΤΟΣΕΛΙ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519100000 GMT+3" stop="20260519110000 GMT+3" channel="289530">
+    <title lang="el">Outdoor &amp; ΦΥΣΗ (E)</title>
+    <desc lang="el">Outdoor &amp; ΦΥΣΗ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519110000 GMT+3" stop="20260519133000 GMT+3" channel="289530">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
+    <desc lang="el">Ο Χρήστος Μιχάλαρος και η ομάδα του συναντούν για 6η συνεχόμενη χρονιά το τηλεοπτικό κοινό, παρουσιάζοντας ένα ενημερωτικό πρόγραμμα γεμάτο ειδήσεις, συζητήσεις, ανταποκρίσεις, αναλύσεις, δυναμικές παρεμβάσεις και αποκαλύψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519133000 GMT+3" stop="20260519134500 GMT+3" channel="289530">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+    <desc lang="el">Η Δάφνη και ο Λούις είναι ένα σύγχρονο κυπριακό ζευγάρι γύρω στα 45 που παλεύει, με χιούμορ και αγάπη, να επιβιώσει μέσα στο χάος της καθημερινότητας. Εργασία, παιδί, λογαριασμοί, τεχνολογία, υποσχέσεις, που ξεχνιούνται, Μικρές παρεξηγήσεις που γίνονται μεγάλες και πολλά ευτράπελα!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519134500 GMT+3" stop="20260519153000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519153000 GMT+3" stop="20260519163000 GMT+3" channel="289530">
+    <title lang="el">Happy Traveller</title>
+    <desc lang="el">Ο Ευτύχης Μπλέτσας και η Ηλέκτρα Αστέρη έχουν ταξιδέψει σε όλες τις ηπείρους και έχουν επισκεφτεί κάθε γωνιά του πλανήτη. Για άλλη μια σεζόν, οι τηλεθεατές του ΣΙΓΜΑ «ταξιδεύουν» μαζί τους σε πανέμορφα μέρη της Ελλάδας και μαγικά μέρη στην άλλη άκρη της γης. Με την πιο σημαντική αποσκευή την καλή της διάθεση, η οικογένεια του Happy Traveller «πλημμυρίζει» την τηλεοπτική μας οθόνη με εντυπωσιακές εικόνες, συναρπαστικές εμπειρίες και αμέτρητα, αμέτρητα ταξίδια...</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519163000 GMT+3" stop="20260519172000 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519172000 GMT+3" stop="20260519173000 GMT+3" channel="289530">
+    <title lang="el">Roaming Cyprus</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519173000 GMT+3" stop="20260519181500 GMT+3" channel="289530">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519181500 GMT+3" stop="20260519183000 GMT+3" channel="289530">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519183000 GMT+3" stop="20260519193000 GMT+3" channel="289530">
+    <title lang="el">Still Standing (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519193000 GMT+3" stop="20260519195000 GMT+3" channel="289530">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑ ΠΟΥΛΛΑΚΗ</title>
+    <desc lang="el">Η Δάφνη και ο Λούις είναι ένα σύγχρονο κυπριακό ζευγάρι γύρω στα 45 που παλεύει, με χιούμορ και αγάπη, να επιβιώσει μέσα στο χάος της καθημερινότητας. Εργασία, παιδί, λογαριασμοί, τεχνολογία, υποσχέσεις, που ξεχνιούνται, Μικρές παρεξηγήσεις που γίνονται μεγάλες και πολλά ευτράπελα!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519195000 GMT+3" stop="20260519210000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260519233000 GMT+3" channel="289530">
+    <title lang="el">Flightplan</title>
+    <desc lang="el">ΣΧΕΔΙΟ ΠΤΗΣΗΣ. Η Κάιλ Πρατ ταξιδεύει με την κόρη της αλλά ενώ βρίσκονται στο αεροπλάνο, η μικρή εξαφανίζεται. Η Κάιλ προσπαθεί απεγνωσμένα να αποδείξει στο πλήρωμα και στους επιβάτες ότι δεν είναι τρελή αφού όλοι ισχυρίζονται ότι το παιδί δεν επιβιβάστηκε ποτέ. Δράμα παραγωγής 2005 σε σκηνοθεσία Ρόμπερτ Σουέντκι με τους: Τζόντι Φόστερ, Πίτερ Σάρσγκαρντ, Σον Μπιν, Κέιτ Μπίαν.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519233000 GMT+3" stop="20260520003000 GMT+3" channel="289530">
+    <title lang="el">ΣΤΗΝ ΑΓΚΑΛΙΑ ΤΟΥ ΦΑΝΗ</title>
+    <desc lang="el">Η πιο ανατρεπτική late night εκπομπή μας βάζει «Στην αγκαλιά του Φάνη» Λαμπρόπουλου. Ο δημοφιλής κωμικός, παρουσιαστής και ραδιοφωνικός παραγωγός, με αστείρευτο χιούμορ και αγαπησιάρικη διάθεση, υποδέχεται σε κάθε εκπομπή δύο ξεχωριστούς καλεσμένους. Ωστό</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -117649,55 +118183,31 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519010000 GMT+3" stop="20260519013000 GMT+3" channel="213719">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519013000 GMT+3" stop="20260519020000 GMT+3" channel="213719">
-    <title lang="el">Posthuman</title>
-    <desc lang="el">Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519020000 GMT+3" stop="20260519040000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg The Asia Trade</title>
-    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519040000 GMT+3" stop="20260519060000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg: The China Show</title>
-    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519060000 GMT+3" stop="20260519080000 GMT+3" channel="213719">
+  <programme start="20260519060000 GMT+3" stop="20260519070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519080000 GMT+3" stop="20260519090000 GMT+3" channel="213719">
+  <programme start="20260519070000 GMT+3" stop="20260519080000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="el">Linking the market drivers from overnight in the US and across Asia into the region&apos;s trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519090000 GMT+3" stop="20260519100000 GMT+3" channel="213719">
+  <programme start="20260519080000 GMT+3" stop="20260519090000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Daybreak: Europe</title>
     <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519100000 GMT+3" stop="20260519120000 GMT+3" channel="213719">
+  <programme start="20260519090000 GMT+3" stop="20260519110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg: The Opening Trade</title>
     <desc lang="el">Everything you need to know as markets open across Europe. We break down today&apos;s biggest stories and speak to guests with skin in the game.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="213719">
+  <programme start="20260519110000 GMT+3" stop="20260519120000 GMT+3" channel="213719">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -117751,55 +118261,31 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519010000 GMT+3" stop="20260519013000 GMT+3" channel="71037984">
-    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
-    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519013000 GMT+3" stop="20260519020000 GMT+3" channel="71037984">
-    <title lang="el">Posthuman</title>
-    <desc lang="el">Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519020000 GMT+3" stop="20260519040000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg The Asia Trade</title>
-    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519040000 GMT+3" stop="20260519060000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg: The China Show</title>
-    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519060000 GMT+3" stop="20260519080000 GMT+3" channel="71037984">
+  <programme start="20260519060000 GMT+3" stop="20260519070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519080000 GMT+3" stop="20260519090000 GMT+3" channel="71037984">
+  <programme start="20260519070000 GMT+3" stop="20260519080000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Horizons Middle East &amp; Africa</title>
     <desc lang="el">Linking the market drivers from overnight in the US and across Asia into the region&apos;s trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519090000 GMT+3" stop="20260519100000 GMT+3" channel="71037984">
+  <programme start="20260519080000 GMT+3" stop="20260519090000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Daybreak: Europe</title>
     <desc lang="el">Live market reports from London and overnight news from Wall Street. Markets never sleep and neither does Bloomberg News. Track investments 24 hours a day, around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519100000 GMT+3" stop="20260519120000 GMT+3" channel="71037984">
+  <programme start="20260519090000 GMT+3" stop="20260519110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: The Opening Trade</title>
     <desc lang="el">Everything you need to know as markets open across Europe. We break down today&apos;s biggest stories and speak to guests with skin in the game.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="71037984">
+  <programme start="20260519110000 GMT+3" stop="20260519120000 GMT+3" channel="71037984">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121261,6 +121747,120 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519020000 GMT+3" channel="24745114">
+    <title lang="el">Lyon - Lens 17/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519020000 GMT+3" stop="20260519023000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519023000 GMT+3" stop="20260519043000 GMT+3" channel="24745114">
+    <title lang="el">Grenoble - Troyes 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519043000 GMT+3" stop="20260519063000 GMT+3" channel="24745114">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519063000 GMT+3" stop="20260519070000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519070000 GMT+3" stop="20260519090000 GMT+3" channel="24745114">
+    <title lang="el">La Laguna Tenerife - Barcelona 17/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519090000 GMT+3" stop="20260519093000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 02 Γαλλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519093000 GMT+3" stop="20260519113000 GMT+3" channel="24745114">
+    <title lang="el">Real Madrid - Asisa Joventut 17/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519113000 GMT+3" stop="20260519130000 GMT+3" channel="24745114">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός) (E)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519130000 GMT+3" stop="20260519133000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519133000 GMT+3" stop="20260519140000 GMT+3" channel="24745114">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 38 15/5/26 (E)</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519140000 GMT+3" stop="20260519160000 GMT+3" channel="24745114">
+    <title lang="el">PEC Zwolle - Feyenoord 17/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519160000 GMT+3" stop="20260519180000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Auxerre 17/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519180000 GMT+3" stop="20260519200000 GMT+3" channel="24745114">
+    <title lang="el">PSV Eindhoven - Twente 17/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519200000 GMT+3" stop="20260519203000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519203000 GMT+3" stop="20260519210000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 05 Ανάρμοστη Συμπεριφορά</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260519220000 GMT+3" channel="24745114">
+    <title lang="el">Overlap 2025-26 # 27 19/5/26</title>
+    <desc lang="el">Overlap 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519220000 GMT+3" stop="20260519223000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 34 18/5/26</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519223000 GMT+3" stop="20260520003000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519000000 GMT+3" stop="20260519003000 GMT+3" channel="24746908">
     <title lang="el">Game R1 (Season 6) 2025-26 # 38 15/5/26</title>
     <desc lang="el">Game R1 (Season 6) 2025-26</desc>
@@ -123384,6 +123984,120 @@
   <programme start="20260519230000 GMT+3" stop="20260520000000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519020000 GMT+3" channel="52187736">
+    <title lang="el">Lyon - Lens 17/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519020000 GMT+3" stop="20260519023000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519023000 GMT+3" stop="20260519043000 GMT+3" channel="52187736">
+    <title lang="el">Grenoble - Troyes 9/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519043000 GMT+3" stop="20260519063000 GMT+3" channel="52187736">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 3/5/26 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519063000 GMT+3" stop="20260519070000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 03 Γγολφ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519070000 GMT+3" stop="20260519090000 GMT+3" channel="52187736">
+    <title lang="el">La Laguna Tenerife - Barcelona 17/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519090000 GMT+3" stop="20260519093000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 02 Γαλλία (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519093000 GMT+3" stop="20260519113000 GMT+3" channel="52187736">
+    <title lang="el">Real Madrid - Asisa Joventut 17/5/26 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519113000 GMT+3" stop="20260519130000 GMT+3" channel="52187736">
+    <title lang="el">Ομάδα A - Ομάδα B 15/5/26 (Τελικός) (E)</title>
+    <desc lang="el">Κύπελλο Υδατοσφαίρισης Ανδρών ALLWYN 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519130000 GMT+3" stop="20260519133000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2) # 08 French Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519133000 GMT+3" stop="20260519140000 GMT+3" channel="52187736">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 38 15/5/26 (E)</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519140000 GMT+3" stop="20260519160000 GMT+3" channel="52187736">
+    <title lang="el">PEC Zwolle - Feyenoord 17/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519160000 GMT+3" stop="20260519180000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Auxerre 17/5/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519180000 GMT+3" stop="20260519200000 GMT+3" channel="52187736">
+    <title lang="el">PSV Eindhoven - Twente 17/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519200000 GMT+3" stop="20260519203000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 34 12/5/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519203000 GMT+3" stop="20260519210000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 05 Ανάρμοστη Συμπεριφορά</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260519220000 GMT+3" channel="52187736">
+    <title lang="el">Overlap 2025-26 # 27 19/5/26</title>
+    <desc lang="el">Overlap 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519220000 GMT+3" stop="20260519223000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 34 18/5/26</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519223000 GMT+3" stop="20260520003000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Ομόνοια 16/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
