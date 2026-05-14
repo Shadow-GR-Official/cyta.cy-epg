@@ -135,9 +135,6 @@
   <channel id="13132700">
     <display-name>Food Network HD</display-name>
   </channel>
-  <channel id="9744258">
-    <display-name>INSIGHT TV HD</display-name>
-  </channel>
   <channel id="216382">
     <display-name>Fashion TV</display-name>
   </channel>
@@ -8623,204 +8620,6 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260513235900 GMT+3" stop="20260514010000 GMT+3" channel="9744258">
-    <title lang="el">Close Proximity Κ1 ΕΠ6</title>
-    <desc lang="el">After a controversial call by the judges at the Formula Drift stop in Montreal, Matt Field focuses on restoring his mangled car for his next stop.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514010000 GMT+3" stop="20260514020000 GMT+3" channel="9744258">
-    <title lang="el">Thru Κ1 ΕΠ7</title>
-    <desc lang="el">The teams are now facing probably the most difficult elimination, set on the Mediterranean coast. Who has to go, with the finale luring?</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514020000 GMT+3" stop="20260514030000 GMT+3" channel="9744258">
-    <title lang="el">Thru Κ1 ΕΠ8</title>
-    <desc lang="el">Brendan has an exciting end game for the four remaining players. What will be stronger, the will to win solo or the bond between the team mates?</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514030000 GMT+3" stop="20260514033000 GMT+3" channel="9744258">
-    <title lang="el">The Blockchain Life Κ1 ΕΠ5</title>
-    <desc lang="el">The blockchain is supposed to be the great equaliser. But on the blockchain, gender balance seems to be even more disturbed than in the real world. In this episode we&apos;re meeting the women who are trying to fight for equal rights on the blockchain.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514033000 GMT+3" stop="20260514042900 GMT+3" channel="9744258">
-    <title lang="el">7 Days Κ1 ΕΠ4</title>
-    <desc lang="el">Jalou and Kevin travel to far colder places to challenge each other in an ice climbing competition.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514042900 GMT+3" stop="20260514052800 GMT+3" channel="9744258">
-    <title lang="el">7 Days Κ1 ΕΠ5</title>
-    <desc lang="el">In the Chinese desert, Kevin finds out that desert racing is difficult. While in Bolivia, Jalou wants to prove to her brother that women can be better drivers.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514052800 GMT+3" stop="20260514055800 GMT+3" channel="9744258">
-    <title lang="el">Droners Κ1 ΕΠ1</title>
-    <desc lang="el">From New York to Hong Kong, DRONERS tags along with FPV crews to cover underground races and meet the key-players in the emerging drone community.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514055800 GMT+3" stop="20260514062800 GMT+3" channel="9744258">
-    <title lang="el">Droners Κ1 ΕΠ2</title>
-    <desc lang="el">DRONERS goes behind-the-scenes at an international racing tournament to discover the young pilots climbing the ranks - and raking in the cash along the way.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514062800 GMT+3" stop="20260514070000 GMT+3" channel="9744258">
-    <title lang="el">FMX Nomads Κ1 ΕΠ1</title>
-    <desc lang="el">Join Dan Whitby, Samson Eaton and Arran Powley for a day in the life of globetrotting freestyle motocross team, Bolddog.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514070000 GMT+3" stop="20260514080000 GMT+3" channel="9744258">
-    <title lang="el">Ultimate Goal Κ2 ΕΠ4</title>
-    <desc lang="el">The drama of the cut concludes as the final 16 head to St George’s Park. The final squad face their first challenge in a match against English Universities FC, and England legend Casey Stoney leads a comprehensive defensive masterclass.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514080000 GMT+3" stop="20260514090000 GMT+3" channel="9744258">
-    <title lang="el">Ultimate Goal Κ2 ΕΠ5</title>
-    <desc lang="el">In two transformative masterclasses, Andros Townsend shows the wide players what makes him one of the best in the Premier League, and England superstar Lucy Bronze passes on her winning mentality and set-piece expertise.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514090000 GMT+3" stop="20260514100000 GMT+3" channel="9744258">
-    <title lang="el">City Beats Κ1 ΕΠ1</title>
-    <desc lang="el">DJ and house music producer Carly Foxx steps outside of her comfort zone to draw inspiration for her music track from urban youths in London&apos;s Grime scene.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260514100000 GMT+3" stop="20260514105800 GMT+3" channel="9744258">
-    <title lang="el">City Beats Κ1 ΕΠ2</title>
-    <desc lang="el">DJ and house music producer Carly Foxx travels to Amsterdam to influence her music track and discovers it&apos;s a whole lot more experimental than she imagined.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514105800 GMT+3" stop="20260514115800 GMT+3" channel="9744258">
-    <title lang="el">Thru Κ2 ΕΠ1</title>
-    <desc lang="el">In La Herradura, east of Malaga, the teams are up against their first challenge of mastering the obstacles and also securing their position within the group.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514115800 GMT+3" stop="20260514125800 GMT+3" channel="9744258">
-    <title lang="el">Thru Κ2 ΕΠ2</title>
-    <desc lang="el">With Katie and Dieako out, it&apos;s on to the second track. The teams have to wade their way through an aqueduct; not an easy task if you are afraid of heights.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514125800 GMT+3" stop="20260514132800 GMT+3" channel="9744258">
-    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ11</title>
-    <desc lang="el">Josh is in Cyprus for a local exploring adventure across the island on a roadtrip from Nicosia to an abandoned amusement park, an asbestos mine and a shipwreck.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514132800 GMT+3" stop="20260514135800 GMT+3" channel="9744258">
-    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ12</title>
-    <desc lang="el">Cody is with Lexi Limitless in the ‘Big Easy’ to explore New Orleans, visiting an abandoned Charity Hospital before meeting Brutus, the giant alligator.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514135800 GMT+3" stop="20260514141400 GMT+3" channel="9744258">
-    <title lang="el">Power &amp; Football Κ2 ΕΠ8</title>
-    <desc lang="el">Damon Wood is an American fromknown for inventing the fastest electric skateboard in the world! It was clocked at 62 km per hour on flat surface!</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514141400 GMT+3" stop="20260514142900 GMT+3" channel="9744258">
-    <title lang="el">Power &amp; Football Κ2 ΕΠ9</title>
-    <desc lang="el">Alan Gibbs, founder of Gibbs Amphibians, based in Michigan, Nuneaton, UK, and Auckland, New Zealand pioneers in high-speed amphibious vehicle technologies.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514142900 GMT+3" stop="20260514145900 GMT+3" channel="9744258">
-    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ3</title>
-    <desc lang="el">Terry wants to demonstrate how Hollywood has used different objects to silence a gunshot, and he and Larry will take to the range to see which one is the most qualified to act as a silencer. Terry also has a sit-down with Joey Zasa from Godfather 3 (Joe Mantegna) to discuss what he thinks of Hollywood’s adaptation of the silencer.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514145900 GMT+3" stop="20260514152900 GMT+3" channel="9744258">
-    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ4</title>
-    <desc lang="el">Terry finally gets to compare himself to Brad Pitt!! Terry and Larry test 3 scenes from action film Mr. and Mrs. Smith. Can a refrigerator or elevator door protect our heroes? Also, can you ignite a gas line with just a bullet? Larry may not look as stunning as Angelina Jolie, but he will help Terry find out the answers.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514152900 GMT+3" stop="20260514163000 GMT+3" channel="9744258">
-    <title lang="el">Geared Up Κ1 ΕΠ1</title>
-    <desc lang="el">The team does a restoration modification of a 1964 Mercedes Benz 230 SL, adding custom made wheels and a modern engine.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514163000 GMT+3" stop="20260514172900 GMT+3" channel="9744258">
-    <title lang="el">Geared Up Κ1 ΕΠ2</title>
-    <desc lang="el">A 1970 K5 Chevrolet Blazer undergoes a transformation with new paint, interior, and a diesel engine conversion.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514172900 GMT+3" stop="20260514175900 GMT+3" channel="9744258">
-    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ3</title>
-    <desc lang="el">The team at Muscle Cars of Texas will add primer to the frame of a half million dollar 1963 Corvette Z06. This 65 Mustang had a tune up and its ready for a test drive. A new costumer has dropped off a 1968 Corvette for a restoration project.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514175900 GMT+3" stop="20260514182800 GMT+3" channel="9744258">
-    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ4</title>
-    <desc lang="el">This time, on Muscle Cars of Texas, Vinnie and the team are working on a 63 Z06, 59 Ford Pickup and a 69 Chevy Malibu.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514182800 GMT+3" stop="20260514192600 GMT+3" channel="9744258">
-    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ3</title>
-    <desc lang="el">Supercar Blondie arrives in Las Vegas in a million dollar Lamborghini SVJ roadster. Taken under the wing of Patrick, founder of the Junkyard Pirates, Alex is brought into the rat rod world - home to American mavericks and outsiders.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514192600 GMT+3" stop="20260514202700 GMT+3" channel="9744258">
-    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ4</title>
-    <desc lang="el">Supercar Blondie is given the keys to a five million dollar Pagani Huayra L&apos;Ultimo as she explores the sub-culture of lowriders with the seal of approval from Horacio Pagani himself. Will she be accepted into this tribe?</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514202700 GMT+3" stop="20260514204200 GMT+3" channel="9744258">
-    <title lang="el">The Flying Kestrel Κ1 ΕΠ1</title>
-    <desc lang="el">Meet Nigel McNally and the team from Kestrel Beer who has hopes of breaking the land speed record in a restored 1930&apos;a Riley Kestrel 9.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514204200 GMT+3" stop="20260514205600 GMT+3" channel="9744258">
-    <title lang="el">The Flying Kestrel Κ1 ΕΠ2</title>
-    <desc lang="el">The record attempt is only one week away and everything seems to be on track, until the results of a dyno test put a spanner in the works.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514205600 GMT+3" stop="20260514215600 GMT+3" channel="9744258">
-    <title lang="el">Graveyard Carz Κ6 ΕΠ8</title>
-    <desc lang="el">Mark &amp; Royal go on a fieldtrip. Will removes a fly from the Phantom Cuda&apos;s paint &amp; Alyssa gets a lesson on a paint booth technique.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514215600 GMT+3" stop="20260514225600 GMT+3" channel="9744258">
-    <title lang="el">Graveyard Carz Κ6 ΕΠ9</title>
-    <desc lang="el">Dave brings in his own engine to test run. The Ghouls fine tune Torino&apos;s GTX and Mark and Alyssa meet a client with a special car.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514225600 GMT+3" stop="20260514235600 GMT+3" channel="9744258">
-    <title lang="el">Geared Up Κ1 ΕΠ3</title>
-    <desc lang="el">A neglected 1981 Porsche 911 SC is brought back to life and restored to its original factory specifications.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514235600 GMT+3" stop="20260515010000 GMT+3" channel="9744258">
-    <title lang="el">Geared Up Κ1 ΕΠ4</title>
-    <desc lang="el">A ruined and rested family heirloom 1962 Mercedes Benz 220 SE Cabriolet gets a restoration modification with a new Mercedes engine and a new interior with heated seats.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260514000000 GMT+3" stop="20260514003000 GMT+3" channel="216382">
     <title lang="el">Top Photoshoots</title>
     <desc lang="el">Join FashionTV and take a trip behind the scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more!</desc>
@@ -16537,61 +16336,55 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514000000 GMT+3" stop="20260514010000 GMT+3" channel="97085851">
+  <programme start="20260514000000 GMT+3" stop="20260514010200 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514010000 GMT+3" stop="20260514031500 GMT+3" channel="97085851">
+  <programme start="20260514010200 GMT+3" stop="20260514031700 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs At. Madrid</title>
     <desc lang="el">Matchday 29 of Liga. Real Madrid host Atlético de Madrid in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514031500 GMT+3" stop="20260514033000 GMT+3" channel="97085851">
+  <programme start="20260514031700 GMT+3" stop="20260514033000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514033000 GMT+3" stop="20260514035000 GMT+3" channel="97085851">
+  <programme start="20260514033000 GMT+3" stop="20260514034600 GMT+3" channel="97085851">
     <title lang="el">The Match Preview</title>
     <desc lang="el">A full preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514035000 GMT+3" stop="20260514060500 GMT+3" channel="97085851">
+  <programme start="20260514034600 GMT+3" stop="20260514060400 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 22 of Liga. Real Madrid host Rayo Vallecano in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514060500 GMT+3" stop="20260514063000 GMT+3" channel="97085851">
+  <programme start="20260514060400 GMT+3" stop="20260514061700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514063000 GMT+3" stop="20260514070000 GMT+3" channel="97085851">
+  <programme start="20260514063000 GMT+3" stop="20260514065500 GMT+3" channel="97085851">
     <title lang="el">The Match Preview</title>
     <desc lang="el">A full preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514070000 GMT+3" stop="20260514071500 GMT+3" channel="97085851">
+  <programme start="20260514070000 GMT+3" stop="20260514071600 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260514071500 GMT+3" stop="20260514090000 GMT+3" channel="97085851">
-    <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
-    <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260514090000 GMT+3" stop="20260514092000 GMT+3" channel="97085851">
+  <programme start="20260514071600 GMT+3" stop="20260514092000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
     <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
     <category lang="el">Αθλητικά</category>
@@ -34370,7 +34163,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260515071500 GMT+3" stop="20260516060000 GMT+3" channel="97085851">
+  <programme start="20260515071500 GMT+3" stop="20260515090000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 22 of Liga. Real Madrid host Rayo Vallecano in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
