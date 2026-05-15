@@ -135,6 +135,9 @@
   <channel id="13132700">
     <display-name>Food Network HD</display-name>
   </channel>
+  <channel id="9744258">
+    <display-name>INSIGHT TV HD</display-name>
+  </channel>
   <channel id="216382">
     <display-name>Fashion TV</display-name>
   </channel>
@@ -8665,6 +8668,18 @@
     <title lang="el">Best Baker In America Κ2 ΕΠ1</title>
     <desc lang="el">Nine elite, professional bakers are challenged to bake perfect petit fours. Then, they must create a mind-bending vanilla-flavoured cake for 50 people.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515000000 GMT+3" stop="20260515003000 GMT+3" channel="9744258">
+    <title lang="el">Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ2 ΕΠ8</title>
+    <desc lang="el">Ο Μπρένταν καλεί την παρέα σε κάμπινγκ στο Γουαϊόμινγκ για να δοκιμάσει την πίστη τής Μόργκαν, σύντομα όμως θα διαπιστώσει το μεγάλο του σφάλμα. Πρωταγωνιστούν: Roxy Sowalty, Jonny Drubel, Dorothy Wang, Morgan Stewart, Brendan Fitzpatrick. (2014)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260515003000 GMT+3" stop="20260515010000 GMT+3" channel="9744258">
+    <title lang="el">Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ2 ΕΠ9</title>
+    <desc lang="el">Στην κατασκήνωση στο Γουαϊόμινγκ, ο καθαρός αέρας και η έλλειψη κινητών βοηθούν την παρέα να μιλήσει στον Τζόνι για την πρόσφατη έκρηξη θυμού του. Πρωταγωνιστούν: Roxy Sowalty, Jonny Drubel, Dorothy Wang, Morgan Stewart, and Brendan Fitzpatrick. (2014)</desc>
+    <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
   <programme start="20260515000000 GMT+3" stop="20260515003000 GMT+3" channel="216382">
@@ -28003,12 +28018,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516080000 GMT+3" stop="20260516090000 GMT+3" channel="1945">
-    <title lang="el">The Story is with Elex Michaelson ΕΠ194</title>
-    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260516090000 GMT+3" stop="20260516093000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom ΕΠ247</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
@@ -28057,21 +28066,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516133000 GMT+3" stop="20260516140000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
-    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260516140000 GMT+3" stop="20260516150000 GMT+3" channel="1945">
     <title lang="el">CNN This Morning Weekend ΕΠ78</title>
     <desc lang="el">Start your day with Victor Blackwell bringing you the latest headlines and analysis. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516150000 GMT+3" stop="20260516160000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ2</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28111,37 +28108,19 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516200000 GMT+3" stop="20260516210000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom Saturday ΕΠ154</title>
-    <desc lang="el">The latest news and information from around the world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260516210000 GMT+3" stop="20260516220000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom Saturday ΕΠ155</title>
     <desc lang="el">The latest news and information from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516220000 GMT+3" stop="20260516221500 GMT+3" channel="1945">
+  <programme start="20260516230000 GMT+3" stop="20260516231500 GMT+3" channel="1945">
     <title lang="el">Marketplace Europe ΕΠ57</title>
     <desc lang="el">Every month, we delve into how innovation and technology are driving Europe&apos;s great recovery, speaking to top CEOs and exploring new trends. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260516221500 GMT+3" stop="20260516223000 GMT+3" channel="1945">
-    <title lang="el">Marketplace Asia ΕΠ56</title>
-    <desc lang="el">Marketplace Asia covers the macro business trends impacting the region. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516223000 GMT+3" stop="20260516230000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
-    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260516230000 GMT+3" stop="20260517000000 GMT+3" channel="1945">
+  <programme start="20260516220000 GMT+3" stop="20260516230000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom Saturday ΕΠ157</title>
     <desc lang="el">The latest news and information from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -43200,13 +43179,13 @@
   </programme>
   <programme start="20260517220000 GMT+3" stop="20260517230000 GMT+3" channel="38335714">
     <title lang="el">Κατασκευαστές ενυδρείων Κ4 ΕΠ17</title>
-    <desc lang="el">Οι Μπρετ και Γουέιντ αποκαλύπτουν απίστευτες πληροφορίες για τα ψάρια που ζητούν περισσότερο οι πελάτες, και μας παρουσιάζουν στιγμές που δεν έχουμε ξαναδεί. (2013)</desc>
+    <desc lang="el">Brett and Wayde reveal incredible information about the fish that customers and fans ask them about the most, and let you in on some never before seen moments. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260517230000 GMT+3" stop="20260518000000 GMT+3" channel="38335714">
     <title lang="el">Κατασκευαστές ενυδρείων Κ4 ΕΠ18</title>
-    <desc lang="el">Ο Γουέιντ πέφτει πάνω στον θρύλο του μπάσκετ και τέσσερις φορές πρωταθλητή του NBA, Σακίλ Ο&apos;Νίλ, ο οποίος του ζητάει ένα ενυδρείο χτισμένο στο μπροστινό μέρος ενός ημιφορτηγού. (2013)</desc>
+    <desc lang="el">Wayde bumps into basketball legend and four times NBA Champion Shaquille O&apos;Neal - who requests an aquarium built inside the front end of a semi-truck. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -46342,24 +46321,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517030000 GMT+3" stop="20260517040000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ2</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517040000 GMT+3" stop="20260517043000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ665</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517043000 GMT+3" stop="20260517050000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
-    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517050000 GMT+3" stop="20260517053000 GMT+3" channel="1945">
     <title lang="el">Inside Africa ΕΠ725</title>
     <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
@@ -46372,7 +46333,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517060000 GMT+3" stop="20260517063000 GMT+3" channel="1945">
+  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="1945">
     <title lang="el">The Link ΕΠ2</title>
     <desc lang="el">The Link highlights the ways digital tools are being used to create inclusive opportunities across Africa. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -46384,21 +46345,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517064500 GMT+3" stop="20260517070000 GMT+3" channel="1945">
-    <title lang="el">Marketplace Asia ΕΠ56</title>
-    <desc lang="el">Marketplace Asia covers the macro business trends impacting the region. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517070000 GMT+3" stop="20260517073000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom ΕΠ40</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517073000 GMT+3" stop="20260517080000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ665</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46426,21 +46375,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517094500 GMT+3" stop="20260517100000 GMT+3" channel="1945">
-    <title lang="el">Marketplace Asia ΕΠ56</title>
-    <desc lang="el">Marketplace Asia covers the macro business trends impacting the region. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517100000 GMT+3" stop="20260517103000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom ΕΠ352</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517103000 GMT+3" stop="20260517110000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
-    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46492,12 +46429,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260517180000 GMT+3" stop="20260517190000 GMT+3" channel="1945">
-    <title lang="el">Inside Politics with Manu Raju ΕΠ20</title>
-    <desc lang="el">Manu Raju leads an in-depth conversation on the week&apos;s most important political storylines, with a diverse set of analysts and news-making interviews. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260517190000 GMT+3" stop="20260517193000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ562</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
@@ -46525,12 +46456,6 @@
   <programme start="20260517210000 GMT+3" stop="20260517220000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom Sunday ΕΠ134</title>
     <desc lang="el">The latest news and information from around the world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260517220000 GMT+3" stop="20260517230000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ2</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64576,7 +64501,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518020000 GMT+3" stop="20260518040000 GMT+3" channel="1945">
+  <programme start="20260518020000 GMT+3" stop="20260518030000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom Sunday ΕΠ139</title>
     <desc lang="el">The latest news and information from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -64597,12 +64522,6 @@
   <programme start="20260518053000 GMT+3" stop="20260518054500 GMT+3" channel="1945">
     <title lang="el">Marketplace Europe ΕΠ57</title>
     <desc lang="el">Every month, we delve into how innovation and technology are driving Europe&apos;s great recovery, speaking to top CEOs and exploring new trends. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518054500 GMT+3" stop="20260518063000 GMT+3" channel="1945">
-    <title lang="el">Marketplace Asia ΕΠ56</title>
-    <desc lang="el">Marketplace Asia covers the macro business trends impacting the region. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64645,18 +64564,6 @@
   <programme start="20260518104500 GMT+3" stop="20260518110000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ357</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518110000 GMT+3" stop="20260518120000 GMT+3" channel="1945">
-    <title lang="el">The Amanpour Hour ΕΠ20</title>
-    <desc lang="el">Christiane Amanpour, CNN’s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518120000 GMT+3" stop="20260518130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ98</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64738,7 +64645,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="1945">
+  <programme start="20260518230000 GMT+3" stop="20260518234500 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ96</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -81847,12 +81754,6 @@
   <programme start="20260519000000 GMT+3" stop="20260519003000 GMT+3" channel="1945">
     <title lang="el">The Lead with Jake Tapper ΕΠ195</title>
     <desc lang="el">Jake Tapper covers all the day&apos;s top stories around the country and the globe, from politics to money and sports to popular culture. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519003000 GMT+3" stop="20260519010000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ359</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -104239,42 +104140,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260520000000 GMT+3" stop="20260520060000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520060000 GMT+3" stop="20260520120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520120000 GMT+3" stop="20260520141500 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520141500 GMT+3" stop="20260520150000 GMT+3" channel="24654412">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (41η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520150000 GMT+3" stop="20260520200000 GMT+3" channel="24654412">
-    <title lang="el">41η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520200000 GMT+3" stop="20260521000000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260520000000 GMT+3" stop="20260520060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -106361,42 +106226,6 @@
   <programme start="20260520230000 GMT+3" stop="20260521000000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520000000 GMT+3" stop="20260520060000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520060000 GMT+3" stop="20260520120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520120000 GMT+3" stop="20260520141500 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520141500 GMT+3" stop="20260520150000 GMT+3" channel="52105052">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (41η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520150000 GMT+3" stop="20260520200000 GMT+3" channel="52105052">
-    <title lang="el">41η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520200000 GMT+3" stop="20260521000000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
