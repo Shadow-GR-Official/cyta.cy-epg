@@ -17713,6 +17713,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260517171500 GMT+3" stop="20260517191500 GMT+3" channel="218883">
+    <title lang="el">Νυρεμβέργη - Σάλκε</title>
+    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Κολωνία. Ποδόσφαιρο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260517191500 GMT+3" stop="20260517200000 GMT+3" channel="218883">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517200000 GMT+3" stop="20260518000000 GMT+3" channel="218883">
     <title lang="el">Novasports2HD</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
@@ -17847,6 +17859,12 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260517120000 GMT+3" stop="20260517133000 GMT+3" channel="10973069">
+    <title lang="el">Novasports Exclusive</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ με τη σφραγίδα των δημοσιογράφων του Novasports! Ο Μάριος Γιαννάκου, αθλητής υπεραποστάσεων, κατέκτησε την υψηλότερη κορυφή του κόσμου, στα 8.848 μέτρα του Έβερεστ. Έναν χρόνο μετά, μιλά για το μοναδικό του κατόρθωμα. Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517133000 GMT+3" stop="20260517153000 GMT+3" channel="10973069">
     <title lang="el">Άνκαρα - Λόντον Λάιονς</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
@@ -17942,7 +17960,7 @@
   </programme>
   <programme start="20260517163000 GMT+3" stop="20260517183000 GMT+3" channel="52027167">
     <title lang="el">Ντάρμσταντ - Πάντερμπορν (Ζ)</title>
-    <desc lang="el">Η Ντάρμσταντ (5η-52β) φιλοξενεί την Πάντερμπορν (4η-59β) στην 34η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Ακ. Κουζούλης Ποδόσφαιρο</desc>
+    <desc lang="el">Η Ντάρμσταντ (5η-52β) φιλοξενεί την Πάντερμπορν (4η-59β) στην 34η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Απ. Λάμπος Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51589,6 +51607,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519060000 GMT+3" stop="20260519120000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -51616,6 +51640,12 @@
   <programme start="20260519210000 GMT+3" stop="20260520000000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -53769,6 +53799,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519060000 GMT+3" stop="20260519120000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -53796,6 +53832,12 @@
   <programme start="20260519210000 GMT+3" stop="20260520000000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
