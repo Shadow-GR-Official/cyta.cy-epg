@@ -219,6 +219,9 @@
   <channel id="8242886">
     <display-name>Cytavision Sports5 HD</display-name>
   </channel>
+  <channel id="8243873">
+    <display-name>Cytavision Sports6 HD</display-name>
+  </channel>
   <channel id="24654412">
     <display-name>Cytavision Sports7 HD</display-name>
   </channel>
@@ -306,6 +309,9 @@
   <channel id="52105043">
     <display-name>Cytavision Sports5 HD Real Time</display-name>
   </channel>
+  <channel id="52103947">
+    <display-name>Cytavision Sports6 HD Real Time</display-name>
+  </channel>
   <channel id="52105052">
     <display-name>Cytavision Sports7 HD Real Time</display-name>
   </channel>
@@ -341,12 +347,6 @@
   </channel>
   <channel id="52196763">
     <display-name>PPV6 Real Time</display-name>
-  </channel>
-  <channel id="8243873">
-    <display-name>Cytavision Sports6 HD</display-name>
-  </channel>
-  <channel id="52103947">
-    <display-name>Cytavision Sports6 HD Real Time</display-name>
   </channel>
   <programme start="20260517233000 GMT+3" stop="20260518002000 GMT+3" channel="561066">
     <title lang="el">Προσωπογραφίες (E)</title>
@@ -6014,84 +6014,6 @@
   <programme start="20260517225000 GMT+3" stop="20260518005000 GMT+3" channel="9821930">
     <title lang="el">August: Osage County</title>
     <desc lang="el">August: Osage County Σκηνοθεσία: John Wells,. Πρωταγωνιστούν: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518005000 GMT+3" stop="20260518023500 GMT+3" channel="9821930">
-    <title lang="el">Underworld: Evolution</title>
-    <desc lang="el">Underworld: Evolution Σκηνοθεσία: Len Wiseman,. Πρωταγωνιστούν: Kate Beckinsale, Scott Speedman, Sophia Myles, Bill Nighy, Christine Danielle, Tony Curran. (2006)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518023500 GMT+3" stop="20260518042500 GMT+3" channel="9821930">
-    <title lang="el">Tango &amp; Cash</title>
-    <desc lang="el">Tango &amp; Cash Σκηνοθεσία: Andrei Konchalovsky,Albert Magnoli,. Πρωταγωνιστούν: Sylvester Stallone, Kurt Russell, Jack Palance, Teri Hatcher, Michael J. Pollard, Brion James. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518042500 GMT+3" stop="20260518060000 GMT+3" channel="9821930">
-    <title lang="el">Legend</title>
-    <desc lang="el">Legend Σκηνοθεσία: Ridley Scott,. Πρωταγωνιστούν: Alice Playten, Mia Sara, Billy Barty, Tim Curry, Tom Cruise, David Bennet. (1985)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518060000 GMT+3" stop="20260518073500 GMT+3" channel="9821930">
-    <title lang="el">True Story</title>
-    <desc lang="el">True Story Σκηνοθεσία: Rupert Goold,. Πρωταγωνιστούν: Jonah Hill, James Franco, Felicity Jones, Ethan Suplee, Gretchen Mol, Robert John Burke. (2015)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518073500 GMT+3" stop="20260518095500 GMT+3" channel="9821930">
-    <title lang="el">Traffic</title>
-    <desc lang="el">Συρραφή ιστοριών με θέμα διάφορες φατρίες του εμπορίου ναρκωτικών, που περιλαμβάνουν τους εμπόρους, τους χρήστες και τα όργανα επιβολής του νόμου που τους καταδιώκουν. (2000) Σκηνοθεσία: Steven Soderbergh. Πρωταγωνιστούν: Michael Douglas, Don Cheadle, Benicio Del Toro, Dennis Quaid, Catherine Zeta Jones, James Pickens Jr.. (2000)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260518095500 GMT+3" stop="20260518112500 GMT+3" channel="9821930">
-    <title lang="el">Beetlejuice</title>
-    <desc lang="el">Beetlejuice Σκηνοθεσία: Tim Burton,. Πρωταγωνιστούν: Alec Baldwin, Geena Davis, Jeffrey Jones, Michael Keaton, Catherine O&apos;Hara, Winona Ryder. (1988)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518112500 GMT+3" stop="20260518133500 GMT+3" channel="9821930">
-    <title lang="el">Legends of the Fall</title>
-    <desc lang="el">Έχοντας αρχίσει να κουράζεται από τη βαρβαρότητα της ζωής του ιππικού, ο Συνταγματάρχης Γουίλιαμ Λάντλοου ξεκινά μια νέα ζωή με την οικογένειά του στα επιβλητικά βουνά της Μοντάνα. Όσο μεγάλωναν, οι τρεις γιοι του ήταν αχώριστοι, αλλά ως νεαροί άντρες, το πάθος, οι φρικαλεότητες του Α’ Παγκοσμίου Πολέμου και οι προσωπικές τραγωδίες παρεμβαίνουν στη ζωή τους και κλονίζουν τα θεμέλια της οικογένειας τους. Σκηνοθεσία: Edward Zwick. Πρωταγωνιστούν: Brad Pitt, Anthony Hopkins, Aidan Quinn,. (1994)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518133500 GMT+3" stop="20260518151000 GMT+3" channel="9821930">
-    <title lang="el">Dirty Dancing</title>
-    <desc lang="el">Ο Πάτρικ Σουέιζι και η Τζένιφερ Γκρέι ζουν τις καλύτερες στιγμές της ζωής τους σε αυτό το γεμάτο ένταση μελόδραμα με θέμα δύο αταίριαστους παρτενέρ χορού που τελικά ερωτεύονται. (1987) Σκηνοθεσία: Emile Ardolino. Πρωταγωνιστούν: Patrick Swayze, Jennifer Grey, Heather Lea Gerdes, Jerry Orbach, Karen Getz. (1987)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518151000 GMT+3" stop="20260518170500 GMT+3" channel="9821930">
-    <title lang="el">Little Women</title>
-    <desc lang="el">Little Women Σκηνοθεσία: Gillian Armstrong,. Πρωταγωνιστούν: Winona Ryder, Gabriel Byrne, Kirsten Dunst, Susan Sarandon, Claire Danes, Samantha Mathis. (1994)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518170500 GMT+3" stop="20260518190000 GMT+3" channel="9821930">
-    <title lang="el">Runaway Bride</title>
-    <desc lang="el">Ένας δημοσιογράφος που απολύθηκε επειδή ήταν πολύ σοβινιστής προσπαθεί να αποκαταστήσει το όνομά του κυνηγώντας μια είδηση για μια γυναίκα που συνηθίζει να εγκαταλείπει τους αρραβωνιαστικούς της. Σκηνοθεσία: Scott Marshall,Garry Marshall,. Πρωταγωνιστούν: James Richardson, Julia Roberts,. (1999)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518190000 GMT+3" stop="20260518210000 GMT+3" channel="9821930">
-    <title lang="el">Glory</title>
-    <desc lang="el">Glory Σκηνοθεσία: Edward Zwick,. Πρωταγωνιστούν: Matthew Broderick, Cliff De Young, Denzel Washington, Cary Elwes, Morgan Freeman, Donovan Leitch. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518210000 GMT+3" stop="20260518225000 GMT+3" channel="9821930">
-    <title lang="el">Taxi Driver</title>
-    <desc lang="el">Taxi Driver Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Cybill Shepherd, Jodie Foster, Albert Brooks, Peter Boyle, Harvey Keitel. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260518225000 GMT+3" stop="20260519005000 GMT+3" channel="9821930">
-    <title lang="el">Fallen</title>
-    <desc lang="el">Fallen Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz, James Gandolfini, Aida Turturro. (1998)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
@@ -15461,6 +15383,48 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260518000000 GMT+3" stop="20260518060000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518060000 GMT+3" stop="20260518113000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518113000 GMT+3" stop="20260518153000 GMT+3" channel="8243873">
+    <title lang="el">ATP 250 - GENEVA (MD 2a) (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518153000 GMT+3" stop="20260518173000 GMT+3" channel="8243873">
+    <title lang="el">Stefanos TSITSIPAS - Giovanni MPETSHI PERRICARD (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518173000 GMT+3" stop="20260518190000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518190000 GMT+3" stop="20260518230000 GMT+3" channel="8243873">
+    <title lang="el">ATP 250 - GENEVA (MD 2b) (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260517221500 GMT+3" stop="20260518001500 GMT+3" channel="24654412">
     <title lang="el">BARCELONA - REAL BETIS (Z)</title>
     <desc lang="el">LA LIGA 2025-26</desc>
@@ -17753,6 +17717,48 @@
   <programme start="20260518210000 GMT+3" stop="20260519000000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518000000 GMT+3" stop="20260518060000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518060000 GMT+3" stop="20260518113000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518113000 GMT+3" stop="20260518153000 GMT+3" channel="52103947">
+    <title lang="el">ATP 250 - GENEVA (MD 2a) (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518153000 GMT+3" stop="20260518173000 GMT+3" channel="52103947">
+    <title lang="el">Stefanos TSITSIPAS - Giovanni MPETSHI PERRICARD (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518173000 GMT+3" stop="20260518190000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518190000 GMT+3" stop="20260518230000 GMT+3" channel="52103947">
+    <title lang="el">ATP 250 - GENEVA (MD 2b) (Z)</title>
+    <desc lang="el">2026 ATP 250 - GENEVA</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260518230000 GMT+3" stop="20260519000000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -23763,84 +23769,6 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260519005000 GMT+3" stop="20260519024500 GMT+3" channel="9821930">
-    <title lang="el">August: Osage County</title>
-    <desc lang="el">August: Osage County Σκηνοθεσία: John Wells,. Πρωταγωνιστούν: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519024500 GMT+3" stop="20260519042500 GMT+3" channel="9821930">
-    <title lang="el">Underworld: Evolution</title>
-    <desc lang="el">Underworld: Evolution Σκηνοθεσία: Len Wiseman,. Πρωταγωνιστούν: Kate Beckinsale, Scott Speedman, Sophia Myles, Bill Nighy, Christine Danielle, Tony Curran. (2006)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519042500 GMT+3" stop="20260519060000 GMT+3" channel="9821930">
-    <title lang="el">The Enforcer</title>
-    <desc lang="el">The Enforcer Σκηνοθεσία: James Fargo,. Πρωταγωνιστούν: Clint Eastwood, Harry Guardino, Bradford Dillman, Tyne Daly, John Mitchum, Bill Ackridge. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519060000 GMT+3" stop="20260519075000 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon</title>
-    <desc lang="el">Lethal Weapon Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan, Tom Atkins, Darlene Love. (1987)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519075000 GMT+3" stop="20260519094500 GMT+3" channel="9821930">
-    <title lang="el">The Internship</title>
-    <desc lang="el">The Internship Σκηνοθεσία: Shawn Levy,. Πρωταγωνιστούν: Vince Vaughn, Owen Wilson, Rose Byrne, Max Minghella, Aasif Mandvi, Dylan O&apos;Brien. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519094500 GMT+3" stop="20260519120500 GMT+3" channel="9821930">
-    <title lang="el">L.A. Confidential</title>
-    <desc lang="el">Εν μέσω διαφθοράς, φόνων και τη λάμψη διάσημων κινηματογραφικών σταρ, τρεις αστυνομικοί αγωνίζονται να αποκαλύψουν την αλήθεια πίσω από μια άγρια μαζική δολοφονία. Σκηνοθεσία: Curtis Hanson,. Πρωταγωνιστούν: Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell, Kim Basinger, Danny DeVito. (1997)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519120500 GMT+3" stop="20260519133500 GMT+3" channel="9821930">
-    <title lang="el">Legend</title>
-    <desc lang="el">Legend Σκηνοθεσία: Ridley Scott,. Πρωταγωνιστούν: Alice Playten, Mia Sara, Billy Barty, Tim Curry, Tom Cruise, David Bennet. (1985)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519133500 GMT+3" stop="20260519151000 GMT+3" channel="9821930">
-    <title lang="el">Stir of Echoes</title>
-    <desc lang="el">Ένας άντρας με την ικανότητα της προαίσθησης παθιάζεται με το φάντασμα μιας νεαρής γυναίκας που βιάστηκε, δολοφονήθηκε και θάφτηκε στο υπόγειο του σπιτιού του. Σκηνοθεσία: David Koepp. Πρωταγωνιστούν: Kevin Bacon, Kathryn Erbe, Illeana Douglas, Zachary Cope, Kevin Dunn, Conor O&apos;Farrell. (1999)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519151000 GMT+3" stop="20260519171000 GMT+3" channel="9821930">
-    <title lang="el">Glory</title>
-    <desc lang="el">Glory Σκηνοθεσία: Edward Zwick,. Πρωταγωνιστούν: Matthew Broderick, Cliff De Young, Denzel Washington, Cary Elwes, Morgan Freeman, Donovan Leitch. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519171000 GMT+3" stop="20260519190000 GMT+3" channel="9821930">
-    <title lang="el">Taxi Driver</title>
-    <desc lang="el">Taxi Driver Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Cybill Shepherd, Jodie Foster, Albert Brooks, Peter Boyle, Harvey Keitel. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519190000 GMT+3" stop="20260519210000 GMT+3" channel="9821930">
-    <title lang="el">What Women Want</title>
-    <desc lang="el">Ένα στέλεχος διαφημιστικής εταιρείας στο Σικάγο αποκτά μια εντελώς νέα οπτική όταν ένα απρόσμενο ατύχημα του δίνει την ικανότητα να διαβάζει το μυαλό των γυναικών. Σκηνοθεσία: Nancy Meyers,. Πρωταγωνιστούν: Mel Gibson, Helen Hunt, Marisa Tomei, Mark Feuerstein, Ashley Johnson, Alan Alda. (2000)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519210000 GMT+3" stop="20260519224000 GMT+3" channel="9821930">
-    <title lang="el">Down with Love</title>
-    <desc lang="el">Στη Νέα Υόρκη του 1963, μια συντάκτρια στήλης συμβουλών που θεωρεί τον έρωτα περιττό παρασύρεται από τη γοητεία ενός δημοσιογράφου που έχει αποφασίσει να την παγιδεύσει. (2003) Σκηνοθεσία: Peyton Reed. Πρωταγωνιστούν: Renée Zellweger, Ewan McGregor, David Hyde Pierce. (2003)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260519224000 GMT+3" stop="20260520003000 GMT+3" channel="9821930">
-    <title lang="el">Tootsie</title>
-    <desc lang="el">Τι βγαίνει από τη διασταύρωση ενός απελπιστικά ετεροφυλόφιλου ηθοποιού που λιμοκτονεί και ενός κατακόκκινου φορέματος με παγέτες; Βγαίνει η πιο καυτή πρωτοεμφανιζόμενη ηθοποιός της Αμερικής. (1982) Σκηνοθεσία: Sydney Pollack. Πρωταγωνιστούν: Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Bill Murray, Charles Durning. (1982)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260519004500 GMT+3" stop="20260519023000 GMT+3" channel="573851">
     <title lang="el">ΕΝ ΟΝΟΜΑΤΙ ΤΟΥ ΝΟΜΟΥ</title>
     <desc lang="el">Ένας ήρωας πολέμου με ψυχολογικά προβλήματα δικάζεται για εμπρησμό και φόνο. Στη δίκη αναβιώνουν οι τραυματικές καταστάσεις που έζησε. Κοινωνικό Δράμα παραγωγής 1970. Πρωταγωνιστούν: Μαίρη Χρονοπούλου, Κώστας Καζάκος, Κώστας Καρράς. Σκηνοθεσία: Νίκος Φώσκολος. Σκηνοθεσία: Νίκος Φώσκολος. Πρωταγωνιστούν: Μαίρη Χρονοπούλου, Κώστας Καζάκος, Κώστας Καρράς. (1970)</desc>
@@ -27862,7 +27790,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260519084500 GMT+3" stop="20260519090000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ358</title>
+    <title lang="el">World Sport ΕΠ98</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -27880,20 +27808,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260519104500 GMT+3" stop="20260519110000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ358</title>
+    <title lang="el">World Sport ΕΠ98</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260519110000 GMT+3" stop="20260519120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ77</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
+    <title lang="el">CNN Newsroom ΕΠ231</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ99</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
+    <title lang="el">CNN Headline Express ΕΠ22</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -27975,9 +27903,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260519230000 GMT+3" stop="20260520000000 GMT+3" channel="1945">
+  <programme start="20260519230000 GMT+3" stop="20260519234500 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ97</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519234500 GMT+3" stop="20260520000000 GMT+3" channel="1945">
+    <title lang="el">Quest&apos;s World of Wonder ΕΠ8</title>
+    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -33099,6 +33033,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519060000 GMT+3" stop="20260519120000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519130000 GMT+3" stop="20260519160000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519160000 GMT+3" stop="20260519210000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260520000000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 19/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -33849,6 +33819,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260519084500 GMT+3" stop="20260519090000 GMT+3" channel="94430673">
+    <title lang="el">Goal of the Month: April 2026</title>
+    <desc lang="el">We count down the best goals scored in April.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260519090000 GMT+3" stop="20260519093000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Review Show</title>
     <desc lang="el">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool&apos;s game against Bournemouth.</desc>
@@ -33924,6 +33900,12 @@
   <programme start="20260519203000 GMT+3" stop="20260519210000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Review Show</title>
     <desc lang="el">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool&apos;s game against Bournemouth.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260519220000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -35390,6 +35372,42 @@
   <programme start="20260519214500 GMT+3" stop="20260520000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519000000 GMT+3" stop="20260519060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519060000 GMT+3" stop="20260519120000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519120000 GMT+3" stop="20260519130000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519130000 GMT+3" stop="20260519160000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519160000 GMT+3" stop="20260519210000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260519210000 GMT+3" stop="20260520000000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 19/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -40595,7 +40613,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260520040000 GMT+3" stop="20260520060000 GMT+3" channel="9745267">
+  <programme start="20260520025800 GMT+3" stop="20260520060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -41388,84 +41406,6 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260520003000 GMT+3" stop="20260520023500 GMT+3" channel="9821930">
-    <title lang="el">Fallen</title>
-    <desc lang="el">Fallen Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz, James Gandolfini, Aida Turturro. (1998)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520023500 GMT+3" stop="20260520041500 GMT+3" channel="9821930">
-    <title lang="el">August: Osage County</title>
-    <desc lang="el">August: Osage County Σκηνοθεσία: John Wells,. Πρωταγωνιστούν: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520041500 GMT+3" stop="20260520061000 GMT+3" channel="9821930">
-    <title lang="el">Blade</title>
-    <desc lang="el">Blade Σκηνοθεσία: Stephen Norrington,. Πρωταγωνιστούν: Wesley Snipes, Stephen Dorff, Kris Kristofferson, N&apos;Bushe Wright, Donal Logue, Udo Kier. (1998)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520061000 GMT+3" stop="20260520081000 GMT+3" channel="9821930">
-    <title lang="el">Underworld</title>
-    <desc lang="el">Η Σελίν, μια πολεμίστρια βαμπίρ, βρίσκεται εγκλωβισμένη στον αέναο πόλεμο μεταξύ βρικολάκων και λυκανθρώπων. Σκηνοθεσία: Len Wiseman,. Πρωταγωνιστούν: Kate Beckinsale,. (2003)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520081000 GMT+3" stop="20260520094500 GMT+3" channel="9821930">
-    <title lang="el">True Story</title>
-    <desc lang="el">True Story Σκηνοθεσία: Rupert Goold,. Πρωταγωνιστούν: Jonah Hill, James Franco, Felicity Jones, Ethan Suplee, Gretchen Mol, Robert John Burke. (2015)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520094500 GMT+3" stop="20260520121000 GMT+3" channel="9821930">
-    <title lang="el">Traffic</title>
-    <desc lang="el">Συρραφή ιστοριών με θέμα διάφορες φατρίες του εμπορίου ναρκωτικών, που περιλαμβάνουν τους εμπόρους, τους χρήστες και τα όργανα επιβολής του νόμου που τους καταδιώκουν. (2000) Σκηνοθεσία: Steven Soderbergh. Πρωταγωνιστούν: Michael Douglas, Don Cheadle, Benicio Del Toro, Dennis Quaid, Catherine Zeta Jones, James Pickens Jr.. (2000)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260520121000 GMT+3" stop="20260520135500 GMT+3" channel="9821930">
-    <title lang="el">Donnie Darko</title>
-    <desc lang="el">Ένας διαταραγμένος έφηβος γλιτώνει από ένα παράξενο ατύχημα, αλλά στη συνέχεια βασανίζεται από οράματα ενός κουνελιού με ανθρώπινες αναλογίες. Σκηνοθεσία: Richard Kelly,. Πρωταγωνιστούν: Jake Gyllenhaal,. (2001)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520135500 GMT+3" stop="20260520155500 GMT+3" channel="9821930">
-    <title lang="el">What Women Want</title>
-    <desc lang="el">Ένα στέλεχος διαφημιστικής εταιρείας στο Σικάγο αποκτά μια εντελώς νέα οπτική όταν ένα απρόσμενο ατύχημα του δίνει την ικανότητα να διαβάζει το μυαλό των γυναικών. Σκηνοθεσία: Nancy Meyers,. Πρωταγωνιστούν: Mel Gibson, Helen Hunt, Marisa Tomei, Mark Feuerstein, Ashley Johnson, Alan Alda. (2000)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520155500 GMT+3" stop="20260520173500 GMT+3" channel="9821930">
-    <title lang="el">Down with Love</title>
-    <desc lang="el">Στη Νέα Υόρκη του 1963, μια συντάκτρια στήλης συμβουλών που θεωρεί τον έρωτα περιττό παρασύρεται από τη γοητεία ενός δημοσιογράφου που έχει αποφασίσει να την παγιδεύσει. (2003) Σκηνοθεσία: Peyton Reed. Πρωταγωνιστούν: Renée Zellweger, Ewan McGregor, David Hyde Pierce. (2003)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520173500 GMT+3" stop="20260520192500 GMT+3" channel="9821930">
-    <title lang="el">Family Business</title>
-    <desc lang="el">Η ΟΙΚΟΓΕΝΕΙΑΚΗ ΥΠΟΘΕΣΗ αφηγείται την ιστορία της νεοϋορκέζικης οικογένειας Μακμάλεν: του Τζέσι, ενός 65χρονου ληστή με έντονη προσωπικότητα και ύπουλες ιδέες, και του γιου του, Βίτο, ενός πρώην λωποδύτη που τώρα διευθύνει μια επιχείρηση συσκευασίας κρεάτων. (1989) Σκηνοθεσία: Sidney Lumet. Πρωταγωνιστούν: Dustin Hoffman, Matthew Broderick, Sean Connery. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260520192500 GMT+3" stop="20260520210000 GMT+3" channel="9821930">
-    <title lang="el">Step Brothers</title>
-    <desc lang="el">Step Brothers Σκηνοθεσία: Adam McKay,. Πρωταγωνιστούν: Will Ferrell, John C. Reilly, Richard Jenkins, Mary Steenburgen, Adam Scott, Kathryn Hahn. (2008)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520210000 GMT+3" stop="20260520231000 GMT+3" channel="9821930">
-    <title lang="el">Tin Cup</title>
-    <desc lang="el">Tin Cup Σκηνοθεσία: Ron Shelton,. Πρωταγωνιστούν: Kevin Costner, Rene Russo, Don Johnson, Cheech Marin, Rex Linn, Linda Hart. (1996)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260520231000 GMT+3" stop="20260521004000 GMT+3" channel="9821930">
-    <title lang="el">Friday the 13th</title>
-    <desc lang="el">Friday the 13th Σκηνοθεσία: Sean S. Cunningham,. Πρωταγωνιστούν: Adrienne King, Harry Crosby, Betsy Palmer, Peter Brouwer, Laurie Bartram, Jeannine Taylor. (1980)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260520002000 GMT+3" stop="20260520022500 GMT+3" channel="573851">
     <title lang="el">Fame ΖΟΡΙ</title>
     <desc lang="el">Με τον Μάρκο Σεφερλή. Πρόκειται για μία παράσταση, η οποία περιέχει τα βασικά στοιχεία της επιθεώρησης (σατιρικά σκετς, χορό, τραγούδι), ενώ είναι εμπλουτισμένη με πρωτοποριακά στοιχεία υψηλής ψηφιακής τεχνολογίας (λέιζερ, φορητές κάμερες, προβολή βίντεο κ.λ.π.), που την μετατρέπουν αυτόματα σε Υπερ-Επιθεώρηση. Σκηνοθεσία: Μάρκος Σεφερλής. Πρωταγωνιστούν: Μάρκος Σεφερλής, Έλενα Τσαβαλιά, Γιάννης Καπετάνιος. (2007)</desc>
@@ -42216,31 +42156,31 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260520210000 GMT+3" stop="20260520213500 GMT+3" channel="216459">
+  <programme start="20260520210000 GMT+3" stop="20260520214000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ4</title>
     <desc lang="el">Η Εύα εντάσσεται σε μια ομάδα γυναικών αχθοφόρων που μεταφέρουν εξοπλισμό, στέγη και φαγητό στο Κιλιμάντζαρο. Καθώς παλεύει με τα βαριά φορτία που κουβαλούν αυτές οι γυναίκες στο ψηλότερο βουνό της Αφρικής κάθε μέρα, η Εύα μαθαίνει ότι η πηγή της δύναμής τους είναι περισσότερο ψυχική παρά σωματική. Στη συνέχεια, η Εύα χρησιμοποιεί την έμπνευση που πήρε από εκείνες για να ξεπεράσει μια απρόσμενη πρόκληση. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260520213500 GMT+3" stop="20260520222000 GMT+3" channel="216459">
+  <programme start="20260520214000 GMT+3" stop="20260520222500 GMT+3" channel="216459">
     <title lang="el">Μεταλλαγμένος Καιρός Κ1 ΕΠ8</title>
     <desc lang="el">Αυτό το επεισόδιο αφηγείται από πρώτο χέρι ιστορίες μιας αλιευτικής κοινότητας της Ανατολικής Ακτής που αντιμετωπίζει το τέλος μιας βιομηχανίας και ενός επικού καύσωνα στο Μόντρεαλ. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260520222000 GMT+3" stop="20260520231000 GMT+3" channel="216459">
+  <programme start="20260520222500 GMT+3" stop="20260520231000 GMT+3" channel="216459">
     <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ1 ΕΠ3</title>
     <desc lang="el">Οι Συμμαχικές δυνάμεις είχαν σκοπό να καταλάβουν τη γαλλική πόλη Καέν τη μέρα της Απόβασης, αλλά, μετά από έναν μήνα, τα γερμανικά στρατεύματα συνεχίζουν πεισματικά να κατέχουν αυτό το στρατηγικό σημείο, περιορίζοντας 860.000 στρατιώτες των Συμμάχων στην παραλία της Νορμανδίας. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260520231000 GMT+3" stop="20260520235500 GMT+3" channel="216459">
+  <programme start="20260520231000 GMT+3" stop="20260521000000 GMT+3" channel="216459">
     <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ1 ΕΠ1</title>
     <desc lang="el">Σεπτέμβριος 1944. Βρέστη, Γαλλία. Το 121ο Αμερικάνικο Τάγμα Μηχανικών και η 29η Μεραρχία Πεζικού ανοίγουν δρόμο μέσα από ναρκοπέδια που είχαν καταληφθεί από τις ναζιστικές δυνάμεις από το 1940. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260520235500 GMT+3" stop="20260521003000 GMT+3" channel="216459">
+  <programme start="20260521000000 GMT+3" stop="20260521003500 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ4</title>
     <desc lang="el">Η Εύα εντάσσεται σε μια ομάδα γυναικών αχθοφόρων που μεταφέρουν εξοπλισμό, στέγη και φαγητό στο Κιλιμάντζαρο. Καθώς παλεύει με τα βαριά φορτία που κουβαλούν αυτές οι γυναίκες στο ψηλότερο βουνό της Αφρικής κάθε μέρα, η Εύα μαθαίνει ότι η πηγή της δύναμής τους είναι περισσότερο ψυχική παρά σωματική. Στη συνέχεια, η Εύα χρησιμοποιεί την έμπνευση που πήρε από εκείνες για να ξεπεράσει μια απρόσμενη πρόκληση. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -50526,6 +50466,36 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260520000000 GMT+3" stop="20260520030000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520030000 GMT+3" stop="20260520060000 GMT+3" channel="74516237">
+    <title lang="el">NEW YORK - CLEVELAND (Z)</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520060000 GMT+3" stop="20260520120000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520120000 GMT+3" stop="20260520180000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520180000 GMT+3" stop="20260521000000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260520001500 GMT+3" stop="20260520060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -51210,6 +51180,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260520060000 GMT+3" stop="20260520070000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260520070000 GMT+3" stop="20260520080000 GMT+3" channel="94430673">
     <title lang="el">Shankly&apos;s Second Coming</title>
     <desc lang="el">An LFC Originals documentary that charts the rise of Bill Shankly&apos;s second great team and how it came to fruition with an unprecedented double in 1972/73.</desc>
@@ -51219,6 +51195,12 @@
   <programme start="20260520080000 GMT+3" stop="20260520090000 GMT+3" channel="94430673">
     <title lang="el">Emile Heskey: Sixty Minutes</title>
     <desc lang="el">Former Liverpool and England striker Emile Heskey reflects on his Anfield career which saw him score 60 goals in 223 LFC appearances</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520090000 GMT+3" stop="20260520100000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51252,6 +51234,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260520130000 GMT+3" stop="20260520140000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260520140000 GMT+3" stop="20260520143000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Review Show</title>
     <desc lang="el">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool&apos;s game against Bournemouth.</desc>
@@ -51267,6 +51255,12 @@
   <programme start="20260520163000 GMT+3" stop="20260520170000 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: U18 Season 2025/26</title>
     <desc lang="el">All the goals from Liverpool U18&apos;s season.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520170000 GMT+3" stop="20260520174500 GMT+3" channel="94430673">
+    <title lang="el">Retro Review Show - The Gary Mac derby</title>
+    <desc lang="el">Gary McAllister joins Neil Mellor to analyse the action and talk through the stats from the 2001 Premier League derby at Goodison Park.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51297,6 +51291,12 @@
   <programme start="20260520200000 GMT+3" stop="20260520220000 GMT+3" channel="94430673">
     <title lang="el">Bournemouth v Liverpool: The Match</title>
     <desc lang="el">All the action as Liverpool take on Bournemouth.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520220000 GMT+3" stop="20260520230000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52672,6 +52672,36 @@
   <programme start="20260520203000 GMT+3" stop="20260521000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520000000 GMT+3" stop="20260520030000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520030000 GMT+3" stop="20260520060000 GMT+3" channel="77956035">
+    <title lang="el">NEW YORK - CLEVELAND (Z)</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520060000 GMT+3" stop="20260520120000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520120000 GMT+3" stop="20260520180000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260520180000 GMT+3" stop="20260521000000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -58622,84 +58652,6 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521004000 GMT+3" stop="20260521023500 GMT+3" channel="9821930">
-    <title lang="el">Tootsie</title>
-    <desc lang="el">Τι βγαίνει από τη διασταύρωση ενός απελπιστικά ετεροφυλόφιλου ηθοποιού που λιμοκτονεί και ενός κατακόκκινου φορέματος με παγέτες; Βγαίνει η πιο καυτή πρωτοεμφανιζόμενη ηθοποιός της Αμερικής. (1982) Σκηνοθεσία: Sydney Pollack. Πρωταγωνιστούν: Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Bill Murray, Charles Durning. (1982)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521023500 GMT+3" stop="20260521043000 GMT+3" channel="9821930">
-    <title lang="el">Fallen</title>
-    <desc lang="el">Fallen Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz, James Gandolfini, Aida Turturro. (1998)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521043000 GMT+3" stop="20260521062000 GMT+3" channel="9821930">
-    <title lang="el">Family Business</title>
-    <desc lang="el">Η ΟΙΚΟΓΕΝΕΙΑΚΗ ΥΠΟΘΕΣΗ αφηγείται την ιστορία της νεοϋορκέζικης οικογένειας Μακμάλεν: του Τζέσι, ενός 65χρονου ληστή με έντονη προσωπικότητα και ύπουλες ιδέες, και του γιου του, Βίτο, ενός πρώην λωποδύτη που τώρα διευθύνει μια επιχείρηση συσκευασίας κρεάτων. (1989) Σκηνοθεσία: Sidney Lumet. Πρωταγωνιστούν: Dustin Hoffman, Matthew Broderick, Sean Connery. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521062000 GMT+3" stop="20260521081500 GMT+3" channel="9821930">
-    <title lang="el">Little Women</title>
-    <desc lang="el">Little Women Σκηνοθεσία: Gillian Armstrong,. Πρωταγωνιστούν: Winona Ryder, Gabriel Byrne, Kirsten Dunst, Susan Sarandon, Claire Danes, Samantha Mathis. (1994)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521081500 GMT+3" stop="20260521101000 GMT+3" channel="9821930">
-    <title lang="el">Runaway Bride</title>
-    <desc lang="el">Ένας δημοσιογράφος που απολύθηκε επειδή ήταν πολύ σοβινιστής προσπαθεί να αποκαταστήσει το όνομά του κυνηγώντας μια είδηση για μια γυναίκα που συνηθίζει να εγκαταλείπει τους αρραβωνιαστικούς της. Σκηνοθεσία: Scott Marshall,Garry Marshall,. Πρωταγωνιστούν: James Richardson, Julia Roberts,. (1999)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521101000 GMT+3" stop="20260521114500 GMT+3" channel="9821930">
-    <title lang="el">The Enforcer</title>
-    <desc lang="el">The Enforcer Σκηνοθεσία: James Fargo,. Πρωταγωνιστούν: Clint Eastwood, Harry Guardino, Bradford Dillman, Tyne Daly, John Mitchum, Bill Ackridge. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521114500 GMT+3" stop="20260521133000 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon</title>
-    <desc lang="el">Lethal Weapon Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan, Tom Atkins, Darlene Love. (1987)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521133000 GMT+3" stop="20260521151000 GMT+3" channel="9821930">
-    <title lang="el">Tango &amp; Cash</title>
-    <desc lang="el">Tango &amp; Cash Σκηνοθεσία: Andrei Konchalovsky,Albert Magnoli,. Πρωταγωνιστούν: Sylvester Stallone, Kurt Russell, Jack Palance, Teri Hatcher, Michael J. Pollard, Brion James. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521151000 GMT+3" stop="20260521164500 GMT+3" channel="9821930">
-    <title lang="el">Step Brothers</title>
-    <desc lang="el">Step Brothers Σκηνοθεσία: Adam McKay,. Πρωταγωνιστούν: Will Ferrell, John C. Reilly, Richard Jenkins, Mary Steenburgen, Adam Scott, Kathryn Hahn. (2008)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521164500 GMT+3" stop="20260521185500 GMT+3" channel="9821930">
-    <title lang="el">Tin Cup</title>
-    <desc lang="el">Tin Cup Σκηνοθεσία: Ron Shelton,. Πρωταγωνιστούν: Kevin Costner, Rene Russo, Don Johnson, Cheech Marin, Rex Linn, Linda Hart. (1996)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521185500 GMT+3" stop="20260521210000 GMT+3" channel="9821930">
-    <title lang="el">Dog Day Afternoon</title>
-    <desc lang="el">Dog Day Afternoon Σκηνοθεσία: Sidney Lumet,. Πρωταγωνιστούν: Al Pacino, John Cazale, Charles Durning, Sully Boyar, Chris Sarandon, James Broderick. (1975)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521210000 GMT+3" stop="20260521225500 GMT+3" channel="9821930">
-    <title lang="el">...And Justice for All</title>
-    <desc lang="el">...And Justice for All Σκηνοθεσία: Norman Jewison,. Πρωταγωνιστούν: Angus Duncan, Al Pacino, Allisha Coucil, Jack Warden, Christine Lahti, John Forsythe. (1979)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521225500 GMT+3" stop="20260522011000 GMT+3" channel="9821930">
-    <title lang="el">The Devil&apos;s Advocate</title>
-    <desc lang="el">The Devil&apos;s Advocate Σκηνοθεσία: Taylor Hackford,. Πρωταγωνιστούν: Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones, Judith Ivey, Craig T. Nelson. (1997)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260521004000 GMT+3" stop="20260521024500 GMT+3" channel="573851">
     <title lang="el">ΟΧΙ</title>
     <desc lang="el">Η κόρη ενός Ιταλού πρέσβη στην Αθήνα κι ένας Έλληνας ανθυπολοχαγός ερωτεύονται λίγο πριν ξεσπάσει ο πόλεμος στην Αλβανία. Πολεμική Περιπέτεια παραγωγής 1969. Πρωταγωνιστούν: Κώστας Πρέκας, Βέρα Κρούσκα, Στέφανος Στρατηγός. Σκηνοθεσία: Ντίμης Δαδήρας Σκηνοθεσία: Ντίμης Δαδήρας. Πρωταγωνιστούν: Κώστας Πρέκας, Βέρα Κρούσκα, Στέφανος Στρατηγός. (1969)</desc>
@@ -59270,25 +59222,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521003000 GMT+3" stop="20260521011500 GMT+3" channel="216459">
+  <programme start="20260521003500 GMT+3" stop="20260521012000 GMT+3" channel="216459">
     <title lang="el">Μεταλλαγμένος Καιρός Κ1 ΕΠ8</title>
     <desc lang="el">Αυτό το επεισόδιο αφηγείται από πρώτο χέρι ιστορίες μιας αλιευτικής κοινότητας της Ανατολικής Ακτής που αντιμετωπίζει το τέλος μιας βιομηχανίας και ενός επικού καύσωνα στο Μόντρεαλ. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521011500 GMT+3" stop="20260521020000 GMT+3" channel="216459">
+  <programme start="20260521012000 GMT+3" stop="20260521020500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ1</title>
     <desc lang="el">Η εσφαλμένη ταυτοποίηση και τα πυρά σε εχθρικά εδάφη είναι ανάμεσα στους πολλούς κινδύνους που αντιμετωπίζουν οι πιλότοι σε εμπόλεμες ζώνες σε όλο τον κόσμο. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521020000 GMT+3" stop="20260521024500 GMT+3" channel="216459">
+  <programme start="20260521020500 GMT+3" stop="20260521025000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ2</title>
     <desc lang="el">Θέλοντας να ολοκληρώσουν τις πτήσεις τους βιαστικά, τρία διαφορετικά πληρώματα αεροπλάνων παραλείπουν βασικές διαδικασίες, αγνοούν σημάδια κινδύνου και παίρνουν θανατηφόρες αποφάσεις. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521024500 GMT+3" stop="20260521033500 GMT+3" channel="216459">
+  <programme start="20260521025000 GMT+3" stop="20260521033500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ3</title>
     <desc lang="el">Από διάβρωση και παλιά μέταλλα μέχρι ελαττωματικές επισκευές, τρεις καταδικασμένες αεροπορικές διαλύονται λόγω του παλιού τους εξοπλισμού. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -59306,19 +59258,19 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521045500 GMT+3" stop="20260521051500 GMT+3" channel="216459">
+  <programme start="20260521045500 GMT+3" stop="20260521052000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ5</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε ιππασία μέσα στο νερό, οδηγούμε ένα τηλεκατευθυνόμενο αεροπλάνο και υποτιμούμε τη δύναμη των παλιρροιών. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521051500 GMT+3" stop="20260521054000 GMT+3" channel="216459">
+  <programme start="20260521052000 GMT+3" stop="20260521054500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ6</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε να σερβίρουμε φαγητό φλαμπέ, να χειριστούμε ποδήλατο ισορροπίας ή να αντιμετωπίσουμε έναν ανεμοστρόβιλο σκόνης. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521054000 GMT+3" stop="20260521061000 GMT+3" channel="216459">
+  <programme start="20260521054500 GMT+3" stop="20260521061000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ7</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε άλμα με snowmobile, κάνουμε ποδήλατο πάνω σε πίστα pump track ή ανάβουμε φωτιές. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68000,6 +67952,48 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260521000000 GMT+3" stop="20260521060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521060000 GMT+3" stop="20260521120000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521120000 GMT+3" stop="20260521130000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521130000 GMT+3" stop="20260521160000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521160000 GMT+3" stop="20260521190000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521190000 GMT+3" stop="20260521210000 GMT+3" channel="74516237">
+    <title lang="el">ΠΑΝΑΙΤΩΛΙΚΟΣ - ΑΣΤΕΡΑΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521210000 GMT+3" stop="20260522060000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 21/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260521000000 GMT+3" stop="20260521060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -68732,6 +68726,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260521100000 GMT+3" stop="20260521110000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260521110000 GMT+3" stop="20260521113000 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: U18 Season 2025/26</title>
     <desc lang="el">All the goals from Liverpool U18&apos;s season.</desc>
@@ -68747,6 +68747,12 @@
   <programme start="20260521120000 GMT+3" stop="20260521140000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Manchester United: The Match</title>
     <desc lang="el">All the action as Liverpool take on Manchester United.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521140000 GMT+3" stop="20260521144500 GMT+3" channel="94430673">
+    <title lang="el">Retro Review Show - The Gary Mac derby</title>
+    <desc lang="el">Gary McAllister joins Neil Mellor to analyse the action and talk through the stats from the 2001 Premier League derby at Goodison Park.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -68807,6 +68813,12 @@
   <programme start="20260521220000 GMT+3" stop="20260521230000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521230000 GMT+3" stop="20260522000000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69215,6 +69227,12 @@
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260521170000 GMT+3" stop="20260521173000 GMT+3" channel="216415">
+    <title lang="el">Super League 2025/26</title>
+    <desc lang="el">Παρακολουθείστε την ανασκόπηση όλων των αναμετρήσεων της περασμένης αγωνιστικής της Super League. Ποδόσφαιρο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260521173000 GMT+3" stop="20260521183000 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
     <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Μπάσκετ</desc>
@@ -69239,6 +69257,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260521200000 GMT+3" stop="20260521204500 GMT+3" channel="216415">
+    <title lang="el">Final Four Classics: Man to Man</title>
+    <desc lang="el">Κορυφαίοι Έλληνες παίκτες έγραψαν ιστορία κατακτώντας την κορυφή της Ευρώπης με τη φανέλα ξένων συλλόγων. Οι ίδιοι αφηγούνται τις αξέχαστες στιγμές που έζησαν. Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260521204500 GMT+3" stop="20260521214500 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
     <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Μπάσκετ</desc>
@@ -69249,11 +69273,6 @@
     <title lang="el">Πανσερραϊκός - Παναιτωλικός</title>
     <desc lang="el">Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522000000 GMT+3" stop="20260522020000 GMT+3" channel="216415">
-    <title lang="el">Novasports Prime</title>
-    <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
   <programme start="20260521020000 GMT+3" stop="20260521060000 GMT+3" channel="218883">
@@ -69358,7 +69377,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260521213000 GMT+3" stop="20260521233000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga 2025/26 (Ζ)</title>
+    <title lang="el">Βόλφσμπουργκ - Πάντερμπορν (Ζ)</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70231,6 +70250,48 @@
   <programme start="20260521210000 GMT+3" stop="20260522060000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521000000 GMT+3" stop="20260521060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521060000 GMT+3" stop="20260521120000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521120000 GMT+3" stop="20260521130000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521130000 GMT+3" stop="20260521160000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521160000 GMT+3" stop="20260521190000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521190000 GMT+3" stop="20260521210000 GMT+3" channel="77956035">
+    <title lang="el">ΠΑΝΑΙΤΩΛΙΚΟΣ - ΑΣΤΕΡΑΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260521210000 GMT+3" stop="20260522060000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 21/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76312,78 +76373,6 @@
     <desc lang="el">Η ΜΑΧΗ ΤΩΝ ΦΥΛΩΝ. Το 1973, ένας αγώνας τένις μεταξύ της παγκόσμιας πρωταθλήτριας Μπίλι Τζιν Κινγκ και του πρώην παγκόσμιου πρωταθλητή Μπόμπι Ριγκς, έγινε ένα από τα πιο δημοφιλή τηλεοπτικά αθλητικά γεγονότα με τον αντίκτυπο του να εξαπλώνεται πολύ πέρα από το γήπεδο του τένις. Βιογραφία παραγωγής 2017 σε σκηνοθεσία Τζόναθαν Ντέιτον &amp; Βάλερι Φάρις με τους: Έμα Στόουν, Στιβ Καρέλ, Άντρεα Ράιζμπορο, Σάρα Σίλβερμαν Σκηνοθεσία: Jonathan Dayton &amp; Valerie Faris. Πρωταγωνιστούν: Emma Stone, Steve Carell, Andrea Riseborough, Sarah Silverman. (2017)</desc>
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260522011000 GMT+3" stop="20260522024000 GMT+3" channel="9821930">
-    <title lang="el">Friday the 13th</title>
-    <desc lang="el">Friday the 13th Σκηνοθεσία: Sean S. Cunningham,. Πρωταγωνιστούν: Adrienne King, Harry Crosby, Betsy Palmer, Peter Brouwer, Laurie Bartram, Jeannine Taylor. (1980)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522024000 GMT+3" stop="20260522054000 GMT+3" channel="9821930">
-    <title lang="el">Tootsie</title>
-    <desc lang="el">Τι βγαίνει από τη διασταύρωση ενός απελπιστικά ετεροφυλόφιλου ηθοποιού που λιμοκτονεί και ενός κατακόκκινου φορέματος με παγέτες; Βγαίνει η πιο καυτή πρωτοεμφανιζόμενη ηθοποιός της Αμερικής. (1982) Σκηνοθεσία: Sydney Pollack. Πρωταγωνιστούν: Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Bill Murray, Charles Durning. (1982)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522054000 GMT+3" stop="20260522074000 GMT+3" channel="9821930">
-    <title lang="el">Glory</title>
-    <desc lang="el">Glory Σκηνοθεσία: Edward Zwick,. Πρωταγωνιστούν: Matthew Broderick, Cliff De Young, Denzel Washington, Cary Elwes, Morgan Freeman, Donovan Leitch. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522074000 GMT+3" stop="20260522092500 GMT+3" channel="9821930">
-    <title lang="el">Taxi Driver</title>
-    <desc lang="el">Taxi Driver Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Cybill Shepherd, Jodie Foster, Albert Brooks, Peter Boyle, Harvey Keitel. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522092500 GMT+3" stop="20260522112500 GMT+3" channel="9821930">
-    <title lang="el">Blade</title>
-    <desc lang="el">Blade Σκηνοθεσία: Stephen Norrington,. Πρωταγωνιστούν: Wesley Snipes, Stephen Dorff, Kris Kristofferson, N&apos;Bushe Wright, Donal Logue, Udo Kier. (1998)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522112500 GMT+3" stop="20260522132500 GMT+3" channel="9821930">
-    <title lang="el">Underworld</title>
-    <desc lang="el">Η Σελίν, μια πολεμίστρια βαμπίρ, βρίσκεται εγκλωβισμένη στον αέναο πόλεμο μεταξύ βρικολάκων και λυκανθρώπων. Σκηνοθεσία: Len Wiseman,. Πρωταγωνιστούν: Kate Beckinsale,. (2003)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522132500 GMT+3" stop="20260522150500 GMT+3" channel="9821930">
-    <title lang="el">Underworld: Evolution</title>
-    <desc lang="el">Underworld: Evolution Σκηνοθεσία: Len Wiseman,. Πρωταγωνιστούν: Kate Beckinsale, Scott Speedman, Sophia Myles, Bill Nighy, Christine Danielle, Tony Curran. (2006)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522150500 GMT+3" stop="20260522171000 GMT+3" channel="9821930">
-    <title lang="el">Dog Day Afternoon</title>
-    <desc lang="el">Dog Day Afternoon Σκηνοθεσία: Sidney Lumet,. Πρωταγωνιστούν: Al Pacino, John Cazale, Charles Durning, Sully Boyar, Chris Sarandon, James Broderick. (1975)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522171000 GMT+3" stop="20260522190500 GMT+3" channel="9821930">
-    <title lang="el">...And Justice for All</title>
-    <desc lang="el">...And Justice for All Σκηνοθεσία: Norman Jewison,. Πρωταγωνιστούν: Angus Duncan, Al Pacino, Allisha Coucil, Jack Warden, Christine Lahti, John Forsythe. (1979)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522190500 GMT+3" stop="20260522210000 GMT+3" channel="9821930">
-    <title lang="el">Sudden Impact</title>
-    <desc lang="el">Sudden Impact Σκηνοθεσία: Clint Eastwood,. Πρωταγωνιστούν: Clint Eastwood, Sondra Locke, Pat Hingle, Bradford Dillman, Paul Drake, Audrie J. Neenan. (1983)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522210000 GMT+3" stop="20260522225000 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon 2</title>
-    <desc lang="el">Lethal Weapon 2 Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Joe Pesci, Patsy Kensit, Joss Ackland, Derrick O&apos;Connor. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522225000 GMT+3" stop="20260523004500 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon 3</title>
-    <desc lang="el">Lethal Weapon 3 Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Joe Pesci, Rene Russo, Traci Wolfe, Ebonie Smith. (1992)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260522004500 GMT+3" stop="20260522024000 GMT+3" channel="573851">
     <title lang="el">Η ΜΕΓΑΛΗ ΘΥΣΙΑ</title>
@@ -85241,6 +85230,144 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260522000000 GMT+3" stop="20260522010000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.3 - ΠΑΜΠΟΣ ΚΟΝΤΟΓΙΩΡΓΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522010000 GMT+3" stop="20260522030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (23/11/2024)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522030000 GMT+3" stop="20260522043000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - Ε.Ν. ΛΑΤΣΙΩΝ 10/3/26</title>
+    <desc lang="el">FUTSAL ΑΝΔΡΩΝ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522043000 GMT+3" stop="20260522050000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΠΟΕΛ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522050000 GMT+3" stop="20260522070000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (24/02/2025)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522070000 GMT+3" stop="20260522073000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522073000 GMT+3" stop="20260522080000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΠΟΕΛ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522080000 GMT+3" stop="20260522090000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522090000 GMT+3" stop="20260522100000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.3 - ΠΑΜΠΟΣ ΚΟΝΤΟΓΙΩΡΓΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522100000 GMT+3" stop="20260522100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522100500 GMT+3" stop="20260522110000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522110000 GMT+3" stop="20260522120000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522120000 GMT+3" stop="20260522123000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522123000 GMT+3" stop="20260522143000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (02/03/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522143000 GMT+3" stop="20260522150000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522150000 GMT+3" stop="20260522160000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522160000 GMT+3" stop="20260522163000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522163000 GMT+3" stop="20260522164500 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522164500 GMT+3" stop="20260522173000 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - PRE GAME (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522173000 GMT+3" stop="20260522193000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522193000 GMT+3" stop="20260522200000 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - POST GAME (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522200000 GMT+3" stop="20260522220000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (22/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522220000 GMT+3" stop="20260523000000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (26/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260522000000 GMT+3" stop="20260522010000 GMT+3" channel="54111722">
     <title lang="el">PL MOMENTS</title>
     <desc lang="el">Former Leicester City stars Wes Morgan and Marc Albrighton explain the key moments in a Premier League season that stunned the world.</desc>
@@ -85511,6 +85638,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260522120000 GMT+3" stop="20260522130000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260522130000 GMT+3" stop="20260522140000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
@@ -85520,6 +85653,12 @@
   <programme start="20260522140000 GMT+3" stop="20260522160000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Chelsea: The Match</title>
     <desc lang="el">All the action as Liverpool take on Chelsea.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522160000 GMT+3" stop="20260522164500 GMT+3" channel="94430673">
+    <title lang="el">Retro Review Show - The Gary Mac derby</title>
+    <desc lang="el">Gary McAllister joins Neil Mellor to analyse the action and talk through the stats from the 2001 Premier League derby at Goodison Park.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -85556,6 +85695,12 @@
   <programme start="20260522200000 GMT+3" stop="20260522210000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Preview Show</title>
     <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Bournemouth.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522210000 GMT+3" stop="20260522220000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -85901,6 +86046,11 @@
     <title lang="el">Ολυμπιακός - Φενέρμπαχτσε</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522000000 GMT+3" stop="20260522020000 GMT+3" channel="216415">
+    <title lang="el">Novasports Prime</title>
+    <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
   <programme start="20260522020000 GMT+3" stop="20260522023000 GMT+3" channel="216415">
@@ -91651,84 +91801,6 @@
     <desc lang="el">ΕΠ. 1 - Μια ανεξιχνίαστη υπόθεση του 1968 ξανανοίγει, όταν η καθηγήτρια Αγγλικών Αμάντα Τέιλορ, η οποία τη μελετά για ένα βιβλίο, δολοφονείται. Αστυνομική σειρά παραγωγής 2025 σε σκηνοθεσία Μαντλίν Γκότλιμπ με τους: Σαμ Νιλ, Ντανιέλ Κόρμακ, Έριν Τζιν Νόρβιλ, Σάρα Πιρς Σκηνοθεσία: Daniel Nettheim. Πρωταγωνιστούν: Sam Neill, Kate Mulvany, Matt Nable, Marta Dusseldorp. (2022)</desc>
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260523004500 GMT+3" stop="20260523030000 GMT+3" channel="9821930">
-    <title lang="el">The Devil&apos;s Advocate</title>
-    <desc lang="el">The Devil&apos;s Advocate Σκηνοθεσία: Taylor Hackford,. Πρωταγωνιστούν: Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones, Judith Ivey, Craig T. Nelson. (1997)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523030000 GMT+3" stop="20260523041500 GMT+3" channel="9821930">
-    <title lang="el">Friday the 13th</title>
-    <desc lang="el">Friday the 13th Σκηνοθεσία: Sean S. Cunningham,. Πρωταγωνιστούν: Adrienne King, Harry Crosby, Betsy Palmer, Peter Brouwer, Laurie Bartram, Jeannine Taylor. (1980)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523041500 GMT+3" stop="20260523061500 GMT+3" channel="9821930">
-    <title lang="el">What Women Want</title>
-    <desc lang="el">Ένα στέλεχος διαφημιστικής εταιρείας στο Σικάγο αποκτά μια εντελώς νέα οπτική όταν ένα απρόσμενο ατύχημα του δίνει την ικανότητα να διαβάζει το μυαλό των γυναικών. Σκηνοθεσία: Nancy Meyers,. Πρωταγωνιστούν: Mel Gibson, Helen Hunt, Marisa Tomei, Mark Feuerstein, Ashley Johnson, Alan Alda. (2000)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523061500 GMT+3" stop="20260523075500 GMT+3" channel="9821930">
-    <title lang="el">Down with Love</title>
-    <desc lang="el">Στη Νέα Υόρκη του 1963, μια συντάκτρια στήλης συμβουλών που θεωρεί τον έρωτα περιττό παρασύρεται από τη γοητεία ενός δημοσιογράφου που έχει αποφασίσει να την παγιδεύσει. (2003) Σκηνοθεσία: Peyton Reed. Πρωταγωνιστούν: Renée Zellweger, Ewan McGregor, David Hyde Pierce. (2003)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523075500 GMT+3" stop="20260523095000 GMT+3" channel="9821930">
-    <title lang="el">Little Women</title>
-    <desc lang="el">Little Women Σκηνοθεσία: Gillian Armstrong,. Πρωταγωνιστούν: Winona Ryder, Gabriel Byrne, Kirsten Dunst, Susan Sarandon, Claire Danes, Samantha Mathis. (1994)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523095000 GMT+3" stop="20260523114000 GMT+3" channel="9821930">
-    <title lang="el">Family Business</title>
-    <desc lang="el">Η ΟΙΚΟΓΕΝΕΙΑΚΗ ΥΠΟΘΕΣΗ αφηγείται την ιστορία της νεοϋορκέζικης οικογένειας Μακμάλεν: του Τζέσι, ενός 65χρονου ληστή με έντονη προσωπικότητα και ύπουλες ιδέες, και του γιου του, Βίτο, ενός πρώην λωποδύτη που τώρα διευθύνει μια επιχείρηση συσκευασίας κρεάτων. (1989) Σκηνοθεσία: Sidney Lumet. Πρωταγωνιστούν: Dustin Hoffman, Matthew Broderick, Sean Connery. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523114000 GMT+3" stop="20260523133500 GMT+3" channel="9821930">
-    <title lang="el">Runaway Bride</title>
-    <desc lang="el">Ένας δημοσιογράφος που απολύθηκε επειδή ήταν πολύ σοβινιστής προσπαθεί να αποκαταστήσει το όνομά του κυνηγώντας μια είδηση για μια γυναίκα που συνηθίζει να εγκαταλείπει τους αρραβωνιαστικούς της. Σκηνοθεσία: Scott Marshall,Garry Marshall,. Πρωταγωνιστούν: James Richardson, Julia Roberts,. (1999)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523133500 GMT+3" stop="20260523153000 GMT+3" channel="9821930">
-    <title lang="el">August: Osage County</title>
-    <desc lang="el">August: Osage County Σκηνοθεσία: John Wells,. Πρωταγωνιστούν: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523153000 GMT+3" stop="20260523172500 GMT+3" channel="9821930">
-    <title lang="el">Sudden Impact</title>
-    <desc lang="el">Sudden Impact Σκηνοθεσία: Clint Eastwood,. Πρωταγωνιστούν: Clint Eastwood, Sondra Locke, Pat Hingle, Bradford Dillman, Paul Drake, Audrie J. Neenan. (1983)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523172500 GMT+3" stop="20260523191500 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon 2</title>
-    <desc lang="el">Lethal Weapon 2 Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Joe Pesci, Patsy Kensit, Joss Ackland, Derrick O&apos;Connor. (1989)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523191500 GMT+3" stop="20260523210000 GMT+3" channel="9821930">
-    <title lang="el">Young Guns</title>
-    <desc lang="el">Ο Άγγλος αγρότης Τζον Τάνστολ δέχεται στο ράντσο του τον μικροαπατεώνα Μπίλι δε Κιντ και του δίνει δουλειά βοηθού. (1988) Σκηνοθεσία: Christopher Cain,Chris Cain,. Πρωταγωνιστούν: Patrick Wayne, Emilio Estevez, Lou Diamond Phillips, Sharon Thomas, Kiefer Sutherland, Allen Keller. (1988)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260523210000 GMT+3" stop="20260523232000 GMT+3" channel="9821930">
-    <title lang="el">Goodfellas</title>
-    <desc lang="el">Goodfellas Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523232000 GMT+3" stop="20260524012500 GMT+3" channel="9821930">
-    <title lang="el">Se7en</title>
-    <desc lang="el">Se7en Σκηνοθεσία: David Fincher,. Πρωταγωνιστούν: Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Richard Roundtree, John Cassini, R. Lee Ermey. (1995)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260523005500 GMT+3" stop="20260523023000 GMT+3" channel="573851">
     <title lang="el">ΑΧ ΑΥΤΗ Η ΓΥΝΑΙΚΑ ΜΟΥ</title>
@@ -101054,6 +101126,120 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523000000 GMT+3" stop="20260523003000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523003000 GMT+3" stop="20260523023000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (02/03/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523023000 GMT+3" stop="20260523030000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523030000 GMT+3" stop="20260523040000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523040000 GMT+3" stop="20260523043000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW ΕΠ.52</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523043000 GMT+3" stop="20260523050000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523050000 GMT+3" stop="20260523070000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (22/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523070000 GMT+3" stop="20260523090000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (26/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523090000 GMT+3" stop="20260523110000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (02/03/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523110000 GMT+3" stop="20260523120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523120000 GMT+3" stop="20260523130000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523130000 GMT+3" stop="20260523143000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.31</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523143000 GMT+3" stop="20260523150000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΠΟΕΛ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523150000 GMT+3" stop="20260523170000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523170000 GMT+3" stop="20260523180000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523180000 GMT+3" stop="20260523200000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523200000 GMT+3" stop="20260523210000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523210000 GMT+3" stop="20260523220000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523220000 GMT+3" stop="20260524000000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (22/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523003000 GMT+3" stop="20260523010000 GMT+3" channel="54111722">
     <title lang="el">PL Stories</title>
     <desc lang="el">Ten years on from one of football’s greatest sporting shocks, we revisit the extraordinary story of Leicester City’s Premier League title-winning season. Through exclusive interviews with the key figures who lived it, we relive the unity, belief, and impossible run that stunned the football world in 2015–16.</desc>
@@ -101300,6 +101486,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523100000 GMT+3" stop="20260523110000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523110000 GMT+3" stop="20260523120000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
@@ -101309,6 +101501,12 @@
   <programme start="20260523120000 GMT+3" stop="20260523130000 GMT+3" channel="94430673">
     <title lang="el">FA Cup Kings</title>
     <desc lang="el">Enjoy back-to-back to back highlights of Liverpool’s previous seven FA Cup Final triumphs</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523130000 GMT+3" stop="20260523134500 GMT+3" channel="94430673">
+    <title lang="el">Retro Review Show - The Gary Mac derby</title>
+    <desc lang="el">Gary McAllister joins Neil Mellor to analyse the action and talk through the stats from the 2001 Premier League derby at Goodison Park.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -101342,6 +101540,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523173000 GMT+3" stop="20260523183000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523183000 GMT+3" stop="20260523200000 GMT+3" channel="94430673">
     <title lang="el">Carragher</title>
     <desc lang="el">Upon his retirement in 2013 Jamie Carragher&apos;s former teammates managers and opponents paid tribute to a true Anfield legend.</desc>
@@ -101357,6 +101561,12 @@
   <programme start="20260523210000 GMT+3" stop="20260523220000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523220000 GMT+3" stop="20260523230000 GMT+3" channel="94430673">
+    <title lang="el">We are Liverpool: Andy Robertson</title>
+    <desc lang="el">The Liverpool full back and Scotland captain joins the podcast to talk about his career on the pitch and life off it.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -101749,6 +101959,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523201500 GMT+3" stop="20260523211500 GMT+3" channel="216415">
+    <title lang="el">SailGP</title>
+    <desc lang="el">Το πρωτάθλημα ιστιοπλοϊας SailGP επισκέπτεται διάσημες παραλιακές πόλεις όπου φέρνει αντιμέτωπους αθλητές που συμμετέχουν με τις εθνικές τους ομάδες. Δείτε τα στιγμιότυπα από το πέμπτο event της σεζόν 2026 στις Βερμούδες. Ιστιοπλοϊα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523211500 GMT+3" stop="20260523220000 GMT+3" channel="216415">
     <title lang="el">Πρωτάθλημα FIA Karting 2026</title>
     <desc lang="el">Το Πρωτάθλημα Karting της FIA είναι η διασημότερη διοργάνωση καρτ στον κόσμο. Αρκετοί πρωταθλητές της, όπως ο Άιρτον Σένα, ο Αλέν Προστ και ο Μαξ Φερστάπεν, έχουν συμμετάσχει και έχουν κερδίσει το Παγκόσμιο Πρωτάθλημα Οδηγών F1. Μηχανοκίνητα</desc>
@@ -101843,7 +102059,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523200000 GMT+3" stop="20260523220000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga 2025/26</title>
+    <title lang="el">Βόλφσμπουργκ - Πάντερμπορν</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -102374,27 +102590,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524073000 GMT+3" stop="20260524130000 GMT+3" channel="289530">
-    <title lang="el">ΒΟΥΛΕΥΤΙΚΕΣ ΕΚΛΟΓΕΣ 2026 - Η ΩΡΑ ΤΗΣ ΚΑΛΠΗΣ</title>
-    <desc lang="el">Με τους Χρύσανθο Τσουρούλλη και Γιάννη Καρεκλά. Μια μαραθώνια εκπομπή με αναλυτικά δελτία ειδήσεων, απευθείας συνδέσεις με τα επιτελεία των υποψηφίων και των κομμάτων, ρεπορτάζ, ανταποκρίσεις από όλη την Κύπρο και το εξωτερικό, αναλύσεις και συζητήσεις, καλεσμένους στο στούντιο και όλη την εκλογική δραστηριότητα της ημέρας.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260524130000 GMT+3" stop="20260524140000 GMT+3" channel="289530">
     <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
     <desc lang="el">Σε ζωντανή σύνδεση με ΣΚΑΙ Ελλάδος</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524140000 GMT+3" stop="20260524144500 GMT+3" channel="289530">
-    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
-    <desc lang="el">01/04/2026</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524144500 GMT+3" stop="20260524170000 GMT+3" channel="289530">
-    <title lang="el">Weekend Live</title>
-    <desc lang="el">Είναι Σαββατοκύριακο. Θέλεις να μάθεις τι παίζει, να γελάσεις, να χαλαρώσεις λίγο. Όλα αυτά μπορείς να τα βρεις στο «Weekend Live», με παρουσιαστές τον Δημήτρη Πανόπουλο και τη Μάρτζυ Λαζάρου.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -106532,78 +106730,6 @@
     <desc lang="el">Η Τσάρλι καταστρώνει σχέδιο για να φέρει κοντά τη δυσλειτουργική της οικογένεια τα Χριστούγεννα. Κωμωδία παραγωγής 2024 σε σκηνοθεσία Τζέιμι Άνταμς με τους: Μπρίτνι Σνόου, Λούκας Μπράβο, Σάιμον Κάλοου, Ηλέκτρα Κίλμπι Σκηνοθεσία: Jamie Adams. Πρωταγωνιστούν: Brittany Snow, Lucas Bravo, Simon Callow, Elektra Kilbey. (2024)</desc>
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260524012500 GMT+3" stop="20260524032000 GMT+3" channel="9821930">
-    <title lang="el">Lethal Weapon 3</title>
-    <desc lang="el">Lethal Weapon 3 Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Joe Pesci, Rene Russo, Traci Wolfe, Ebonie Smith. (1992)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524032000 GMT+3" stop="20260524053500 GMT+3" channel="9821930">
-    <title lang="el">The Devil&apos;s Advocate</title>
-    <desc lang="el">The Devil&apos;s Advocate Σκηνοθεσία: Taylor Hackford,. Πρωταγωνιστούν: Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones, Judith Ivey, Craig T. Nelson. (1997)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524053500 GMT+3" stop="20260524071000 GMT+3" channel="9821930">
-    <title lang="el">Step Brothers</title>
-    <desc lang="el">Step Brothers Σκηνοθεσία: Adam McKay,. Πρωταγωνιστούν: Will Ferrell, John C. Reilly, Richard Jenkins, Mary Steenburgen, Adam Scott, Kathryn Hahn. (2008)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524071000 GMT+3" stop="20260524092000 GMT+3" channel="9821930">
-    <title lang="el">Tin Cup</title>
-    <desc lang="el">Tin Cup Σκηνοθεσία: Ron Shelton,. Πρωταγωνιστούν: Kevin Costner, Rene Russo, Don Johnson, Cheech Marin, Rex Linn, Linda Hart. (1996)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524092000 GMT+3" stop="20260524112000 GMT+3" channel="9821930">
-    <title lang="el">Glory</title>
-    <desc lang="el">Glory Σκηνοθεσία: Edward Zwick,. Πρωταγωνιστούν: Matthew Broderick, Cliff De Young, Denzel Washington, Cary Elwes, Morgan Freeman, Donovan Leitch. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524112000 GMT+3" stop="20260524130500 GMT+3" channel="9821930">
-    <title lang="el">Taxi Driver</title>
-    <desc lang="el">Taxi Driver Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Cybill Shepherd, Jodie Foster, Albert Brooks, Peter Boyle, Harvey Keitel. (1976)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524130500 GMT+3" stop="20260524151000 GMT+3" channel="9821930">
-    <title lang="el">Fallen</title>
-    <desc lang="el">Fallen Σκηνοθεσία: Gregory Hoblit,. Πρωταγωνιστούν: Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz, James Gandolfini, Aida Turturro. (1998)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524151000 GMT+3" stop="20260524165500 GMT+3" channel="9821930">
-    <title lang="el">Young Guns</title>
-    <desc lang="el">Ο Άγγλος αγρότης Τζον Τάνστολ δέχεται στο ράντσο του τον μικροαπατεώνα Μπίλι δε Κιντ και του δίνει δουλειά βοηθού. (1988) Σκηνοθεσία: Christopher Cain,Chris Cain,. Πρωταγωνιστούν: Patrick Wayne, Emilio Estevez, Lou Diamond Phillips, Sharon Thomas, Kiefer Sutherland, Allen Keller. (1988)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260524165500 GMT+3" stop="20260524191500 GMT+3" channel="9821930">
-    <title lang="el">Goodfellas</title>
-    <desc lang="el">Goodfellas Σκηνοθεσία: Martin Scorsese,. Πρωταγωνιστούν: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino, Frank Sivero. (1990)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524191500 GMT+3" stop="20260524210000 GMT+3" channel="9821930">
-    <title lang="el">Guilty By Suspicion</title>
-    <desc lang="el">Ένας σκηνοθέτης του Χόλιγουντ της δεκαετίας του &apos;50 επιστρέφει από γυρίσματα στη Γαλλία και διαπιστώνει ότι τα φρονήματά του αμφισβητούνται από την Επιτροπή Αντιαμερικανικών Δραστηριοτήτων, με αποτέλεσμα να αδυνατεί να βρει δουλειά αν δεν αθωωθεί. (1991) Σκηνοθεσία: Irwin Winkler. Πρωταγωνιστούν: Robert De Niro, Annette Bening, George Wendt, Chris Cooper, Sam Wanamaker. (1991)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524210000 GMT+3" stop="20260524224000 GMT+3" channel="9821930">
-    <title lang="el">Mars Attacks!</title>
-    <desc lang="el">Mars Attacks! Σκηνοθεσία: Tim Burton,. Πρωταγωνιστούν: Jack Nicholson, Glenn Close, Pierce Brosnan, Sarah Jessica Parker, Annette Bening, Danny DeVito. (1996)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524224000 GMT+3" stop="20260525002000 GMT+3" channel="9821930">
-    <title lang="el">Warm Bodies</title>
-    <desc lang="el">Warm Bodies Σκηνοθεσία: Jonathan Levine,. Πρωταγωνιστούν: Nicholas Hoult, Teresa Palmer, Rob Corddry, Dave Franco, John Malkovich, Lio Tipton. (2013)</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260524004500 GMT+3" stop="20260524022500 GMT+3" channel="573851">
     <title lang="el">Ο ΘΑΝΑΤΟΣ ΘΑ ΞΑΝΑΡΘΕΙ</title>
@@ -115755,6 +115881,114 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524000000 GMT+3" stop="20260524010000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524010000 GMT+3" stop="20260524023000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.31</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524023000 GMT+3" stop="20260524030000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΠΟΕΛ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524030000 GMT+3" stop="20260524050000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (10/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524050000 GMT+3" stop="20260524060000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.14 - ΚΟΥΛΗΣ ΠΟΓΙΑΤΖΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524060000 GMT+3" stop="20260524080000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ (02/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524080000 GMT+3" stop="20260524090000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524100000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524100000 GMT+3" stop="20260524120000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (22/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524120000 GMT+3" stop="20260524133000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΕΛ (27/09/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ14</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524133000 GMT+3" stop="20260524153000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΕΛ (27/09/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ15</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524153000 GMT+3" stop="20260524170000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S2, EP.31</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524170000 GMT+3" stop="20260524173000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΠΟΕΛ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524173000 GMT+3" stop="20260524180000 GMT+3" channel="75835625">
+    <title lang="el">ΣΤΗΝ ΨΑΘΑΡΚΑ S2, EP.1</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524180000 GMT+3" stop="20260524200000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (22/05/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524200000 GMT+3" stop="20260524220000 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - ΑΝΑΓΕΝΝΗΣΗ ΔΕΡΥΝΕΙΑΣ (17/10/2025) - OMTV</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ ΠΕΤΟΣΦΑΙΡΙΣΗΣ ΑΝΔΡΩΝ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524220000 GMT+3" stop="20260524230000 GMT+3" channel="75835625">
+    <title lang="el">ΜΑΖΙ ΓΙΑ ΤΟΝ ΑΝΘΡΩΠΟ ΕΠ.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524230000 GMT+3" stop="20260525000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.18 - ΠΑΜΠΟΣ ΑΓΑΠΙΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524000000 GMT+3" stop="20260524010000 GMT+3" channel="54111722">
     <title lang="el">Welcome to the Weekend</title>
     <desc lang="el">Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
@@ -115947,6 +116181,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524030000 GMT+3" stop="20260524040000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524040000 GMT+3" stop="20260524050000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
@@ -115977,6 +116217,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524094500 GMT+3" channel="94430673">
+    <title lang="el">Retro Review Show - The Gary Mac derby</title>
+    <desc lang="el">Gary McAllister joins Neil Mellor to analyse the action and talk through the stats from the 2001 Premier League derby at Goodison Park.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524094500 GMT+3" stop="20260524100000 GMT+3" channel="94430673">
     <title lang="el">On This Day: Tottenham Hotspur (h) 24.05.09</title>
     <desc lang="el">The final day of the 2008/09 season saw a landmark goal for Fernando Torres whilst the Kop bid a fond farewell to Sami Hyypia.</desc>
@@ -115995,9 +116241,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524120000 GMT+3" stop="20260524130000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524130000 GMT+3" stop="20260524140000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524140000 GMT+3" stop="20260524150000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool&apos;s Sound</title>
+    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
