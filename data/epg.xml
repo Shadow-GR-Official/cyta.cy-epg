@@ -1686,21 +1686,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260521190000 GMT+3" stop="20260521200000 GMT+3" channel="561178">
+  <programme start="20260521190000 GMT+3" stop="20260521210000 GMT+3" channel="561178">
     <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
     <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260521200000 GMT+3" stop="20260521210000 GMT+3" channel="561178">
+  <programme start="20260521210000 GMT+3" stop="20260521210500 GMT+3" channel="561178">
     <title lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</title>
     <desc lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260521210000 GMT+3" stop="20260521210500 GMT+3" channel="561178">
-    <title lang="el">LUBEN</title>
-    <desc lang="el">LUBEN</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -6781,33 +6775,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521045500 GMT+3" stop="20260521052000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ5</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε ιππασία μέσα στο νερό, οδηγούμε ένα τηλεκατευθυνόμενο αεροπλάνο και υποτιμούμε τη δύναμη των παλιρροιών. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521052000 GMT+3" stop="20260521054500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ6</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε να σερβίρουμε φαγητό φλαμπέ, να χειριστούμε ποδήλατο ισορροπίας ή να αντιμετωπίσουμε έναν ανεμοστρόβιλο σκόνης. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521054500 GMT+3" stop="20260521061000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ7</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε άλμα με snowmobile, κάνουμε ποδήλατο πάνω σε πίστα pump track ή ανάβουμε φωτιές. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260521061000 GMT+3" stop="20260521070000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ5</title>
     <desc lang="el">Μέσα στη νύχτα, ο Θορντ και ο Έρλεντ τρομάζουν, προσπαθώντας να σώσουν ένα βαν που συνετρίβη δίπλα σε ένα νεκροταφείο. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521070000 GMT+3" stop="20260521075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ2</title>
-    <desc lang="el">Καθώς έρχεται η πρώτη μεγάλη χιονόπτωση της σεζόν, η Becky και ο Edgar μάχονται να ισιώσουν ένα φορτίο που έχει καταλάβει όλο τον αυτοκινητόδρομο στα δυτικά. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -6835,69 +6805,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521105000 GMT+3" stop="20260521114000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ2</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από την Ιταλία αποκαλύπτει βυθοκόρους στη Βενετία, τους κορυφαίους ψαράδες της Σικελίας που ψαρεύουν με σκάλες και μία χειμερινή σχολή για υπεραυτοκίνητα. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521114000 GMT+3" stop="20260521122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ3</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τη Γερμανία αποκαλύπτει ένα εργοστάσιο σε μέγεθος πόλης, ένα παραμυθένιο κάστρο και το μεγαλύτερο όχημα ξηράς του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260521122500 GMT+3" stop="20260521131500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ7</title>
     <desc lang="el">Ο Θορντ προσπαθεί να ρυμουλκήσει ένα αυτοκίνητο που συνετρίβη εξήντα μέτρα μέσα σε ένα χωράφι μετά από μια χιονοθύελλα, αλλά αγχώνεται όταν μια βλάβη στο βαρούλκο απειλεί τη διάσωση. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260521131500 GMT+3" stop="20260521140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ3</title>
-    <desc lang="el">Καθώς η χειρότερη χιονοθύελλα της σεζόν παγιδεύει τον Eddie στην κίνηση, λαμβάνει ένα τηλεφώνημα απόγνωσης από την έγκυο γυναίκα του, η οποία μάλλον γεννάει. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260521140000 GMT+3" stop="20260521144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ2</title>
     <desc lang="el">Εποχικά φαινόμενα χτυπούν την Αλάσκα και οι νεαροί κάτοικοι αναγκάζονται να προσαρμοστούν για να αποκομίσουν την αφθονία της φύσης. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521144500 GMT+3" stop="20260521153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ2</title>
-    <desc lang="el">Οι άνθρωποι βασανίζονται από οργανισμούς που επιτίθενται στο σώμα μας, εξελίσσονται και αντεπιτίθενται. Μπορούν τα μαθήματα του παρελθόντος να νικήσουν σύγχρονες επιδημίες; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521153500 GMT+3" stop="20260521162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ2</title>
-    <desc lang="el">Άραγε στο μέλλον, δεν θα θεραπεύουμε μόνον τις ασθένειες αλλά και την ίδια τη διαδικασία της γήρανσης; Πώς μια δραματικά παρατεταμένη ζωή θα άλλαζε όχι μόνο τη δομή της κοινωνίας, αλλά και το νόημα της ανθρώπινης ύπαρξης; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521162500 GMT+3" stop="20260521171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ2</title>
-    <desc lang="el">Οι καινοτομίες στη βιολογία και την τεχνολογία μάς έχουν κάνει πιο δυνατούς, πιο γρήγορους και πιο έξυπνους. Με τον συνδυασμό των δύο επιστημών, άραγε, θα καταφέρουμε να γίνουμε υπεράνθρωποι; (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521171000 GMT+3" stop="20260521175500 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ8 ΕΠ8</title>
-    <desc lang="el">Η ομάδα του &apos;Αυτοκίνητα Εκπέμπουν S.O.S.&apos; αναλαμβάνει μια πολύ συγκινητική αποστολή. Επισκευάζουν ένα Austin 7 Chummy του 1924, το οποίο είχε πουλήσει ο ιδιοκτήτης του 50 χρόνια. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521175500 GMT+3" stop="20260521182000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ7</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε άλμα με snowmobile, κάνουμε ποδήλατο πάνω σε πίστα pump track ή ανάβουμε φωτιές. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260521182000 GMT+3" stop="20260521184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ8</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ πεταγόμαστε από ράμπες χιονιού μέσα σε φουσκωτούς σωλήνες και οδηγούμε ATV μέσα σε νερό ή όταν τα ζώα έρχονται αντιμέτωπα με σκάλες. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -6930,18 +6846,6 @@
     <desc lang="el">Η αποστολή ανθρώπων στο διάστημα είναι επικίνδυνη. Οι αστροναύτες υφίστανται ισχυρές εκτοξεύσεις, βίαιες δυνάμεις επανεισόδου και ένα περιβάλλον όπου μικρά σφάλματα προκαλούν καταστροφές. Για να προετοιμάσει το Orion για το βαθύ διάστημα, η NASA μελετά παλαιότερες καταστροφές για να διαμορφώσει ασφαλέστερες στολές, συστήματα διαφυγής και υλικά. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260521223500 GMT+3" stop="20260521232500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ1 ΕΠ2</title>
-    <desc lang="el">Έξι μήνες μετά την Απόβαση στη Νορμανδία, ο πόλεμος στην Ευρώπη φτάνει σε αδιέξοδο. Καθώς οι Συμμαχικές δυνάμεις πλησιάζουν στα γερμανικά σύνορα, οι προμήθειες δεν φτάνουν και οι συνθήκες χειροτερεύουν καθώς καταφτάνει ο χειμώνας. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260521232500 GMT+3" stop="20260522001000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ1 ΕΠ4</title>
-    <desc lang="el">Μετά την αυτοκτονία του Χίτλερ, ένας Αμερικανός Διοικητής Αρμάτων ηγείται μιας ετερόκλητης ομάδας Γερμανών και Αμερικανών στρατιωτών, αποφασισμένων να προστατέψουν Γάλλους VIP αιχμαλώτους που κρατούνταν σε κάστρο των Αυστριακών Άλπεων από αφοσιωμένα ναζιστικά στρατεύματα. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260520232500 GMT+3" stop="20260521001000 GMT+3" channel="2831">
     <title lang="el">Απόλυτο Αρπακτικό Κ2 ΕΠ1</title>
@@ -24825,27 +24729,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522053000 GMT+3" stop="20260522055500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ7</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε άλμα με snowmobile, κάνουμε ποδήλατο πάνω σε πίστα pump track ή ανάβουμε φωτιές. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522055500 GMT+3" stop="20260522062000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ8</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ πεταγόμαστε από ράμπες χιονιού μέσα σε φουσκωτούς σωλήνες και οδηγούμε ATV μέσα σε νερό ή όταν τα ζώα έρχονται αντιμέτωπα με σκάλες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522062000 GMT+3" stop="20260522070500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ7</title>
     <desc lang="el">Ο Θορντ προσπαθεί να ρυμουλκήσει ένα αυτοκίνητο που συνετρίβη εξήντα μέτρα μέσα σε ένα χωράφι μετά από μια χιονοθύελλα, αλλά αγχώνεται όταν μια βλάβη στο βαρούλκο απειλεί τη διάσωση. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522070500 GMT+3" stop="20260522075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ3</title>
-    <desc lang="el">Καθώς η χειρότερη χιονοθύελλα της σεζόν παγιδεύει τον Eddie στην κίνηση, λαμβάνει ένα τηλεφώνημα απόγνωσης από την έγκυο γυναίκα του, η οποία μάλλον γεννάει. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -24873,69 +24759,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522105000 GMT+3" stop="20260522114000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ1</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τις Κάτω Χώρες αποκαλύπτει αρχαίους ανεμόμυλους, φουτουριστικά θερμοκήπια και τη μεγαλύτερη εορταστική φωτιά του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522114000 GMT+3" stop="20260522122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ4</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλο το Ηνωμένο Βασίλειο αποκαλύπτει το καθάρισμα ενός ουρανοξύστη, βοσκούς με κοπάδια προβάτων στις Λίμνες και την επίσκεψη σε μια μάντρα όπου επισκευάζονται πετρελαϊκές πλατφόρμες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522122500 GMT+3" stop="20260522131500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ6</title>
     <desc lang="el">Όταν ένας οδηγός φορτηγού γλιστράει και μένει ακινητοποιημένος στον πάγο, αλλά αρνείται τη βοήθεια του Θορντ, δημιουργεί χάος στον κεντρικό δρόμο. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522131500 GMT+3" stop="20260522140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ4</title>
-    <desc lang="el">Ο ανταγωνισμός ανάμεσα στον Sam Jackson και τον Eddie Farrows οξύνεται. Ο φόβος του Brandon Goulet για τον θάνατο γίνεται αληθινός όταν φτάνει κοντά σε ένα δυστύχημα. Το τραγικό παρελθόν της Becky Normans την κυνηγά όταν καλείται στο μέρος που έχει γίνει ένα θανατηφόρο ατύχημα. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522140000 GMT+3" stop="20260522144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ3</title>
     <desc lang="el">Η Επόμενη Γενιά πρέπει να μαζέψει απαραίτητους πόρους για να υπομείνει τον σκοτεινό χειμώνα. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522144500 GMT+3" stop="20260522153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ5</title>
-    <desc lang="el">Από το απλό εμπόριο μέχρι την απληστία για χρυσό και τη σημερινή παγκόσμια οικονομία, η σημασία και η αξία των χρημάτων διαφοροποιείται καθώς ο πολιτισμός εξελίσσεται. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522153500 GMT+3" stop="20260522162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ3</title>
-    <desc lang="el">Η εξέλιξη στα γραφικά και στον κόσμο των υπολογιστών έχει δώσει ζωή στις εικονικές τεχνολογίες, από τις πλατφόρμες που &apos;δημιουργούν&apos; τον κόσμο όπως η Second Life μέχρι κατασκευαστές ακουστικών VR όπως η Oculus Rift. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522162500 GMT+3" stop="20260522171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ3</title>
-    <desc lang="el">Ο ανθρώπινος εγκέφαλος είναι το πιο πολύπλοκο αντικείμενο σε όλο το γνωστό σύμπαν. Η νέα τεχνολογία οδηγεί σε σημαντικές ανακαλύψεις σχετικά με τις λειτουργίες του. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522171000 GMT+3" stop="20260522180000 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ1</title>
-    <desc lang="el">Ο Tim και ο Fuzz επισκέπτονται το Γουλβερχάμπτον για να αναλάβουν μια Jaguar XJ-S V12 του 1980, ένα υπέροχο βρετανικό Grand Tourer που δυστυχώς έχει εγκαταλειφθεί. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522180000 GMT+3" stop="20260522182500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ9</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε σκι με μόγκουλς, επιχειρούμε να πετάξουμε κάποιον στον αέρα ή τρέχουμε πάνω σε κορμούς που επιπλέουν. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522182500 GMT+3" stop="20260522184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ10</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από την αποτυχία ενώ επιχειρούμε περιστροφή με ATV, αντιμετωπίζουμε δυνατά ρεύματα ποταμού και κάνουμε ασκήσεις με μπάλες γυμναστικής. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -24962,24 +24794,6 @@
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260522215000 GMT+3" stop="20260522223500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522223500 GMT+3" stop="20260522232500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ1</title>
-    <desc lang="el">Όταν μια αμερικανική μεραρχία κατευθύνεται στην ακτή για να ελευθερώσει το γαλλικό λιμάνι St. Malo, έρχεται αντιμέτωπη με την έντονη αντίσταση των Ναζί και όλους τους δρόμους της περιοχής μπλοκαρισμένους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260522232500 GMT+3" stop="20260523001000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ2</title>
-    <desc lang="el">Συμμετέχοντας στην προσπάθεια των Συμμαχικών Δυνάμεων να ανοίξουν το λιμάνι της Αμβέρσας, ο καναδικός στρατός περνά πολλές εβδομάδες καθαρίζοντας τη χερσόνησο Scheldt, στην Ολλανδία. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260522001000 GMT+3" stop="20260522005500 GMT+3" channel="2831">
     <title lang="el">Φονικό Σαφάρι Κ2 ΕΠ1</title>
@@ -25264,8 +25078,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522103000 GMT+3" stop="20260522111500 GMT+3" channel="2767">
-    <title lang="el">Οι Αποδείξεις Είναι Εκεί Έξω Κ5 ΕΠ9</title>
-    <desc lang="el">Μήπως τα λαμπερά φώτα που παρατηρούνται από την αυλή ενός σπιτιού είναι ένας στόλος ΑΤΙΑ; Μια αγελάδα που έπεσε στην οροφή ενός αχυρώνα είχε απαχθεί από εξωγήινους; Πώς ένας άνθρωπος μετατράπηκε σε μούμια σε χρόνο ρεκόρ; (2025)</desc>
+    <title lang="el">Οι Αποδείξεις Είναι Εκεί Έξω Κ4 ΕΠ3</title>
+    <desc lang="el">Φωτογράφισε κάποιος πιστός θεατής έναν εξωγήινο ανιχνευτή; Τι να είναι ένα ον που εντοπίστηκε από κάμερα; Οι θρυλικοί Άντρες με τα Μαύρα κάλεσαν κάποιον για να τον απειλήσουν; Ο Τόνι Χάρις και η ομάδα του ψάχνουν την αλήθεια αυτών των ισχυρισμών. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -25318,8 +25132,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522170000 GMT+3" stop="20260522174500 GMT+3" channel="2767">
-    <title lang="el">Οι Αποδείξεις Είναι Εκεί Έξω Κ5 ΕΠ9</title>
-    <desc lang="el">Μήπως τα λαμπερά φώτα που παρατηρούνται από την αυλή ενός σπιτιού είναι ένας στόλος ΑΤΙΑ; Μια αγελάδα που έπεσε στην οροφή ενός αχυρώνα είχε απαχθεί από εξωγήινους; Πώς ένας άνθρωπος μετατράπηκε σε μούμια σε χρόνο ρεκόρ; (2025)</desc>
+    <title lang="el">Οι Αποδείξεις Είναι Εκεί Έξω Κ4 ΕΠ4</title>
+    <desc lang="el">Μια ασημένια σφαίρα στον ουρανό και κάποια κατ&apos; ισχυρισμόν συντρίμμια πρόσκρουσης προέρχονται από ΑΤΙΑ; Είναι αληθινά τα πλάνα ΑΤΙΑ κι εξωγήινων μιας κακόφημης κατασκοπικής οργάνωσης; Τι είναι το παράξενο ον που ξεβράστηκε σε παραλία της Ρωσίας; (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -28167,18 +27981,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522110000 GMT+3" stop="20260522120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ80</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522120000 GMT+3" stop="20260522130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ102</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260522130000 GMT+3" stop="20260522140000 GMT+3" channel="1945">
     <title lang="el">CNN This Morning ΕΠ102</title>
     <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
@@ -28248,12 +28050,6 @@
   <programme start="20260522220000 GMT+3" stop="20260522230000 GMT+3" channel="1945">
     <title lang="el">What We Know with Max Foster ΕΠ101</title>
     <desc lang="el">Max Foster has a definitive roundup of the day&apos;s top stories, with urgent need-to-know context and a deeper dive into the questions sparking debate (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260522230000 GMT+3" stop="20260523000000 GMT+3" channel="1945">
-    <title lang="el">Quest Means Business ΕΠ101</title>
-    <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -34272,6 +34068,12 @@
   <programme start="20260522210000 GMT+3" stop="20260522220000 GMT+3" channel="94430673">
     <title lang="el">130 Greatest LFC Goals</title>
     <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522220000 GMT+3" stop="20260522230000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -42641,12 +42443,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260523010000 GMT+3" stop="20260523014500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260523014500 GMT+3" stop="20260523023000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ7</title>
     <desc lang="el">Με άγνωστα ελαττώματα θαμμένα στα συστήματα πλοήγησης, τρία αεροπλάνα επηρεάζονται από καταστροφικά λάθη υπολογιστών, τα οποία αναγκάζουν τους ερευνητές να ψάξουν καλά για στοιχεία. (2021)</desc>
@@ -42668,24 +42464,6 @@
   <programme start="20260523040000 GMT+3" stop="20260523045000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ4</title>
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523045000 GMT+3" stop="20260523053500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523053500 GMT+3" stop="20260523060000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ9</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε σκι με μόγκουλς, επιχειρούμε να πετάξουμε κάποιον στον αέρα ή τρέχουμε πάνω σε κορμούς που επιπλέουν. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523060000 GMT+3" stop="20260523062500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ10</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από την αποτυχία ενώ επιχειρούμε περιστροφή με ATV, αντιμετωπίζουμε δυνατά ρεύματα ποταμού και κάνουμε ασκήσεις με μπάλες γυμναστικής. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -42716,42 +42494,6 @@
   <programme start="20260523093500 GMT+3" stop="20260523102000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ6 ΕΠ4</title>
     <desc lang="el">Απομεινάρια του Περλ Χάρμπορ, του Άλαμο και του Πολέμου του 1812 βρίσκονται στον βυθό της θάλασσας. Μπορούν οι αρχαιολόγοι να ρίξουν φως σε αυτές τις κομβικές επιθέσεις που διαμόρφωσαν την Αμερική; (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523102000 GMT+3" stop="20260523110500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ3</title>
-    <desc lang="el">Πιλότοι καλούνται να πάρουν αποφάσεις ζωής και θανάτου σε κρίσιμες κατάστασεις εν πτήσει, αλλά η λάθος προσέγγιση μπορεί να προκαλέσει ακόμα πιο σοβαρά προβλήματα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523110500 GMT+3" stop="20260523115500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ1</title>
-    <desc lang="el">Μπερδεμένα, χωρίς ορατότητα και χαμένα μέσα στο σκοτάδι, τρία πληρώματα χάνουν τον ορίζοντα και πέφτουν στην ίδια φονική παγίδα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523115500 GMT+3" stop="20260523124000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ8</title>
-    <desc lang="el">Δείτε τις μοιραίες συνέπειες όταν τα μέλη του πληρώματος δεν ταιριάζουν. Τρεις πτήσεις καταλήγουν σε τραγωδία, κάνοντας τους ειδικούς να ψάχνουν τι πήγε στραβά. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523124000 GMT+3" stop="20260523132500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ5</title>
-    <desc lang="el">Έχοντας βασιστεί περισσότερο στο ένστικτο παρά σε κανόνες, τρεις πτήσεις καταλήγουν σε τραγωδία όταν τα πληρώματά τους αυτοσχεδιάζουν στην ώρα της προσγείωσης. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523132500 GMT+3" stop="20260523141000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ6</title>
-    <desc lang="el">Τρία αεροπλάνα πέφτουν λόγω του πάγου και οι ερευνητές καλούνται να ανακαλύψουν πώς είναι δυνατόν σύγχρονα αεροσκάφη να καταλήγουν με πάγο στα φτερά τους. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523141000 GMT+3" stop="20260523145500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ9</title>
-    <desc lang="el">Τρεις προσγειώσεις της τελευταίας στιγμής σε νερό, όλες με διαφορετικούς τρόπους. Και οι τρεις πολύ σημαντικές για τη βελτίωση των αναγκαστικών προσγειώσεων στην ανοιχτή θάλασσα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -42791,27 +42533,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260523193000 GMT+3" stop="20260523201500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260523201500 GMT+3" stop="20260523210000 GMT+3" channel="216459">
     <title lang="el">CIA Εκ Των Έσω: Μυστικά και Κατάσκοποι Κ1 ΕΠ4</title>
     <desc lang="el">Η σύλληψη ενός Αμερικανού στο Πακιστάν απειλεί μία από τις πιο απόρρητες αποστολές που έχει αναλάβει ποτέ η CIA. Ο σταθμάρχης καλείται να διαχειριστεί τις συνέπειες. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523210000 GMT+3" stop="20260523215000 GMT+3" channel="216459">
-    <title lang="el">Ήρωες της Μεσογείου ΕΠ1</title>
-    <desc lang="el">Ο θαλάσσιος βιολόγος και εξερευνητής του National Geographic Manu San Felix ερευνά πώς οι άνθρωποι έχουν προκαλέσει τόση ζημιά στην ισπανική Μεσόγειο. Ταξιδεύει σε όλη την περιοχή για να συναντήσει εκείνους που κάνουν πραγματικά τη διαφορά για να αντιστρέψουν την κατάσταση. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523215000 GMT+3" stop="20260523223500 GMT+3" channel="216459">
-    <title lang="el">Θετική Ενέργεια Κ1 ΕΠ2</title>
-    <desc lang="el">Στην Κίνα, ο Ντάλας και η Κάρι μαθαίνουν πώς τα χρησιμοποιημένα ορυκτέλαια από τον κλάδο της εστίασης θα μπορούσαν να μετατραπούν σε 30 εκατομμύρια τόνους βιοντίζελ. Στο Ναϊρόμπι της Κένυας, ο Ντάλας εγκαθιστά ένα φωτιστικό που τροφοδοτείται με βαρύτητα και μαγειρεύει με μια σόμπα που σώζει εκατομμύρια δέντρα. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -43103,6 +42827,12 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523095000 GMT+3" stop="20260523103000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ3</title>
+    <desc lang="el">Η γαλάζια μπίλια που ονομάζουμε Γη παραμένει σε μεγάλο βαθμό ένα μυστήριο για τα 8 δισεκατομμύρια κατοίκους της. Πώς δημιουργήθηκε η Γη και ποια είναι τα μυστικά της επιβίωσής της; Για πόσο ακόμα θα μπορούν οι άνθρωποι να την αποκαλούν &quot;σπίτι&quot;; (2023)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523103000 GMT+3" stop="20260523111500 GMT+3" channel="2767">
     <title lang="el">Η Κατάρα του Όουκ Άιλαντ Κ13 ΕΠ19</title>
     <desc lang="el">Εφοδιασμένη με νέες πληροφορίες για τους αινιγματικούς πασσάλους στον βάλτο, η ομάδα διπλασιάζει τις ερευνητικές της προσπάθειες και τα αποτελέσματα είναι συγκλονιστικά. (2025)</desc>
@@ -43148,6 +42878,12 @@
   <programme start="20260523153500 GMT+3" stop="20260523161500 GMT+3" channel="2767">
     <title lang="el">Αρχαίοι Εξωγήινοι Κ16 ΕΠ7</title>
     <desc lang="el">Οι αρχαίοι Σουμέριοι ίδρυσαν αυτόν που θεωρείται ο πρώτος πολιτισμός του κόσμου και απέδωσαν τα εξαιρετικά τους επιτεύγματα στους θεούς τους, τους Ανουνάκι. Είναι όμως πιθανό αυτά τα όντα να ήταν εξωγήινοι επισκέπτες της Γης; (2023)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523161500 GMT+3" stop="20260523170000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ2</title>
+    <desc lang="el">Καθώς κάνουμε σχέδια να ταξιδέψουμε πέρα ​​από τη Σελήνη σε νέους κόσμους, πώς προετοιμαζόμαστε να γίνουμε ανθρώπινοι εξωγήινοι; Πώς θα επιβιώσουμε απ&apos; αυτό το ταξίδι στο άγνωστο; Και τι θα κάνουμε αν έλθουμε σε επαφή με ευφυή όντα; (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -45911,12 +45647,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523003000 GMT+3" stop="20260523010000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ363</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260523010000 GMT+3" stop="20260523020000 GMT+3" channel="1945">
     <title lang="el">The Brief with Jim Sciutto ΕΠ101</title>
     <desc lang="el">The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis. (2026)</desc>
@@ -47795,21 +47525,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523023000 GMT+3" stop="20260523030000 GMT+3" channel="213719">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523043000 GMT+3" stop="20260523050000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Originals</title>
-    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523063000 GMT+3" stop="20260523070000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+  <programme start="20260523010000 GMT+3" stop="20260523020000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47819,9 +47537,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523090000 GMT+3" stop="20260523093000 GMT+3" channel="213719">
+  <programme start="20260523023000 GMT+3" stop="20260523030000 GMT+3" channel="213719">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523030000 GMT+3" stop="20260523033000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
+    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523033000 GMT+3" stop="20260523040000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
+    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523040000 GMT+3" stop="20260523043000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523043000 GMT+3" stop="20260523050000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47831,15 +47573,69 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523060000 GMT+3" stop="20260523063000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523063000 GMT+3" stop="20260523070000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523070000 GMT+3" stop="20260523073000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523073000 GMT+3" stop="20260523080000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523080000 GMT+3" stop="20260523090000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523090000 GMT+3" stop="20260523093000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523093000 GMT+3" stop="20260523100000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523100000 GMT+3" stop="20260523110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523140000 GMT+3" stop="20260523170000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg This Weekend</title>
-    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+  <programme start="20260523110000 GMT+3" stop="20260523113000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523113000 GMT+3" stop="20260523120000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523120000 GMT+3" stop="20260523123000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47855,9 +47651,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523193000 GMT+3" stop="20260523200000 GMT+3" channel="213719">
-    <title lang="el">Bloomberg Originals</title>
-    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+  <programme start="20260523140000 GMT+3" stop="20260523170000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg This Weekend</title>
+    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523170000 GMT+3" stop="20260523180000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47867,9 +47669,63 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524010000 GMT+3" stop="20260524013000 GMT+3" channel="213719">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme start="20260523183000 GMT+3" stop="20260523190000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523190000 GMT+3" stop="20260523193000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Next Africa</title>
+    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523193000 GMT+3" stop="20260523200000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523200000 GMT+3" stop="20260523203000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523203000 GMT+3" stop="20260523210000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523210000 GMT+3" stop="20260523213000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523213000 GMT+3" stop="20260523220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523220000 GMT+3" stop="20260523230000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523230000 GMT+3" stop="20260523233000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523233000 GMT+3" stop="20260524000000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47879,21 +47735,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523023000 GMT+3" stop="20260523030000 GMT+3" channel="71037984">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523043000 GMT+3" stop="20260523050000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Originals</title>
-    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523063000 GMT+3" stop="20260523070000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
-    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+  <programme start="20260523010000 GMT+3" stop="20260523020000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47903,9 +47747,33 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523090000 GMT+3" stop="20260523093000 GMT+3" channel="71037984">
+  <programme start="20260523023000 GMT+3" stop="20260523030000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523030000 GMT+3" stop="20260523033000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
+    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523033000 GMT+3" stop="20260523040000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast</title>
+    <desc lang="el">Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523040000 GMT+3" stop="20260523043000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523043000 GMT+3" stop="20260523050000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47915,15 +47783,69 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523060000 GMT+3" stop="20260523063000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523063000 GMT+3" stop="20260523070000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523070000 GMT+3" stop="20260523073000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523073000 GMT+3" stop="20260523080000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523080000 GMT+3" stop="20260523090000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523090000 GMT+3" stop="20260523093000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523093000 GMT+3" stop="20260523100000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523100000 GMT+3" stop="20260523110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523140000 GMT+3" stop="20260523170000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg This Weekend</title>
-    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+  <programme start="20260523110000 GMT+3" stop="20260523113000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523113000 GMT+3" stop="20260523120000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523120000 GMT+3" stop="20260523123000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47939,9 +47861,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523193000 GMT+3" stop="20260523200000 GMT+3" channel="71037984">
-    <title lang="el">Bloomberg Originals</title>
-    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+  <programme start="20260523140000 GMT+3" stop="20260523170000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg This Weekend</title>
+    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523170000 GMT+3" stop="20260523180000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -47951,9 +47879,63 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524010000 GMT+3" stop="20260524013000 GMT+3" channel="71037984">
-    <title lang="el">The Mishal Husain Show</title>
-    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+  <programme start="20260523183000 GMT+3" stop="20260523190000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523190000 GMT+3" stop="20260523193000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Next Africa</title>
+    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523193000 GMT+3" stop="20260523200000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523200000 GMT+3" stop="20260523203000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523203000 GMT+3" stop="20260523210000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523210000 GMT+3" stop="20260523213000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523213000 GMT+3" stop="20260523220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523220000 GMT+3" stop="20260523230000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523230000 GMT+3" stop="20260523233000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523233000 GMT+3" stop="20260524000000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -52259,6 +52241,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523030000 GMT+3" stop="20260523040000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523040000 GMT+3" stop="20260523050000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
@@ -52337,6 +52325,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523160000 GMT+3" stop="20260523170000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523170000 GMT+3" stop="20260523173000 GMT+3" channel="94430673">
     <title lang="el">Robbo: All the goals and assists</title>
     <desc lang="el">Enjoy a collection of goals and assists by Andy Robertson.</desc>
@@ -52364,6 +52358,12 @@
   <programme start="20260523210000 GMT+3" stop="20260523220000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523220000 GMT+3" stop="20260523230000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -60186,18 +60186,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524000000 GMT+3" stop="20260524004500 GMT+3" channel="216459">
-    <title lang="el">Ήρωες της Μεσογείου ΕΠ1</title>
-    <desc lang="el">Ο θαλάσσιος βιολόγος και εξερευνητής του National Geographic Manu San Felix ερευνά πώς οι άνθρωποι έχουν προκαλέσει τόση ζημιά στην ισπανική Μεσόγειο. Ταξιδεύει σε όλη την περιοχή για να συναντήσει εκείνους που κάνουν πραγματικά τη διαφορά για να αντιστρέψουν την κατάσταση. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524004500 GMT+3" stop="20260524013500 GMT+3" channel="216459">
-    <title lang="el">Θετική Ενέργεια Κ1 ΕΠ2</title>
-    <desc lang="el">Στην Κίνα, ο Ντάλας και η Κάρι μαθαίνουν πώς τα χρησιμοποιημένα ορυκτέλαια από τον κλάδο της εστίασης θα μπορούσαν να μετατραπούν σε 30 εκατομμύρια τόνους βιοντίζελ. Στο Ναϊρόμπι της Κένυας, ο Ντάλας εγκαθιστά ένα φωτιστικό που τροφοδοτείται με βαρύτητα και μαγειρεύει με μια σόμπα που σώζει εκατομμύρια δέντρα. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260524013500 GMT+3" stop="20260524022000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ5</title>
     <desc lang="el">Χωρίς κανένα περιθώριο λάθους, τρεις καταστροφές αποτρέπονται την τελευταία στιγμή από πιλότους που καταφέρνουν να προσγειώσουν το κατεστραμμένο αεροπλάνο τους - ενάντια στις πιθανότητες. (2021)</desc>
@@ -60225,78 +60213,6 @@
   <programme start="20260524043500 GMT+3" stop="20260524052000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ9</title>
     <desc lang="el">Τρία αεροπλάνα γίνονται η λεία φονικών ανέμων και οι ερευνητές καλούνται να βρουν την αιτία. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524052000 GMT+3" stop="20260524054500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ1</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ οδηγούμε πάνω σε λεπτό στρώμα πάγου, χρησιμοποιούμε blender για το φαγητό μας ή επιχειρούμε να αναπηδήσουμε πάνω σε τεράστια φουσκωτά αντικείμενα. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524054500 GMT+3" stop="20260524061000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ2</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ οδηγούμε ερπυστριοφόρα, κατεβαίνουμε σκάλες πάνω σε μονόκυκλα και ανεβαίνουμε σε καγιάκ. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524061000 GMT+3" stop="20260524070000 GMT+3" channel="216459">
-    <title lang="el">Παναγία των Παρισίων: Πύρινη Κόλαση ΕΠ1</title>
-    <desc lang="el">Στις 15 Απριλίου 2019, κατά τη διάρκεια της Λειτουργίας της Μεγάλης Δευτέρας, ο πιο διάσημος καθεδρικός ναός του κόσμου έπιασε φωτιά. Η Παναγία των Παρισίων τυλίχτηκε στις φλόγες μέσα σε λίγα μόλις λεπτά. Μία επική μάχη ξεκίνησε για τους ηρωικούς Γάλλους πυροσβέστες οι οποίοι, υπό το βλέμμα των ΜΜΕ από όλο τον κόσμο, πάλευαν με την πυρκαγιά για περισσότερες από 15 ώρες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524070000 GMT+3" stop="20260524074500 GMT+3" channel="216459">
-    <title lang="el">Σώζοντας τη Βενετία ΕΠ1</title>
-    <desc lang="el">Μια από τις πιο διάσημες πόλεις του κόσμου, η Βενετία, απειλείται από τα νερά που όλο ανεβαίνουν. Ακολουθούμε ειδικούς που χρησιμοποιούν το νησί ως εργαστήριο, αναζητώντας λύσεις για να σωθεί η πόλη. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524074500 GMT+3" stop="20260524081500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ1</title>
-    <desc lang="el">Ο τομέας της παραγωγής έχει γνωρίσει επανάσταση μέσα στην τελευταία δεκαετία. Το μοντέλο οικονομίας just in time σημαίνει ότι τα προϊόντα που αγαπάμε παράγονται σε τεράστια κλίμακα σε χρόνο ρεκόρ, ενώ η μείωση της γραφειοκρατίας σημαίνει ότι το παγκόσμιο εμπόριο και η διανομή γίνονται πιο γρήγορα από ποτέ. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524081500 GMT+3" stop="20260524084000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ8</title>
-    <desc lang="el">Καυτερές πιπεριές από όλον τον κόσμο μεταφέρονται σε μια φυτεία στη Λουιζιάνα και μετατρέπονται – χρησιμοποιώντας μια οικογενειακή συνταγή – σε ένα από τα πιο δημοφιλή προϊόντα, το ταμπάσκο. Αυτή είναι η ιστορία της παρασκευής της νο 1 πικάντικης σάλτσας στον κόσμο, σε μαζική κλίμακα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524084000 GMT+3" stop="20260524090000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ7</title>
-    <desc lang="el">Με το διάστημα να προσφέρει οικονομικά οφέλη σε όλους, οι εκτοξεύσεις πυραύλων βρίσκονται σε ζήτηση παγκοσμίως. Αυτή είναι η ιστορία της παραγωγής πυραύλων από τη ULA, κάτι που αποτελεί προτεραιότητα για την Αμερική. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524090000 GMT+3" stop="20260524092500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ2</title>
-    <desc lang="el">Οι κιθάρες Gibson αποκαλύπτουν πώς η υπερσύγχρονη τεχνολογία, οι χειροτεχνικές ικανότητες και το παγκόσμιο εμπόριο συνδυάζονται για να φέρουν τις ηλεκτρικές κιθάρες στον κόσμο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524092500 GMT+3" stop="20260524095000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ5</title>
-    <desc lang="el">Τα πυροσβεστικά οχήματα μεταφέρουν τους πυροσβέστες στη μάχη κάθε μέρα. Η εταιρεία Pierce κατασκευάζει 18.000 τέτοια οχήματα κάθε μέρα. Αυτή είναι η ιστορία παραγωγής τους. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524095000 GMT+3" stop="20260524101000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ12</title>
-    <desc lang="el">Η εταιρεία OneWeb Satellites αποκαλύπτει πώς οι σχεδιαστές διαστημικών οχημάτων, οι μηχανολόγοι και η ρομποτική συνδυάζονται για να κατασκευάσουν και να εκτοξεύσουν δορυφόρους στο διάστημα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524101000 GMT+3" stop="20260524103500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ9</title>
-    <desc lang="el">Ο κολοσσός των τρακτέρ Deere αποκαλύπτει πώς συνδυάζεται η βαριά βιομηχανία με την υπερσύγχρονη τεχνολογία για την κατασκευή τεράστιων τρακτέρ, σχεδιασμένων να παρέχουν τροφή στον κόσμο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524103500 GMT+3" stop="20260524110000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ10</title>
-    <desc lang="el">Ο κολοσσός off-road οχημάτων Jeep αποκαλύπτει πώς συνδυάζει ανθρώπινο δυναμικό και τεχνολογία για να κατασκευάσει και να διανείμει χιλιάδες από τα δημοφιλή του Wrangler κάθε μέρα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -60330,45 +60246,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260524144500 GMT+3" stop="20260524151000 GMT+3" channel="216459">
-    <title lang="el">Σκουπίδια Αξίας Κ1 ΕΠ11</title>
-    <desc lang="el">Η ομάδα ψάχνει για κρυμμένους θησαυρούς στο εγκαταλελειμμένο Hot Springs, το ξενοδοχείο που φιλοξένησε τον Babe Ruth και τον Al Capone. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524151000 GMT+3" stop="20260524153000 GMT+3" channel="216459">
-    <title lang="el">Σκουπίδια Αξίας Κ1 ΕΠ12</title>
-    <desc lang="el">Η ομάδα αποκτά πρόσβαση σ&apos; ένα εργοστάσιο μαρμάρου, όπου οι ιδιοκτήτες παροτρύνουν τον Jay να βρει ένα κρυμμένο καταφύγιο στο υπόγειό του. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260524153000 GMT+3" stop="20260524162000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ6 ΕΠ5</title>
     <desc lang="el">Ένα θρυλικό βυθισμένο πλοίο 300 ετών και ένα μοναχικό σκάφος της ρωσικής εποχής που βρέθηκε στα νερά του Ειρηνικού. Μπορεί η επιστήμη να αποκαλύψει την αλήθεια για αυτούς τους κινδύνους του Ειρηνικού; (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524162000 GMT+3" stop="20260524170500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ2</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από την Ιταλία αποκαλύπτει βυθοκόρους στη Βενετία, τους κορυφαίους ψαράδες της Σικελίας που ψαρεύουν με σκάλες και μία χειμερινή σχολή για υπεραυτοκίνητα. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524170500 GMT+3" stop="20260524175500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ3</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τη Γερμανία αποκαλύπτει ένα εργοστάσιο σε μέγεθος πόλης, ένα παραμυθένιο κάστρο και το μεγαλύτερο όχημα ξηράς του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524175500 GMT+3" stop="20260524184000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ1</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τις Κάτω Χώρες αποκαλύπτει αρχαίους ανεμόμυλους, φουτουριστικά θερμοκήπια και τη μεγαλύτερη εορταστική φωτιά του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524184000 GMT+3" stop="20260524193000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ4</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλο το Ηνωμένο Βασίλειο αποκαλύπτει το καθάρισμα ενός ουρανοξύστη, βοσκούς με κοπάδια προβάτων στις Λίμνες και την επίσκεψη σε μια μάντρα όπου επισκευάζονται πετρελαϊκές πλατφόρμες. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -60399,12 +60279,6 @@
   <programme start="20260524223000 GMT+3" stop="20260524232000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ4</title>
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524232000 GMT+3" stop="20260525000500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -60699,6 +60573,12 @@
   <programme start="20260524095000 GMT+3" stop="20260524111500 GMT+3" channel="2767">
     <title lang="el">Εξωγήινοι της Αρχαιότητας: Ειδικές Προβολές Κ1 ΕΠ4</title>
     <desc lang="el">Οι γνώσεις για τους προγόνους μας είναι απλώς επιφανειακές. Χαμένες πόλεις, αρχαία κείμενα, μυστηριώδη γλυπτά και ανεξήγητες κατασκευές, παρέχουν ενδείξεις για μια ξεχασμένη από καιρό εποχή που πηγαίνει πολύ πιο πίσω στην ιστορία. (2022)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524111500 GMT+3" stop="20260524120000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ4</title>
+    <desc lang="el">Η Αφροδίτη, ο πλησιέστερος πλανητικός γείτονάς μας, μας γοητεύει. Ίδια σχεδόν σε μέγεθος με τη Γη μας, καλύπτεται από τεράστια ηφαίστεια και δηλητηριώδη σύννεφα όξινης βροχής. Είναι το κακό δίδυμό μας ή μια προειδοποίηση για το μέλλον της Γης; (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -65490,15 +65370,435 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524000000 GMT+3" stop="20260524003000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524003000 GMT+3" stop="20260524010000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524010000 GMT+3" stop="20260524013000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524013000 GMT+3" stop="20260524020000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524020000 GMT+3" stop="20260524023000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ3</title>
+    <desc lang="el">From brain implants that allow paralyzed patients to communicate to the wearable devices enhancing our capabilities, brain-computer interfaces could change the way we use our minds forever.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524023000 GMT+3" stop="20260524030000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ4</title>
+    <desc lang="el">From birth to death, tech is stretching the boundaries of biology. In this episode of Posthuman, we explore the discoveries that could transform reproduction, healthcare and how we die.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524030000 GMT+3" stop="20260524040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524040000 GMT+3" stop="20260524043000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524043000 GMT+3" stop="20260524050000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524050000 GMT+3" stop="20260524060000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ1</title>
+    <desc lang="el">Sitting Down With the Newsoms. Emily meets California&apos;s First Couple, Gavin and Jennifer Siebel Newsom. The governor is widely considered the frontrunner for the next Democratic nomination.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524060000 GMT+3" stop="20260524063000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524063000 GMT+3" stop="20260524070000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524070000 GMT+3" stop="20260524073000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524073000 GMT+3" stop="20260524080000 GMT+3" channel="213719">
+    <title lang="el">Posthuman Κ1 ΕΠ3</title>
+    <desc lang="el">From brain implants that allow paralyzed patients to communicate to the wearable devices enhancing our capabilities, brain-computer interfaces could change the way we use our minds forever.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524080000 GMT+3" stop="20260524083000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524083000 GMT+3" stop="20260524090000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524093000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524093000 GMT+3" stop="20260524100000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524100000 GMT+3" stop="20260524103000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524103000 GMT+3" stop="20260524110000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524110000 GMT+3" stop="20260524120000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524120000 GMT+3" stop="20260524130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524130000 GMT+3" stop="20260524140000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524140000 GMT+3" stop="20260524170000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg This Weekend</title>
+    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524170000 GMT+3" stop="20260524173000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524173000 GMT+3" stop="20260524180000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524180000 GMT+3" stop="20260524183000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524183000 GMT+3" stop="20260524190000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524190000 GMT+3" stop="20260524200000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524200000 GMT+3" stop="20260524203000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524203000 GMT+3" stop="20260524210000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Next Africa</title>
+    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524210000 GMT+3" stop="20260524220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524220000 GMT+3" stop="20260524223000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524223000 GMT+3" stop="20260524230000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524230000 GMT+3" stop="20260524233000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524233000 GMT+3" stop="20260525000000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524000000 GMT+3" stop="20260524003000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ1</title>
+    <desc lang="el">Emily Chang meets some of the world&apos;s most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524003000 GMT+3" stop="20260524010000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524010000 GMT+3" stop="20260524013000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524013000 GMT+3" stop="20260524020000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524020000 GMT+3" stop="20260524023000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ3</title>
+    <desc lang="el">From brain implants that allow paralyzed patients to communicate to the wearable devices enhancing our capabilities, brain-computer interfaces could change the way we use our minds forever.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524023000 GMT+3" stop="20260524030000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ4</title>
+    <desc lang="el">From birth to death, tech is stretching the boundaries of biology. In this episode of Posthuman, we explore the discoveries that could transform reproduction, healthcare and how we die.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524030000 GMT+3" stop="20260524040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524040000 GMT+3" stop="20260524043000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524043000 GMT+3" stop="20260524050000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524050000 GMT+3" stop="20260524060000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ1</title>
+    <desc lang="el">Sitting Down With the Newsoms. Emily meets California&apos;s First Couple, Gavin and Jennifer Siebel Newsom. The governor is widely considered the frontrunner for the next Democratic nomination.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524060000 GMT+3" stop="20260524063000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524063000 GMT+3" stop="20260524070000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524070000 GMT+3" stop="20260524073000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524073000 GMT+3" stop="20260524080000 GMT+3" channel="71037984">
+    <title lang="el">Posthuman Κ1 ΕΠ3</title>
+    <desc lang="el">From brain implants that allow paralyzed patients to communicate to the wearable devices enhancing our capabilities, brain-computer interfaces could change the way we use our minds forever.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524080000 GMT+3" stop="20260524083000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524083000 GMT+3" stop="20260524090000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524093000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524093000 GMT+3" stop="20260524100000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524100000 GMT+3" stop="20260524103000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524103000 GMT+3" stop="20260524110000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524110000 GMT+3" stop="20260524120000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524120000 GMT+3" stop="20260524130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524130000 GMT+3" stop="20260524140000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524140000 GMT+3" stop="20260524170000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg This Weekend</title>
+    <desc lang="el">The news doesn&apos;t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend&apos;s biggest headlines, live from New York.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524170000 GMT+3" stop="20260524173000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524173000 GMT+3" stop="20260524180000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524180000 GMT+3" stop="20260524183000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524183000 GMT+3" stop="20260524190000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524190000 GMT+3" stop="20260524200000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524200000 GMT+3" stop="20260524203000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ22</title>
+    <desc lang="el">Raj Subramaniam, FedEx President &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524203000 GMT+3" stop="20260524210000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Next Africa</title>
+    <desc lang="el">A monthly deep dive into Africa&apos;s biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa&apos;s quest of bridging the gap with global powers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524210000 GMT+3" stop="20260524220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524220000 GMT+3" stop="20260524223000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524223000 GMT+3" stop="20260524230000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524230000 GMT+3" stop="20260524233000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show</title>
+    <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524233000 GMT+3" stop="20260525000000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -69780,6 +70080,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524100000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524100000 GMT+3" stop="20260524110000 GMT+3" channel="94430673">
     <title lang="el">We are Liverpool: Andy Robertson</title>
     <desc lang="el">The Liverpool full back and Scotland captain joins the podcast to talk about his career on the pitch and life off it.</desc>
@@ -69801,6 +70107,12 @@
   <programme start="20260524130000 GMT+3" stop="20260524140000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524140000 GMT+3" stop="20260524150000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69849,6 +70161,12 @@
   <programme start="20260524214500 GMT+3" stop="20260524220000 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: Luis Diaz</title>
     <desc lang="el">A collection of the best Liverpool goals scored by Luis Diaz.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524220000 GMT+3" stop="20260524230000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77662,27 +77980,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525053000 GMT+3" stop="20260525055500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ3</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες, ενώ οδηγούμε μέσα σε χιόνι ή κάνουμε ποδήλατο σε ποδηλατική πίστα καθώς και τις τρομακτικές συνέπειες ενός χαλασμένου ηλεκτρικού καλωδίου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525055500 GMT+3" stop="20260525062000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ4</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε κόλπα με ένα BMX 720, διασκεδάζουμε σε παιδικές χαρές και προσπαθούμε να παρκάρουμε. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260525062000 GMT+3" stop="20260525070000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ6</title>
     <desc lang="el">Όταν ένας οδηγός φορτηγού γλιστράει και μένει ακινητοποιημένος στον πάγο, αλλά αρνείται τη βοήθεια του Θορντ, δημιουργεί χάος στον κεντρικό δρόμο. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525070000 GMT+3" stop="20260525075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ4</title>
-    <desc lang="el">Ο ανταγωνισμός ανάμεσα στον Sam Jackson και τον Eddie Farrows οξύνεται. Ο φόβος του Brandon Goulet για τον θάνατο γίνεται αληθινός όταν φτάνει κοντά σε ένα δυστύχημα. Το τραγικό παρελθόν της Becky Normans την κυνηγά όταν καλείται στο μέρος που έχει γίνει ένα θανατηφόρο ατύχημα. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -77710,69 +78010,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525105000 GMT+3" stop="20260525113500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ6</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλη την Πολωνία αποκαλύπτει μια χώρα που κάποτε έπρεπε να δώσει μάχη για να επιβιώσει, αλλά σήμερα θεωρείται το μέλλον της Ευρώπης. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525113500 GMT+3" stop="20260525122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ5</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλη την Ισπανία αποκαλύπτει τολμηρούς ψαράδες οστράκων, πρωτοποριακή μηχανική στην Ανδαλουσία και μια επίσκεψη στο μεγαλύτερο σε διάρκεια κατασκευαστικό project στη Βαρκελώνη. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260525122500 GMT+3" stop="20260525131000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ8</title>
     <desc lang="el">Όταν ο Θορντ και ο Μπιορν σώζουν ένα φορτηγό που παραλίγο να ανατραπεί, ο Θορντ σέρνεται κάτω από τηξν καρότσα κατά τη διάρκεια της ρυμούλκησης, αφήνοντας τη ζωή του στα χέρια του Μπιορν. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525131000 GMT+3" stop="20260525140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ5</title>
-    <desc lang="el">Καθώς η βαριά χιονόπτωση κατακλύζει το Donner Summit, ο Edgar Stratton τρέχει σε μια παγωμένη λίμνη για να σώσει ένα SUV που έχει σχεδόν πέσει μέσα στον πάγο. Όμως, το μεγαλύτερο πρόβλημα είναι ότι ο οδηγός βρίσκεται ακόμα μέσα στο αυτοκίνητο. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260525140000 GMT+3" stop="20260525144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ4</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να ελπίζουν για το καλύτερο αλλά να προετοιμάζονται για το χειρότερο για να επιβιώσουν στην αρκτική ύπαιθρο. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525144500 GMT+3" stop="20260525153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ3</title>
-    <desc lang="el">Η επικοινωνία κινεί τον σύγχρονο κόσμο ενώ οι ασύρματες συνδέσεις και τα κινητά τηλέφωνα μας επιτρέπουν να μοιραζόμαστε ιδέες. Πώς εξελιχθήκαμε στο είδος που λατρεύει την τεχνολογία; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525153500 GMT+3" stop="20260525162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ4</title>
-    <desc lang="el">Μέσα σε μόλις μία γενιά, το Ίντερνετ έχει στην ουσία μεταμορφώσει κάθε πλευρά της σύγχρονης κουλτούρας, από τον τρόπο που μαθαίνουμε και δουλεύουμε μέχρι τους τρόπους με τους οποίους επικοινωνούμε και εκφραζόμαστε. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525162500 GMT+3" stop="20260525171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ1</title>
-    <desc lang="el">Μια πρωτοποριακή ομάδα επιστημόνων πιστεύει ότι έχει τη γνώση για να στοχεύσει και να επιβραδύνει τους μηχανισμούς της γήρανσης. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525171000 GMT+3" stop="20260525175500 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ2</title>
-    <desc lang="el">Ο Tim και ο Fuzz αναλαμβάνουν μια έκτακτη ανάγκη. Ο Steve, ο 53χρονος ιδιοκτήτης ενός Fiat X1/9, έχει καρκίνο στο τελευταίο στάδιο αλλά επιθυμεί να δει τον γιο του να οδηγεί το αμάξι πριν να είναι πολύ αργά. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525175500 GMT+3" stop="20260525182000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ11</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αναρρίχηση χωρίς σχοινιά, κάνουμε ανάποδες τούμπες στο wakeboard ή πηδάμε μέσα σε αφρώδεις κύβους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525182000 GMT+3" stop="20260525184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ12</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αγώνες ταχύτητας στη λάσπη, χορεύουμε σε κύκλο ή ανεβαίνουμε σε ποδήλατα μικρού μεγέθους. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -77805,18 +78051,6 @@
     <desc lang="el">Ιστορίες παρ&apos; ολίγον ατυχημάτων με UAP εν πτήσει πυροδοτούν μια συζήτηση σχετικά με μια σοβαρή απειλή στους ουρανούς μας, όχι μόνο στην Αμερική, αλλά σε όλο τον κόσμο. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260525223000 GMT+3" stop="20260525231500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ3</title>
-    <desc lang="el">Σεπτέμβριος 1944. Μετά την απελευθέρωση του μεγαλύτερου μέρους της Γαλλίας, του Λουξεμβούργου και του Βελγίου, οι Συμμαχικές Δυνάμεις βάζουν σε εφαρμογή το φιλόδοξο σχέδιο του Στρατηγού Bernard Montgomery για το τέλος του πολέμου το 1944. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260525231500 GMT+3" stop="20260526000500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ4</title>
-    <desc lang="el">Δεκέμβριος 1944. Αποφασισμένος να ανακαταλάβει το λιμάνι της Αμβέρσας, ο Χίτλερ κινητοποιεί μια απρόσμενη τεράστια επίθεση στο δάσος των Αρδεννών εναντίον του ελλιπώς επανδρωμένου αμερικανικού στρατού. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260525002500 GMT+3" stop="20260525011000 GMT+3" channel="2831">
     <title lang="el">Εθνικά Πάρκα: ΗΠΑ Κ1 ΕΠ1</title>
@@ -78103,6 +78337,12 @@
   <programme start="20260525103000 GMT+3" stop="20260525111500 GMT+3" channel="2767">
     <title lang="el">Τα Απίστευτα του Νταν Ακρόιντ Κ3 ΕΠ4</title>
     <desc lang="el">Η ιστορία είναι γεμάτη ανθρώπους που πιέζουν την τύχη τους, αλλά κάποιοι είναι πιο εκπληκτικοί από άλλους. Όπως ο άνθρωπος που απελευθέρωσε μόνος του μια πόλη κατά τη διάρκεια του Β&apos; ΠΠ. Ή μια ληστεία στο Μπουένος Άιρες που έγινε χωρίς κανένα θύμα. (2025)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525111500 GMT+3" stop="20260525120000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ5</title>
+    <desc lang="el">Κάθε κοσμικός κίνδυνος, από τεράστιους αστεροειδείς και θανατηφόρες ακτινοβολίες, μέχρι εξωγήινους ιούς, μπορεί να τερματίσει τον ανθρώπινο πολιτισμό. Μπορούμε να προετοιμαστούμε για την καταστροφή που μας περιμένει ή είμαστε καταδικασμένοι στη λήθη; (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -82720,6 +82960,36 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525000000 GMT+3" stop="20260525003000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525003000 GMT+3" stop="20260525010000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525010000 GMT+3" stop="20260525020000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525020000 GMT+3" stop="20260525040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525040000 GMT+3" stop="20260525060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260525060000 GMT+3" stop="20260525070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
@@ -82750,6 +83020,162 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525120000 GMT+3" stop="20260525123000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ1</title>
+    <desc lang="el">Melinda French Gates reflects on the choices that set her path, from Microsoft executive to philanthropist and now founder of Pivotal.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525123000 GMT+3" stop="20260525130000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ2</title>
+    <desc lang="el">HSBC CEO Georges Elhedery reflects on leadership, integrity and cultural fluency, and shares how HSBC is adapting to geopolitical tensions, shifting trade routes and the rapid rise of generative AI.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525130000 GMT+3" stop="20260525133000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525133000 GMT+3" stop="20260525140000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525140000 GMT+3" stop="20260525143000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ1</title>
+    <desc lang="el">Three-time Super Bowl champion Steve Young discusses the challenges faced and lessons learned on his journey from the NFL to managing a $10 billion fund.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525143000 GMT+3" stop="20260525150000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ2</title>
+    <desc lang="el">AJ Andrews on baseball’s momentum, softball’s growth and why storytelling and authenticity are key to building the next generation of fans.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525150000 GMT+3" stop="20260525153000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525153000 GMT+3" stop="20260525160000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ1</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525160000 GMT+3" stop="20260525163000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ2</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525163000 GMT+3" stop="20260525170000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525170000 GMT+3" stop="20260525173000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525173000 GMT+3" stop="20260525180000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525180000 GMT+3" stop="20260525183000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525183000 GMT+3" stop="20260525190000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525190000 GMT+3" stop="20260525203000 GMT+3" channel="213719">
+    <title lang="el">Can&apos;t Look Away: The Case Against Social Media</title>
+    <desc lang="el">The documentary explores the real-life cases handled by the Social Media Victims Law Center, which assists parents of children who have died as a result of harmful internet activities.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525203000 GMT+3" stop="20260525210000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525210000 GMT+3" stop="20260525220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525220000 GMT+3" stop="20260525223000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ1</title>
+    <desc lang="el">MACC. The Malaysian Anti-Corruption Commission is supposed to root out graft. Instead, some of its members have been accused of perpetuating the very wrongdoing they were meant to stop.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525223000 GMT+3" stop="20260525230000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230000 GMT+3" stop="20260525233000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525233000 GMT+3" stop="20260526000000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525000000 GMT+3" stop="20260525003000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525003000 GMT+3" stop="20260525010000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Originals</title>
+    <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525010000 GMT+3" stop="20260525020000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Wall Street Week</title>
+    <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525020000 GMT+3" stop="20260525040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525040000 GMT+3" stop="20260525060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260525060000 GMT+3" stop="20260525070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
@@ -82777,6 +83203,132 @@
   <programme start="20260525110000 GMT+3" stop="20260525120000 GMT+3" channel="71037984">
     <title lang="el">The Pulse with Francine Lacqua</title>
     <desc lang="el">Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525120000 GMT+3" stop="20260525123000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ1</title>
+    <desc lang="el">Melinda French Gates reflects on the choices that set her path, from Microsoft executive to philanthropist and now founder of Pivotal.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525123000 GMT+3" stop="20260525130000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ2</title>
+    <desc lang="el">HSBC CEO Georges Elhedery reflects on leadership, integrity and cultural fluency, and shares how HSBC is adapting to geopolitical tensions, shifting trade routes and the rapid rise of generative AI.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525130000 GMT+3" stop="20260525133000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525133000 GMT+3" stop="20260525140000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525140000 GMT+3" stop="20260525143000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ1</title>
+    <desc lang="el">Three-time Super Bowl champion Steve Young discusses the challenges faced and lessons learned on his journey from the NFL to managing a $10 billion fund.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525143000 GMT+3" stop="20260525150000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ2</title>
+    <desc lang="el">AJ Andrews on baseball’s momentum, softball’s growth and why storytelling and authenticity are key to building the next generation of fans.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525150000 GMT+3" stop="20260525153000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525153000 GMT+3" stop="20260525160000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ1</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525160000 GMT+3" stop="20260525163000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ2</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525163000 GMT+3" stop="20260525170000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525170000 GMT+3" stop="20260525173000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525173000 GMT+3" stop="20260525180000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525180000 GMT+3" stop="20260525183000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg New Economy: Thriving in an Age of Extremes</title>
+    <desc lang="el">Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525183000 GMT+3" stop="20260525190000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ5 ΕΠ7</title>
+    <desc lang="el">Gina Goetter is the CFO and COO of Hasbro. She&apos;s the architect of the company&apos;s transformation, diversifying its manufacturing footprint and investing in Hasbro&apos;s video game ambitions.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525190000 GMT+3" stop="20260525203000 GMT+3" channel="71037984">
+    <title lang="el">Can&apos;t Look Away: The Case Against Social Media</title>
+    <desc lang="el">The documentary explores the real-life cases handled by the Social Media Victims Law Center, which assists parents of children who have died as a result of harmful internet activities.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525203000 GMT+3" stop="20260525210000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ2</title>
+    <desc lang="el">Airplane Thief. The story of Chinese spy Ji Chaoqun, who was a promising young engineer from Beijing heading to the US to study, until China’s spy agency came calling with bags of cash.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525210000 GMT+3" stop="20260525220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ4</title>
+    <desc lang="el">A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525220000 GMT+3" stop="20260525223000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates Κ6 ΕΠ1</title>
+    <desc lang="el">MACC. The Malaysian Anti-Corruption Commission is supposed to root out graft. Instead, some of its members have been accused of perpetuating the very wrongdoing they were meant to stop.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525223000 GMT+3" stop="20260525230000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ3</title>
+    <desc lang="el">Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230000 GMT+3" stop="20260525233000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525233000 GMT+3" stop="20260526000000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -94867,27 +95419,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526051500 GMT+3" stop="20260526054000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ11</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αναρρίχηση χωρίς σχοινιά, κάνουμε ανάποδες τούμπες στο wakeboard ή πηδάμε μέσα σε αφρώδεις κύβους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526054000 GMT+3" stop="20260526060500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ12</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αγώνες ταχύτητας στη λάσπη, χορεύουμε σε κύκλο ή ανεβαίνουμε σε ποδήλατα μικρού μεγέθους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260526060500 GMT+3" stop="20260526070000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ8</title>
     <desc lang="el">Όταν ο Θορντ και ο Μπιορν σώζουν ένα φορτηγό που παραλίγο να ανατραπεί, ο Θορντ σέρνεται κάτω από τηξν καρότσα κατά τη διάρκεια της ρυμούλκησης, αφήνοντας τη ζωή του στα χέρια του Μπιορν. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526070000 GMT+3" stop="20260526075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ5</title>
-    <desc lang="el">Καθώς η βαριά χιονόπτωση κατακλύζει το Donner Summit, ο Edgar Stratton τρέχει σε μια παγωμένη λίμνη για να σώσει ένα SUV που έχει σχεδόν πέσει μέσα στον πάγο. Όμως, το μεγαλύτερο πρόβλημα είναι ότι ο οδηγός βρίσκεται ακόμα μέσα στο αυτοκίνητο. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -94915,69 +95449,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526105000 GMT+3" stop="20260526114000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ3</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από τη Γαλλία αποκαλύπτει μια πολιτισμική υπερδύναμη απλωμένη πάνω σε ένα απέραντο τοπίο αντιθέσεων και εκπλήξεων. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526114000 GMT+3" stop="20260526122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ6</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από την Ελλάδα αποκαλύπτει αρχαία μνημεία, μοναστήρια στην άκρη του γκρεμού, τολμηρές μεθόδους καθαρισμού της θάλασσας και μηχανική χωρίς προηγούμενο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526122500 GMT+3" stop="20260526131000 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ1</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526131000 GMT+3" stop="20260526140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ6</title>
-    <desc lang="el">Όταν ο Justin Mobley κλέβει ένα ρυμουλκό από τον συνάδελφό του Sam Jackson, οι εντάσεις οξύνονται στο Donner Pass. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260526140000 GMT+3" stop="20260526144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ5</title>
     <desc lang="el">Η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να αντιμετωπίσει τις προκλήσεις της Μητέρας Φύσης για να μπορέσει να επιβιώσει. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526144500 GMT+3" stop="20260526153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ4</title>
-    <desc lang="el">Φαίνεται ότι βρισκόμαστε σε μια συνεχή κατάσταση πολέμου. Πρόκειται για ένα καταστροφικό μειονέκτημα του ανθρώπου ή μήπως η ανθρωπότητα χρειάζεται τους πολέμους για να εξελιχθεί; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526153500 GMT+3" stop="20260526162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ5</title>
-    <desc lang="el">Η υπερκατανάλωση ενέργειας και φυσικών πόρων έχει οδηγήσει σε ένα σημείο καμπής, το οποίο θα μας αναγκάσει είτε να βρούμε λύση στα προβλήματά μας, είτε να ψάξουμε για άλλους πλανήτες στους οποίους μπορούμε να ζήσουμε. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526162500 GMT+3" stop="20260526171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ5</title>
-    <desc lang="el">Για πολλά χρόνια, βασιζόμασταν στα ορυκτά καύσιμα, αλλά ο αριθμός τους είναι πλέον περιορισμένος και το κόστος για το περιβάλλον από την καύση τους μεγαλώνει. Ακολουθήστε μια νέα γενιά εφευρετών και επιχειρηματιών που ψάχνουν καινοτόμες ιδέες για εναλλακτικές πηγές ενέργειας. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526171000 GMT+3" stop="20260526175500 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ3</title>
-    <desc lang="el">Ο Tim και ο Fuzz διασώζουν το πρώτο τους κατά παραγγελία αμάξι, έναν απίστευτα τροποποιημένο σκαραβαίο που ονομάζεται VW Wizard. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526175500 GMT+3" stop="20260526182000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ13</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526182000 GMT+3" stop="20260526184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ14</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -95010,18 +95484,6 @@
     <desc lang="el">Η προσγείωση αεροπλανοφόρου είναι μια δοκιμασία που πρέπει να περάσουν με επιτυχία, αλλά η πτήση ακριβείας αποδεικνύεται δύσκολη για πολλούς από τους μαθητές. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260526223000 GMT+3" stop="20260526232000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ5</title>
-    <desc lang="el">Ιανουάριος 1945. Ως μέρος της προσπάθειας των Συμμάχων να απελευθερώσουν τη Γαλλία, η 7η Μεραρχία Πεζικού των Αμερικάνων ετοιμάζεται να καταλάβει το χωριό Houssen στην περιοχή Colmar Pocket. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260526232000 GMT+3" stop="20260527000500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ6</title>
-    <desc lang="el">Μάρτιος 1945. Καθώς οι συμμαχικές δυνάμεις παρατάσσονται κατά μήκος του Ρήνου, έτοιμες να εισβάλλουν στη ναζιστική Γερμανία, οι στρατηγοί παλεύουν για το ποιος θα περάσει πρώτος. Ο Χίτλερ έχει δώσει εντολή να μην πέσει καμία γέφυρα στα χέρια του εχθρού. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260526000500 GMT+3" stop="20260526005000 GMT+3" channel="2831">
     <title lang="el">Μυστικά του Ζωολογικού Κήπου: Τάμπα - Ειδική Έκδοση Κ6 ΕΠ2</title>
@@ -95299,6 +95761,12 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526095000 GMT+3" stop="20260526103000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ7</title>
+    <desc lang="el">Το φεγγάρι μας είναι μόνο ένα από τα εκατοντάδες στο ηλιακό σύστημα, το καθένα ένας μυστηριώδης, παράξενος κόσμος. Μπορούν τα εξωγήινα φεγγάρια να είναι το κλειδί της εξερεύνησης του διαστήματος ή ίσως της εύρεσης του νέου σπιτιού της ανθρωπότητας; (2023)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526103000 GMT+3" stop="20260526111500 GMT+3" channel="2767">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ25 ΕΠ3</title>
     <desc lang="el">Ένας πωλητής φέρνει στο μαγαζί εμπορεύματα υπογραμμένα από τον Da Bears. Ο Τσαμ ποζάρει ως μπασκετμπολίστας βλέποντας ένα χάλκινο αγαλματίδιο του Μάικλ Τζόρνταν. Ο Κόρι χαιρετά ένα μικρό αντίγραφο της Κάντιλακ του 1963 από την ταινία &quot;Ο Σημαδεμένος&quot;. (2023)</desc>
@@ -95347,6 +95815,12 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526161500 GMT+3" stop="20260526170000 GMT+3" channel="2767">
+    <title lang="el">Τα Ανεξήγητα: Μυστήρια του Σύμπαντος Κ1 ΕΠ6</title>
+    <desc lang="el">Θέλουμε να πάμε με τόλμη σε αχαρτογράφητες περιοχές για να κάνουμε νέες ανακαλύψεις. Στη νέα εποχή εξερεύνησης του διαστήματος, τι θα βρούμε όταν πάμε σε άλλους πλανήτες; Τι κινδύνους θα αντιμετωπίσουμε στην προσπάθεια να κατακτήσουμε τα νέα σύνορα; (2023)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526170000 GMT+3" stop="20260526174500 GMT+3" channel="2767">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ25 ΕΠ3</title>
     <desc lang="el">Ένας πωλητής φέρνει στο μαγαζί εμπορεύματα υπογραμμένα από τον Da Bears. Ο Τσαμ ποζάρει ως μπασκετμπολίστας βλέποντας ένα χάλκινο αγαλματίδιο του Μάικλ Τζόρνταν. Ο Κόρι χαιρετά ένα μικρό αντίγραφο της Κάντιλακ του 1963 από την ταινία &quot;Ο Σημαδεμένος&quot;. (2023)</desc>
@@ -95383,6 +95857,12 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526211500 GMT+3" stop="20260526220000 GMT+3" channel="2767">
+    <title lang="el">Μυστικές αποστολές των Ναζί Κ1 ΕΠ1</title>
+    <desc lang="el">Όταν οι Ναζί ανήλθαν στην εξουσία, ο Χίμλερ και τα Ες-Ες ήταν πεπεισμένοι ότι η Ατλαντίδα μπορούσε να βρεθεί, και ξεκίνησαν μια σειρά από αρχαιολογικές έρευνες για να ανακαλύψουν και να εκμεταλλευτούν τα μυστικά της. (2021)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526220000 GMT+3" stop="20260526224500 GMT+3" channel="2767">
     <title lang="el">Β&apos; Παγκόσμιος Πόλεμος με τον Τομ Χανκς Κ1 ΕΠ1</title>
     <desc lang="el">Τον Σεπτέμβριο του 1939, χάρη σε μια μυστική συμφωνία μεταξύ του Αδόλφου Χίτλερ και του Ιωσήφ Στάλιν, η Γερμανία εισβάλει στην Πολωνία με την αστραπιαία τακτική των τανκς, ξαναβάζοντας την Ευρώπη σε πόλεμο. (2026)</desc>
@@ -95392,6 +95872,12 @@
   <programme start="20260526224500 GMT+3" stop="20260526233000 GMT+3" channel="2767">
     <title lang="el">Β&apos; Παγκόσμιος Πόλεμος με τον Τομ Χανκς Κ1 ΕΠ2</title>
     <desc lang="el">Αφού ανατρέπει Ολλανδία και Βέλγιο, η Γερμανία προχωρά δυτικότερα. Οι Σύμμαχοι παλεύουν να στηρίξουν τη Γαλλία, ο Τσόρτσιλ αναγκάζεται να υπερασπίσει τη Βρετανία από τις αεροεπιδρομές κι ο Ρούσβελτ σπεύδει να κινητοποιήσει την παραγωγή πολεμοφοδίων. (2026)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526233000 GMT+3" stop="20260527001500 GMT+3" channel="2767">
+    <title lang="el">Χίτλερ: Μια Ζωή σε Εικόνες Κ1 ΕΠ1</title>
+    <desc lang="el">Από παιδί, ο Χίτλερ αποζητούσε την προσοχή μέχρι την ένταξή του σε ένα άσημο δεξιό πολιτικό κόμμα, το Εθνικοσοσιαλιστικό Γερμανικό Εργατικό Κόμμα. Μαζί με τον φωτογράφο Χάινριχ Χόφμαν δημιούργησαν μια εικόνα που θα τον βοηθούσε να αποκτήσει δύναμη. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -99877,9 +100363,57 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526000000 GMT+3" stop="20260526003000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526003000 GMT+3" stop="20260526010000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526010000 GMT+3" stop="20260526013000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526013000 GMT+3" stop="20260526020000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526020000 GMT+3" stop="20260526040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526040000 GMT+3" stop="20260526060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526060000 GMT+3" stop="20260526070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526070000 GMT+3" stop="20260526073000 GMT+3" channel="213719">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526073000 GMT+3" stop="20260526080000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -99901,6 +100435,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526120000 GMT+3" stop="20260526130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526130000 GMT+3" stop="20260526160000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Surveillance</title>
     <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
@@ -99916,6 +100456,12 @@
   <programme start="20260526180000 GMT+3" stop="20260526190000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Tech</title>
     <desc lang="el">The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526190000 GMT+3" stop="20260526200000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Crypto</title>
+    <desc lang="el">Bloomberg Crypto covers the people, transactions, and technology shaping decentralised finance. Your weekly source for the latest news, analysis and interviews with the most influential stakeholders.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -99937,9 +100483,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526000000 GMT+3" stop="20260526003000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526003000 GMT+3" stop="20260526010000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526010000 GMT+3" stop="20260526013000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526013000 GMT+3" stop="20260526020000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526020000 GMT+3" stop="20260526040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526040000 GMT+3" stop="20260526060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526060000 GMT+3" stop="20260526070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526070000 GMT+3" stop="20260526073000 GMT+3" channel="71037984">
+    <title lang="el">Best of Bloomberg Invest 2026</title>
+    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526073000 GMT+3" stop="20260526080000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -99961,6 +100555,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526120000 GMT+3" stop="20260526130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526130000 GMT+3" stop="20260526160000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Surveillance</title>
     <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
@@ -99976,6 +100576,12 @@
   <programme start="20260526180000 GMT+3" stop="20260526190000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Tech</title>
     <desc lang="el">The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526190000 GMT+3" stop="20260526200000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Crypto</title>
+    <desc lang="el">Bloomberg Crypto covers the people, transactions, and technology shaping decentralised finance. Your weekly source for the latest news, analysis and interviews with the most influential stakeholders.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -104493,7 +105099,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260526000000 GMT+3" stop="20260526020000 GMT+3" channel="216415">
-    <title lang="el">Adidas NextGen EuroLeague Finals 2026</title>
+    <title lang="el">Τελικός</title>
     <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -112067,30 +112673,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527052500 GMT+3" stop="20260527055000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ13</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527055000 GMT+3" stop="20260527061500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ14</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527061500 GMT+3" stop="20260527065500 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ1</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527065500 GMT+3" stop="20260527074000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ6</title>
-    <desc lang="el">Όταν ο Justin Mobley κλέβει ένα ρυμουλκό από τον συνάδελφό του Sam Jackson, οι εντάσεις οξύνονται στο Donner Pass. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527074000 GMT+3" stop="20260527083000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ5</title>
     <desc lang="el">Η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να αντιμετωπίσει τις προκλήσεις της Μητέρας Φύσης για να μπορέσει να επιβιώσει. (2022)</desc>
@@ -112115,87 +112697,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527104500 GMT+3" stop="20260527113000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ5</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από την Ουγγαρία, από τις πολύχρωμες στέγες της Βουδαπέστης, μέχρι μια αληθινή εγκαταλειμμένη διατηρημένη πόλη και το μεγαλύτερο παγοδρόμιο της Ευρώπης. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527113000 GMT+3" stop="20260527121500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ4</title>
-    <desc lang="el">Μια σειρά εκπληκτικών εναέριων ταξιδιών, που αποκαλύπτει τα μυστικά των πιο εντυπωσιακών χωρών του κόσμου. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527121500 GMT+3" stop="20260527130500 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ2</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527130500 GMT+3" stop="20260527135000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ7</title>
-    <desc lang="el">Χάος επικρατεί όταν μια δυνατή θύελλα μετατρέπει τους δρόμους σε πάγο, καθώς οι Sam και Craig μαλώνουν και ο Will ανακαλύπτει ότι τον άφησε η γυναίκα του. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527135000 GMT+3" stop="20260527143500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ6</title>
     <desc lang="el">Ο χρόνος της εποχικής σοδειάς τελειώνει στην Αλάσκα και η επόμενη γενιά κατοίκων αναγκάζεται να δουλέψει πιο έξυπνα, όχι πιο σκληρά, για να εκμεταλλευτεί την αφθονία της φύσης. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527143500 GMT+3" stop="20260527152500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ6</title>
-    <desc lang="el">Ταξιδεύουμε στον χρόνο σαρώνοντας όλη την ανθρώπινη ιστορία σε μία αναζήτηση που θα αποκαλύψει τα επιτεύγματα που μας έκαναν σύγχρονους. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527152500 GMT+3" stop="20260527161500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ6</title>
-    <desc lang="el">Οι άνθρωποι πάντα ήθελαν να εξερευνήσουν το άγνωστο. Αυτό το αδάμαστο πνεύμα μας έχει οδηγήσει σε ανεξερεύνητες ακτές, καινούρια βάθη και, στον τελευταίο αιώνα, σε νέους πλανήτες. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527161500 GMT+3" stop="20260527170000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ6</title>
-    <desc lang="el">Η Γη συχνά αποκαλείται και &apos;Γαλάζιος Πλανήτης&apos;. Παρά το γεγονός ότι η επιφάνειά της καλύπτεται από νερό, μόνο ένα ελάχιστο ποσοστό είναι πόσιμο. 7 δις άνθρωποι και εκατομμύρια διαφορετικά είδη ζώων μοιράζονται μόλις το 1 τοις εκατό του διαθέσιμου νερού στον πλανήτη. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527170000 GMT+3" stop="20260527175000 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ4</title>
-    <desc lang="el">Ο Tim και ο Fuzz ταξιδεύουν στο Σαουθάμπτον για να αναλάβουν ένα Jensen Interceptor του 1969. Ο ιδιοκτήτης Nick απόλαυσε το ονειρεμένο του αυτοκίνητο μέχρι που διαγνώστηκε με ακραίας μορφής αρθριτικά. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527175000 GMT+3" stop="20260527181000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ15</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527181000 GMT+3" stop="20260527183500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ16</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527183500 GMT+3" stop="20260527192000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ6</title>
     <desc lang="el">Ένα πλήρωμα λογομαχεί και ο διάδρομος δεν φαίνεται στον ορίζοντα. Ένας πιλότος αγνοεί ένα κρίσιμο σήμα. Και, ένας εξαντλημένος πιλότος επιλέγει μια καταστροφική στιγμή για να δοκιμάσει μια νέα προσέγγιση. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527192000 GMT+3" stop="20260527201000 GMT+3" channel="216459">
-    <title lang="el">100%: Planes ΕΠ1</title>
-    <desc lang="el">Ανακαλύψτε τις ιστορίες των κορυφαίων πιλότων που πετάνε τα πιο ενδιαφέροντα και ασυνήθιστα αεροπλάνα στα πιο όμορφα και επικίνδυνα μέρη του κόσμου. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527201000 GMT+3" stop="20260527210000 GMT+3" channel="216459">
-    <title lang="el">Μετακίνηση Υπέρ-Αεροδρομίου ΕΠ1</title>
-    <desc lang="el">Το αεροδρόμιο Ατατούρκ της Κωνσταντινούπολης, βάση της Turkish Airlines εδώ και δεκαετίες, πρόκειται να κλείσει σύντομα. Στην άλλη άκρη της πόλης, ένα καινούριο, υπερσύγχρονο αεροδρόμιο είναι έτοιμο να ανοίξει, αλλά με τις πτήσεις σε μεγάλη ζήτηση, έχουν μόλις 12 ώρες για να μεταφέρουν τα πάντα στο νέο τους σπίτι. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -112210,18 +112720,6 @@
     <desc lang="el">Ο αέρας που αναπνέουμε κινδυνεύει με την αύξηση των αερίων του θερμοκηπίου και τη βιομηχανική ρύπανση, οδηγώντας σε αεραποκάλυψη. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260527222000 GMT+3" stop="20260527230500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ1</title>
-    <desc lang="el">Οι Αμερικανοί αλεξιπτωτιστές έπεσαν στη Γαλλία πριν την απόβαση της Νορμανδίας για δώσουν μάχη με τους Ναζί για μια γέφυρα-κλειδί πίσω από τις γραμμές των εχθρών. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260527230500 GMT+3" stop="20260527235500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ4</title>
-    <desc lang="el">Με χιλιάδες Γερμανούς στρατιώτες παγιδευμένους στoν θύλακα της Φαλέζ, μια μικρή καναδική ομάδα με τανκς προσπαθεί να κλείσει το σημείο διεξόδου. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260527235500 GMT+3" stop="20260528003000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ3</title>
@@ -112499,6 +112997,12 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527090500 GMT+3" stop="20260527095000 GMT+3" channel="2767">
+    <title lang="el">Μυστικές αποστολές των Ναζί Κ1 ΕΠ1</title>
+    <desc lang="el">Όταν οι Ναζί ανήλθαν στην εξουσία, ο Χίμλερ και τα Ες-Ες ήταν πεπεισμένοι ότι η Ατλαντίδα μπορούσε να βρεθεί, και ξεκίνησαν μια σειρά από αρχαιολογικές έρευνες για να ανακαλύψουν και να εκμεταλλευτούν τα μυστικά της. (2021)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527095000 GMT+3" stop="20260527103000 GMT+3" channel="2767">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ24 ΕΠ23</title>
     <desc lang="el">Ο Ρικ κατεβαίνει στη λαγότρυπα όταν μπαίνει ένας πωλητής με μια πρώτη έκδοση του βιβλίου &quot;Η Αλίκη στη Χώρα των Θαυμάτων&quot;. Θα κάνει τον Ρικ να χαμογελάσει σαν τον Γάτο του Τσεσάιρ ή θα τον τρελάνει; (2022)</desc>
@@ -112544,6 +113048,12 @@
   <programme start="20260527145500 GMT+3" stop="20260527153500 GMT+3" channel="2767">
     <title lang="el">Σταρ Ενεχυροδανειστές Κ24 ΕΠ29</title>
     <desc lang="el">Ο χρόνος κυλά σ&apos; ένα ρολόι τοίχου με τον Mr. T. Θα δουν χρυσό ο Ρικ και ο Κόρεϊ ή θα λυπηθούν τον ανόητο; Ο Τσαμ και ο Ρικ κατεβαίνουν και λερώνονται στο Τέξας ψάχνοντας για απολιθώματα. Μπορούν όμως να ξεθάψουν μια συμφωνία ή θα μείνουν στη σκόνη; (2022)</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527153500 GMT+3" stop="20260527161500 GMT+3" channel="2767">
+    <title lang="el">Μυστικές αποστολές των Ναζί Κ1 ΕΠ1</title>
+    <desc lang="el">Όταν οι Ναζί ανήλθαν στην εξουσία, ο Χίμλερ και τα Ες-Ες ήταν πεπεισμένοι ότι η Ατλαντίδα μπορούσε να βρεθεί, και ξεκίνησαν μια σειρά από αρχαιολογικές έρευνες για να ανακαλύψουν και να εκμεταλλευτούν τα μυστικά της. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -117059,9 +117569,45 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527010000 GMT+3" stop="20260527013000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527013000 GMT+3" stop="20260527020000 GMT+3" channel="213719">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527020000 GMT+3" stop="20260527040000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527040000 GMT+3" stop="20260527060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527060000 GMT+3" stop="20260527070000 GMT+3" channel="213719">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527070000 GMT+3" stop="20260527073000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ1</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527073000 GMT+3" stop="20260527080000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -117083,6 +117629,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527120000 GMT+3" stop="20260527130000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527130000 GMT+3" stop="20260527160000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Surveillance</title>
     <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
@@ -117101,9 +117653,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527190000 GMT+3" stop="20260527200000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Deals</title>
+    <desc lang="el">A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527200000 GMT+3" stop="20260527210000 GMT+3" channel="213719">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260527220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Businessweek Daily</title>
+    <desc lang="el">Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&apos;s complex economy.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -117119,9 +117683,45 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527010000 GMT+3" stop="20260527013000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ3</title>
+    <desc lang="el">Sixth Street’s Alan Waxman talks about taking a stake in the New England Patriots, international growth opportunities in the NBA and why a historic NWSL expansion fee paid off.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527013000 GMT+3" stop="20260527020000 GMT+3" channel="71037984">
+    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4 ΕΠ4</title>
+    <desc lang="el">Jess Pegula to talks about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527020000 GMT+3" stop="20260527040000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg The Asia Trade ΕΠ1</title>
+    <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527040000 GMT+3" stop="20260527060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg: The China Show ΕΠ1</title>
+    <desc lang="el">Yvonne Man and David Ingles give global investors unique insight into China&apos;s economy, with in-depth analysis and conversations with newsmakers.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527060000 GMT+3" stop="20260527070000 GMT+3" channel="71037984">
     <title lang="el">Insight with Haslinda Amin</title>
     <desc lang="el">The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527070000 GMT+3" stop="20260527073000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ1</title>
+    <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527073000 GMT+3" stop="20260527080000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -117143,6 +117743,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527120000 GMT+3" stop="20260527130000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Brief</title>
+    <desc lang="el">Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527130000 GMT+3" stop="20260527160000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Surveillance</title>
     <desc lang="el">Live from London and New York, Bloomberg Surveillance brings you insight on global markets and the top business stories of the day.</desc>
@@ -117161,9 +117767,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527190000 GMT+3" stop="20260527200000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Deals</title>
+    <desc lang="el">A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527200000 GMT+3" stop="20260527210000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260527220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Businessweek Daily</title>
+    <desc lang="el">Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&apos;s complex economy.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
