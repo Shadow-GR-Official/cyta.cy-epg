@@ -15440,13 +15440,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522163000 GMT+3" stop="20260522183000 GMT+3" channel="8242886">
-    <title lang="el">ATP 500 - HAMBURG (SF 1) (Z)</title>
+    <title lang="el">Aleksandar KOVACEVIC - Ignacio BUSE (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260522183000 GMT+3" stop="20260522203000 GMT+3" channel="8242886">
-    <title lang="el">ATP 500 - HAMBURG (SF 2) (Z)</title>
+    <title lang="el">Alex DE MINAUR - Tommy PAUL (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -15476,13 +15476,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522150000 GMT+3" stop="20260522170000 GMT+3" channel="8243873">
-    <title lang="el">ATP 250 - GENEVA (SF 1) (Z)</title>
+    <title lang="el">Casper RUUD - Mariano NAVONE (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260522170000 GMT+3" stop="20260522190000 GMT+3" channel="8243873">
-    <title lang="el">ATP 250 - GENEVA (SF 2) (Z)</title>
+    <title lang="el">Learner TIEN - Alexander BUBLIK (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -16393,9 +16393,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522040000 GMT+3" stop="20260522041700 GMT+3" channel="97085851">
+  <programme start="20260522040000 GMT+3" stop="20260522040500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522040500 GMT+3" stop="20260522041700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -16411,69 +16417,183 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522070000 GMT+3" stop="20260522071200 GMT+3" channel="97085851">
+  <programme start="20260522070000 GMT+3" stop="20260522070500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522071200 GMT+3" stop="20260522093000 GMT+3" channel="97085851">
+  <programme start="20260522070500 GMT+3" stop="20260522071200 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522071200 GMT+3" stop="20260522091600 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
     <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522093000 GMT+3" stop="20260522113000 GMT+3" channel="97085851">
+  <programme start="20260522091600 GMT+3" stop="20260522093000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 01/02</title>
+    <desc lang="el">Champions League Final 01/02. Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522093000 GMT+3" stop="20260522113400 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: 1960</title>
     <desc lang="el">Eintracht Frankfurt v Real Madrid 59/60. Real Madrid won their fifth European Cup in Glasgow, Scotland\n\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522113000 GMT+3" stop="20260522144500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid City</title>
-    <desc lang="el">We bring you a full preview of Real Madrid´s first team activities ahead of each match in all competitions.</desc>
+  <programme start="20260522113400 GMT+3" stop="20260522115900 GMT+3" channel="97085851">
+    <title lang="el">Live Press Conference</title>
+    <desc lang="el">Pre-Match Press Conference</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522144500 GMT+3" stop="20260522164500 GMT+3" channel="97085851">
+  <programme start="20260522115900 GMT+3" stop="20260522120300 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522120300 GMT+3" stop="20260522121500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522121500 GMT+3" stop="20260522123700 GMT+3" channel="97085851">
+    <title lang="el">Live Training</title>
+    <desc lang="el">Catch the regular first team training at their state of the art facilities at Valdebebas</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522123700 GMT+3" stop="20260522125300 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 85/86 Real Madrid vs Valencia</title>
+    <desc lang="el">Catch our stars of the 80&apos;s in this historic victory over their east coast rivals Valencia.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522125300 GMT+3" stop="20260522131300 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">Enjoy this close fought derby that saw Butragueño alongside the likes of Hugo Sanchez, Valdano and Santillana</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522131300 GMT+3" stop="20260522133300 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights: Betis vs Real Madrid 86/87</title>
+    <desc lang="el">One of the club&apos;s greatest attacking line-ups in action, spearheaded by Hugo Sanchez and Butragueno.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522133300 GMT+3" stop="20260522134900 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 90/91 Real Madrid vs Sevilla</title>
+    <desc lang="el">Butragueno, Michel and Hierro all get on the scoresheet for RM as they take on Sevilla</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522134900 GMT+3" stop="20260522140700 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 90/91 At. Madrid vs Real Madrid</title>
+    <desc lang="el">A classic cross-city encounter with great all round performance to dominate a tough match at the Calderon.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522140700 GMT+3" stop="20260522142500 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 02/03 Roma vs Real Madrid</title>
+    <desc lang="el">Defending European champions Real Madrid travelled to the Stadio Olimpico and put in a magnificent showing.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522142500 GMT+3" stop="20260522144500 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup Highlights 2002</title>
+    <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522144500 GMT+3" stop="20260522164600 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
     <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522164500 GMT+3" stop="20260522190000 GMT+3" channel="97085851">
+  <programme start="20260522164600 GMT+3" stop="20260522190000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
     <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522190000 GMT+3" stop="20260522210000 GMT+3" channel="97085851">
+  <programme start="20260522190000 GMT+3" stop="20260522205500 GMT+3" channel="97085851">
     <title lang="el">Classic Matches 01/02:</title>
     <desc lang="el">This top of the table clash boasts one of Zinedine Zidane&apos;s most memorable strikes.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522210000 GMT+3" stop="20260522211500 GMT+3" channel="97085851">
+  <programme start="20260522205500 GMT+3" stop="20260522210100 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522210100 GMT+3" stop="20260522211400 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522211500 GMT+3" stop="20260522230000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme start="20260522211400 GMT+3" stop="20260522213400 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 94/95 Real Madrid vs Sevilla</title>
+    <desc lang="el">Catch the talented Real Madrid team from the mid-90s as they face the Andalusians Sevilla in La Liga.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522230000 GMT+3" stop="20260522233000 GMT+3" channel="97085851">
+  <programme start="20260522213400 GMT+3" stop="20260522215400 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 94/95</title>
+    <desc lang="el">A seventeen year old Raul makes his derby debut.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522215400 GMT+3" stop="20260522220700 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 01/02</title>
+    <desc lang="el">Champions League Final 01/02. Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522220700 GMT+3" stop="20260522222800 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 95/96 Athletic Club vs Real Madrid</title>
+    <desc lang="el">Classic Highlights 95/96 Athletic Club vs Real Madrid</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522222800 GMT+3" stop="20260522230100 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 16/17</title>
+    <desc lang="el">Champions League Final16/17. Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522230100 GMT+3" stop="20260522231100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260522233000 GMT+3" stop="20260523000000 GMT+3" channel="97085851">
+  <programme start="20260522231100 GMT+3" stop="20260522233000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522233000 GMT+3" stop="20260522234700 GMT+3" channel="97085851">
     <title lang="el">The Match Preview</title>
     <desc lang="el">A full preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260522234700 GMT+3" stop="20260523000000 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -17050,13 +17170,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522200000 GMT+3" stop="20260522203000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga - Original Series</title>
+    <title lang="el">Bundesliga Original Series</title>
     <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260522203000 GMT+3" stop="20260522210000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga - Original Series</title>
+    <title lang="el">Bundesliga Original Series</title>
     <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -17878,13 +17998,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522163000 GMT+3" stop="20260522183000 GMT+3" channel="52105043">
-    <title lang="el">ATP 500 - HAMBURG (SF 1) (Z)</title>
+    <title lang="el">Aleksandar KOVACEVIC - Ignacio BUSE (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260522183000 GMT+3" stop="20260522203000 GMT+3" channel="52105043">
-    <title lang="el">ATP 500 - HAMBURG (SF 2) (Z)</title>
+    <title lang="el">Alex DE MINAUR - Tommy PAUL (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -17914,13 +18034,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260522150000 GMT+3" stop="20260522170000 GMT+3" channel="52103947">
-    <title lang="el">ATP 250 - GENEVA (SF 1) (Z)</title>
+    <title lang="el">Casper RUUD - Mariano NAVONE (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260522170000 GMT+3" stop="20260522190000 GMT+3" channel="52103947">
-    <title lang="el">ATP 250 - GENEVA (SF 2) (Z)</title>
+    <title lang="el">Learner TIEN - Alexander BUBLIK (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -34807,49 +34927,73 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523000000 GMT+3" stop="20260523010000 GMT+3" channel="97085851">
+  <programme start="20260523000000 GMT+3" stop="20260523010100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523010000 GMT+3" stop="20260523031000 GMT+3" channel="97085851">
+  <programme start="20260523010100 GMT+3" stop="20260523030900 GMT+3" channel="97085851">
     <title lang="el">Champions League 97/98:</title>
     <desc lang="el">RM v Juventus 97/98. Watch Real Madrid&apos;s seventh Champions League triumph against Juventus in Amsterdam.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523031000 GMT+3" stop="20260523032500 GMT+3" channel="97085851">
+  <programme start="20260523030900 GMT+3" stop="20260523032400 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523032500 GMT+3" stop="20260523044000 GMT+3" channel="97085851">
+  <programme start="20260523032400 GMT+3" stop="20260523042900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523044000 GMT+3" stop="20260523070000 GMT+3" channel="97085851">
+  <programme start="20260523042900 GMT+3" stop="20260523044100 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523044100 GMT+3" stop="20260523064500 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
     <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523070000 GMT+3" stop="20260523071500 GMT+3" channel="97085851">
+  <programme start="20260523064500 GMT+3" stop="20260523070200 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">Classic Highlights</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523070200 GMT+3" stop="20260523071500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523071500 GMT+3" stop="20260523074500 GMT+3" channel="97085851">
+  <programme start="20260523071500 GMT+3" stop="20260523072500 GMT+3" channel="97085851">
     <title lang="el">The Match Preview</title>
     <desc lang="el">A full preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523074500 GMT+3" stop="20260523090000 GMT+3" channel="97085851">
+  <programme start="20260523072500 GMT+3" stop="20260523073200 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523073200 GMT+3" stop="20260523074400 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523074400 GMT+3" stop="20260523090000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
@@ -41082,7 +41226,7 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260524032000 GMT+3" stop="20260524050500 GMT+3" channel="9745267">
+  <programme start="20260524031800 GMT+3" stop="20260524050500 GMT+3" channel="9745267">
     <title lang="el">Επικίνδυνες Υποσχέσεις</title>
     <desc lang="el">Το ημερολόγιο μιας Ρωσίδας, που πεθαίνει γεννώντας, οδηγεί μια μαία στην καρδιά της Ρωσικής Μαφίας, θέτοντας τη ζωή της σε κίνδυνο, σε μια ταινία που προτάθηκε για Οσκαρ και τρεις Χρυσές Σφαίρες. Αστυνομική, 2007. Σκηνοθεσία: Ντέιβιντ Κρόνενμπεργκ. Πρωταγωνιστές: Ναόμι Γουότς, Βίγκο Μόρτενσεν, Βενσάν Κασέλ.</desc>
     <category lang="el">Ταινίες</category>
@@ -52778,6 +52922,78 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524090000 GMT+3" stop="20260524093000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 15/16</title>
+    <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524093000 GMT+3" stop="20260524114000 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Real Madrid vs Elche</title>
+    <desc lang="el">Matchday 28 of Liga. Real Madrid host Elche in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524114000 GMT+3" stop="20260524120000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524120000 GMT+3" stop="20260524142000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 99/00:</title>
+    <desc lang="el">Classic Matches: 2000 UCL Final (8th) Real Madrid v Valencia. La Octava.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524142000 GMT+3" stop="20260524144000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524144000 GMT+3" stop="20260524175000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 13/14</title>
+    <desc lang="el">The first ever cross-city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524175000 GMT+3" stop="20260524181000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524181000 GMT+3" stop="20260524202500 GMT+3" channel="97085851">
+    <title lang="el">Classics Matches Liga 00/01: Real Madrid vs Villarreal</title>
+    <desc lang="el">A complete performance from this RM side that featured spectacular performances from Roberto Carlos and Guti</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524202500 GMT+3" stop="20260524213000 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
+    <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524213000 GMT+3" stop="20260524214500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524214500 GMT+3" stop="20260524224500 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
+    <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524224500 GMT+3" stop="20260525010000 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
+    <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524001500 GMT+3" stop="20260524010000 GMT+3" channel="2491">
     <title lang="el">Rally 2025</title>
     <desc lang="el">Rally 2025</desc>
@@ -53025,31 +53241,31 @@
   </programme>
   <programme start="20260524170000 GMT+3" stop="20260524180000 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Μπάσκετ</desc>
+    <desc lang="el">Λίγη ώρα πριν από το τζάμπολ των τελικών του τουρνουά NextGen και της EuroLeague, η εκπομπή έχει όλα τα τελευταία νέα των φιναλίστ που ετοιμάζονται να αναμετρηθούν για την κορυφή της Ευρώπης. Παρουσίαση: Γ. Παπαβασιλείου. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260524180000 GMT+3" stop="20260524200000 GMT+3" channel="216415">
     <title lang="el">Τελικός (Ζ)</title>
-    <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Μπάσκετ</desc>
+    <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260524200000 GMT+3" stop="20260524210000 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Μπάσκετ</desc>
+    <desc lang="el">Με την ολοκλήρωση του τελικού του τουρνουά NextGen, oι Playmakers παίρνουν τη σκυτάλη με δηλώσεις και ανάλυση του αγώνα, οδηγώντας μας στη μεγάλη μάχη της βραδιάς για την ανάδειξη του πρωταθλητή Ευρώπης! Παρουσίαση: Γ. Παπαβασιλείου. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260524210000 GMT+3" stop="20260524231500 GMT+3" channel="216415">
-    <title lang="el">EuroLeague Final 4: Τελικός (Ζ)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
+    <title lang="el">EuroLeague Final Four (Ζ)</title>
+    <desc lang="el">Οι δύο ομάδες που επικράτησαν στους ημιτελικούς και προκρίθηκαν στον τελικό της διοργάνωσης είναι έτοιμες για τη μεγαλύτερη μάχη της σεζόν και την κατάκτηση του τίτλου του νέου πρωταθλητή Ευρώπης! Περιγραφή: Ν. Αυγουλής Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260524231500 GMT+3" stop="20260525004500 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Η απόλυτη εκπομπή μπάσκετ με την επίλεκτη ομάδα δημοσιογράφων του Novasports κι εκλεκτούς καλεσμένους! Μπάσκετ</desc>
+    <desc lang="el">Ο τελικός μόλις ολοκληρώθηκε και η εκπομπή παρακολουθεί την απονομή του τίτλου στη νέα πρωταθλήτρια Ευρώπης! Αναλύσεις, δηλώσεις, αντιδράσεις και τα επινίκια με εικόνα μέσα από τα αποδυτήρια. Παρουσίαση: Γ. Παπαβασιλείου. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -59206,7 +59422,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525025800 GMT+3" stop="20260525045500 GMT+3" channel="9745267">
+  <programme start="20260525025500 GMT+3" stop="20260525045500 GMT+3" channel="9745267">
     <title lang="el">28 Χρόνια Μετά</title>
     <desc lang="el">Δεκαετίες μετά από μία πανδημία, οι επιζώντες ζουν σε έναν κόσμο που άλλαξε για πάντα όπου οι εύθραυστες κοινότητες, οι σκληρές αποφάσεις και ο αδιάκοπος τρόμος δείχνουν πως ο εφιάλτης δεν τελείωσε ποτέ. Τρόμου, 2025. Σκηνοθεσία: Ντάνι Μπόιλ. Πρωταγωνιστές: Ρέιφ Φάινς, Τζόντι Κόμερ, Ααρον Τέιλορ-Τζόνσον.</desc>
     <category lang="el">Ταινίες</category>
@@ -69522,6 +69738,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525000000 GMT+3" stop="20260525060000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525120000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525120000 GMT+3" stop="20260525180000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525180000 GMT+3" stop="20260525193000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525193000 GMT+3" stop="20260525213000 GMT+3" channel="8243873">
+    <title lang="el">ΑΕΚ - ΚΕΡΑΥΝΟΣ (Z)</title>
+    <desc lang="el">ECOMMBX BASKET LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525213000 GMT+3" stop="20260526000000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260525000000 GMT+3" stop="20260525060000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
@@ -70308,13 +70560,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525020000 GMT+3" stop="20260525040000 GMT+3" channel="94430673">
+  <programme start="20260525020000 GMT+3" stop="20260525050000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Brentford: The Match</title>
     <desc lang="el">All the action as Liverpool take on Brentford.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525040000 GMT+3" stop="20260525050000 GMT+3" channel="94430673">
+  <programme start="20260525100000 GMT+3" stop="20260525110000 GMT+3" channel="94430673">
     <title lang="el">130 Greatest LFC Goals</title>
     <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
@@ -70335,12 +70587,6 @@
   <programme start="20260525080000 GMT+3" stop="20260525100000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Brentford: The Match</title>
     <desc lang="el">All the action as Liverpool take on Brentford.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260525100000 GMT+3" stop="20260525110000 GMT+3" channel="94430673">
-    <title lang="el">Liverpool v Brentford: The Match Reaction</title>
-    <desc lang="el">We look back at the match against Brentford with exclusive interviews from the Reds&apos; dressing room and in-depth analysis.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -70440,9 +70686,45 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525230000 GMT+3" stop="20260526000000 GMT+3" channel="94430673">
-    <title lang="el">Kings of Europe: 1977</title>
-    <desc lang="el">Borussia Monchengladbach are stylishly beaten in Rome as Liverpool announce their arrival as a major force on the continent.</desc>
+  <programme start="20260525010000 GMT+3" stop="20260525033000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 99/00:</title>
+    <desc lang="el">Classic Matches: 2000 UCL Final (8th) Real Madrid v Valencia. La Octava.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525033000 GMT+3" stop="20260525034500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525034500 GMT+3" stop="20260525060000 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Espanyol vs Real Madrid</title>
+    <desc lang="el">Matchday 34 of Liga. Real Madrid travel to Barcelona to face Espanyol in the RCDE Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525070000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup</title>
+    <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525070000 GMT+3" stop="20260525071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525071500 GMT+3" stop="20260525083000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup</title>
+    <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525083000 GMT+3" stop="20260526060000 GMT+3" channel="97085851">
+    <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
+    <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -70847,13 +71129,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525200000 GMT+3" stop="20260525203000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga - Original Series</title>
+    <title lang="el">Bundesliga Original Series</title>
     <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260525203000 GMT+3" stop="20260525210000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga - Original Series</title>
+    <title lang="el">Bundesliga Original Series</title>
     <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70865,8 +71147,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525213000 GMT+3" stop="20260525233000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga 2025/26 (Ζ)</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
+    <title lang="el">Πάντερμπορν - Βόλφσμπουργκ (Ζ)</title>
+    <desc lang="el">Η Πάντερμπορν και η Βόλφσμπουργκ συναντιούνται στον επαναληπτικό αγώνα των πλέι οφ ανόδου/παραμονής, που θα κρίνει ποια ομάδα θα αγωνιστεί στην Bundesliga την επόμενη σεζόν μετά το 0-0 του πρώτου ματς. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -71541,6 +71823,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525000000 GMT+3" stop="20260525060000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525120000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525120000 GMT+3" stop="20260525180000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525180000 GMT+3" stop="20260525193000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525193000 GMT+3" stop="20260525213000 GMT+3" channel="52103947">
+    <title lang="el">ΑΕΚ - ΚΕΡΑΥΝΟΣ (Z)</title>
+    <desc lang="el">ECOMMBX BASKET LEAGUE 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525213000 GMT+3" stop="20260526000000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260525000000 GMT+3" stop="20260525060000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
@@ -71925,7 +72243,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525180000 GMT+3" stop="20260526000000 GMT+3" channel="52196563">
+  <programme start="20260525180000 GMT+3" stop="20260525191000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525191000 GMT+3" stop="20260525233000 GMT+3" channel="52196563">
+    <title lang="el">ΑΕΚ - ΚΕΡΑΥΝΟΣ (Z)</title>
+    <desc lang="el">ECOMMBX BASKET LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525233000 GMT+3" stop="20260526000000 GMT+3" channel="52196563">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -76904,7 +77234,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526033000 GMT+3" stop="20260526060000 GMT+3" channel="9745267">
+  <programme start="20260526022500 GMT+3" stop="20260526060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -88327,7 +88657,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260526220000 GMT+3" stop="20260526223000 GMT+3" channel="10965536">
-    <title lang="el">Bundesliga - Original Series</title>
+    <title lang="el">Bundesliga Original Series</title>
     <desc lang="el">Ακολουθούμε τους πέντε αστέρες της Bundesliga Ντάβιντ Ράουμ, Νίκο Σλότερμπεκ, Μάλικ Τίλμαν, Ρίτσου Ντόαν και Τζάκσον Ίρβαϊν, καθώς κυνηγούν το όνειρο της συμμετοχής στο Παγκόσμιο Κύπελλο κατά τη διάρκεια της σεζόν 2025/26. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -88438,19 +88768,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526200000 GMT+3" stop="20260526220000 GMT+3" channel="46137467">
+  <programme start="20260526200000 GMT+3" stop="20260526224500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526220000 GMT+3" stop="20260526223000 GMT+3" channel="46137467">
+  <programme start="20260526224500 GMT+3" stop="20260526231500 GMT+3" channel="46137467">
     <title lang="el">Παγκόσμιο Πρωτάθλημα F1Η2Ο</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα F1H2O αποτελεί το κορυφαίο επίπεδο παράκτιας αγωνιστικής δράσης! Παρακολουθήστε την προεπισκόπηση της σεζόν 2026 της θαλάσσιας Formula 1, που περιλαμβάνει πέντε Γκραν Πρι σε Ασία και Μέση Ανατολή. Υδάτινα Σπορ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526223000 GMT+3" stop="20260527003000 GMT+3" channel="46137467">
+  <programme start="20260526231500 GMT+3" stop="20260527011500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -104437,6 +104767,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527000000 GMT+3" stop="20260527060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527060000 GMT+3" stop="20260527120000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527120000 GMT+3" stop="20260527130000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527130000 GMT+3" stop="20260527160000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527160000 GMT+3" stop="20260527210000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260528000000 GMT+3" channel="74516237">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 27/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527000000 GMT+3" stop="20260527060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -105091,12 +105457,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527000000 GMT+3" stop="20260527010000 GMT+3" channel="94430673">
-    <title lang="el">130 Greatest LFC Goals</title>
-    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260527010000 GMT+3" stop="20260527013000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Review Show</title>
     <desc lang="el">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool&apos;s game against Bournemouth.</desc>
@@ -105262,12 +105622,6 @@
   <programme start="20260527204500 GMT+3" stop="20260527210000 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: Origi</title>
     <desc lang="el">A look back at some of Divock Origi&apos;s greatest goals.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260527210000 GMT+3" stop="20260527220000 GMT+3" channel="94430673">
-    <title lang="el">130 Greatest LFC Goals</title>
-    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -105808,7 +106162,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527003000 GMT+3" stop="20260527060000 GMT+3" channel="46137467">
+  <programme start="20260527011500 GMT+3" stop="20260527060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -106477,6 +106831,42 @@
   <programme start="20260527200000 GMT+3" stop="20260528000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527000000 GMT+3" stop="20260527060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527060000 GMT+3" stop="20260527120000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527120000 GMT+3" stop="20260527130000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527130000 GMT+3" stop="20260527160000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO</title>
+    <desc lang="el">NBA 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527160000 GMT+3" stop="20260527210000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260528000000 GMT+3" channel="77956035">
+    <title lang="el">OKLAHOMA CITY - SAN ANTONIO 27/5/26</title>
+    <desc lang="el">NBA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -122830,12 +123220,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528150000 GMT+3" stop="20260528160000 GMT+3" channel="94430673">
-    <title lang="el">Salah 50 Goals in Europe</title>
-    <desc lang="el">To celebrate Mo Salah reaching 50 goals in European competition enjoy his first half century of strikes from the Champions League &amp; Europa League.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260528160000 GMT+3" stop="20260528170000 GMT+3" channel="94430673">
     <title lang="el">130 Greatest LFC Goals</title>
     <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
@@ -122884,25 +123268,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528210000 GMT+3" stop="20260528220000 GMT+3" channel="94430673">
+  <programme start="20260528210000 GMT+3" stop="20260528223000 GMT+3" channel="94430673">
     <title lang="el">Robbo: My Liverpool</title>
     <desc lang="el">A brand-new exclusive LFC Original documentary paying tribute to Andy Robertson and his remarkable nine-year journey at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528220000 GMT+3" stop="20260528230000 GMT+3" channel="94430673">
+  <programme start="20260528223000 GMT+3" stop="20260528233000 GMT+3" channel="94430673">
     <title lang="el">LFC Trending</title>
     <desc lang="el">The week&apos;s most popular videos and social media highlights from across the Club its players and supporters.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528230000 GMT+3" stop="20260528234500 GMT+3" channel="94430673">
+  <programme start="20260528233000 GMT+3" stop="20260529001500 GMT+3" channel="94430673">
     <title lang="el">Press Box</title>
     <desc lang="el">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528234500 GMT+3" stop="20260529000000 GMT+3" channel="94430673">
+  <programme start="20260529001500 GMT+3" stop="20260529003000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Brentford: Shortcut</title>
     <desc lang="el">The best of the action as Liverpool take on Brentford.</desc>
     <category lang="el">Αθλητικά</category>
