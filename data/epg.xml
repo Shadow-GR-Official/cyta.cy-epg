@@ -6847,27 +6847,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522053000 GMT+3" stop="20260522055500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ7</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε άλμα με snowmobile, κάνουμε ποδήλατο πάνω σε πίστα pump track ή ανάβουμε φωτιές. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522055500 GMT+3" stop="20260522062000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ8</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ πεταγόμαστε από ράμπες χιονιού μέσα σε φουσκωτούς σωλήνες και οδηγούμε ATV μέσα σε νερό ή όταν τα ζώα έρχονται αντιμέτωπα με σκάλες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522062000 GMT+3" stop="20260522070500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ7</title>
     <desc lang="el">Ο Θορντ προσπαθεί να ρυμουλκήσει ένα αυτοκίνητο που συνετρίβη εξήντα μέτρα μέσα σε ένα χωράφι μετά από μια χιονοθύελλα, αλλά αγχώνεται όταν μια βλάβη στο βαρούλκο απειλεί τη διάσωση. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522070500 GMT+3" stop="20260522075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ3</title>
-    <desc lang="el">Καθώς η χειρότερη χιονοθύελλα της σεζόν παγιδεύει τον Eddie στην κίνηση, λαμβάνει ένα τηλεφώνημα απόγνωσης από την έγκυο γυναίκα του, η οποία μάλλον γεννάει. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -6895,69 +6877,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522105000 GMT+3" stop="20260522114000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ1</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τις Κάτω Χώρες αποκαλύπτει αρχαίους ανεμόμυλους, φουτουριστικά θερμοκήπια και τη μεγαλύτερη εορταστική φωτιά του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522114000 GMT+3" stop="20260522122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ4</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλο το Ηνωμένο Βασίλειο αποκαλύπτει το καθάρισμα ενός ουρανοξύστη, βοσκούς με κοπάδια προβάτων στις Λίμνες και την επίσκεψη σε μια μάντρα όπου επισκευάζονται πετρελαϊκές πλατφόρμες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522122500 GMT+3" stop="20260522131500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ6</title>
     <desc lang="el">Όταν ένας οδηγός φορτηγού γλιστράει και μένει ακινητοποιημένος στον πάγο, αλλά αρνείται τη βοήθεια του Θορντ, δημιουργεί χάος στον κεντρικό δρόμο. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260522131500 GMT+3" stop="20260522140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ4</title>
-    <desc lang="el">Ο ανταγωνισμός ανάμεσα στον Sam Jackson και τον Eddie Farrows οξύνεται. Ο φόβος του Brandon Goulet για τον θάνατο γίνεται αληθινός όταν φτάνει κοντά σε ένα δυστύχημα. Το τραγικό παρελθόν της Becky Normans την κυνηγά όταν καλείται στο μέρος που έχει γίνει ένα θανατηφόρο ατύχημα. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260522140000 GMT+3" stop="20260522144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ3</title>
     <desc lang="el">Η Επόμενη Γενιά πρέπει να μαζέψει απαραίτητους πόρους για να υπομείνει τον σκοτεινό χειμώνα. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522144500 GMT+3" stop="20260522153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ5</title>
-    <desc lang="el">Από το απλό εμπόριο μέχρι την απληστία για χρυσό και τη σημερινή παγκόσμια οικονομία, η σημασία και η αξία των χρημάτων διαφοροποιείται καθώς ο πολιτισμός εξελίσσεται. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522153500 GMT+3" stop="20260522162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ3</title>
-    <desc lang="el">Η εξέλιξη στα γραφικά και στον κόσμο των υπολογιστών έχει δώσει ζωή στις εικονικές τεχνολογίες, από τις πλατφόρμες που &apos;δημιουργούν&apos; τον κόσμο όπως η Second Life μέχρι κατασκευαστές ακουστικών VR όπως η Oculus Rift. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522162500 GMT+3" stop="20260522171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ3</title>
-    <desc lang="el">Ο ανθρώπινος εγκέφαλος είναι το πιο πολύπλοκο αντικείμενο σε όλο το γνωστό σύμπαν. Η νέα τεχνολογία οδηγεί σε σημαντικές ανακαλύψεις σχετικά με τις λειτουργίες του. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522171000 GMT+3" stop="20260522180000 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ1</title>
-    <desc lang="el">Ο Tim και ο Fuzz επισκέπτονται το Γουλβερχάμπτον για να αναλάβουν μια Jaguar XJ-S V12 του 1980, ένα υπέροχο βρετανικό Grand Tourer που δυστυχώς έχει εγκαταλειφθεί. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522180000 GMT+3" stop="20260522182500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ9</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε σκι με μόγκουλς, επιχειρούμε να πετάξουμε κάποιον στον αέρα ή τρέχουμε πάνω σε κορμούς που επιπλέουν. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522182500 GMT+3" stop="20260522184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ10</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από την αποτυχία ενώ επιχειρούμε περιστροφή με ATV, αντιμετωπίζουμε δυνατά ρεύματα ποταμού και κάνουμε ασκήσεις με μπάλες γυμναστικής. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -6984,24 +6912,6 @@
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260522215000 GMT+3" stop="20260522223500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260522223500 GMT+3" stop="20260522232500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ1</title>
-    <desc lang="el">Όταν μια αμερικανική μεραρχία κατευθύνεται στην ακτή για να ελευθερώσει το γαλλικό λιμάνι St. Malo, έρχεται αντιμέτωπη με την έντονη αντίσταση των Ναζί και όλους τους δρόμους της περιοχής μπλοκαρισμένους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260522232500 GMT+3" stop="20260523001000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ2</title>
-    <desc lang="el">Συμμετέχοντας στην προσπάθεια των Συμμαχικών Δυνάμεων να ανοίξουν το λιμάνι της Αμβέρσας, ο καναδικός στρατός περνά πολλές εβδομάδες καθαρίζοντας τη χερσόνησο Scheldt, στην Ολλανδία. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260521232500 GMT+3" stop="20260522001000 GMT+3" channel="2831">
     <title lang="el">Φίδια στην Πόλη Κ9 ΕΠ2</title>
@@ -17060,7 +16970,7 @@
   </programme>
   <programme start="20260522180000 GMT+3" stop="20260522200000 GMT+3" channel="216415">
     <title lang="el">Ολυμπιακός - Φενέρμπαχτσε (Ζ)</title>
-    <desc lang="el">Ο Ολυμπιακός, που θέλει να κατακτήσει το τρόπαιο στην πέμπτη συνεχόμενη συμμετοχή του σε Final Four, και η Φενέρμπαχτσε, που θέλει να υπερασπιστεί τον τίτλο της, συγκρούονται στον ημιτελικό της EuroLeague. Μπάσκετ</desc>
+    <desc lang="el">Ο Ολυμπιακός, που θέλει να κατακτήσει το τρόπαιο στην πέμπτη συνεχόμενη συμμετοχή του σε Final Four, και η Φενέρμπαχτσε, που θέλει να υπερασπιστεί τον τίτλο της, συγκρούονται στον ημιτελικό της EuroLeague. Περιγραφή: Χρ. Καούρης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -17072,7 +16982,7 @@
   </programme>
   <programme start="20260522210000 GMT+3" stop="20260522230000 GMT+3" channel="216415">
     <title lang="el">Βαλένθια - Ρεάλ Μαδρίτης (Ζ)</title>
-    <desc lang="el">Η Βαλένθια, που φτάνει για πρώτη φορά στο Final Four μετά από μία εντυπωσιακή πορεία, και η Ρεάλ Μαδρίτης, που μετρά τους περισσότερους ευρωπαϊκούς τίτλους, συγκρούονται στον ημιτελικό της EuroLeague. Μπάσκετ</desc>
+    <desc lang="el">Η Βαλένθια, που φτάνει για πρώτη φορά στο Final Four μετά από μία εντυπωσιακή πορεία, και η Ρεάλ Μαδρίτης, που μετρά τους περισσότερους ευρωπαϊκούς τίτλους, συγκρούονται στον ημιτελικό της EuroLeague. Περιγραφή: Γ. Παπαβασιλείου Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -24913,12 +24823,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260523010000 GMT+3" stop="20260523014500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260523014500 GMT+3" stop="20260523023000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ7</title>
     <desc lang="el">Με άγνωστα ελαττώματα θαμμένα στα συστήματα πλοήγησης, τρία αεροπλάνα επηρεάζονται από καταστροφικά λάθη υπολογιστών, τα οποία αναγκάζουν τους ερευνητές να ψάξουν καλά για στοιχεία. (2021)</desc>
@@ -24940,24 +24844,6 @@
   <programme start="20260523040000 GMT+3" stop="20260523045000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ4</title>
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523045000 GMT+3" stop="20260523053500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523053500 GMT+3" stop="20260523060000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ9</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ κάνουμε σκι με μόγκουλς, επιχειρούμε να πετάξουμε κάποιον στον αέρα ή τρέχουμε πάνω σε κορμούς που επιπλέουν. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523060000 GMT+3" stop="20260523062500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ10</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από την αποτυχία ενώ επιχειρούμε περιστροφή με ATV, αντιμετωπίζουμε δυνατά ρεύματα ποταμού και κάνουμε ασκήσεις με μπάλες γυμναστικής. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -24988,42 +24874,6 @@
   <programme start="20260523093500 GMT+3" stop="20260523102000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ6 ΕΠ4</title>
     <desc lang="el">Απομεινάρια του Περλ Χάρμπορ, του Άλαμο και του Πολέμου του 1812 βρίσκονται στον βυθό της θάλασσας. Μπορούν οι αρχαιολόγοι να ρίξουν φως σε αυτές τις κομβικές επιθέσεις που διαμόρφωσαν την Αμερική; (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523102000 GMT+3" stop="20260523110500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ3</title>
-    <desc lang="el">Πιλότοι καλούνται να πάρουν αποφάσεις ζωής και θανάτου σε κρίσιμες κατάστασεις εν πτήσει, αλλά η λάθος προσέγγιση μπορεί να προκαλέσει ακόμα πιο σοβαρά προβλήματα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523110500 GMT+3" stop="20260523115500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ1</title>
-    <desc lang="el">Μπερδεμένα, χωρίς ορατότητα και χαμένα μέσα στο σκοτάδι, τρία πληρώματα χάνουν τον ορίζοντα και πέφτουν στην ίδια φονική παγίδα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523115500 GMT+3" stop="20260523124000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ8</title>
-    <desc lang="el">Δείτε τις μοιραίες συνέπειες όταν τα μέλη του πληρώματος δεν ταιριάζουν. Τρεις πτήσεις καταλήγουν σε τραγωδία, κάνοντας τους ειδικούς να ψάχνουν τι πήγε στραβά. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523124000 GMT+3" stop="20260523132500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ5</title>
-    <desc lang="el">Έχοντας βασιστεί περισσότερο στο ένστικτο παρά σε κανόνες, τρεις πτήσεις καταλήγουν σε τραγωδία όταν τα πληρώματά τους αυτοσχεδιάζουν στην ώρα της προσγείωσης. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523132500 GMT+3" stop="20260523141000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ6</title>
-    <desc lang="el">Τρία αεροπλάνα πέφτουν λόγω του πάγου και οι ερευνητές καλούνται να ανακαλύψουν πώς είναι δυνατόν σύγχρονα αεροσκάφη να καταλήγουν με πάγο στα φτερά τους. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523141000 GMT+3" stop="20260523145500 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ4 ΕΠ9</title>
-    <desc lang="el">Τρεις προσγειώσεις της τελευταίας στιγμής σε νερό, όλες με διαφορετικούς τρόπους. Και οι τρεις πολύ σημαντικές για τη βελτίωση των αναγκαστικών προσγειώσεων στην ανοιχτή θάλασσα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -25063,27 +24913,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260523193000 GMT+3" stop="20260523201500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260523201500 GMT+3" stop="20260523210000 GMT+3" channel="216459">
     <title lang="el">CIA Εκ Των Έσω: Μυστικά και Κατάσκοποι Κ1 ΕΠ4</title>
     <desc lang="el">Η σύλληψη ενός Αμερικανού στο Πακιστάν απειλεί μία από τις πιο απόρρητες αποστολές που έχει αναλάβει ποτέ η CIA. Ο σταθμάρχης καλείται να διαχειριστεί τις συνέπειες. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523210000 GMT+3" stop="20260523215000 GMT+3" channel="216459">
-    <title lang="el">Ήρωες της Μεσογείου ΕΠ1</title>
-    <desc lang="el">Ο θαλάσσιος βιολόγος και εξερευνητής του National Geographic Manu San Felix ερευνά πώς οι άνθρωποι έχουν προκαλέσει τόση ζημιά στην ισπανική Μεσόγειο. Ταξιδεύει σε όλη την περιοχή για να συναντήσει εκείνους που κάνουν πραγματικά τη διαφορά για να αντιστρέψουν την κατάσταση. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260523215000 GMT+3" stop="20260523223500 GMT+3" channel="216459">
-    <title lang="el">Θετική Ενέργεια Κ1 ΕΠ2</title>
-    <desc lang="el">Στην Κίνα, ο Ντάλας και η Κάρι μαθαίνουν πώς τα χρησιμοποιημένα ορυκτέλαια από τον κλάδο της εστίασης θα μπορούσαν να μετατραπούν σε 30 εκατομμύρια τόνους βιοντίζελ. Στο Ναϊρόμπι της Κένυας, ο Ντάλας εγκαθιστά ένα φωτιστικό που τροφοδοτείται με βαρύτητα και μαγειρεύει με μια σόμπα που σώζει εκατομμύρια δέντρα. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -28250,7 +28082,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523083000 GMT+3" stop="20260523090000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
+    <title lang="el">Quest&apos;s World of Wonder ΕΠ4</title>
     <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -28267,9 +28099,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260523100000 GMT+3" stop="20260523110000 GMT+3" channel="1945">
+  <programme start="20260523100000 GMT+3" stop="20260523103000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom ΕΠ353</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523103000 GMT+3" stop="20260523110000 GMT+3" channel="1945">
+    <title lang="el">Blueprint ΕΠ3</title>
+    <desc lang="el">Blueprint spotlights the major projects propelling us into the future. We hear from the business leaders and innovators behind these endeavors. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28292,20 +28130,26 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523130000 GMT+3" stop="20260523140000 GMT+3" channel="1945">
-    <title lang="el">African Voices ΕΠ227</title>
-    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260523140000 GMT+3" stop="20260523150000 GMT+3" channel="1945">
     <title lang="el">CNN This Morning Weekend ΕΠ82</title>
     <desc lang="el">Start your day with Victor Blackwell bringing you the latest headlines and analysis. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260523140000 GMT+3" stop="20260523143000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ227</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260523143000 GMT+3" stop="20260523150000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ223</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260523150000 GMT+3" stop="20260523160000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ3</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
+    <title lang="el">K-Everything: a CNN Original Series ΕΠ3</title>
+    <desc lang="el">This CNN Series follows acclaimed actor Daniel Dae Kim as he explores the global rise of South Korean culture, from music and film to food and beauty. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28340,14 +28184,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523193000 GMT+3" stop="20260523200000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
+    <title lang="el">Quest&apos;s World of Wonder ΕΠ4</title>
     <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260523200000 GMT+3" stop="20260523210000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom Saturday ΕΠ162</title>
-    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <title lang="el">Smerconish ΕΠ21</title>
+    <desc lang="el">Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28364,8 +28208,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523230000 GMT+3" stop="20260524000000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom Saturday ΕΠ165</title>
-    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <title lang="el">The Arena: Saturday ΕΠ23</title>
+    <desc lang="el">The Arena: Saturday (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -42764,18 +42608,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524000000 GMT+3" stop="20260524004500 GMT+3" channel="216459">
-    <title lang="el">Ήρωες της Μεσογείου ΕΠ1</title>
-    <desc lang="el">Ο θαλάσσιος βιολόγος και εξερευνητής του National Geographic Manu San Felix ερευνά πώς οι άνθρωποι έχουν προκαλέσει τόση ζημιά στην ισπανική Μεσόγειο. Ταξιδεύει σε όλη την περιοχή για να συναντήσει εκείνους που κάνουν πραγματικά τη διαφορά για να αντιστρέψουν την κατάσταση. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524004500 GMT+3" stop="20260524013500 GMT+3" channel="216459">
-    <title lang="el">Θετική Ενέργεια Κ1 ΕΠ2</title>
-    <desc lang="el">Στην Κίνα, ο Ντάλας και η Κάρι μαθαίνουν πώς τα χρησιμοποιημένα ορυκτέλαια από τον κλάδο της εστίασης θα μπορούσαν να μετατραπούν σε 30 εκατομμύρια τόνους βιοντίζελ. Στο Ναϊρόμπι της Κένυας, ο Ντάλας εγκαθιστά ένα φωτιστικό που τροφοδοτείται με βαρύτητα και μαγειρεύει με μια σόμπα που σώζει εκατομμύρια δέντρα. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260524013500 GMT+3" stop="20260524022000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ5</title>
     <desc lang="el">Χωρίς κανένα περιθώριο λάθους, τρεις καταστροφές αποτρέπονται την τελευταία στιγμή από πιλότους που καταφέρνουν να προσγειώσουν το κατεστραμμένο αεροπλάνο τους - ενάντια στις πιθανότητες. (2021)</desc>
@@ -42803,78 +42635,6 @@
   <programme start="20260524043500 GMT+3" stop="20260524052000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ9</title>
     <desc lang="el">Τρία αεροπλάνα γίνονται η λεία φονικών ανέμων και οι ερευνητές καλούνται να βρουν την αιτία. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524052000 GMT+3" stop="20260524054500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ1</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ οδηγούμε πάνω σε λεπτό στρώμα πάγου, χρησιμοποιούμε blender για το φαγητό μας ή επιχειρούμε να αναπηδήσουμε πάνω σε τεράστια φουσκωτά αντικείμενα. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524054500 GMT+3" stop="20260524061000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ2</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ οδηγούμε ερπυστριοφόρα, κατεβαίνουμε σκάλες πάνω σε μονόκυκλα και ανεβαίνουμε σε καγιάκ. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524061000 GMT+3" stop="20260524070000 GMT+3" channel="216459">
-    <title lang="el">Παναγία των Παρισίων: Πύρινη Κόλαση ΕΠ1</title>
-    <desc lang="el">Στις 15 Απριλίου 2019, κατά τη διάρκεια της Λειτουργίας της Μεγάλης Δευτέρας, ο πιο διάσημος καθεδρικός ναός του κόσμου έπιασε φωτιά. Η Παναγία των Παρισίων τυλίχτηκε στις φλόγες μέσα σε λίγα μόλις λεπτά. Μία επική μάχη ξεκίνησε για τους ηρωικούς Γάλλους πυροσβέστες οι οποίοι, υπό το βλέμμα των ΜΜΕ από όλο τον κόσμο, πάλευαν με την πυρκαγιά για περισσότερες από 15 ώρες. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524070000 GMT+3" stop="20260524074500 GMT+3" channel="216459">
-    <title lang="el">Σώζοντας τη Βενετία ΕΠ1</title>
-    <desc lang="el">Μια από τις πιο διάσημες πόλεις του κόσμου, η Βενετία, απειλείται από τα νερά που όλο ανεβαίνουν. Ακολουθούμε ειδικούς που χρησιμοποιούν το νησί ως εργαστήριο, αναζητώντας λύσεις για να σωθεί η πόλη. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524074500 GMT+3" stop="20260524081500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ1</title>
-    <desc lang="el">Ο τομέας της παραγωγής έχει γνωρίσει επανάσταση μέσα στην τελευταία δεκαετία. Το μοντέλο οικονομίας just in time σημαίνει ότι τα προϊόντα που αγαπάμε παράγονται σε τεράστια κλίμακα σε χρόνο ρεκόρ, ενώ η μείωση της γραφειοκρατίας σημαίνει ότι το παγκόσμιο εμπόριο και η διανομή γίνονται πιο γρήγορα από ποτέ. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524081500 GMT+3" stop="20260524084000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ8</title>
-    <desc lang="el">Καυτερές πιπεριές από όλον τον κόσμο μεταφέρονται σε μια φυτεία στη Λουιζιάνα και μετατρέπονται – χρησιμοποιώντας μια οικογενειακή συνταγή – σε ένα από τα πιο δημοφιλή προϊόντα, το ταμπάσκο. Αυτή είναι η ιστορία της παρασκευής της νο 1 πικάντικης σάλτσας στον κόσμο, σε μαζική κλίμακα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524084000 GMT+3" stop="20260524090000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ7</title>
-    <desc lang="el">Με το διάστημα να προσφέρει οικονομικά οφέλη σε όλους, οι εκτοξεύσεις πυραύλων βρίσκονται σε ζήτηση παγκοσμίως. Αυτή είναι η ιστορία της παραγωγής πυραύλων από τη ULA, κάτι που αποτελεί προτεραιότητα για την Αμερική. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524090000 GMT+3" stop="20260524092500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ2</title>
-    <desc lang="el">Οι κιθάρες Gibson αποκαλύπτουν πώς η υπερσύγχρονη τεχνολογία, οι χειροτεχνικές ικανότητες και το παγκόσμιο εμπόριο συνδυάζονται για να φέρουν τις ηλεκτρικές κιθάρες στον κόσμο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524092500 GMT+3" stop="20260524095000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ5</title>
-    <desc lang="el">Τα πυροσβεστικά οχήματα μεταφέρουν τους πυροσβέστες στη μάχη κάθε μέρα. Η εταιρεία Pierce κατασκευάζει 18.000 τέτοια οχήματα κάθε μέρα. Αυτή είναι η ιστορία παραγωγής τους. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524095000 GMT+3" stop="20260524101000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ12</title>
-    <desc lang="el">Η εταιρεία OneWeb Satellites αποκαλύπτει πώς οι σχεδιαστές διαστημικών οχημάτων, οι μηχανολόγοι και η ρομποτική συνδυάζονται για να κατασκευάσουν και να εκτοξεύσουν δορυφόρους στο διάστημα. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524101000 GMT+3" stop="20260524103500 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ9</title>
-    <desc lang="el">Ο κολοσσός των τρακτέρ Deere αποκαλύπτει πώς συνδυάζεται η βαριά βιομηχανία με την υπερσύγχρονη τεχνολογία για την κατασκευή τεράστιων τρακτέρ, σχεδιασμένων να παρέχουν τροφή στον κόσμο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524103500 GMT+3" stop="20260524110000 GMT+3" channel="216459">
-    <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα Κ1 ΕΠ10</title>
-    <desc lang="el">Ο κολοσσός off-road οχημάτων Jeep αποκαλύπτει πώς συνδυάζει ανθρώπινο δυναμικό και τεχνολογία για να κατασκευάσει και να διανείμει χιλιάδες από τα δημοφιλή του Wrangler κάθε μέρα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -42908,45 +42668,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260524144500 GMT+3" stop="20260524151000 GMT+3" channel="216459">
-    <title lang="el">Σκουπίδια Αξίας Κ1 ΕΠ11</title>
-    <desc lang="el">Η ομάδα ψάχνει για κρυμμένους θησαυρούς στο εγκαταλελειμμένο Hot Springs, το ξενοδοχείο που φιλοξένησε τον Babe Ruth και τον Al Capone. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524151000 GMT+3" stop="20260524153000 GMT+3" channel="216459">
-    <title lang="el">Σκουπίδια Αξίας Κ1 ΕΠ12</title>
-    <desc lang="el">Η ομάδα αποκτά πρόσβαση σ&apos; ένα εργοστάσιο μαρμάρου, όπου οι ιδιοκτήτες παροτρύνουν τον Jay να βρει ένα κρυμμένο καταφύγιο στο υπόγειό του. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260524153000 GMT+3" stop="20260524162000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ6 ΕΠ5</title>
     <desc lang="el">Ένα θρυλικό βυθισμένο πλοίο 300 ετών και ένα μοναχικό σκάφος της ρωσικής εποχής που βρέθηκε στα νερά του Ειρηνικού. Μπορεί η επιστήμη να αποκαλύψει την αλήθεια για αυτούς τους κινδύνους του Ειρηνικού; (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524162000 GMT+3" stop="20260524170500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ2</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από την Ιταλία αποκαλύπτει βυθοκόρους στη Βενετία, τους κορυφαίους ψαράδες της Σικελίας που ψαρεύουν με σκάλες και μία χειμερινή σχολή για υπεραυτοκίνητα. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524170500 GMT+3" stop="20260524175500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ3</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τη Γερμανία αποκαλύπτει ένα εργοστάσιο σε μέγεθος πόλης, ένα παραμυθένιο κάστρο και το μεγαλύτερο όχημα ξηράς του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524175500 GMT+3" stop="20260524184000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ1</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τις Κάτω Χώρες αποκαλύπτει αρχαίους ανεμόμυλους, φουτουριστικά θερμοκήπια και τη μεγαλύτερη εορταστική φωτιά του κόσμου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524184000 GMT+3" stop="20260524193000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ4</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλο το Ηνωμένο Βασίλειο αποκαλύπτει το καθάρισμα ενός ουρανοξύστη, βοσκούς με κοπάδια προβάτων στις Λίμνες και την επίσκεψη σε μια μάντρα όπου επισκευάζονται πετρελαϊκές πλατφόρμες. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -42977,12 +42701,6 @@
   <programme start="20260524223000 GMT+3" stop="20260524232000 GMT+3" channel="216459">
     <title lang="el">Η Μηχανική στην Ευρώπη - Ειδική Έκδοση Κ1 ΕΠ4</title>
     <desc lang="el">Η Ευρώπη επαναπροσδιορίζει τι σημαίνει να ζεις σε αρμονία με το περιβάλλον. Ανακαλύψτε τα φράγματα λάβας της Ισλανδίας, τα οποία έχουν σχεδιαστεί για να προστατεύουν τους γεωθερμικούς σταθμούς παραγωγής ενέργειας. Δείτε την &apos;Πόλη του Ξύλου&apos; στη Στοκχόλμη, εξερευνήστε το πρωτοποριακό πάρκο σερφ της Γερμανίας και ζήστε την εμπειρία του φουτουριστικού Eden Project του Ηνωμένου Βασιλείου. Αυτά τα φιλικά προς το περιβάλλον μεγάλα έργα προστατεύουν και μεταμορφώνουν την ήπειρο. (2026)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260524232000 GMT+3" stop="20260525000500 GMT+3" channel="216459">
-    <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ3</title>
-    <desc lang="el">Οι Ακτοφύλακες αναχαιτίζουν ένα σκάφος γεμάτο πρόσφυγες και το ελικόπτερο Έρευνας και Διάσωσης προσπαθεί να διασώσει ένα τριμαράν που βυθίζεται. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -46077,14 +45795,20 @@
     <rating>K</rating>
   </programme>
   <programme start="20260524030000 GMT+3" stop="20260524040000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ3</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
+    <title lang="el">K-Everything: a CNN Original Series ΕΠ3</title>
+    <desc lang="el">This CNN Series follows acclaimed actor Daniel Dae Kim as he explores the global rise of South Korean culture, from music and film to food and beauty. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524040000 GMT+3" stop="20260524050000 GMT+3" channel="1945">
+  <programme start="20260524040000 GMT+3" stop="20260524043000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ667</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524043000 GMT+3" stop="20260524050000 GMT+3" channel="1945">
+    <title lang="el">Next Big Trip ΕΠ3</title>
+    <desc lang="el">Next Big Trip spotlights some of the world’s most exciting destinations and their bucket-list-worthy luxury and adventure experiences. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46094,9 +45818,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524053000 GMT+3" stop="20260524063000 GMT+3" channel="1945">
+  <programme start="20260524053000 GMT+3" stop="20260524060000 GMT+3" channel="1945">
     <title lang="el">African Voices ΕΠ227</title>
     <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524060000 GMT+3" stop="20260524063000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ724</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46166,9 +45896,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524120000 GMT+3" stop="20260524133000 GMT+3" channel="1945">
+  <programme start="20260524120000 GMT+3" stop="20260524130000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom ΕΠ146</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524130000 GMT+3" stop="20260524133000 GMT+3" channel="1945">
+    <title lang="el">Blueprint ΕΠ3</title>
+    <desc lang="el">Blueprint spotlights the major projects propelling us into the future. We hear from the business leaders and innovators behind these endeavors. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46203,8 +45939,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260524180000 GMT+3" stop="20260524190000 GMT+3" channel="1945">
-    <title lang="el">Inside Politics with Manu Raju ΕΠ21</title>
-    <desc lang="el">Manu Raju leads an in-depth conversation on the week&apos;s most important political storylines, with a diverse set of analysts and news-making interviews. (2026)</desc>
+    <title lang="el">K-Everything: a CNN Original Series ΕΠ3</title>
+    <desc lang="el">This CNN Series follows acclaimed actor Daniel Dae Kim as he explores the global rise of South Korean culture, from music and film to food and beauty. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46245,8 +45981,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260524220000 GMT+3" stop="20260524230000 GMT+3" channel="1945">
-    <title lang="el">K-Everything (Cnni) ΕΠ3</title>
-    <desc lang="el">K-Everything (Cnni) (2026)</desc>
+    <title lang="el">K-Everything: a CNN Original Series ΕΠ3</title>
+    <desc lang="el">This CNN Series follows acclaimed actor Daniel Dae Kim as he explores the global rise of South Korean culture, from music and film to food and beauty. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -55156,13 +54892,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525084500 GMT+3" stop="20260525114500 GMT+3" channel="54111184">
+  <programme start="20260525084500 GMT+3" stop="20260525100000 GMT+3" channel="54111184">
     <title lang="el">Breakfast at Star</title>
     <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525114500 GMT+3" stop="20260525140000 GMT+3" channel="54111184">
+  <programme start="20260525100000 GMT+3" stop="20260525140000 GMT+3" channel="54111184">
     <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
     <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -56422,13 +56158,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525084500 GMT+3" stop="20260525114500 GMT+3" channel="289555">
+  <programme start="20260525084500 GMT+3" stop="20260525100000 GMT+3" channel="289555">
     <title lang="el">Breakfast at Star</title>
     <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525114500 GMT+3" stop="20260525140000 GMT+3" channel="289555">
+  <programme start="20260525100000 GMT+3" stop="20260525140000 GMT+3" channel="289555">
     <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
     <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59718,213 +59454,207 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525060000 GMT+3" stop="20260525062000 GMT+3" channel="216595">
+  <programme start="20260525060000 GMT+3" stop="20260525062500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ9</title>
     <desc lang="el">Είναι ο τελευταίος αγώνας της ποδοσφαιρικής σεζόν και ο Cam είναι αποφασισμένος να γίνει ο πρώτος νέος προπονητής στην ιστορία του σχολείου που θα κερδίσει πάνω από δύο παιχνίδια. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525062000 GMT+3" stop="20260525064000 GMT+3" channel="216595">
+  <programme start="20260525062500 GMT+3" stop="20260525065000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ10</title>
     <desc lang="el">Ο Jay πηγαίνει με τον Manny να κόψουν μόνοι τους το Χριστουγεννιάτικο δέντρο τους. Η Gloria είναι στην «τσίτα» με τη μαμά της αλλά αλλάζει στάση όταν εκείνη τα πάει καλά με την Claire. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525064000 GMT+3" stop="20260525071500 GMT+3" channel="216595">
+  <programme start="20260525065000 GMT+3" stop="20260525073000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ12</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525071500 GMT+3" stop="20260525080000 GMT+3" channel="216595">
+  <programme start="20260525073000 GMT+3" stop="20260525081500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ11</title>
     <desc lang="el">Όταν ο Castle και η Beckett ανακαλύπτουν ότι το θύμα μιας πυρκαγιάς δολοφονήθηκε, ακολουθούν τα χνάρια ενός κατά συρροήν εμπρηστή που γίνεται δολοφόνος. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525080000 GMT+3" stop="20260525084500 GMT+3" channel="216595">
+  <programme start="20260525081500 GMT+3" stop="20260525090000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ11</title>
     <desc lang="el">Ένας σύμβουλος ψεύτικων δικών πεθαίνει τραγικά κατά τη διάρκεια ενός διαγωνισμού. Στο μεταξύ, το αυξημένο ενδιαφέρον της Άντζελα για την πώληση μπράουνις κάνει την Τζέιν να ανησυχεί ότι μπορεί να αντιμετωπίζει και να κρύβει οικονομικά προβλήματα. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525084500 GMT+3" stop="20260525091000 GMT+3" channel="216595">
+  <programme start="20260525090000 GMT+3" stop="20260525092000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ1</title>
     <desc lang="el">Ενώ ο Barney ετοιμάζεται για το γάμο του με μια μυστηριώδη νύφη, εκείνος και ο Ted αναπολούν το γάμο του Punchy, αλλά κι όταν ο Marshall και η Lily ανακοίνωσαν ότι περιμένουν μωρό. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525091000 GMT+3" stop="20260525093000 GMT+3" channel="216595">
+  <programme start="20260525092000 GMT+3" stop="20260525094500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ2</title>
     <desc lang="el">Όταν ο Marshall προσλαμβάνεται για τη δουλειά των ονείρων του, ανησυχεί ότι η εταιρεία θα ανακαλύψει τα βίντεο που είχε φτιάξει στο παρελθόν, και θα αναθεωρήσει τη προσφορά της. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525093000 GMT+3" stop="20260525095500 GMT+3" channel="216595">
+  <programme start="20260525094500 GMT+3" stop="20260525101000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ1</title>
     <desc lang="el">Η σειρά «Not Dead Yet» ακολουθεί τη Νελ Σεράνο καθώς ξεκινά απ’ την αρχή τη ζωή και την καριέρα που είχε αφήσει πίσω πριν από 10 χρόνια. Όταν κλείνει τη μόνη δουλειά που κατάφερε να βρει, να γράφει νεκρολογίες, η Νελ ξεκινάει να δέχεται συμβουλές ζωής από μια απίθανη πηγή. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525095500 GMT+3" stop="20260525101500 GMT+3" channel="216595">
+  <programme start="20260525101000 GMT+3" stop="20260525103000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ2</title>
     <desc lang="el">Η Νελ προσπαθεί να προσαρμοστεί στη νέα της δουλειά, αλλά ένα νέο φάντασμα την ενοχλεί ασταμάτητα. Στο μεταξύ, ο Έντουαρντ ασχολείται με ένα πρότζεκτ που κινεί τη δημοσιογραφική περιέργεια της Νελ. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525101500 GMT+3" stop="20260525104000 GMT+3" channel="216595">
+  <programme start="20260525103000 GMT+3" stop="20260525105500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ1</title>
     <desc lang="el">Οι δάσκαλοι επέστρεψαν στο σχολείο για την εβδομάδα εκπαιδευτικής επιμόρφωσης. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525104000 GMT+3" stop="20260525110000 GMT+3" channel="216595">
+  <programme start="20260525105500 GMT+3" stop="20260525111500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ2</title>
     <desc lang="el">Η Τζανίν θέλει να βελτιώσει το Άμποτ για να γίνει το εξίσου καλό με το τοπικό πρότυπο σχολείο. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525110000 GMT+3" stop="20260525114500 GMT+3" channel="216595">
+  <programme start="20260525111500 GMT+3" stop="20260525120000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ13</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525114500 GMT+3" stop="20260525123000 GMT+3" channel="216595">
+  <programme start="20260525120000 GMT+3" stop="20260525124000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ11</title>
     <desc lang="el">Οι Maya, Jack, Vic, Travis και Sullivan καλούνται σε ένα περιστατικό σε ένα παγοδρόμιο. Μια έγκυος γυναίκα και ο άντρας της ζητάνε βοήθεια από τον σταθμό και οι Maya και Carina κάνουν μια δύσκολη συζήτηση. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525123000 GMT+3" stop="20260525125000 GMT+3" channel="216595">
+  <programme start="20260525124000 GMT+3" stop="20260525130500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ11</title>
     <desc lang="el">Ο Phil ξεγελά τον Luke για να κάνει μαθήματα χορού αλλά το πληρώνει όταν το αθώο ψέμα του τον βάζει σε μπελάδες. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525125000 GMT+3" stop="20260525131000 GMT+3" channel="216595">
+  <programme start="20260525130500 GMT+3" stop="20260525132500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ12</title>
     <desc lang="el">Σε μια συγκέντρωση γονέων του λυκείου, οι γονείς ταξιδεύουν στα μαθητικά τους χρόνια όταν η Claire αγχώνεται υπερβολικά, η Gloria αντιμετωπίζει μια &apos;&apos;κακιά&quot; μαμά, και ο Jay μαθαίνει στον Phil πώς να κάνει κοπάνα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525131000 GMT+3" stop="20260525135500 GMT+3" channel="216595">
+  <programme start="20260525132500 GMT+3" stop="20260525141000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ12</title>
     <desc lang="el">Στο καλοκαιρινό φινάλε, η ομάδα σπεύδει να λύσει μια υπόθεση βίαιης ανθρωποκτονίας που έχει μπερδευτεί από αντικρουόμενα στοιχεία. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525135500 GMT+3" stop="20260525144500 GMT+3" channel="216595">
+  <programme start="20260525141000 GMT+3" stop="20260525145500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy 22 Κ22 ΕΠ17</title>
     <desc lang="el">Grey&apos;s Anatomy 22 Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,James Pickens Jr.. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525144500 GMT+3" stop="20260525150500 GMT+3" channel="216595">
+  <programme start="20260525145500 GMT+3" stop="20260525151500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ3</title>
     <desc lang="el">Ύστερα από μια τυχαία συνάντηση του Ted με μια πρώην του, εκείνος προσπαθεί να δείξει την έμπρακτη μεταμέλειά του, μιας και την είχε απατήσει όταν είχαν σχέση. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525150500 GMT+3" stop="20260525153000 GMT+3" channel="216595">
+  <programme start="20260525151500 GMT+3" stop="20260525154000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ4</title>
     <desc lang="el">Όταν η Robin επιτίθεται σ’ ένα κορίτσι που θέλει να καταστρέψει τη σχέση του Barney, αναγκάζεται να αρχίσει θεραπείες, ύστερα από υπόδειξη του δικαστηρίου. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525153000 GMT+3" stop="20260525161500 GMT+3" channel="216595">
+  <programme start="20260525154000 GMT+3" stop="20260525162500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ12</title>
     <desc lang="el">Ο φόνος ενός υπαλλήλου σε βίντεο κλαμπ παίρνει μια παράξενη τροπή όταν η ομάδα ανακαλύπτει ότι στο παρελθόν ήταν ένας ιδιαίτερα ικανός χάκερ. Αυτό όμως δε συγκρίνεται με την ταραχή του Castle όταν η έρευνα οδηγεί στον πατέρα του. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525161500 GMT+3" stop="20260525164000 GMT+3" channel="216595">
+  <programme start="20260525162500 GMT+3" stop="20260525164500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ3</title>
     <desc lang="el">Η Νελ καλείται να γράψει τη νεκρολογία ενός δημοφιλούς προσώπου με το οποίο έχει παρελθόν. Στο μεταξύ, η Σαμ βοηθάει τον Ντένις να ξεπεράσει έναν παλιό του φόβο. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525164000 GMT+3" stop="20260525170000 GMT+3" channel="216595">
+  <programme start="20260525164500 GMT+3" stop="20260525171000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ4</title>
     <desc lang="el">Οι φίλοι της Νελ προσπαθούν να της κανονίσουν ραντεβού, ωστόσο η Νελ δεν είναι σίγουρη ότι είναι έτοιμη να προχωρήσει. Ο Έντουαρντ έχει καλύτερη τύχη στην εύρεση συντρόφου. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525170000 GMT+3" stop="20260525172500 GMT+3" channel="216595">
+  <programme start="20260525171000 GMT+3" stop="20260525173500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ3</title>
     <desc lang="el">Ένας περιοδεύων θίασος, στον οποίο συμμετείχε ο Τζέικομπ, επισκέπτεται το δημοτικό Άμποτ. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525172500 GMT+3" stop="20260525175000 GMT+3" channel="216595">
+  <programme start="20260525173500 GMT+3" stop="20260525175500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ4</title>
     <desc lang="el">Ο Γκρέγκορι μαθαίνει ότι τα παιδιά απολαμβάνουν την υποτιθέμενη ώρα πειθαρχίας με την Έιβα. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525175000 GMT+3" stop="20260525183500 GMT+3" channel="216595">
+  <programme start="20260525175500 GMT+3" stop="20260525184500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ1</title>
     <desc lang="el">Το πρώην μέντιουμ, Τόμας Τζέιν, εντάσσεται σε μια ομάδα επιβολής του νόμου καθώς ερευνούν έναν διπλό φόνο με τα χαρακτηριστικά ενός κατά συρροή δολοφόνου με προσωπική σχέση με τον Τζέιν. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525183500 GMT+3" stop="20260525192000 GMT+3" channel="216595">
+  <programme start="20260525184500 GMT+3" stop="20260525193000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ12</title>
     <desc lang="el">Μετά την εθνική κατακραυγή για την τραγική δολοφονία ενός άοπλου μαύρου άντρα, η Maya καλεί τη Δρ. Diane Lewis για να βοηθήσει ψυχολογικά την ομάδα. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525192000 GMT+3" stop="20260525194500 GMT+3" channel="216595">
+  <programme start="20260525193000 GMT+3" stop="20260525195000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ13</title>
     <desc lang="el">Ο Phil και η Claire βγαίνουν με την Haley για δείπνο για να μιλήσουν για το μέλλον της αλλά καταφέρνει να το αποφύγει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525194500 GMT+3" stop="20260525201000 GMT+3" channel="216595">
+  <programme start="20260525195000 GMT+3" stop="20260525201500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ14</title>
     <desc lang="el">Τελικά όλοι στην οικογένεια κρύβουν ένα μυστικό. Η Haley ετοιμάζει μία έκθεση φωτογραφίας στο κολέγιο την οποία και προσπαθεί να αποφύγει ενώ η Claire ζητά βοήθεια από τον Alex για να μάθουν τι κρύβει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525201000 GMT+3" stop="20260525210000 GMT+3" channel="216595">
+  <programme start="20260525201500 GMT+3" stop="20260525210000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ13</title>
     <desc lang="el">Όταν ένας απαγωγέας που ντύνεται κλόουν επανεμφανίζεται στη Βοστόνη μετά από 20 και πλέον χρόνια, η ομάδα κυριεύεται από φόβο. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525210000 GMT+3" stop="20260525212000 GMT+3" channel="216595">
+  <programme start="20260525210000 GMT+3" stop="20260525213000 GMT+3" channel="216595">
     <title lang="el">UnPrisoned 2 Κ2 ΕΠ7</title>
     <desc lang="el">Η Πέιτζ πρέπει να καταλάβει επιτέλους γιατί δεν της αρέσουν τα Χριστούγεννα. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260525212000 GMT+3" stop="20260525215000 GMT+3" channel="216595">
+  <programme start="20260525213000 GMT+3" stop="20260525215500 GMT+3" channel="216595">
     <title lang="el">UnPrisoned 2 Κ2 ΕΠ8</title>
     <desc lang="el">Οι Αλεξάντερ κάνουν σημαντική πρόοδο ως οικογένεια. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260525215000 GMT+3" stop="20260525224000 GMT+3" channel="216595">
+  <programme start="20260525215500 GMT+3" stop="20260525224000 GMT+3" channel="216595">
     <title lang="el">Masterchef 15 Κ15 ΕΠ6</title>
     <desc lang="el">Τα 10 κορυφαία ζευγάρια, σε ένα πανέμορφο σκηνικό στην προβλήτα, πρέπει να ταΐσουν πάνω από 100 άντρες και γυναίκες ψαράδες της περιοχής. Πρωταγωνιστούν: Gordon Ramsay,Joe Bastianich,Tiffany Derry. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525224000 GMT+3" stop="20260525232500 GMT+3" channel="216595">
+  <programme start="20260525224000 GMT+3" stop="20260525233000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ2</title>
     <desc lang="el">Ο Τζέιν πηγαίνει πίσω από την πλάτη της ανώτερης πράκτορα Τερέζα Λισμπάνον για να ενορχηστρώσει τη δική του ανορθόδοξη μυστική επιχείρηση, καθώς η ομάδα προσπαθεί να συλλάβει έναν δολοφόνο στην κοιλάδα Νάπα. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525232500 GMT+3" stop="20260525235500 GMT+3" channel="216595">
+  <programme start="20260525233000 GMT+3" stop="20260526000000 GMT+3" channel="216595">
     <title lang="el">UnPrisoned 2 Κ2 ΕΠ7</title>
     <desc lang="el">Η Πέιτζ πρέπει να καταλάβει επιτέλους γιατί δεν της αρέσουν τα Χριστούγεννα. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260525235500 GMT+3" stop="20260526002500 GMT+3" channel="216595">
-    <title lang="el">UnPrisoned 2 Κ2 ΕΠ8</title>
-    <desc lang="el">Οι Αλεξάντερ κάνουν σημαντική πρόοδο ως οικογένεια. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
@@ -59982,25 +59712,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525060000 GMT+3" stop="20260525065000 GMT+3" channel="2755">
+  <programme start="20260525060000 GMT+3" stop="20260525064500 GMT+3" channel="2755">
     <title lang="el">Bones 12 Κ12 ΕΠ11</title>
     <desc lang="el">Στο προτελευταίο επεισόδιο της σειράς, η τελική ιστορία του κάθε χαρακτήρα αρχίζει να ξετυλίγεται. Ο Booth αναλαμβάνει δράση όταν ο Kovac δραπετεύει. Πρωταγωνιστούν: Emily Deschanel,Michaela Conlin. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525065000 GMT+3" stop="20260525073500 GMT+3" channel="2755">
+  <programme start="20260525064500 GMT+3" stop="20260525073000 GMT+3" channel="2755">
     <title lang="el">Bones 12 Κ12 ΕΠ12</title>
     <desc lang="el">Με τον Kovac ακόμα να διαφεύγει, η ομάδα αναζητά στοιχεία για να τον εντοπίσει. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525073500 GMT+3" stop="20260525082000 GMT+3" channel="2755">
+  <programme start="20260525073000 GMT+3" stop="20260525081500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ10</title>
     <desc lang="el">Ο Κόλτερ αναλαμβάνει να βρει μια αγνοούμενη τραγουδίστρια που συνδέεται με ένα βίαιο έγκλημα. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525082000 GMT+3" stop="20260525084000 GMT+3" channel="2755">
+  <programme start="20260525081500 GMT+3" stop="20260525084000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ13</title>
     <desc lang="el">Ο Χολτ και ο Τζέικ ερευνούν μια υπόθεση στο πανεπιστήμιο του Κέβιν. Πίσω στο Τμήμα, ο Τέρι και η Έιμι βγάζουν την ομάδα για φαγητό. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -60072,25 +59802,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525144500 GMT+3" stop="20260525150500 GMT+3" channel="2755">
+  <programme start="20260525144500 GMT+3" stop="20260525151000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ16</title>
     <desc lang="el">Ο σκύλος του Μπαρτ αποστέλλεται σε σχολείο υπακοής αφού καταστρέφει τα ακριβά παπούτσια του Χόμερ. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525150500 GMT+3" stop="20260525153000 GMT+3" channel="2755">
+  <programme start="20260525151000 GMT+3" stop="20260525153500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ17</title>
     <desc lang="el">Ο παππούς χάνει την αγάπη του, μένοντας με βαριά καρδιά και βαρύ πορτοφόλι από τη διαθήκη της. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525153000 GMT+3" stop="20260525155500 GMT+3" channel="2755">
+  <programme start="20260525153500 GMT+3" stop="20260525160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ10</title>
     <desc lang="el">Ο Λέοναρντ ζητά τη συμβουλή της Πένι όταν η σχέση του με τη Στέφανι απογειώνεται. Οι υποχονδριακές τάσεις του Σέλντον τον καταβάλλουν. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525155500 GMT+3" stop="20260525162000 GMT+3" channel="2755">
+  <programme start="20260525160000 GMT+3" stop="20260525162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο Σέλντον εκνευρίζει την παρέα με την εμμονή του με το σωστό πρωτόκολλο για τα χριστουγεννιάτικα δώρα. Ο Λέοναρντ είναι συντετριμμένος όταν η Πένι βγαίνει με έναν συνάδελφό του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -60144,31 +59874,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525210000 GMT+3" stop="20260525212000 GMT+3" channel="2755">
+  <programme start="20260525210000 GMT+3" stop="20260525212500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η κριτική της Πένι για την ερωτική ζωή του Γουόλοβιτς τον οδηγεί στην κατάθλιψη και τον κάνει να εξαφανιστεί από μια μάχη με ρομπότ, για την οποία οι φίλοι του βασίζονται πάνω του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525212000 GMT+3" stop="20260525215000 GMT+3" channel="2755">
+  <programme start="20260525212500 GMT+3" stop="20260525214500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ13</title>
     <desc lang="el">Θέλοντας να γίνει φίλος με τον Μπάρι Κρίπκε για να αποκτήσει πρόσβαση σε έναν υπερσύγχρονο εργαστηριακό εξοπλισμό, ο Σέλντον φτιάχνει ένα διάγραμμα με τρόπους για να κάνει φίλους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525215000 GMT+3" stop="20260525223500 GMT+3" channel="2755">
+  <programme start="20260525214500 GMT+3" stop="20260525223500 GMT+3" channel="2755">
     <title lang="el">The Old Man 2 Κ2 ΕΠ5</title>
     <desc lang="el">Ο Τσέις, ο Χάρπερ κι η Ζόι βρίσκουν καταφύγιο στο σπίτι του Χάρπερ, αλλά λαμβάνουν τραγικά νέα. Πρωταγωνιστούν: Jeff Bridges, John Lithgow, Alia Shawkat,Amy Brenneman. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260525223500 GMT+3" stop="20260525234000 GMT+3" channel="2755">
+  <programme start="20260525223500 GMT+3" stop="20260525233500 GMT+3" channel="2755">
     <title lang="el">Criminal Minds: Evolution Κ17 ΕΠ8</title>
     <desc lang="el">Η Τζέιντ και ο Ντέιμιεν εξακολουθούν να σκορπούν τον θάνατο. Ο Ρόσι συναντά έναν παλιό του έρωτα. Πρωταγωνιστούν: Joe Mantegna,A.J. Cook,Kirsten Vangsness, Aisha Tyler, Zach Gilford,Ryan-James Hatanaka,Adam Rodriguez. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260525234000 GMT+3" stop="20260526002500 GMT+3" channel="2755">
+  <programme start="20260525233500 GMT+3" stop="20260526002000 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ21</title>
     <desc lang="el">Όταν το νοσοκομείο έχει σοβαρή έλλειψη αίματος, ο Κόνραντ πρέπει να δοκιμάσει τα πάντα για να σώσει τη ζωή ενός ασθενούς. Η Νικ λαμβάνει συγκλονιστικά νέα και ανησυχεί για την υγεία της αδερφής της, ενώ η Μίνα και ο Ντέβον συνεργάζονται με μια νέα αναισθησιολόγο, που δεν είναι αυτό που δείχνει. Αλλού, η Κιτ σκέφτεται το μέλλον των μπλεγμένων σχέσεών της και ο Μπελ συναντά μια γυναίκα από το παρελθόν του. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -60948,27 +60678,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525053000 GMT+3" stop="20260525055500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ3</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες, ενώ οδηγούμε μέσα σε χιόνι ή κάνουμε ποδήλατο σε ποδηλατική πίστα καθώς και τις τρομακτικές συνέπειες ενός χαλασμένου ηλεκτρικού καλωδίου. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525055500 GMT+3" stop="20260525062000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ4</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες ενώ επιχειρούμε κόλπα με ένα BMX 720, διασκεδάζουμε σε παιδικές χαρές και προσπαθούμε να παρκάρουμε. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525062000 GMT+3" stop="20260525070000 GMT+3" channel="216459">
+  <programme start="20260525062000 GMT+3" stop="20260525070500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ6</title>
     <desc lang="el">Όταν ένας οδηγός φορτηγού γλιστράει και μένει ακινητοποιημένος στον πάγο, αλλά αρνείται τη βοήθεια του Θορντ, δημιουργεί χάος στον κεντρικό δρόμο. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525070000 GMT+3" stop="20260525075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ4</title>
-    <desc lang="el">Ο ανταγωνισμός ανάμεσα στον Sam Jackson και τον Eddie Farrows οξύνεται. Ο φόβος του Brandon Goulet για τον θάνατο γίνεται αληθινός όταν φτάνει κοντά σε ένα δυστύχημα. Το τραγικό παρελθόν της Becky Normans την κυνηγά όταν καλείται στο μέρος που έχει γίνει ένα θανατηφόρο ατύχημα. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -60990,75 +60702,21 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525100500 GMT+3" stop="20260525105000 GMT+3" channel="216459">
+  <programme start="20260525100500 GMT+3" stop="20260525105500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ9</title>
     <desc lang="el">Τρία αεροπλάνα γίνονται η λεία φονικών ανέμων και οι ερευνητές καλούνται να βρουν την αιτία. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525105000 GMT+3" stop="20260525113500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ6</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλη την Πολωνία αποκαλύπτει μια χώρα που κάποτε έπρεπε να δώσει μάχη για να επιβιώσει, αλλά σήμερα θεωρείται το μέλλον της Ευρώπης. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525113500 GMT+3" stop="20260525122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ5</title>
-    <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλη την Ισπανία αποκαλύπτει τολμηρούς ψαράδες οστράκων, πρωτοποριακή μηχανική στην Ανδαλουσία και μια επίσκεψη στο μεγαλύτερο σε διάρκεια κατασκευαστικό project στη Βαρκελώνη. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525122500 GMT+3" stop="20260525131000 GMT+3" channel="216459">
+  <programme start="20260525122500 GMT+3" stop="20260525131500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ8</title>
     <desc lang="el">Όταν ο Θορντ και ο Μπιορν σώζουν ένα φορτηγό που παραλίγο να ανατραπεί, ο Θορντ σέρνεται κάτω από τηξν καρότσα κατά τη διάρκεια της ρυμούλκησης, αφήνοντας τη ζωή του στα χέρια του Μπιορν. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525131000 GMT+3" stop="20260525140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ5</title>
-    <desc lang="el">Καθώς η βαριά χιονόπτωση κατακλύζει το Donner Summit, ο Edgar Stratton τρέχει σε μια παγωμένη λίμνη για να σώσει ένα SUV που έχει σχεδόν πέσει μέσα στον πάγο. Όμως, το μεγαλύτερο πρόβλημα είναι ότι ο οδηγός βρίσκεται ακόμα μέσα στο αυτοκίνητο. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
   <programme start="20260525140000 GMT+3" stop="20260525144500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ4</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να ελπίζουν για το καλύτερο αλλά να προετοιμάζονται για το χειρότερο για να επιβιώσουν στην αρκτική ύπαιθρο. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525144500 GMT+3" stop="20260525153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ3</title>
-    <desc lang="el">Η επικοινωνία κινεί τον σύγχρονο κόσμο ενώ οι ασύρματες συνδέσεις και τα κινητά τηλέφωνα μας επιτρέπουν να μοιραζόμαστε ιδέες. Πώς εξελιχθήκαμε στο είδος που λατρεύει την τεχνολογία; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525153500 GMT+3" stop="20260525162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ4</title>
-    <desc lang="el">Μέσα σε μόλις μία γενιά, το Ίντερνετ έχει στην ουσία μεταμορφώσει κάθε πλευρά της σύγχρονης κουλτούρας, από τον τρόπο που μαθαίνουμε και δουλεύουμε μέχρι τους τρόπους με τους οποίους επικοινωνούμε και εκφραζόμαστε. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525162500 GMT+3" stop="20260525171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ1</title>
-    <desc lang="el">Μια πρωτοποριακή ομάδα επιστημόνων πιστεύει ότι έχει τη γνώση για να στοχεύσει και να επιβραδύνει τους μηχανισμούς της γήρανσης. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525171000 GMT+3" stop="20260525175500 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ2</title>
-    <desc lang="el">Ο Tim και ο Fuzz αναλαμβάνουν μια έκτακτη ανάγκη. Ο Steve, ο 53χρονος ιδιοκτήτης ενός Fiat X1/9, έχει καρκίνο στο τελευταίο στάδιο αλλά επιθυμεί να δει τον γιο του να οδηγεί το αμάξι πριν να είναι πολύ αργά. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525175500 GMT+3" stop="20260525182000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ11</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αναρρίχηση χωρίς σχοινιά, κάνουμε ανάποδες τούμπες στο wakeboard ή πηδάμε μέσα σε αφρώδεις κύβους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260525182000 GMT+3" stop="20260525184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ12</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αγώνες ταχύτητας στη λάσπη, χορεύουμε σε κύκλο ή ανεβαίνουμε σε ποδήλατα μικρού μεγέθους. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -61080,29 +60738,17 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525210000 GMT+3" stop="20260525214500 GMT+3" channel="216459">
+  <programme start="20260525210000 GMT+3" stop="20260525215000 GMT+3" channel="216459">
     <title lang="el">CIA Εκ Των Έσω: Μυστικά και Κατάσκοποι Κ1 ΕΠ5</title>
     <desc lang="el">Εντοπίζοντας τον Χασάπη: Η αποστολή ενός πατέρα να αποδώσει δικαιοσύνη σε ένα από τα πιο τρομερά μέλη των Ταλιμπάν φτάνει σε κομβικό σημείο όταν ένας έφηβος από τον στενό του κύκλο συλλαμβάνεται κατά τη διάρκεια μιας επιδρομής. Αυτή η νεοαποκτηθείσα πρόσβαση, σε συνδυασμό με την πιο μυστική τεχνολογία παρακολούθησης της CIA, φέρνει την υπηρεσία σε απόσταση αναπνοής από τον άντρα που αποκαλούν &apos;Χασάπη&apos;. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260525214500 GMT+3" stop="20260525223000 GMT+3" channel="216459">
+  <programme start="20260525215000 GMT+3" stop="20260525223500 GMT+3" channel="216459">
     <title lang="el">UFO: Εξερευνώντας το Άγνωστο Κ1 ΕΠ4</title>
     <desc lang="el">Ιστορίες παρ&apos; ολίγον ατυχημάτων με UAP εν πτήσει πυροδοτούν μια συζήτηση σχετικά με μια σοβαρή απειλή στους ουρανούς μας, όχι μόνο στην Αμερική, αλλά σε όλο τον κόσμο. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260525223000 GMT+3" stop="20260525231500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ3</title>
-    <desc lang="el">Σεπτέμβριος 1944. Μετά την απελευθέρωση του μεγαλύτερου μέρους της Γαλλίας, του Λουξεμβούργου και του Βελγίου, οι Συμμαχικές Δυνάμεις βάζουν σε εφαρμογή το φιλόδοξο σχέδιο του Στρατηγού Bernard Montgomery για το τέλος του πολέμου το 1944. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260525231500 GMT+3" stop="20260526000500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ4</title>
-    <desc lang="el">Δεκέμβριος 1944. Αποφασισμένος να ανακαταλάβει το λιμάνι της Αμβέρσας, ο Χίτλερ κινητοποιεί μια απρόσμενη τεράστια επίθεση στο δάσος των Αρδεννών εναντίον του ελλιπώς επανδρωμένου αμερικανικού στρατού. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260525002500 GMT+3" stop="20260525011000 GMT+3" channel="2831">
     <title lang="el">Εθνικά Πάρκα: ΗΠΑ Κ1 ΕΠ1</title>
@@ -64207,7 +63853,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525003000 GMT+3" stop="20260525010000 GMT+3" channel="1945">
-    <title lang="el">Quest&apos;s World of Wonder ΕΠ5</title>
+    <title lang="el">Quest&apos;s World of Wonder ΕΠ4</title>
     <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -64218,9 +63864,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525020000 GMT+3" stop="20260525040000 GMT+3" channel="1945">
+  <programme start="20260525020000 GMT+3" stop="20260525030000 GMT+3" channel="1945">
     <title lang="el">CNN Newsroom Sunday ΕΠ146</title>
     <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525030000 GMT+3" stop="20260525040000 GMT+3" channel="1945">
+    <title lang="el">State of the Union with Jake Tapper and Dana Bash ΕΠ21</title>
+    <desc lang="el">Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64242,9 +63894,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525054500 GMT+3" stop="20260525063000 GMT+3" channel="1945">
+  <programme start="20260525054500 GMT+3" stop="20260525060000 GMT+3" channel="1945">
     <title lang="el">Marketplace Europe ΕΠ57</title>
     <desc lang="el">Every month, we delve into how innovation and technology are driving Europe&apos;s great recovery, speaking to top CEOs and exploring new trends. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525063000 GMT+3" channel="1945">
+    <title lang="el">Next Big Trip ΕΠ3</title>
+    <desc lang="el">Next Big Trip spotlights some of the world’s most exciting destinations and their bucket-list-worthy luxury and adventure experiences. (2025)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64291,14 +63949,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525110000 GMT+3" stop="20260525120000 GMT+3" channel="1945">
-    <title lang="el">The Amanpour Hour ΕΠ21</title>
-    <desc lang="el">Christiane Amanpour, CNN’s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week. (2026)</desc>
+    <title lang="el">CNN Newsroom ΕΠ235</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260525120000 GMT+3" stop="20260525130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ103</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
+    <title lang="el">CNN Headline Express ΕΠ26</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -64350,9 +64008,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525190000 GMT+3" stop="20260525200000 GMT+3" channel="1945">
-    <title lang="el">One World ΕΠ364</title>
+  <programme start="20260525190000 GMT+3" stop="20260525194500 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ103</title>
     <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525194500 GMT+3" stop="20260525200000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ18</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -70566,12 +70230,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525100000 GMT+3" stop="20260525110000 GMT+3" channel="94430673">
-    <title lang="el">130 Greatest LFC Goals</title>
-    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260525050000 GMT+3" stop="20260525060000 GMT+3" channel="94430673">
     <title lang="el">Salah 50 Goals in Europe</title>
     <desc lang="el">To celebrate Mo Salah reaching 50 goals in European competition enjoy his first half century of strikes from the Champions League &amp; Europa League.</desc>
@@ -70587,6 +70245,12 @@
   <programme start="20260525080000 GMT+3" stop="20260525100000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Brentford: The Match</title>
     <desc lang="el">All the action as Liverpool take on Brentford.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525100000 GMT+3" stop="20260525110000 GMT+3" channel="94430673">
+    <title lang="el">130 Greatest LFC Goals</title>
+    <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -70683,6 +70347,12 @@
   <programme start="20260525224500 GMT+3" stop="20260525230000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Brentford: Shortcut</title>
     <desc lang="el">The best of the action as Liverpool take on Brentford.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230000 GMT+3" stop="20260526000000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77445,37 +77115,43 @@
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260526002500 GMT+3" stop="20260526010500 GMT+3" channel="216595">
+  <programme start="20260526000000 GMT+3" stop="20260526002500 GMT+3" channel="216595">
+    <title lang="el">UnPrisoned 2 Κ2 ΕΠ8</title>
+    <desc lang="el">Οι Αλεξάντερ κάνουν σημαντική πρόοδο ως οικογένεια. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>18</rating>
+  </programme>
+  <programme start="20260526002500 GMT+3" stop="20260526011000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ13</title>
     <desc lang="el">Όταν ένας απαγωγέας που ντύνεται κλόουν επανεμφανίζεται στη Βοστόνη μετά από 20 και πλέον χρόνια, η ομάδα κυριεύεται από φόβο. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526010500 GMT+3" stop="20260526015000 GMT+3" channel="216595">
+  <programme start="20260526011000 GMT+3" stop="20260526015500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ12</title>
     <desc lang="el">Μετά την εθνική κατακραυγή για την τραγική δολοφονία ενός άοπλου μαύρου άντρα, η Maya καλεί τη Δρ. Diane Lewis για να βοηθήσει ψυχολογικά την ομάδα. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526015000 GMT+3" stop="20260526023500 GMT+3" channel="216595">
+  <programme start="20260526015500 GMT+3" stop="20260526024000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ2</title>
     <desc lang="el">Ο Τζέιν πηγαίνει πίσω από την πλάτη της ανώτερης πράκτορα Τερέζα Λισμπάνον για να ενορχηστρώσει τη δική του ανορθόδοξη μυστική επιχείρηση, καθώς η ομάδα προσπαθεί να συλλάβει έναν δολοφόνο στην κοιλάδα Νάπα. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526023500 GMT+3" stop="20260526030000 GMT+3" channel="216595">
+  <programme start="20260526024000 GMT+3" stop="20260526030000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ13</title>
     <desc lang="el">Ο Phil και η Claire βγαίνουν με την Haley για δείπνο για να μιλήσουν για το μέλλον της αλλά καταφέρνει να το αποφύγει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526030000 GMT+3" stop="20260526032000 GMT+3" channel="216595">
+  <programme start="20260526030000 GMT+3" stop="20260526032500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ14</title>
     <desc lang="el">Τελικά όλοι στην οικογένεια κρύβουν ένα μυστικό. Η Haley ετοιμάζει μία έκθεση φωτογραφίας στο κολέγιο την οποία και προσπαθεί να αποφύγει ενώ η Claire ζητά βοήθεια από τον Alex για να μάθουν τι κρύβει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526032000 GMT+3" stop="20260526034500 GMT+3" channel="216595">
+  <programme start="20260526032500 GMT+3" stop="20260526034500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ3</title>
     <desc lang="el">Η Νελ καλείται να γράψει τη νεκρολογία ενός δημοφιλούς προσώπου με το οποίο έχει παρελθόν. Στο μεταξύ, η Σαμ βοηθάει τον Ντένις να ξεπεράσει έναν παλιό του φόβο. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -77511,267 +77187,273 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526060000 GMT+3" stop="20260526061500 GMT+3" channel="216595">
+  <programme start="20260526060000 GMT+3" stop="20260526062000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ11</title>
     <desc lang="el">Ο Phil ξεγελά τον Luke για να κάνει μαθήματα χορού αλλά το πληρώνει όταν το αθώο ψέμα του τον βάζει σε μπελάδες. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526061500 GMT+3" stop="20260526064000 GMT+3" channel="216595">
+  <programme start="20260526062000 GMT+3" stop="20260526064500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ12</title>
     <desc lang="el">Σε μια συγκέντρωση γονέων του λυκείου, οι γονείς ταξιδεύουν στα μαθητικά τους χρόνια όταν η Claire αγχώνεται υπερβολικά, η Gloria αντιμετωπίζει μια &apos;&apos;κακιά&quot; μαμά, και ο Jay μαθαίνει στον Phil πώς να κάνει κοπάνα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526064000 GMT+3" stop="20260526072000 GMT+3" channel="216595">
+  <programme start="20260526064500 GMT+3" stop="20260526073000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 7 Κ7 ΕΠ13</title>
     <desc lang="el">The Mentalist 7 Πρωταγωνιστούν: Robin Tunney,Simon Baker,Tim Kang. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526072000 GMT+3" stop="20260526080500 GMT+3" channel="216595">
+  <programme start="20260526073000 GMT+3" stop="20260526081500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ12</title>
     <desc lang="el">Ο φόνος ενός υπαλλήλου σε βίντεο κλαμπ παίρνει μια παράξενη τροπή όταν η ομάδα ανακαλύπτει ότι στο παρελθόν ήταν ένας ιδιαίτερα ικανός χάκερ. Αυτό όμως δε συγκρίνεται με την ταραχή του Castle όταν η έρευνα οδηγεί στον πατέρα του. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526080500 GMT+3" stop="20260526085000 GMT+3" channel="216595">
+  <programme start="20260526081500 GMT+3" stop="20260526090000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ12</title>
     <desc lang="el">Στο καλοκαιρινό φινάλε, η ομάδα σπεύδει να λύσει μια υπόθεση βίαιης ανθρωποκτονίας που έχει μπερδευτεί από αντικρουόμενα στοιχεία. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526085000 GMT+3" stop="20260526091000 GMT+3" channel="216595">
+  <programme start="20260526090000 GMT+3" stop="20260526092000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ3</title>
     <desc lang="el">Ύστερα από μια τυχαία συνάντηση του Ted με μια πρώην του, εκείνος προσπαθεί να δείξει την έμπρακτη μεταμέλειά του, μιας και την είχε απατήσει όταν είχαν σχέση. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526091000 GMT+3" stop="20260526093500 GMT+3" channel="216595">
+  <programme start="20260526092000 GMT+3" stop="20260526094000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ4</title>
     <desc lang="el">Όταν η Robin επιτίθεται σ’ ένα κορίτσι που θέλει να καταστρέψει τη σχέση του Barney, αναγκάζεται να αρχίσει θεραπείες, ύστερα από υπόδειξη του δικαστηρίου. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526093500 GMT+3" stop="20260526095500 GMT+3" channel="216595">
+  <programme start="20260526094000 GMT+3" stop="20260526100500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ3</title>
     <desc lang="el">Η Νελ καλείται να γράψει τη νεκρολογία ενός δημοφιλούς προσώπου με το οποίο έχει παρελθόν. Στο μεταξύ, η Σαμ βοηθάει τον Ντένις να ξεπεράσει έναν παλιό του φόβο. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526095500 GMT+3" stop="20260526102000 GMT+3" channel="216595">
+  <programme start="20260526100500 GMT+3" stop="20260526102500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ4</title>
     <desc lang="el">Οι φίλοι της Νελ προσπαθούν να της κανονίσουν ραντεβού, ωστόσο η Νελ δεν είναι σίγουρη ότι είναι έτοιμη να προχωρήσει. Ο Έντουαρντ έχει καλύτερη τύχη στην εύρεση συντρόφου. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526102000 GMT+3" stop="20260526104000 GMT+3" channel="216595">
+  <programme start="20260526102500 GMT+3" stop="20260526105000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ3</title>
     <desc lang="el">Ένας περιοδεύων θίασος, στον οποίο συμμετείχε ο Τζέικομπ, επισκέπτεται το δημοτικό Άμποτ. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526104000 GMT+3" stop="20260526110500 GMT+3" channel="216595">
+  <programme start="20260526105000 GMT+3" stop="20260526111000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ4</title>
     <desc lang="el">Ο Γκρέγκορι μαθαίνει ότι τα παιδιά απολαμβάνουν την υποτιθέμενη ώρα πειθαρχίας με την Έιβα. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526110500 GMT+3" stop="20260526115000 GMT+3" channel="216595">
+  <programme start="20260526111000 GMT+3" stop="20260526120000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ1</title>
     <desc lang="el">Το πρώην μέντιουμ, Τόμας Τζέιν, εντάσσεται σε μια ομάδα επιβολής του νόμου καθώς ερευνούν έναν διπλό φόνο με τα χαρακτηριστικά ενός κατά συρροή δολοφόνου με προσωπική σχέση με τον Τζέιν. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526115000 GMT+3" stop="20260526123500 GMT+3" channel="216595">
+  <programme start="20260526120000 GMT+3" stop="20260526124000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ12</title>
     <desc lang="el">Μετά την εθνική κατακραυγή για την τραγική δολοφονία ενός άοπλου μαύρου άντρα, η Maya καλεί τη Δρ. Diane Lewis για να βοηθήσει ψυχολογικά την ομάδα. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526123500 GMT+3" stop="20260526125500 GMT+3" channel="216595">
+  <programme start="20260526124000 GMT+3" stop="20260526130500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ13</title>
     <desc lang="el">Ο Phil και η Claire βγαίνουν με την Haley για δείπνο για να μιλήσουν για το μέλλον της αλλά καταφέρνει να το αποφύγει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526125500 GMT+3" stop="20260526132000 GMT+3" channel="216595">
+  <programme start="20260526130500 GMT+3" stop="20260526132500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ14</title>
     <desc lang="el">Τελικά όλοι στην οικογένεια κρύβουν ένα μυστικό. Η Haley ετοιμάζει μία έκθεση φωτογραφίας στο κολέγιο την οποία και προσπαθεί να αποφύγει ενώ η Claire ζητά βοήθεια από τον Alex για να μάθουν τι κρύβει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526132000 GMT+3" stop="20260526140500 GMT+3" channel="216595">
+  <programme start="20260526132500 GMT+3" stop="20260526141000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ13</title>
     <desc lang="el">Όταν ένας απαγωγέας που ντύνεται κλόουν επανεμφανίζεται στη Βοστόνη μετά από 20 και πλέον χρόνια, η ομάδα κυριεύεται από φόβο. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526140500 GMT+3" stop="20260526144500 GMT+3" channel="216595">
+  <programme start="20260526141000 GMT+3" stop="20260526145500 GMT+3" channel="216595">
     <title lang="el">High Potential 2 Κ2 ΕΠ12</title>
     <desc lang="el">High Potential 2 Πρωταγωνιστούν: Daniel Sunjata,Javicia Leslie,Kaitlin Olson. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526144500 GMT+3" stop="20260526151000 GMT+3" channel="216595">
+  <programme start="20260526145500 GMT+3" stop="20260526151500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ5</title>
     <desc lang="el">Όταν ο Marshall παρακολουθεί την προσέγγιση του αφεντικού του για τη διευθέτηση μιας συμφωνίας με μια εταιρεία αξίας πολλών εκατομμυρίων, παίρνει την υπόθεση στα χέρια του. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526151000 GMT+3" stop="20260526153500 GMT+3" channel="216595">
+  <programme start="20260526151500 GMT+3" stop="20260526154000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ6</title>
     <desc lang="el">Όταν ο Ted βγαίνει ραντεβού χωρίς να μάθει τα πάντα για την κοπέλα μέσω διαδικτύου, η παρέα δείχνει στον Kevin ότι παρεμβαίνει στις ζωές των μελών της. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526153500 GMT+3" stop="20260526161500 GMT+3" channel="216595">
+  <programme start="20260526154000 GMT+3" stop="20260526162500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ13</title>
     <desc lang="el">Όταν ένα ανερχόμενο αστέρι της ποπ βρίσκεται νεκρό σ’ ένα σοκάκι, ο Castle και η Beckett σκαλίζουν τον &quot;ανεξέλεγκτο&quot; τρόπο ζωής του θύματος. Ψάχνοντας όμως ακόμα πιο βαθιά, μια σοκαριστική αποκάλυψη απειλεί την έρευνά τους. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526161500 GMT+3" stop="20260526164000 GMT+3" channel="216595">
+  <programme start="20260526162500 GMT+3" stop="20260526164500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ5</title>
     <desc lang="el">Όταν η Νελ ερωτεύεται έναν ακατάλληλο άντρα και συνειδητοποιεί ότι η τελευταία της σχέση ίσως να την κρατάει πίσω, ο Έντουαρντ βοηθάει την Κρίκετ να δει ότι αυτό που λείπει από το μπαρ είναι ένα κομμάτι από το παρελθόν της. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526164000 GMT+3" stop="20260526170500 GMT+3" channel="216595">
+  <programme start="20260526164500 GMT+3" stop="20260526171000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ6</title>
     <desc lang="el">Η Λέξι ορίζει τη Σαμ υπεύθυνη για το φεστιβάλ φαγητού και κρασιού της εφημερίδας, κάνοντας τη Νελ να ζηλέψει τη φιλία τους. Ο Έντουαρντ βοηθάει την Κρίκετ ενώ ο Ντένις αποφασίζει να εκτονωθεί. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526170500 GMT+3" stop="20260526172500 GMT+3" channel="216595">
+  <programme start="20260526171000 GMT+3" stop="20260526173000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ5</title>
     <desc lang="el">Η Τζανίν ανυπομονεί να παρουσιάσει το νέο ρόφημα στο κυλικείο. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526172500 GMT+3" stop="20260526175000 GMT+3" channel="216595">
+  <programme start="20260526173000 GMT+3" stop="20260526175500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ6</title>
     <desc lang="el">Είναι Χαλοουίν στο Δημοτικό Άμποτ! Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526175000 GMT+3" stop="20260526183500 GMT+3" channel="216595">
+  <programme start="20260526175500 GMT+3" stop="20260526184000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ2</title>
     <desc lang="el">Ο Τζέιν πηγαίνει πίσω από την πλάτη της ανώτερης πράκτορα Τερέζα Λισμπάνον για να ενορχηστρώσει τη δική του ανορθόδοξη μυστική επιχείρηση, καθώς η ομάδα προσπαθεί να συλλάβει έναν δολοφόνο στην κοιλάδα Νάπα. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526183500 GMT+3" stop="20260526192500 GMT+3" channel="216595">
+  <programme start="20260526184000 GMT+3" stop="20260526193000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ13</title>
     <desc lang="el">Ο Ben και ο Dean δίνουν μάχη ζωής και θανάτου μετά το δείπνο της Ένωσης Μαύρων Μαχητών. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526192500 GMT+3" stop="20260526194500 GMT+3" channel="216595">
+  <programme start="20260526193000 GMT+3" stop="20260526195000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ15</title>
     <desc lang="el">Ο ορκισμένος εχθρός του Phil, Gil Thorpe, ξαναχτυπά όταν φροντίζει να τον διώξουν από τον τοπικό σύλλογο μεσιτών. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526194500 GMT+3" stop="20260526201000 GMT+3" channel="216595">
+  <programme start="20260526195000 GMT+3" stop="20260526201500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ16</title>
     <desc lang="el">Ο κατενθουσιασμένος Phil σχεδιάζει την ετήσια εκδήλωση του συλλόγου μεσιτών, στην οποία εκτελεί χρέη οικοδεσπότη για τρίτη φορά. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526201000 GMT+3" stop="20260526210000 GMT+3" channel="216595">
+  <programme start="20260526201500 GMT+3" stop="20260526210000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ14</title>
     <desc lang="el">Ένας τραγουδιστής και κιθαρίστας μαχαιρώνεται άγρια και μυστηριωδώς σε ένα μπαρ. Καθώς οι λεπτομέρειες της υπόθεσης έρχονται στο φως, η ομάδα σύντομα συνειδητοποιεί ότι το θύμα έκρυβε κάτι. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526210000 GMT+3" stop="20260526214000 GMT+3" channel="216595">
+  <programme start="20260526210000 GMT+3" stop="20260526214500 GMT+3" channel="216595">
     <title lang="el">High Potential 2 Κ2 ΕΠ13</title>
     <desc lang="el">Η κλοπή ενός πολυτελούς αμαξιού καταλήγει σε φόνο. Πρωταγωνιστούν: Daniel Sunjata,Javicia Leslie,Kaitlin Olson. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526214000 GMT+3" stop="20260526221000 GMT+3" channel="216595">
+  <programme start="20260526214500 GMT+3" stop="20260526221500 GMT+3" channel="216595">
     <title lang="el">UnPrisoned 2 Κ2 ΕΠ7</title>
     <desc lang="el">Η Πέιτζ πρέπει να καταλάβει επιτέλους γιατί δεν της αρέσουν τα Χριστούγεννα. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526221000 GMT+3" stop="20260526224000 GMT+3" channel="216595">
+  <programme start="20260526221500 GMT+3" stop="20260526224000 GMT+3" channel="216595">
     <title lang="el">UnPrisoned 2 Κ2 ΕΠ8</title>
     <desc lang="el">Οι Αλεξάντερ κάνουν σημαντική πρόοδο ως οικογένεια. Πρωταγωνιστούν: Faly Rakotohavana,Kerry Washington,Marque Richardson,Delroy Lindo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526224000 GMT+3" stop="20260526232500 GMT+3" channel="216595">
+  <programme start="20260526224000 GMT+3" stop="20260526233000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ3</title>
     <desc lang="el">Όταν η σορός μιας μαθήτριας λυκείου ξεβράζεται στην παραλία, ο Πάτρικ Τζέιν στήνει μια παγίδα για να κάνει τους φίλους της στο σέρφινγκ να στραφούν ο ένας εναντίον του άλλου και να αποκαλύψουν τι πραγματικά συνέβη. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526232500 GMT+3" stop="20260527001000 GMT+3" channel="216595">
+  <programme start="20260526233000 GMT+3" stop="20260527001500 GMT+3" channel="216595">
     <title lang="el">High Potential 2 Κ2 ΕΠ13</title>
     <desc lang="el">Η κλοπή ενός πολυτελούς αμαξιού καταλήγει σε φόνο. Πρωταγωνιστούν: Daniel Sunjata,Javicia Leslie,Kaitlin Olson. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526002500 GMT+3" stop="20260526011000 GMT+3" channel="2755">
+  <programme start="20260526002000 GMT+3" stop="20260526010500 GMT+3" channel="2755">
     <title lang="el">The Old Man 2 Κ2 ΕΠ5</title>
     <desc lang="el">Ο Τσέις, ο Χάρπερ κι η Ζόι βρίσκουν καταφύγιο στο σπίτι του Χάρπερ, αλλά λαμβάνουν τραγικά νέα. Πρωταγωνιστούν: Jeff Bridges, John Lithgow, Alia Shawkat,Amy Brenneman. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526011000 GMT+3" stop="20260526013500 GMT+3" channel="2755">
+  <programme start="20260526010500 GMT+3" stop="20260526013000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ18</title>
     <desc lang="el">Η Μαρτζ ζωγραφίζει ένα πορτρέτο του κυρίου Μπερνς. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526013500 GMT+3" stop="20260526020000 GMT+3" channel="2755">
+  <programme start="20260526013000 GMT+3" stop="20260526015500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ19</title>
     <desc lang="el">Ο Χόμερ ωχριά μπροστά στον δάσκαλο της Λίζα, όπως κι ο Μπαρτ στον αντίπαλο για πρόεδρος της τάξης. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526020000 GMT+3" stop="20260526022500 GMT+3" channel="2755">
+  <programme start="20260526015500 GMT+3" stop="20260526021500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η κριτική της Πένι για την ερωτική ζωή του Γουόλοβιτς τον οδηγεί στην κατάθλιψη και τον κάνει να εξαφανιστεί από μια μάχη με ρομπότ, για την οποία οι φίλοι του βασίζονται πάνω του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526022500 GMT+3" stop="20260526025000 GMT+3" channel="2755">
+  <programme start="20260526021500 GMT+3" stop="20260526024000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ13</title>
     <desc lang="el">Θέλοντας να γίνει φίλος με τον Μπάρι Κρίπκε για να αποκτήσει πρόσβαση σε έναν υπερσύγχρονο εργαστηριακό εξοπλισμό, ο Σέλντον φτιάχνει ένα διάγραμμα με τρόπους για να κάνει φίλους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526025000 GMT+3" stop="20260526033000 GMT+3" channel="2755">
+  <programme start="20260526024000 GMT+3" stop="20260526032000 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ12</title>
     <desc lang="el">Ο Κόλτερ αναλαμβάνει να βρει μια μητέρα στο Οχάιο που εξαφανίστηκε μόλις έβαλε τον γιο της για ύπνο. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526033000 GMT+3" stop="20260526041500 GMT+3" channel="2755">
+  <programme start="20260526032000 GMT+3" stop="20260526040500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ3</title>
     <desc lang="el">Η ομάδα 118 τρέχει για να σώσει έναν άνδρα που η ζωή του κινδυνεύει από το &apos;έξυπνο&apos; σπίτι του και για να βοηθήσει μια δασκάλα γιόγκα που έχει χάσει την όραση της. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526041500 GMT+3" stop="20260526050000 GMT+3" channel="2755">
+  <programme start="20260526040500 GMT+3" stop="20260526045000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ4</title>
     <desc lang="el">Η Athena ερευνά μια μυστηριώδη δολοφονία που έγινε στο πάρτι μιας γειτονιάς και η ομάδα 118 σπεύδει να σώσει ζωές που διατρέχουν κίνδυνο από βομβιστική απειλή. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526050000 GMT+3" stop="20260526052500 GMT+3" channel="2755">
+  <programme start="20260526045000 GMT+3" stop="20260526051500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η κριτική της Πένι για την ερωτική ζωή του Γουόλοβιτς τον οδηγεί στην κατάθλιψη και τον κάνει να εξαφανιστεί από μια μάχη με ρομπότ, για την οποία οι φίλοι του βασίζονται πάνω του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526052500 GMT+3" stop="20260526060000 GMT+3" channel="2755">
+  <programme start="20260526051500 GMT+3" stop="20260526053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ13</title>
     <desc lang="el">Θέλοντας να γίνει φίλος με τον Μπάρι Κρίπκε για να αποκτήσει πρόσβαση σε έναν υπερσύγχρονο εργαστηριακό εξοπλισμό, ο Σέλντον φτιάχνει ένα διάγραμμα με τρόπους για να κάνει φίλους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260526053500 GMT+3" stop="20260526060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ17</title>
+    <desc lang="el">Ο Τζέικ και ο Τσαρλς ερευνούν έναν επικίνδυνο κατά συρροή δολοφόνο. Ο Χολτ συνεχίζει να διαφωνεί με τον αντίπαλό του, τον διοικητή Κέλι. Ο Τέρι μαθαίνει αν έχει περάσει ή όχι τις εξετάσεις για τη θέση του υπαστυνόμου. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -77781,121 +77463,121 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526064500 GMT+3" stop="20260526072500 GMT+3" channel="2755">
+  <programme start="20260526064500 GMT+3" stop="20260526073500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ2</title>
     <desc lang="el">Μετά την κατάρρευση του φράγματος, τεράστιες λασπολισθήσεις προκαλούν χάος σε όλο το Λος Άντζελες. Ο Bobby, η Hen και o Eddie σπεύδουν να διασώσουν πεζοπόρους που κινδυνεύουν από την πτώση της πινακίδας του Hollywood. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526072500 GMT+3" stop="20260526081000 GMT+3" channel="2755">
+  <programme start="20260526073500 GMT+3" stop="20260526081500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο Κόλτερ βρίσκεται μπλεγμένος σε έναν βίαιο πόλεμο της μαφίας. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526081000 GMT+3" stop="20260526083000 GMT+3" channel="2755">
+  <programme start="20260526081500 GMT+3" stop="20260526084000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ15</title>
     <desc lang="el">Όταν η Τζίνα επιστρέφει στο Τμήμα, ο Τζέικ και ο Τέρι εισχωρούν στη ζωή της. Ο Χολτ μαθαίνει ότι ο γιος του Τσαρλς, ο Νικολάι, μπορεί να είναι ιδιοφυΐα. Η Ρόζα αντιμετωπίζει έναν τραυματισμό. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526083000 GMT+3" stop="20260526091500 GMT+3" channel="2755">
+  <programme start="20260526084000 GMT+3" stop="20260526092500 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ20</title>
     <desc lang="el">Ο Ντέβον ανησυχεί, όταν αγνοούνται τα παράπονα μιας μητέρας μετά τον τοκετό της και ωθεί τον Μπελ να λάβει δραστικά μέτρα. Ο Κόνραντ πρέπει να πει στη Νικ τα νέα σχετικά με την επιδείνωση της κατάστασης της Τζέσι. Στο μεταξύ, ο Ράπτορ, η Μίνα και η Κιτ αναλαμβάνουν δράση, όταν μια μητέρα και ο γιος της μπαίνουν στο χειρουργείο με φρικτά τραύματα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526091500 GMT+3" stop="20260526094000 GMT+3" channel="2755">
+  <programme start="20260526092500 GMT+3" stop="20260526095000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ16</title>
     <desc lang="el">Ο σκύλος του Μπαρτ αποστέλλεται σε σχολείο υπακοής αφού καταστρέφει τα ακριβά παπούτσια του Χόμερ. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526094000 GMT+3" stop="20260526100500 GMT+3" channel="2755">
+  <programme start="20260526095000 GMT+3" stop="20260526101500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ17</title>
     <desc lang="el">Ο παππούς χάνει την αγάπη του, μένοντας με βαριά καρδιά και βαρύ πορτοφόλι από τη διαθήκη της. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526100500 GMT+3" stop="20260526103000 GMT+3" channel="2755">
+  <programme start="20260526101500 GMT+3" stop="20260526104000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ10</title>
     <desc lang="el">Ο Λέοναρντ ζητά τη συμβουλή της Πένι όταν η σχέση του με τη Στέφανι απογειώνεται. Οι υποχονδριακές τάσεις του Σέλντον τον καταβάλλουν. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526103000 GMT+3" stop="20260526105500 GMT+3" channel="2755">
+  <programme start="20260526104000 GMT+3" stop="20260526110000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο Σέλντον εκνευρίζει την παρέα με την εμμονή του με το σωστό πρωτόκολλο για τα χριστουγεννιάτικα δώρα. Ο Λέοναρντ είναι συντετριμμένος όταν η Πένι βγαίνει με έναν συνάδελφό του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526105500 GMT+3" stop="20260526111500 GMT+3" channel="2755">
+  <programme start="20260526110000 GMT+3" stop="20260526112500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ17</title>
     <desc lang="el">Ο Τζέικ και ο Τσαρλς ερευνούν έναν επικίνδυνο κατά συρροή δολοφόνο. Ο Χολτ συνεχίζει να διαφωνεί με τον αντίπαλό του, τον διοικητή Κέλι. Ο Τέρι μαθαίνει αν έχει περάσει ή όχι τις εξετάσεις για τη θέση του υπαστυνόμου. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526111500 GMT+3" stop="20260526114000 GMT+3" channel="2755">
+  <programme start="20260526112500 GMT+3" stop="20260526115000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ18</title>
     <desc lang="el">Οι δύσκολοι καιροί απαιτούν δύσκολες αποφάσεις, καθώς ο Τζέικ, ο Χολτ, η Έιμι, ο Τέρι, η Ρόζα και ο Τσαρλς πρέπει να συμμαχήσουν με παλιούς εχθρούς. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526114000 GMT+3" stop="20260526122500 GMT+3" channel="2755">
+  <programme start="20260526115000 GMT+3" stop="20260526123500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ3</title>
     <desc lang="el">Η ομάδα 118 τρέχει για να σώσει έναν άνδρα που η ζωή του κινδυνεύει από το &apos;έξυπνο&apos; σπίτι του και για να βοηθήσει μια δασκάλα γιόγκα που έχει χάσει την όραση της. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526122500 GMT+3" stop="20260526131000 GMT+3" channel="2755">
+  <programme start="20260526123500 GMT+3" stop="20260526132000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ4</title>
     <desc lang="el">Η Athena ερευνά μια μυστηριώδη δολοφονία που έγινε στο πάρτι μιας γειτονιάς και η ομάδα 118 σπεύδει να σώσει ζωές που διατρέχουν κίνδυνο από βομβιστική απειλή. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526131000 GMT+3" stop="20260526135000 GMT+3" channel="2755">
+  <programme start="20260526132000 GMT+3" stop="20260526140500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ12</title>
     <desc lang="el">Ο Κόλτερ αναλαμβάνει να βρει μια μητέρα στο Οχάιο που εξαφανίστηκε μόλις έβαλε τον γιο της για ύπνο. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526135000 GMT+3" stop="20260526143500 GMT+3" channel="2755">
+  <programme start="20260526140500 GMT+3" stop="20260526145000 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ21</title>
     <desc lang="el">Όταν το νοσοκομείο έχει σοβαρή έλλειψη αίματος, ο Κόνραντ πρέπει να δοκιμάσει τα πάντα για να σώσει τη ζωή ενός ασθενούς. Η Νικ λαμβάνει συγκλονιστικά νέα και ανησυχεί για την υγεία της αδερφής της, ενώ η Μίνα και ο Ντέβον συνεργάζονται με μια νέα αναισθησιολόγο, που δεν είναι αυτό που δείχνει. Αλλού, η Κιτ σκέφτεται το μέλλον των μπλεγμένων σχέσεών της και ο Μπελ συναντά μια γυναίκα από το παρελθόν του. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526143500 GMT+3" stop="20260526151000 GMT+3" channel="2755">
+  <programme start="20260526145000 GMT+3" stop="20260526151500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ18</title>
     <desc lang="el">Η Μαρτζ ζωγραφίζει ένα πορτρέτο του κυρίου Μπερνς. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526151000 GMT+3" stop="20260526153500 GMT+3" channel="2755">
+  <programme start="20260526151500 GMT+3" stop="20260526154000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ19</title>
     <desc lang="el">Ο Χόμερ ωχριά μπροστά στον δάσκαλο της Λίζα, όπως κι ο Μπαρτ στον αντίπαλο για πρόεδρος της τάξης. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526153500 GMT+3" stop="20260526155500 GMT+3" channel="2755">
+  <programme start="20260526154000 GMT+3" stop="20260526160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η κριτική της Πένι για την ερωτική ζωή του Γουόλοβιτς τον οδηγεί στην κατάθλιψη και τον κάνει να εξαφανιστεί από μια μάχη με ρομπότ, για την οποία οι φίλοι του βασίζονται πάνω του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526155500 GMT+3" stop="20260526162000 GMT+3" channel="2755">
+  <programme start="20260526160000 GMT+3" stop="20260526162500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ13</title>
     <desc lang="el">Θέλοντας να γίνει φίλος με τον Μπάρι Κρίπκε για να αποκτήσει πρόσβαση σε έναν υπερσύγχρονο εργαστηριακό εξοπλισμό, ο Σέλντον φτιάχνει ένα διάγραμμα με τρόπους για να κάνει φίλους. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526162000 GMT+3" stop="20260526164500 GMT+3" channel="2755">
+  <programme start="20260526162500 GMT+3" stop="20260526165000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ1</title>
     <desc lang="el">Ο Τζέικ ηγείται ενός ανθρωποκυνηγητού μετά από την απόπειρα δολοφονίας ενός δημοτικού συμβούλου. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526164500 GMT+3" stop="20260526171000 GMT+3" channel="2755">
+  <programme start="20260526165000 GMT+3" stop="20260526171000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ2</title>
     <desc lang="el">Μια νέα αρχηγός στο Τμήμα προσπαθεί να πλησιάσει τον Τζέικ και την ομάδα προσκαλώντας τους στο σπίτι της για δείπνο. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -77937,31 +77619,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526210000 GMT+3" stop="20260526212000 GMT+3" channel="2755">
+  <programme start="20260526210000 GMT+3" stop="20260526212500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ14</title>
     <desc lang="el">Όταν ο Σέλντον δανείζει χρήματα στην Πένι για να μπορέσει να πληρώσει το ενοίκιό της, ο Λέοναρντ έρχεται πρόσωπο με πρόσωπο με τον πρώην της, τον Κερτ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526212000 GMT+3" stop="20260526215000 GMT+3" channel="2755">
+  <programme start="20260526212500 GMT+3" stop="20260526215000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ15</title>
     <desc lang="el">Μια επίσκεψη από τη μητέρα του Λέοναρντ καταλήγει να τον φέρει πιο κοντά με την Πένι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526215000 GMT+3" stop="20260526224000 GMT+3" channel="2755">
+  <programme start="20260526215000 GMT+3" stop="20260526223500 GMT+3" channel="2755">
     <title lang="el">9-1-1 9 Κ9 ΕΠ16</title>
     <desc lang="el">9-1-1 9 Πρωταγωνιστούν: Aisha Hinds,Angela Bassett,Oliver Stark. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526224000 GMT+3" stop="20260526232500 GMT+3" channel="2755">
+  <programme start="20260526223500 GMT+3" stop="20260526232000 GMT+3" channel="2755">
     <title lang="el">The Old Man 2 Κ2 ΕΠ5</title>
     <desc lang="el">Ο Τσέις, ο Χάρπερ κι η Ζόι βρίσκουν καταφύγιο στο σπίτι του Χάρπερ, αλλά λαμβάνουν τραγικά νέα. Πρωταγωνιστούν: Jeff Bridges, John Lithgow, Alia Shawkat,Amy Brenneman. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260526232500 GMT+3" stop="20260527001500 GMT+3" channel="2755">
+  <programme start="20260526232000 GMT+3" stop="20260527001000 GMT+3" channel="2755">
     <title lang="el">The Resident 2 Κ2 ΕΠ22</title>
     <desc lang="el">Όταν ένας νικητής του λαχείου εισάγεται στο νοσοκομείο, ο Μπελ στρέφεται σε αυτόν ως πιθανή λύση στα οικονομικά προβλήματα του Τσαστέιν. Η Νικ εξοργίζεται, όταν ο Άλεκ της προτείνει να συναντηθεί με έναν μεσίτη οργάνων με την ελπίδα να σώσει τη ζωή της Τζέσι, αλλά όταν όλες οι άλλες ιδέες της αποτυγχάνουν, φέρνει την ιδέα στον Κόνραντ. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -78699,69 +78381,51 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526000500 GMT+3" stop="20260526005000 GMT+3" channel="216459">
+  <programme start="20260526001000 GMT+3" stop="20260526005500 GMT+3" channel="216459">
     <title lang="el">CIA Εκ Των Έσω: Μυστικά και Κατάσκοποι Κ1 ΕΠ5</title>
     <desc lang="el">Εντοπίζοντας τον Χασάπη: Η αποστολή ενός πατέρα να αποδώσει δικαιοσύνη σε ένα από τα πιο τρομερά μέλη των Ταλιμπάν φτάνει σε κομβικό σημείο όταν ένας έφηβος από τον στενό του κύκλο συλλαμβάνεται κατά τη διάρκεια μιας επιδρομής. Αυτή η νεοαποκτηθείσα πρόσβαση, σε συνδυασμό με την πιο μυστική τεχνολογία παρακολούθησης της CIA, φέρνει την υπηρεσία σε απόσταση αναπνοής από τον άντρα που αποκαλούν &apos;Χασάπη&apos;. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526005000 GMT+3" stop="20260526013000 GMT+3" channel="216459">
+  <programme start="20260526005500 GMT+3" stop="20260526013500 GMT+3" channel="216459">
     <title lang="el">UFO: Εξερευνώντας το Άγνωστο Κ1 ΕΠ4</title>
     <desc lang="el">Ιστορίες παρ&apos; ολίγον ατυχημάτων με UAP εν πτήσει πυροδοτούν μια συζήτηση σχετικά με μια σοβαρή απειλή στους ουρανούς μας, όχι μόνο στην Αμερική, αλλά σε όλο τον κόσμο. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526013000 GMT+3" stop="20260526021500 GMT+3" channel="216459">
+  <programme start="20260526013500 GMT+3" stop="20260526022000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ5 ΕΠ10</title>
     <desc lang="el">Από διαταραγμένους αεροπειρατές μέχρι πιλότους αυτοκτονίας, τρεις πτήσεις πέφτουν θύμα απίστευτων πράξεων σαμποτάζ. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526021500 GMT+3" stop="20260526030000 GMT+3" channel="216459">
+  <programme start="20260526022000 GMT+3" stop="20260526030500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ1</title>
     <desc lang="el">Τα ατυχήματα που προκαλούνται από προβλήματα στην κλίση είναι τόσο ολέθρια που η επιβίωση είναι σχεδόν αδύνατη και λίγα στοιχεία μένουν πίσω για να εξεταστούν οι ερευνητές. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526030000 GMT+3" stop="20260526034500 GMT+3" channel="216459">
+  <programme start="20260526030500 GMT+3" stop="20260526035000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ2</title>
     <desc lang="el">Έχοντας φτάσει στα όριά τους, τρία πληρώματα που βρίσκονται σε κίνδυνο ξεπερνούν αδιανόητες δυσκολίες για να προσγειώσουν τα αεροσκάφη τους. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526034500 GMT+3" stop="20260526043000 GMT+3" channel="216459">
+  <programme start="20260526035000 GMT+3" stop="20260526043500 GMT+3" channel="216459">
     <title lang="el">CIA Εκ Των Έσω: Μυστικά και Κατάσκοποι Κ1 ΕΠ5</title>
     <desc lang="el">Εντοπίζοντας τον Χασάπη: Η αποστολή ενός πατέρα να αποδώσει δικαιοσύνη σε ένα από τα πιο τρομερά μέλη των Ταλιμπάν φτάνει σε κομβικό σημείο όταν ένας έφηβος από τον στενό του κύκλο συλλαμβάνεται κατά τη διάρκεια μιας επιδρομής. Αυτή η νεοαποκτηθείσα πρόσβαση, σε συνδυασμό με την πιο μυστική τεχνολογία παρακολούθησης της CIA, φέρνει την υπηρεσία σε απόσταση αναπνοής από τον άντρα που αποκαλούν &apos;Χασάπη&apos;. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526043000 GMT+3" stop="20260526051500 GMT+3" channel="216459">
+  <programme start="20260526043500 GMT+3" stop="20260526052000 GMT+3" channel="216459">
     <title lang="el">UFO: Εξερευνώντας το Άγνωστο Κ1 ΕΠ4</title>
     <desc lang="el">Ιστορίες παρ&apos; ολίγον ατυχημάτων με UAP εν πτήσει πυροδοτούν μια συζήτηση σχετικά με μια σοβαρή απειλή στους ουρανούς μας, όχι μόνο στην Αμερική, αλλά σε όλο τον κόσμο. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526051500 GMT+3" stop="20260526054000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ11</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αναρρίχηση χωρίς σχοινιά, κάνουμε ανάποδες τούμπες στο wakeboard ή πηδάμε μέσα σε αφρώδεις κύβους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526054000 GMT+3" stop="20260526060500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ12</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αναποδιές ενώ κάνουμε αγώνες ταχύτητας στη λάσπη, χορεύουμε σε κύκλο ή ανεβαίνουμε σε ποδήλατα μικρού μεγέθους. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526060500 GMT+3" stop="20260526070000 GMT+3" channel="216459">
+  <programme start="20260526061000 GMT+3" stop="20260526070000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ9 ΕΠ8</title>
     <desc lang="el">Όταν ο Θορντ και ο Μπιορν σώζουν ένα φορτηγό που παραλίγο να ανατραπεί, ο Θορντ σέρνεται κάτω από τηξν καρότσα κατά τη διάρκεια της ρυμούλκησης, αφήνοντας τη ζωή του στα χέρια του Μπιορν. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526070000 GMT+3" stop="20260526075000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ5</title>
-    <desc lang="el">Καθώς η βαριά χιονόπτωση κατακλύζει το Donner Summit, ο Edgar Stratton τρέχει σε μια παγωμένη λίμνη για να σώσει ένα SUV που έχει σχεδόν πέσει μέσα στον πάγο. Όμως, το μεγαλύτερο πρόβλημα είναι ότι ο οδηγός βρίσκεται ακόμα μέσα στο αυτοκίνητο. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -78789,85 +78453,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526105000 GMT+3" stop="20260526114000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ3</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από τη Γαλλία αποκαλύπτει μια πολιτισμική υπερδύναμη απλωμένη πάνω σε ένα απέραντο τοπίο αντιθέσεων και εκπλήξεων. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526114000 GMT+3" stop="20260526122500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ6</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από την Ελλάδα αποκαλύπτει αρχαία μνημεία, μοναστήρια στην άκρη του γκρεμού, τολμηρές μεθόδους καθαρισμού της θάλασσας και μηχανική χωρίς προηγούμενο. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526122500 GMT+3" stop="20260526131000 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ1</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526131000 GMT+3" stop="20260526140000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ6</title>
-    <desc lang="el">Όταν ο Justin Mobley κλέβει ένα ρυμουλκό από τον συνάδελφό του Sam Jackson, οι εντάσεις οξύνονται στο Donner Pass. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526140000 GMT+3" stop="20260526144500 GMT+3" channel="216459">
+  <programme start="20260526135500 GMT+3" stop="20260526144000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ5</title>
     <desc lang="el">Η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να αντιμετωπίσει τις προκλήσεις της Μητέρας Φύσης για να μπορέσει να επιβιώσει. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526144500 GMT+3" stop="20260526153500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ4</title>
-    <desc lang="el">Φαίνεται ότι βρισκόμαστε σε μια συνεχή κατάσταση πολέμου. Πρόκειται για ένα καταστροφικό μειονέκτημα του ανθρώπου ή μήπως η ανθρωπότητα χρειάζεται τους πολέμους για να εξελιχθεί; (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526153500 GMT+3" stop="20260526162500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ5</title>
-    <desc lang="el">Η υπερκατανάλωση ενέργειας και φυσικών πόρων έχει οδηγήσει σε ένα σημείο καμπής, το οποίο θα μας αναγκάσει είτε να βρούμε λύση στα προβλήματά μας, είτε να ψάξουμε για άλλους πλανήτες στους οποίους μπορούμε να ζήσουμε. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526162500 GMT+3" stop="20260526171000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ5</title>
-    <desc lang="el">Για πολλά χρόνια, βασιζόμασταν στα ορυκτά καύσιμα, αλλά ο αριθμός τους είναι πλέον περιορισμένος και το κόστος για το περιβάλλον από την καύση τους μεγαλώνει. Ακολουθήστε μια νέα γενιά εφευρετών και επιχειρηματιών που ψάχνουν καινοτόμες ιδέες για εναλλακτικές πηγές ενέργειας. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526171000 GMT+3" stop="20260526175500 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ3</title>
-    <desc lang="el">Ο Tim και ο Fuzz διασώζουν το πρώτο τους κατά παραγγελία αμάξι, έναν απίστευτα τροποποιημένο σκαραβαίο που ονομάζεται VW Wizard. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526175500 GMT+3" stop="20260526182000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ13</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526182000 GMT+3" stop="20260526184500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ14</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260526184500 GMT+3" stop="20260526193000 GMT+3" channel="216459">
+  <programme start="20260526184000 GMT+3" stop="20260526192500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ3</title>
     <desc lang="el">Είτε προκαλούνται από έντομα, βίαιες καταιγίδες ή ανθρώπινο λάθος, τα προβληματικά δεδομένα μπορεί να είναι θανατηφόρα για τους εξελιγμένους υπολογιστές πτήσης που κρατούν τα αεροπλάνα στον ουρανό. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526193000 GMT+3" stop="20260526201500 GMT+3" channel="216459">
+  <programme start="20260526192500 GMT+3" stop="20260526201000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ4</title>
     <desc lang="el">Από τις δυνατές βροχοπτώσεις μέχρι τους ισχυρούς ανέμους, τρεις φρικτές αεροπορικές τραγωδίες αποκαλύπτουν πόσο σοβαρή απειλή μπορεί να είναι ο κακός καιρός για μια ασφαλή προσγείωση. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260526201500 GMT+3" stop="20260526210000 GMT+3" channel="216459">
+  <programme start="20260526201000 GMT+3" stop="20260526210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ5</title>
     <desc lang="el">Οι ερευνητές αναζητούν απαντήσεις όταν οι πιλότοι τριών αεροσκαφών παρακάμπτουν τα πρωτόκολλα, αγνοούν την εκπαίδευσή τους και συντρίβονται. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -78884,18 +78488,6 @@
     <desc lang="el">Η προσγείωση αεροπλανοφόρου είναι μια δοκιμασία που πρέπει να περάσουν με επιτυχία, αλλά η πτήση ακριβείας αποδεικνύεται δύσκολη για πολλούς από τους μαθητές. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260526223000 GMT+3" stop="20260526232000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ5</title>
-    <desc lang="el">Ιανουάριος 1945. Ως μέρος της προσπάθειας των Συμμάχων να απελευθερώσουν τη Γαλλία, η 7η Μεραρχία Πεζικού των Αμερικάνων ετοιμάζεται να καταλάβει το χωριό Houssen στην περιοχή Colmar Pocket. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260526232000 GMT+3" stop="20260527000500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ2 ΕΠ6</title>
-    <desc lang="el">Μάρτιος 1945. Καθώς οι συμμαχικές δυνάμεις παρατάσσονται κατά μήκος του Ρήνου, έτοιμες να εισβάλλουν στη ναζιστική Γερμανία, οι στρατηγοί παλεύουν για το ποιος θα περάσει πρώτος. Ο Χίτλερ έχει δώσει εντολή να μην πέσει καμία γέφυρα στα χέρια του εχθρού. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260526000500 GMT+3" stop="20260526005000 GMT+3" channel="2831">
     <title lang="el">Μυστικά του Ζωολογικού Κήπου: Τάμπα - Ειδική Έκδοση Κ6 ΕΠ2</title>
@@ -94951,7 +94543,7 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527001000 GMT+3" stop="20260527005500 GMT+3" channel="216595">
+  <programme start="20260527001500 GMT+3" stop="20260527005500 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ14</title>
     <desc lang="el">Ένας τραγουδιστής και κιθαρίστας μαχαιρώνεται άγρια και μυστηριωδώς σε ένα μπαρ. Καθώς οι λεπτομέρειες της υπόθεσης έρχονται στο φως, η ομάδα σύντομα συνειδητοποιεί ότι το θύμα έκρυβε κάτι. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -94969,13 +94561,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527022500 GMT+3" stop="20260527024500 GMT+3" channel="216595">
+  <programme start="20260527022500 GMT+3" stop="20260527025000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ15</title>
     <desc lang="el">Ο ορκισμένος εχθρός του Phil, Gil Thorpe, ξαναχτυπά όταν φροντίζει να τον διώξουν από τον τοπικό σύλλογο μεσιτών. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527024500 GMT+3" stop="20260527031000 GMT+3" channel="216595">
+  <programme start="20260527025000 GMT+3" stop="20260527031000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ16</title>
     <desc lang="el">Ο κατενθουσιασμένος Phil σχεδιάζει την ετήσια εκδήλωση του συλλόγου μεσιτών, στην οποία εκτελεί χρέη οικοδεσπότη για τρίτη φορά. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -94993,33 +94585,27 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527035500 GMT+3" stop="20260527041500 GMT+3" channel="216595">
+  <programme start="20260527035500 GMT+3" stop="20260527042000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ5</title>
     <desc lang="el">Η Τζανίν ανυπομονεί να παρουσιάσει το νέο ρόφημα στο κυλικείο. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527041500 GMT+3" stop="20260527044000 GMT+3" channel="216595">
+  <programme start="20260527042000 GMT+3" stop="20260527045000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ6</title>
     <desc lang="el">Είναι Χαλοουίν στο Δημοτικό Άμποτ! Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527044000 GMT+3" stop="20260527052500 GMT+3" channel="216595">
+  <programme start="20260527045000 GMT+3" stop="20260527053500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ13</title>
     <desc lang="el">Όταν ένα ανερχόμενο αστέρι της ποπ βρίσκεται νεκρό σ’ ένα σοκάκι, ο Castle και η Beckett σκαλίζουν τον &quot;ανεξέλεγκτο&quot; τρόπο ζωής του θύματος. Ψάχνοντας όμως ακόμα πιο βαθιά, μια σοκαριστική αποκάλυψη απειλεί την έρευνά τους. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527052500 GMT+3" stop="20260527054500 GMT+3" channel="216595">
+  <programme start="20260527053500 GMT+3" stop="20260527060000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ5</title>
     <desc lang="el">Όταν ο Marshall παρακολουθεί την προσέγγιση του αφεντικού του για τη διευθέτηση μιας συμφωνίας με μια εταιρεία αξίας πολλών εκατομμυρίων, παίρνει την υπόθεση στα χέρια του. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527054500 GMT+3" stop="20260527060000 GMT+3" channel="216595">
-    <title lang="el">How I Met Your Mother Κ7 ΕΠ6</title>
-    <desc lang="el">Όταν ο Ted βγαίνει ραντεβού χωρίς να μάθει τα πάντα για την κοπέλα μέσω διαδικτύου, η παρέα δείχνει στον Kevin ότι παρεμβαίνει στις ζωές των μελών της. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -95227,55 +94813,55 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527001500 GMT+3" stop="20260527010000 GMT+3" channel="2755">
+  <programme start="20260527001000 GMT+3" stop="20260527005500 GMT+3" channel="2755">
     <title lang="el">9-1-1 9 Κ9 ΕΠ16</title>
     <desc lang="el">9-1-1 9 Πρωταγωνιστούν: Aisha Hinds,Angela Bassett,Oliver Stark. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527010000 GMT+3" stop="20260527012500 GMT+3" channel="2755">
+  <programme start="20260527005500 GMT+3" stop="20260527012000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ20</title>
     <desc lang="el">Ο Χόμερ και η Μαρτζ πηγαίνουν σε ένα καταφύγιο γάμου, όπου ο Χόμερ πιάνει ένα θρυλικό ψάρι. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527012500 GMT+3" stop="20260527015000 GMT+3" channel="2755">
+  <programme start="20260527012000 GMT+3" stop="20260527014500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 2 Κ2 ΕΠ21</title>
     <desc lang="el">Ο Μπαρτ δεν κερδίζει αρκετά κάνοντας αγγαρείες, οπότε αγοράζει κόμικ με τον Μίλχαουζ και τον Μάρτιν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1990)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527015000 GMT+3" stop="20260527021000 GMT+3" channel="2755">
+  <programme start="20260527014500 GMT+3" stop="20260527021000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ14</title>
     <desc lang="el">Όταν ο Σέλντον δανείζει χρήματα στην Πένι για να μπορέσει να πληρώσει το ενοίκιό της, ο Λέοναρντ έρχεται πρόσωπο με πρόσωπο με τον πρώην της, τον Κερτ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527021000 GMT+3" stop="20260527023500 GMT+3" channel="2755">
+  <programme start="20260527021000 GMT+3" stop="20260527023000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ15</title>
     <desc lang="el">Μια επίσκεψη από τη μητέρα του Λέοναρντ καταλήγει να τον φέρει πιο κοντά με την Πένι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527023500 GMT+3" stop="20260527032000 GMT+3" channel="2755">
+  <programme start="20260527023000 GMT+3" stop="20260527031500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ13</title>
     <desc lang="el">Ο Κόλτερ ταξιδεύει στη Νέα Υόρκη προκειμένου να εντοπίσει μια γυναίκα που εξαφανίστηκε. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527032000 GMT+3" stop="20260527040500 GMT+3" channel="2755">
+  <programme start="20260527031500 GMT+3" stop="20260527040000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ5</title>
     <desc lang="el">Η ομάδα 118 σπεύδει σε ένα εργοστάσιο για να σώσει τη ζωή των εργαζομένων που έχουν παγιδευτεί σε τεράστια φωτιά. Στο μεταξύ, η Maddie αποκαλύπτει ένα οδυνηρό οικογενειακό μυστικό που κάνει τον Buck να αντιμετωπίσει την παιδική του ηλικία. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527040500 GMT+3" stop="20260527044500 GMT+3" channel="2755">
+  <programme start="20260527040000 GMT+3" stop="20260527045000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ6</title>
     <desc lang="el">Η ομάδα 118 πιστεύει ότι η ξακουστή κατάρα του σταθμού γίνεται πραγματικότητα όταν αντιμετωπίζουν μια εφιαλτική μέρα με μια ατελείωτη σειρά από παράξενα περιστατικά. Η Athena καταδιώκει ένα πυροσβεστικό όχημα του σταθμού 118. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527044500 GMT+3" stop="20260527051000 GMT+3" channel="2755">
+  <programme start="20260527045000 GMT+3" stop="20260527051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ14</title>
     <desc lang="el">Όταν ο Σέλντον δανείζει χρήματα στην Πένι για να μπορέσει να πληρώσει το ενοίκιό της, ο Λέοναρντ έρχεται πρόσωπο με πρόσωπο με τον πρώην της, τον Κερτ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -96259,30 +95845,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260527052500 GMT+3" stop="20260527055000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ13</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527055000 GMT+3" stop="20260527061500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ14</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527061500 GMT+3" stop="20260527065500 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ1</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527065500 GMT+3" stop="20260527074000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ6</title>
-    <desc lang="el">Όταν ο Justin Mobley κλέβει ένα ρυμουλκό από τον συνάδελφό του Sam Jackson, οι εντάσεις οξύνονται στο Donner Pass. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527074000 GMT+3" stop="20260527083000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ5</title>
     <desc lang="el">Η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να αντιμετωπίσει τις προκλήσεις της Μητέρας Φύσης για να μπορέσει να επιβιώσει. (2022)</desc>
@@ -96307,87 +95869,15 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527104500 GMT+3" stop="20260527113000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ5</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από την Ουγγαρία, από τις πολύχρωμες στέγες της Βουδαπέστης, μέχρι μια αληθινή εγκαταλειμμένη διατηρημένη πόλη και το μεγαλύτερο παγοδρόμιο της Ευρώπης. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527113000 GMT+3" stop="20260527121500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ4</title>
-    <desc lang="el">Μια σειρά εκπληκτικών εναέριων ταξιδιών, που αποκαλύπτει τα μυστικά των πιο εντυπωσιακών χωρών του κόσμου. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527121500 GMT+3" stop="20260527130500 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ2</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527130500 GMT+3" stop="20260527135000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ7</title>
-    <desc lang="el">Χάος επικρατεί όταν μια δυνατή θύελλα μετατρέπει τους δρόμους σε πάγο, καθώς οι Sam και Craig μαλώνουν και ο Will ανακαλύπτει ότι τον άφησε η γυναίκα του. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527135000 GMT+3" stop="20260527143500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ6</title>
     <desc lang="el">Ο χρόνος της εποχικής σοδειάς τελειώνει στην Αλάσκα και η επόμενη γενιά κατοίκων αναγκάζεται να δουλέψει πιο έξυπνα, όχι πιο σκληρά, για να εκμεταλλευτεί την αφθονία της φύσης. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260527143500 GMT+3" stop="20260527152500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ6</title>
-    <desc lang="el">Ταξιδεύουμε στον χρόνο σαρώνοντας όλη την ανθρώπινη ιστορία σε μία αναζήτηση που θα αποκαλύψει τα επιτεύγματα που μας έκαναν σύγχρονους. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527152500 GMT+3" stop="20260527161500 GMT+3" channel="216459">
-    <title lang="el">Year Million Κ1 ΕΠ6</title>
-    <desc lang="el">Οι άνθρωποι πάντα ήθελαν να εξερευνήσουν το άγνωστο. Αυτό το αδάμαστο πνεύμα μας έχει οδηγήσει σε ανεξερεύνητες ακτές, καινούρια βάθη και, στον τελευταίο αιώνα, σε νέους πλανήτες. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527161500 GMT+3" stop="20260527170000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ1 ΕΠ6</title>
-    <desc lang="el">Η Γη συχνά αποκαλείται και &apos;Γαλάζιος Πλανήτης&apos;. Παρά το γεγονός ότι η επιφάνειά της καλύπτεται από νερό, μόνο ένα ελάχιστο ποσοστό είναι πόσιμο. 7 δις άνθρωποι και εκατομμύρια διαφορετικά είδη ζώων μοιράζονται μόλις το 1 τοις εκατό του διαθέσιμου νερού στον πλανήτη. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527170000 GMT+3" stop="20260527175000 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ4</title>
-    <desc lang="el">Ο Tim και ο Fuzz ταξιδεύουν στο Σαουθάμπτον για να αναλάβουν ένα Jensen Interceptor του 1969. Ο ιδιοκτήτης Nick απόλαυσε το ονειρεμένο του αυτοκίνητο μέχρι που διαγνώστηκε με ακραίας μορφής αρθριτικά. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527175000 GMT+3" stop="20260527181000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ15</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527181000 GMT+3" stop="20260527183500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ16</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260527183500 GMT+3" stop="20260527192000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ6 ΕΠ6</title>
     <desc lang="el">Ένα πλήρωμα λογομαχεί και ο διάδρομος δεν φαίνεται στον ορίζοντα. Ένας πιλότος αγνοεί ένα κρίσιμο σήμα. Και, ένας εξαντλημένος πιλότος επιλέγει μια καταστροφική στιγμή για να δοκιμάσει μια νέα προσέγγιση. (2023)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527192000 GMT+3" stop="20260527201000 GMT+3" channel="216459">
-    <title lang="el">100%: Planes ΕΠ1</title>
-    <desc lang="el">Ανακαλύψτε τις ιστορίες των κορυφαίων πιλότων που πετάνε τα πιο ενδιαφέροντα και ασυνήθιστα αεροπλάνα στα πιο όμορφα και επικίνδυνα μέρη του κόσμου. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260527201000 GMT+3" stop="20260527210000 GMT+3" channel="216459">
-    <title lang="el">Μετακίνηση Υπέρ-Αεροδρομίου ΕΠ1</title>
-    <desc lang="el">Το αεροδρόμιο Ατατούρκ της Κωνσταντινούπολης, βάση της Turkish Airlines εδώ και δεκαετίες, πρόκειται να κλείσει σύντομα. Στην άλλη άκρη της πόλης, ένα καινούριο, υπερσύγχρονο αεροδρόμιο είναι έτοιμο να ανοίξει, αλλά με τις πτήσεις σε μεγάλη ζήτηση, έχουν μόλις 12 ώρες για να μεταφέρουν τα πάντα στο νέο τους σπίτι. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -96402,18 +95892,6 @@
     <desc lang="el">Ο αέρας που αναπνέουμε κινδυνεύει με την αύξηση των αερίων του θερμοκηπίου και τη βιομηχανική ρύπανση, οδηγώντας σε αεραποκάλυψη. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260527222000 GMT+3" stop="20260527230500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ1</title>
-    <desc lang="el">Οι Αμερικανοί αλεξιπτωτιστές έπεσαν στη Γαλλία πριν την απόβαση της Νορμανδίας για δώσουν μάχη με τους Ναζί για μια γέφυρα-κλειδί πίσω από τις γραμμές των εχθρών. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260527230500 GMT+3" stop="20260527235500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ4</title>
-    <desc lang="el">Με χιλιάδες Γερμανούς στρατιώτες παγιδευμένους στoν θύλακα της Φαλέζ, μια μικρή καναδική ομάδα με τανκς προσπαθεί να κλείσει το σημείο διεξόδου. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260527235500 GMT+3" stop="20260528003000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ3</title>
@@ -105457,6 +104935,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527000000 GMT+3" stop="20260527010000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527010000 GMT+3" stop="20260527013000 GMT+3" channel="94430673">
     <title lang="el">The Premier League Review Show</title>
     <desc lang="el">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool&apos;s game against Bournemouth.</desc>
@@ -105622,6 +105106,12 @@
   <programme start="20260527204500 GMT+3" stop="20260527210000 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: Origi</title>
     <desc lang="el">A look back at some of Divock Origi&apos;s greatest goals.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260527220000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -113710,18 +113200,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260528020000 GMT+3" stop="20260528024500 GMT+3" channel="216459">
-    <title lang="el">100%: Planes ΕΠ1</title>
-    <desc lang="el">Ανακαλύψτε τις ιστορίες των κορυφαίων πιλότων που πετάνε τα πιο ενδιαφέροντα και ασυνήθιστα αεροπλάνα στα πιο όμορφα και επικίνδυνα μέρη του κόσμου. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528024500 GMT+3" stop="20260528033500 GMT+3" channel="216459">
-    <title lang="el">Μετακίνηση Υπέρ-Αεροδρομίου ΕΠ1</title>
-    <desc lang="el">Το αεροδρόμιο Ατατούρκ της Κωνσταντινούπολης, βάση της Turkish Airlines εδώ και δεκαετίες, πρόκειται να κλείσει σύντομα. Στην άλλη άκρη της πόλης, ένα καινούριο, υπερσύγχρονο αεροδρόμιο είναι έτοιμο να ανοίξει, αλλά με τις πτήσεις σε μεγάλη ζήτηση, έχουν μόλις 12 ώρες για να μεταφέρουν τα πάντα στο νέο τους σπίτι. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260528033500 GMT+3" stop="20260528041000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ3</title>
     <desc lang="el">Ως μερικοί από τους τελευταίους κυνηγούς-τροφοσυλλέκτες στη Γη, οι Χάντζα κυνηγούν και αναζητούν τροφή κάθε μέρα. Αφού εντάσσεται στον τρόπο ζωής των Χάντζα, η Εύα προσπαθεί να επιβιώσει για 24 ώρες μόνο με το φαγητό και το νερό που μπορεί να βρει μόνη της. Αλλά μόλις τελειώσει η δοκιμασία της, η Εύα συνειδητοποιεί ότι η επιβίωση για τους Χάντζα δεν αποτελεί μοναχική προσπάθεια. (2024)</desc>
@@ -113731,30 +113209,6 @@
   <programme start="20260528041000 GMT+3" stop="20260528045500 GMT+3" channel="216459">
     <title lang="el">Μεταλλαγμένος Καιρός Κ1 ΕΠ9</title>
     <desc lang="el">Ο αέρας που αναπνέουμε κινδυνεύει με την αύξηση των αερίων του θερμοκηπίου και τη βιομηχανική ρύπανση, οδηγώντας σε αεραποκάλυψη. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528045500 GMT+3" stop="20260528052000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ15</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528052000 GMT+3" stop="20260528055000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ16</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528055000 GMT+3" stop="20260528064500 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ2</title>
-    <desc lang="el">Στα κανάλια της Αλάσκα, του Όρεγκον και του Νιου Τζέρσι, τα ναυπηγεία κατασκευάζουν και επιδιορθώνουν πλεούμενα που κυμαίνονται από ρυμουλκά ως αλιευτικά σκάφη. Το ρίσκο είναι μεγάλο γιατί όταν τα πλοία βρίσκονται στο ναυπηγείο, οι ιδιοκτήτες τους ξοδεύουν μεγάλα ποσά χωρίς να βγάζουν χρήματα. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528064500 GMT+3" stop="20260528073500 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ7</title>
-    <desc lang="el">Χάος επικρατεί όταν μια δυνατή θύελλα μετατρέπει τους δρόμους σε πάγο, καθώς οι Sam και Craig μαλώνουν και ο Will ανακαλύπτει ότι τον άφησε η γυναίκα του. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -113770,99 +113224,9 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260528090500 GMT+3" stop="20260528095500 GMT+3" channel="216459">
-    <title lang="el">100%: Planes ΕΠ1</title>
-    <desc lang="el">Ανακαλύψτε τις ιστορίες των κορυφαίων πιλότων που πετάνε τα πιο ενδιαφέροντα και ασυνήθιστα αεροπλάνα στα πιο όμορφα και επικίνδυνα μέρη του κόσμου. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528095500 GMT+3" stop="20260528104500 GMT+3" channel="216459">
-    <title lang="el">Μετακίνηση Υπέρ-Αεροδρομίου ΕΠ1</title>
-    <desc lang="el">Το αεροδρόμιο Ατατούρκ της Κωνσταντινούπολης, βάση της Turkish Airlines εδώ και δεκαετίες, πρόκειται να κλείσει σύντομα. Στην άλλη άκρη της πόλης, ένα καινούριο, υπερσύγχρονο αεροδρόμιο είναι έτοιμο να ανοίξει, αλλά με τις πτήσεις σε μεγάλη ζήτηση, έχουν μόλις 12 ώρες για να μεταφέρουν τα πάντα στο νέο τους σπίτι. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528104500 GMT+3" stop="20260528113000 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ2</title>
-    <desc lang="el">Ένα εκπληκτικό εναέριο ταξίδι πάνω από τη Φινλανδία αποκαλύπτει τεράστια παγοθραυστικά, τους τελευταίους αυτόχθονες της Ευρώπης και την πιο παράξενη σάουνα του κόσμου. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528113000 GMT+3" stop="20260528121500 GMT+3" channel="216459">
-    <title lang="el">Η Ευρώπη από Ψηλά Κ2 ΕΠ1</title>
-    <desc lang="el">Αυτό το εκπληκτικό εναέριο ταξίδι στην Τουρκία αποκαλύπτει αερόστατα πάνω από την Καππαδοκία, μια γέφυρα που έχει σπάσει ρεκόρ και τους τελευταίους νομάδες της Ευρώπης. (2020)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528121500 GMT+3" stop="20260528130000 GMT+3" channel="216459">
-    <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ3</title>
-    <desc lang="el">Παρακουλουθήστε τη ζωή και τις συνθήκες εργασίας όσων δουλεύουν στα ναυπηγεία στην περιοχή Pacific Northwest καθώς παλεύουν με το χρόνο προκειμένου να επισκευάσουν πολύτιμα αλιευτικά σκάφη για να επιστρέψουν στον ωκεανό. (2015)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528130000 GMT+3" stop="20260528135000 GMT+3" channel="216459">
-    <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ8</title>
-    <desc lang="el">Η σεζόν πλησιάζει στο τέλος της και τα προβλήματα διαδέχονται το ένα το άλλο καθώς ο Sam παραλίγο να καταπλακωθεί, ο Justin αντικρίζει τον θάνατο και ένας οδηγός φεύγει από το βουνό για πάντα. (2012)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260528135000 GMT+3" stop="20260528143500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ7</title>
     <desc lang="el">Τίποτα δεν θα σταματήσει την Επόμενη Γενιά προκειμένου να διασφαλίσει σημαντικά αποθέματα φαγητού και προμηθειών, όποιο κι αν είναι το ρίσκο. (2022)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528143500 GMT+3" stop="20260528152500 GMT+3" channel="216459">
-    <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ7</title>
-    <desc lang="el">Εξερευνούμε το πώς η περιέργεια μας έχει οδηγήσει και συνεχίζει να μας παρακινεί να ρισκάρουμε τις ζωές μας ξανά και ξανά προκειμένου ν&apos; ανακαλύψουμε το άγνωστο. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528152500 GMT+3" stop="20260528161000 GMT+3" channel="216459">
-    <title lang="el">Το Στόουνχεντζ Αποκαλύπτεται ΕΠ1</title>
-    <desc lang="el">Ακολουθήστε τον Βρετανό αρχαιολόγο Mike Parker Pearson καθώς η ομάδα του φέρνει στο φως εντυπωσιακά νέα στοιχεία που στηρίζουν μια ριζοσπαστική νέα θεωρία για το Στόουνχετζ και τους ανθρώπους που το κατασκεύασαν. (2008)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528161000 GMT+3" stop="20260528170000 GMT+3" channel="216459">
-    <title lang="el">Breakthrough Κ2 ΕΠ4</title>
-    <desc lang="el">Μια απίθανη συμμαχία ανάμεσα σε μια ηλικιωμένη Αγγλίδα κόμισσα, έναν περιθωριοποιημένο τσάρο των ναρκωτικών και φιλόδοξους νεαρούς γιατρούς στη Βρετανία και τις ΗΠΑ έχει αναβιώσει την ξεχασμένη έρευνα στη θεραπευτική αξία των ψυχεδελικών ναρκωτικών. (2017)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528170000 GMT+3" stop="20260528175000 GMT+3" channel="216459">
-    <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ5</title>
-    <desc lang="el">Ο Tim και ο Fuzz επισκέπτονται το Lincolnshire όπου τους περιμένει η ενσάρκωση μιας κάποτε πολυτελούς εποχής: μια Rolls Royce Doctor’s Coupe του 1929. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528175000 GMT+3" stop="20260528181000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ17</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528181000 GMT+3" stop="20260528183500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ18</title>
-    <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528183500 GMT+3" stop="20260528192000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ1</title>
-    <desc lang="el">Σε ένα ταξίδι ρουτίνας από το Βερολίνο, η πτήση 3597 της Crossair πλησιάζει στη Ζυρίχη. Όμως, λίγο πριν την προσγείωση, οι πιλότοι δεν μπορούν να βρουν τον αεροδιάδρομο. (2010)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528192000 GMT+3" stop="20260528201000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ2</title>
-    <desc lang="el">17 Ιανουαρίου 2008. Πλησιάζοντας στο τέλος της 10ωρης πτήσης από το Πεκίνο, η πτήση 38 της British Airways ετοιμάζεται να προσγειωθεί στο Heathrow. (2010)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260528201000 GMT+3" stop="20260528210000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ3</title>
-    <desc lang="el">27 Δεκεμβρίου 1991. Η πτήση 751 των Σκανδιναβικών αερογραμμών αντιμετωπίζει χιόνι στο αεροδρόμιο της Στοκχόλμης. Ο αεροδιάδρομος έχει καθαριστεί δύο φορές για να διασφαλιστεί η απογείωση του αεροσκάφους. Παρά τις κακές καιρικές συνθήκες, το αεροπλάνο καταφέρνει να απογειωθεί. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -113877,18 +113241,6 @@
     <desc lang="el">Οι σήραγγες εξοικονομούν χρόνο και χρήματα και βοηθούν το περιβάλλον, παρέχοντας πιο σύντομες διαδρομές σε δύσκολα εδάφη. Αλλά μπορούν επίσης να είναι επικίνδυνες, ειδικά καθώς οι σημερινές σήραγγες γίνονται μακρύτερες και βαθύτερες. Δείτε τις σήραγγες Brenner Base και Fehmarnbelt για να εξερευνήσετε πώς οι μηχανικοί χρησιμοποιούν παλαιότερες καταστροφές για να κάνουν τις κατασκευές και τα ταξίδια ασφαλέστερα. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260528223500 GMT+3" stop="20260528232000 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ2</title>
-    <desc lang="el">Πέντε μήνες μετά την απόβαση της Νορμανδίας, ο πόλεμος ξηράς φτάνει και στα γερμανικά εδάφη καθώς οι Βρετανοί στρατιώτες επιτίθενται υπό τη σκιά της διαβόητης Γραμμής Ζίγκφριντ του Χίτλερ. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
-  </programme>
-  <programme start="20260528232000 GMT+3" stop="20260529000500 GMT+3" channel="216459">
-    <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ5</title>
-    <desc lang="el">Ένα τάγμα Αμερικανών αλεξιπτωτιστών σπεύδει να προστατέψει μια σημαντική γέφυρα από τον στρατό των Ναζί στις πρώτες μέρες της Μάχη των Αρδεννών. (2021)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>18</rating>
   </programme>
   <programme start="20260528001000 GMT+3" stop="20260528005500 GMT+3" channel="2831">
     <title lang="el">Λεοπάρδαλη και Ύαινα: Παράξενη Συμμαχία</title>
@@ -118888,12 +118240,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528203000 GMT+3" stop="20260528210000 GMT+3" channel="213719">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260528210000 GMT+3" stop="20260528220000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Businessweek Daily</title>
     <desc lang="el">Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&apos;s complex economy.</desc>
@@ -119005,12 +118351,6 @@
   <programme start="20260528200000 GMT+3" stop="20260528203000 GMT+3" channel="71037984">
     <title lang="el">The David Rubenstein Show Κ11 ΕΠ15</title>
     <desc lang="el">Bobbi Brown. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260528203000 GMT+3" stop="20260528210000 GMT+3" channel="71037984">
-    <title lang="el">Best of Bloomberg Invest 2026</title>
-    <desc lang="el">A recap of Bloomberg Invest New York, the flagship event in Bloomberg Live&apos;s 2026 series, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -123220,6 +122560,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260528150000 GMT+3" stop="20260528160000 GMT+3" channel="94430673">
+    <title lang="el">Salah: Farewell to The King</title>
+    <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260528160000 GMT+3" stop="20260528170000 GMT+3" channel="94430673">
     <title lang="el">130 Greatest LFC Goals</title>
     <desc lang="el">The complete countdown of Liverpool&apos;s most memorable goals; be it in terms of importance iconic status or simply sheer quality - with the top 10 voted for by the fans.</desc>
@@ -123283,12 +122629,6 @@
   <programme start="20260528233000 GMT+3" stop="20260529001500 GMT+3" channel="94430673">
     <title lang="el">Press Box</title>
     <desc lang="el">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260529001500 GMT+3" stop="20260529003000 GMT+3" channel="94430673">
-    <title lang="el">Liverpool v Brentford: Shortcut</title>
-    <desc lang="el">The best of the action as Liverpool take on Brentford.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
