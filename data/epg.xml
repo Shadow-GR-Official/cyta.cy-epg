@@ -15941,7 +15941,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523153000 GMT+3" stop="20260523180000 GMT+3" channel="8242886">
-    <title lang="el">ATP 500 - HAMBURG (FINAL) (Z)</title>
+    <title lang="el">Ignacio BUSE - Tommy PAUL (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -16079,7 +16079,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523160000 GMT+3" stop="20260523183000 GMT+3" channel="74516237">
-    <title lang="el">ATP 250 - GENEVA (FINAL) (Z)</title>
+    <title lang="el">Mariano NAVONE - Learner TIEN (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -18363,7 +18363,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523153000 GMT+3" stop="20260523180000 GMT+3" channel="52105043">
-    <title lang="el">ATP 500 - HAMBURG (FINAL) (Z)</title>
+    <title lang="el">Ignacio BUSE - Tommy PAUL (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - HAMBURG</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -18501,7 +18501,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260523160000 GMT+3" stop="20260523183000 GMT+3" channel="77956035">
-    <title lang="el">ATP 250 - GENEVA (FINAL) (Z)</title>
+    <title lang="el">Mariano NAVONE - Learner TIEN (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - GENEVA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -26517,6 +26517,192 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260524010000 GMT+3" stop="20260524015800 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ5</title>
+    <desc lang="el">Sung braves the ice-cold winter and reputation as one of the US&apos;s crime capitals to uncover the best of Chicago&apos;s car culture. He finds there&apos;s much more to the windy city than the Blues Mobile. Car nuts are giving the big city a small town heart.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260524015800 GMT+3" stop="20260524025800 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ6</title>
+    <desc lang="el">Sung returns to his home town LA, the car culture capital of the world. This is where Sung feels the most pressure to be on his game. But in the car scene, Sung meets old friends, discovers new inspirations, and finds a way to face life&apos;s challenges.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260524025800 GMT+3" stop="20260524034200 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ2</title>
+    <desc lang="el">Starting at Old Dragon’s Head, Ash continues west to meet a Wall Protector who has dedicated his life to preserving this iconic monument, before gearing up for an unexpected adventure: scuba diving the ruins of the Great Wall of China.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524034200 GMT+3" stop="20260524042800 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ3</title>
+    <desc lang="el">Ash has made it to Beijing, where he’s meeting Terry Townsend to learn more about wildlife conservation in the region around the Great Wall of China. He also meets two more Wall Protectors and samples local delicacies in Shi Xia Village.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524042800 GMT+3" stop="20260524045800 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ9</title>
+    <desc lang="el">Neil Cairns visits ITER in France, where nuclear fusion could provide unlimited clean energy, to see progress and challenges firsthand.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524045800 GMT+3" stop="20260524052900 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ10</title>
+    <desc lang="el">Research shows sanitized cities reduce beneficial microbes, harming health and increasing allergies and autoimmune diseases.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524052900 GMT+3" stop="20260524062900 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ1</title>
+    <desc lang="el">The Luxe Travels season starts off in the beautiful and highly popular tourism hotspot; Bali. The host, Liesel Hlista embarks on a mission to understand how the Balinese blend hospitality with luxury.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524062900 GMT+3" stop="20260524070000 GMT+3" channel="9744258">
+    <title lang="el">Droners Κ1 ΕΠ4</title>
+    <desc lang="el">DRONERS discovers how the technological advances driven by the FPV community are pushing the envelope of what&apos;s possible in this fast-moving community</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524070000 GMT+3" stop="20260524075700 GMT+3" channel="9744258">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ1</title>
+    <desc lang="el">FaZe Clan, INTZ and Gen.G are lining up for major events, and they&apos;re hoping to claim esports glory. The prize for winning can be huge, but so is the personal sacrifice to make it happen.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524075700 GMT+3" stop="20260524085700 GMT+3" channel="9744258">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ2</title>
+    <desc lang="el">Through the eyes of their most passionate members, we dive into the communities that add to the diverse world of esports - from cosplaying in Brazil to underground gaming tournaments in Korea.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524085700 GMT+3" stop="20260524092700 GMT+3" channel="9744258">
+    <title lang="el">Journey Within Κ1 ΕΠ1</title>
+    <desc lang="el">Marilia explores Costa Rica, connecting with nature at Zunya, experiences a cacao ceremony with the Maleku Tribe, and finds wellness in Tamarindo&apos;s Cala Luna. At La Senda, she learns to appreciate nature&apos;s beauty and the importance of slowing down.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524092700 GMT+3" stop="20260524102500 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ9</title>
+    <desc lang="el">Cody is in Namibia following in the footsteps of German diamond seekers hearing stories of thieves and smugglers. Josh is in Albania and finds abandoned fighter jets and a secret factory.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524102500 GMT+3" stop="20260524112500 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ10</title>
+    <desc lang="el">The final episode reunites Josh and Cody after months of travelling separately, this time to the nuclear disaster area of Fukushima in Japan. Meanwhile, they look back at their adventures and reveal the result of their rankings of locations.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524112500 GMT+3" stop="20260524122500 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ3</title>
+    <desc lang="el">Rhys learns what makes Japanese audiences tick from a pair of comedy masters, and he puts on a comedy show of his own. Also, New Zealand&apos;s mascot Pabu-chan is finally revealed to the world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524122500 GMT+3" stop="20260524132500 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ4</title>
+    <desc lang="el">The popularity of New Zealand&apos;s mascot, Pabu-chan, grows at the Sapporo Snow Festival, and then he gets a chance to hit the big time. Rhys also travels to the Okinawa Islands in search of the beautiful and fleeting cherry blossoms.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524132500 GMT+3" stop="20260524142500 GMT+3" channel="9744258">
+    <title lang="el">Chasing Monsters: El Nino Κ1 ΕΠ10</title>
+    <desc lang="el">The best of the big wave surfing community wrap up an amazing El Nino season with the XXL Big Wave Awards in Anaheim, California.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524142500 GMT+3" stop="20260524152500 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ1</title>
+    <desc lang="el">Bboy Junior is going back where he was born, The Democratic Republic of Congo. World champion Shigekix will join him, visiting Africa for the first time. Together they will explore the dance culture in the city of Goma.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524152500 GMT+3" stop="20260524162500 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ2</title>
+    <desc lang="el">Russian Bgirl Kastet is visiting Sao Paulo, the home of Bboy Neguin. Together they will explore the dance, breaking and hip hop culture in the streets of Sao Paulo. Meeting up with legends and learning Capoeira, Jiu Jitsu and Passinho.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524162500 GMT+3" stop="20260524165500 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ5</title>
+    <desc lang="el">Blue World searches for endangered Angel Sharks in California’s Channel Islands; then teams up with world-renown IMAX filmmakers Howard and Michele Hall to film sea turtles feeding in the Philippines.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524165500 GMT+3" stop="20260524172500 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ6</title>
+    <desc lang="el">The Blue World team travels to Palau on an adventure to explore reefs teeming with life, plus a mysterious lake filled with thousands of harmless non-stinging jellyfish.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524172500 GMT+3" stop="20260524175500 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ7</title>
+    <desc lang="el">In the tropical paradise of Palau, the Blue World team explores World War II era shipwrecks. Then they travel to the Philippines in search of one of the rarest cephalopods in the world: the Mimic Octopus.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524175500 GMT+3" stop="20260524182600 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ8</title>
+    <desc lang="el">Sharks are everywhere at Palau’s famous Blue Corner, where strong currents bring in the big predators. Then the Blue World team grabs their cave diving gear and heads to the Bahamas’ Exuma Islands, on a search for a virgin ocean cave to explore.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524182600 GMT+3" stop="20260524185700 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ9</title>
+    <desc lang="el">Off the island of Cozumel in Mexico, Blue World searches for a rare fish found in only two places on Earth...the Splendid Toadfish. Then the team goes cave diving in the Bahamas.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524185700 GMT+3" stop="20260524192800 GMT+3" channel="9744258">
+    <title lang="el">Journey Within Κ1 ΕΠ5</title>
+    <desc lang="el">Marilia&apos;s journey on South Africa&apos;s Garden Route explores plant medicine, beauty in nature, and animal communication, emphasizing the profound connection between humans and the natural world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524192800 GMT+3" stop="20260524195800 GMT+3" channel="9744258">
+    <title lang="el">Journey Within Κ1 ΕΠ6</title>
+    <desc lang="el">In Cape Town, the journey unfolds, connecting with mentors, experiencing creative breakthroughs, spiritual rituals, and ancestral connections. From this transformative experience, Marilia discovers the power of inner strength and connection.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524195800 GMT+3" stop="20260524205900 GMT+3" channel="9744258">
+    <title lang="el">Order Up! Κ1 ΕΠ3</title>
+    <desc lang="el">In New Orleans, Hudson learns about Creole &amp; Cajun flavours from Li&apos;l Dizzy&apos;s Cafe &amp; Galatoire&apos;s fine dining restaurant. He must cook slowly but flawlessly, to make his own soul food creation, because today he is facing his toughest critic yet.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524205900 GMT+3" stop="20260524212900 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ5</title>
+    <desc lang="el">After a crash leaves Zombie injured, the crew scrambles to stay on schedule for Ridermania. Jess arrives at the festival, participates in events and is met with overwhelming support from fans and fellow riders. The three-day celebration ends with a visit to a famous Goa beach before the crew heads to Ganpatipule.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524212900 GMT+3" stop="20260524215900 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ6</title>
+    <desc lang="el">Jess and her ride crew navigate the stunning but rugged Konkan Coast, switching between bikes and boats while juggling luggage, riders and a lost phone. Gearshifter unexpectedly joins the team as they race toward Mumbai, determined to get Pulak to the city in time to visit his family.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524215900 GMT+3" stop="20260524225300 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ2</title>
+    <desc lang="el">The five returning teams go back to basics cooking poultry on classic kettle barbecues. Just when they think they have it all under control the judges throw them a surprise twist.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524225300 GMT+3" stop="20260524234800 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ3</title>
+    <desc lang="el">The remaining four teams are split into two for a team challenge cooking on two 500-gallon offset smokers. Guest judge Gareth Stewart challenges the losing teams to recreate a restaurant quality venison dish in the first Scorcher challenge.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524234800 GMT+3" stop="20260525001900 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ4</title>
+    <desc lang="el">In his toughest challenge so far, Ash takes on Eagle’s Neck – a notoriously steep and dangerous section of the Great Wall of China. But first, he meets tech experts who’ve been helping to digitally map The Great Wall in an effort to protect it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524000000 GMT+3" stop="20260524003000 GMT+3" channel="216382">
     <title lang="el">Fashion Films</title>
     <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
@@ -34023,12 +34209,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524220000 GMT+3" stop="20260525000000 GMT+3" channel="74516237">
-    <title lang="el">VILLARREAL - ATLETICO MADRID (Z)</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260524000000 GMT+3" stop="20260524060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -35126,26 +35306,38 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524170000 GMT+3" stop="20260524180000 GMT+3" channel="216415">
+  <programme start="20260524170000 GMT+3" stop="20260524173000 GMT+3" channel="216415">
+    <title lang="el">Final Four Classics</title>
+    <desc lang="el">Από τον τελικό Λιμόζ-ΠΑΟΚ στον Πειραιά, στο Παναθηναϊκός-Μακάμπι στη Θεσσαλονίκη και το Παναθηναϊκός-ΤΣΣΚΑ στην Αθήνα, ο Γ. Βαλαβάνης μάς θυμίζει τα Final Four που διοργανώθηκαν στην Ελλάδα και τις ανεξίτηλες στιγμές τους. Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524173000 GMT+3" stop="20260524180000 GMT+3" channel="216415">
+    <title lang="el">Final Four Classics</title>
+    <desc lang="el">Από τον τελικό Λιμόζ-ΠΑΟΚ στον Πειραιά, στο Παναθηναϊκός-Μακάμπι στη Θεσσαλονίκη και το Παναθηναϊκός-ΤΣΣΚΑ στην Αθήνα, ο Γ. Βαλαβάνης μάς θυμίζει τα Final Four που διοργανώθηκαν στην Ελλάδα και τις ανεξίτηλες στιγμές τους. Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524180000 GMT+3" stop="20260524183000 GMT+3" channel="216415">
+    <title lang="el">Final Four Classics</title>
+    <desc lang="el">Από τον τελικό Λιμόζ-ΠΑΟΚ στον Πειραιά, στο Παναθηναϊκός-Μακάμπι στη Θεσσαλονίκη και το Παναθηναϊκός-ΤΣΣΚΑ στην Αθήνα, ο Γ. Βαλαβάνης μάς θυμίζει τα Final Four που διοργανώθηκαν στην Ελλάδα και τις ανεξίτηλες στιγμές τους. Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524183000 GMT+3" stop="20260524190000 GMT+3" channel="216415">
+    <title lang="el">Final Four Classics: Man to Man</title>
+    <desc lang="el">Κορυφαίοι Έλληνες παίκτες έγραψαν ιστορία κατακτώντας την κορυφή της Ευρώπης με τη φανέλα ξένων συλλόγων. Οι ίδιοι αφηγούνται τις αξέχαστες στιγμές που έζησαν. Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524190000 GMT+3" stop="20260524210000 GMT+3" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
     <desc lang="el">Λίγη ώρα πριν από το τζάμπολ των τελικών του τουρνουά NextGen και της EuroLeague, η εκπομπή έχει όλα τα τελευταία νέα των φιναλίστ που ετοιμάζονται να αναμετρηθούν για την κορυφή της Ευρώπης. Παρουσίαση: Γ. Παπαβασιλείου. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260524180000 GMT+3" stop="20260524200000 GMT+3" channel="216415">
-    <title lang="el">Τελικός (Ζ)</title>
-    <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524200000 GMT+3" stop="20260524210000 GMT+3" channel="216415">
-    <title lang="el">Playmakers (Ζ)</title>
-    <desc lang="el">Με την ολοκλήρωση του τελικού του τουρνουά NextGen, oι Playmakers παίρνουν τη σκυτάλη με δηλώσεις και ανάλυση του αγώνα, οδηγώντας μας στη μεγάλη μάχη της βραδιάς για την ανάδειξη του πρωταθλητή Ευρώπης! Παρουσίαση: Γ. Παπαβασιλείου. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260524210000 GMT+3" stop="20260524231500 GMT+3" channel="216415">
-    <title lang="el">EuroLeague Final Four (Ζ)</title>
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης (Ζ)</title>
     <desc lang="el">Οι δύο ομάδες που επικράτησαν στους ημιτελικούς και προκρίθηκαν στον τελικό της διοργάνωσης είναι έτοιμες για τη μεγαλύτερη μάχη της σεζόν και την κατάκτηση του τίτλου του νέου πρωταθλητή Ευρώπης! Περιγραφή: Ν. Αυγουλής Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -35312,8 +35504,9 @@
     <rating>K</rating>
   </programme>
   <programme start="20260524180000 GMT+3" stop="20260524200000 GMT+3" channel="10973069">
-    <title lang="el">Novasports5</title>
-    <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
+    <title lang="el">Τελικός (Ζ)</title>
+    <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260524200000 GMT+3" stop="20260524220000 GMT+3" channel="10973069">
@@ -35428,7 +35621,12 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260524180000 GMT+3" stop="20260525000000 GMT+3" channel="52027412">
+  <programme start="20260524180000 GMT+3" stop="20260524200000 GMT+3" channel="52027412">
+    <title lang="el">Novasportsextra3HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260524200000 GMT+3" stop="20260525000000 GMT+3" channel="52027412">
     <title lang="el">Novasportsextra3HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -36104,12 +36302,6 @@
   <programme start="20260524200000 GMT+3" stop="20260524220000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260524220000 GMT+3" stop="20260525000000 GMT+3" channel="77956035">
-    <title lang="el">VILLARREAL - ATLETICO MADRID (Z)</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -44503,6 +44695,192 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525001900 GMT+3" stop="20260525010000 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ5</title>
+    <desc lang="el">Following the Great Wall west, Ash heads to Inner Mongolia to meet up with a nomadic family and to try Mongolian wrestling. He’s hoping to visit Naadam Festival, which features a key part of Mongolian culture: horseracing.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525010000 GMT+3" stop="20260525011400 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ18</title>
+    <desc lang="el">Shane Chen is an inventor. Or to use his own words, he is a “tinkerer” – a fellow who makes a living from molding mechanisms into quirky creations.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525011400 GMT+3" stop="20260525012900 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ19</title>
+    <desc lang="el">Massoud Hassani has developed the mine kafon drone that could find and get rid of the landmines, fast and cheap.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525012900 GMT+3" stop="20260525015900 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ5</title>
+    <desc lang="el">Who is the greatest international action hero of all time, Terry Schappert? No. Terry and Larry get to test some scenes from James Bond films and other great action heroes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525015900 GMT+3" stop="20260525022800 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ6</title>
+    <desc lang="el">Everybody loves a great western! Except Larry. Terry gets Larry to test more scenes from classic western movies!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525022800 GMT+3" stop="20260525031300 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ2 ΕΠ8</title>
+    <desc lang="el">Join host Tianran He in Kunming, the capital of Yunnan province in southwest China. Named the Spring City for its perennially good weather, Kunming is one of China&apos;s most ethnically diverse cities, something that&apos;s reflected in its food.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525031300 GMT+3" stop="20260525035900 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ2 ΕΠ9</title>
+    <desc lang="el">Eva rediscovers her love for a classic century-old dish in her hometown Vienna. Meanwhile, Beijing&apos;s charming autumn season sets Tianran back in time as he rediscovers flavors from his childhood.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525035900 GMT+3" stop="20260525045900 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ1</title>
+    <desc lang="el">In this episode, Josh travels to Tallinn in Estonia with urban explorer Steve Duncan where they explore Patarei Prison. Meanwhile, Cody is in Vietnam with his friend Sherman Mak and travels to Pan Thiet in search of abandoned amusement park Soui Cat.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525045900 GMT+3" stop="20260525055900 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ2</title>
+    <desc lang="el">This time urban explorers Josh and Cody separately visit Germany and Morocco in search of astonishing abandoned locations including Wünsdorf, the forbidden city near Berlin, and an abandoned filmset in the Sahara desert used for Game of Thrones.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525055900 GMT+3" stop="20260525070000 GMT+3" channel="9744258">
+    <title lang="el">Close Proximity Κ1 ΕΠ3</title>
+    <desc lang="el">After a loss against Formula Drift newcomer Faruk Kugay in Atlanta, Matt is back in Morgan Hill, cleaning up the Drift Cave before heading to Orlando.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525070000 GMT+3" stop="20260525072900 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ1</title>
+    <desc lang="el">Massive sargassum blooms are choking beaches, but a Scottish company plans to sink the seaweed to trap carbon and tackle climate change.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525072900 GMT+3" stop="20260525075800 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ2</title>
+    <desc lang="el">Neil Cairns visits physicist Carlo Rovelli in Verona to explore time, black holes, and the mysteries of quantum physics.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525075800 GMT+3" stop="20260525085300 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ1</title>
+    <desc lang="el">Sung heads to the UK, home to some of the world&apos;s most iconic car brands like Land Rover, Rolls Royce, and Jaguar. It&apos;s a land rich in history, but as Sung explores the car culture&apos;s grass roots, he finds the people who make it so memorable.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260525085300 GMT+3" stop="20260525095400 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ2</title>
+    <desc lang="el">Sung&apos;s dive into the world&apos;s car cultures takes him to Poland, a country that emerged from a repressive communist era. Sung finds that new freedoms have led to an explosion of optimist and energy, and one of the most exciting experiences of his life.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260525095400 GMT+3" stop="20260525100800 GMT+3" channel="9744258">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ3</title>
+    <desc lang="el">2-time WRX champion Petter Solberg gives a master class in drift driving. Defending his first Gymkhana Grid win, Petter is force to up his game.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525100800 GMT+3" stop="20260525110800 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ1</title>
+    <desc lang="el">Rhys learns the tricks of the trade from Japan&apos;s #1 mascot, battles a roboticist, experiences the relaxation of forest bathing, and trains with a samurai master.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525110800 GMT+3" stop="20260525120800 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ2</title>
+    <desc lang="el">Rhys doubles his efforts to break into the Japanese entertainment industry by getting a brand designed, and by enrolling in mascot school. Missing his family, he spends time with a Japanese family who are a little bit like the Osbournes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525120800 GMT+3" stop="20260525130800 GMT+3" channel="9744258">
+    <title lang="el">King of the Hammers: the Ultra4 Saga Κ1 ΕΠ3</title>
+    <desc lang="el">It&apos;s mud, sweat, and gears as drivers battle it out in the toughest Ultra 4 race yet.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525130800 GMT+3" stop="20260525140800 GMT+3" channel="9744258">
+    <title lang="el">King of the Hammers: the Ultra4 Saga Κ1 ΕΠ4</title>
+    <desc lang="el">It&apos;s all or nothing as underdog Tom Liu drives himself to the brink in a heart-stopping Ultra 4 race.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525140800 GMT+3" stop="20260525150900 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ3</title>
+    <desc lang="el">Brazilian Bboy Neguin is visiting his friend Bboy Ronnie in his hometown Las Vegas. Ronnie istaking Neguin to meet all the different artists and dancers who are able to make a living inVegas by doing what they love most: performing on stage.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525150900 GMT+3" stop="20260525152400 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ3</title>
+    <desc lang="el">The official press launch of The Flying Kestrel at legendary racetrack, Santa Pod. The Kestrel team is joined by Victor Riley of Riley Cars, and celebrity Rachel Riley.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525152400 GMT+3" stop="20260525162400 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ5</title>
+    <desc lang="el">Mark and Allysa decode the broadcast sheet for a 1970 Challenger. Will breaks a part on the &apos;Cuda and Mark painstakingly examines his paint job.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525162400 GMT+3" stop="20260525172400 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ6</title>
+    <desc lang="el">It&apos;s time for some resto-lovin&apos; on Buck&apos;s &apos;71 Challenger R/T. Allysa helps Dave install the brake lines, work on the overhead console and install the gas tank.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525172400 GMT+3" stop="20260525182500 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ5</title>
+    <desc lang="el">A rare 1971 Mercedes Benz 280 SE 3.5 Coupe gets restored to its original specifications.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525182500 GMT+3" stop="20260525192500 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ6</title>
+    <desc lang="el">A pink, air-cooled, 1973 Porsche 911 RS is upgraded with a custom built engine, new paint, and new wheels and tires.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525192500 GMT+3" stop="20260525195600 GMT+3" channel="9744258">
+    <title lang="el">Inside Moto Κ1 ΕΠ6</title>
+    <desc lang="el">Sacrifices are found on the path to success: from Yonny Hernandez’s self-exile, to the serious injuries that Doctor Villamor has to treat.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525195600 GMT+3" stop="20260525205600 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ3</title>
+    <desc lang="el">Supercar Blondie arrives in Las Vegas in a million dollar Lamborghini SVJ roadster. Taken under the wing of Patrick, founder of the Junkyard Pirates, Alex is brought into the rat rod world - home to American mavericks and outsiders.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525205600 GMT+3" stop="20260525215600 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ4</title>
+    <desc lang="el">Supercar Blondie is given the keys to a five million dollar Pagani Huayra L&apos;Ultimo as she explores the sub-culture of lowriders with the seal of approval from Horacio Pagani himself. Will she be accepted into this tribe?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525215600 GMT+3" stop="20260525225600 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ7</title>
+    <desc lang="el">Mark and the Ghouls compare a 1969 Daytona with a 2016 Hellcat. They take them for a drive to the weigh station and for a side by side on the dyno.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525225600 GMT+3" stop="20260525235700 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ8</title>
+    <desc lang="el">Allysa rounds up the team and Mark unveils the surprise crate engine for the Operation Firepower &apos;Cuda. Then, he reveals the reason this project is top-secret.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525235700 GMT+3" stop="20260526002700 GMT+3" channel="9744258">
+    <title lang="el">Fast and Famous Κ1 ΕΠ1</title>
+    <desc lang="el">Racing Driver Arie Luyendyk Jr. challenges two celebrities, kickboxer Rico Verhoeven and footballer Sol Campbell, to see who is the fastest around the track.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260525000000 GMT+3" stop="20260525003000 GMT+3" channel="216382">
     <title lang="el">Designers</title>
     <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
@@ -52670,7 +53048,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525000000 GMT+3" stop="20260525020000 GMT+3" channel="46137848">
-    <title lang="el">EuroLeague Final 4: Τελικός</title>
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -52754,7 +53132,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260525190000 GMT+3" stop="20260525213000 GMT+3" channel="216415">
-    <title lang="el">EuroLeague Final 4: Τελικός</title>
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -62164,6 +62542,198 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260526002700 GMT+3" stop="20260526004100 GMT+3" channel="9744258">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ1</title>
+    <desc lang="el">Founder of The Gymkhana Grid and viral superstar, Ken Block, gives a detailed account of the creation of one of the fastest growing events in the world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526004100 GMT+3" stop="20260526010000 GMT+3" channel="9744258">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ2</title>
+    <desc lang="el">The world-famous Boyzone band is back on tour but for Shane Lynch, his true passion is motorsport. He hangs up his microphone and gets behind the wheel.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526010000 GMT+3" stop="20260526015800 GMT+3" channel="9744258">
+    <title lang="el">Jndia: the Fast Life</title>
+    <desc lang="el">Meet Jndia Erbacher. Just a normal girl who likes partying, holidaying and driving drag cars at 550KMPH! Watch Jndia racing dragsters across Europe, striving to break America in her quest to become the fastest woman on Earth.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526015800 GMT+3" stop="20260526022800 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ8</title>
+    <desc lang="el">The harsh reality of winter sets in, and the Keefer brothers are forced to sleep with one eye open as a grizzly patrols the area around their camp.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260526022800 GMT+3" stop="20260526025800 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ9</title>
+    <desc lang="el">With the arctic storm nipping at their heals, the Keefer brothers race down the river to reach their next supply-yielding cache only to become lost as the river divides into a maze of small channels.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260526025800 GMT+3" stop="20260526031300 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ20</title>
+    <desc lang="el">Canadian engineer Denis Boivin has invented the track n Go, which makes it possible for any 4x4 vehicle to become a snowmobile in 15 minutes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526031300 GMT+3" stop="20260526032900 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ21</title>
+    <desc lang="el">Gravity Sketch is an intuitive multi-platform 3D creation tool developed by Oluwaseyi Sosanya and two other students of the Royal College of Art.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526032900 GMT+3" stop="20260526035900 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ7</title>
+    <desc lang="el">Don&apos;t mess with organized crime. The dynamic duo tackle scenes from the Mexico cartel series Queen of the South, but take a pitstop at the rest room to test a scene from The Foreigner with Jackie Chan.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526035900 GMT+3" stop="20260526042900 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ8</title>
+    <desc lang="el">Who left Terry Home Alone! Larry did. Terry and Larry test several scenes from the classic film series Home Alone.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526042900 GMT+3" stop="20260526051400 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ2 ΕΠ10</title>
+    <desc lang="el">Join host Tianran He in the historic water town of Shaoxing, famed for its yellow wine. Traversing its canals by boat, Tianran discovers why it&apos;s said there are 10,000 bridges in Shaoxing.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526051400 GMT+3" stop="20260526055900 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ2 ΕΠ11</title>
+    <desc lang="el">Welcome to Haikou, also known as the Coconut City! Join Tianran experiencing the culinary culture and urban character of this tropical paradise. From light and sweet coconut chicken hotpot to refreshing herbal desserts and spicy rice soup.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526055900 GMT+3" stop="20260526070000 GMT+3" channel="9744258">
+    <title lang="el">Strange World Κ1 ΕΠ1</title>
+    <desc lang="el">Alex heads to America search of a scientific explanation for the terrifying phenomenon known as Ice Bombs, which cause fear, devastation and even injury.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526070000 GMT+3" stop="20260526080000 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ3</title>
+    <desc lang="el">Josh and Cody are separately visiting Georgia and France. Cody, together with rooftopper Harry Gallagher, undertakes a cable car trip known as &apos;Stalin&apos;s coffin&apos;. Josh is in France searching for abandoned chateaus with globetrotter Lexie Limitless.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526080000 GMT+3" stop="20260526085900 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ4</title>
+    <desc lang="el">Josh and Cody are diving into the underworld. This time, Josh explores the abandoned German mining industry, including an encounter with a Police squad, and in England, Cody explores an old Soviet submarine in the English Medway river.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526085900 GMT+3" stop="20260526100000 GMT+3" channel="9744258">
+    <title lang="el">Close Proximity Κ1 ΕΠ4</title>
+    <desc lang="el">Following a disappointing 12th place finish in the Formula Drift series stop in Orlando, drift car driver Matt Field prepares for the next stop: Wall Speedway.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526100000 GMT+3" stop="20260526103000 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ3</title>
+    <desc lang="el">Reya El-Salahi meets Alexander Valentino, who plans to use Naples’ ancient canals and aqueducts to cool the city in summer.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526103000 GMT+3" stop="20260526105900 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ4</title>
+    <desc lang="el">Neil Cairns visits archaeologists and geneticists who traced a 20,000-year-old deer tooth pendant to a Stone Age woman.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526105900 GMT+3" stop="20260526115900 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ4</title>
+    <desc lang="el">A blast from the past introduces a new team to the competition. Teams cook an Asian street food feast on hibachi grills, then two teams must prepare a classic French tarte tartin in the Scorcher challenge.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526115900 GMT+3" stop="20260526130000 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ5</title>
+    <desc lang="el">Four teams face off in the semifinal. First, teams whip up a seafood feast to impress acclaimed chef Tom Hishon (Kingi, Orphans Kitchen, Daily Bread). Then the bottom two teams cook to save their bacon in the ultimate test of simplicity – cooking the perfect steak for a surprise guest judge. Who will make it to the final?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526130000 GMT+3" stop="20260526140000 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ3</title>
+    <desc lang="el">Despite a troubled past of poverty and invasions, Korea has emerged as a car building power-house. Through its unheralded and talented-loaded car scene, Sung reconnects with the land of his birth and finds peace with his estranged mother.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260526140000 GMT+3" stop="20260526145900 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ4</title>
+    <desc lang="el">Japanese car culture holds a special place in Sung&apos;s heart. He&apos;s back exploring the home of drifting to see the coolest mods, and quirkiest characters. Sung finds that a quest for brilliance and excellence makes this the best place to get inspired.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260526145900 GMT+3" stop="20260526154400 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ6</title>
+    <desc lang="el">Ash heads into the desert to meet up with Wu Xinlei, who is a survival expert. He’s hoping to understand what it would have been like for the people who built The Great Wall in this remote and punishing landscape.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526154400 GMT+3" stop="20260526161400 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ7</title>
+    <desc lang="el">Ash is into the final stretch of his journey along The Great Wall of China. After seeing the building techniques used on the Great Wall, Ash heads into the Gobi Desert to the stunning Cresent Lake – a beautiful oasis between walls of sand.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526161400 GMT+3" stop="20260526171400 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ4</title>
+    <desc lang="el">Liesel explores all the hands-on activities such as riding horseback on the beach, riding ATV’s through the muddy swamps, and hiking through the super lush El Yunque rainforest. Luxurious resorts are only a stone&apos;s throw away - hopping islands, Liesel gets to experience the ultra modern and chic El Blok located in Vieques. Between stays at all the luxury boutique resorts, a common trend starts to appear, and that is the island’s cuisine.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526171400 GMT+3" stop="20260526181400 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ5</title>
+    <desc lang="el">Hong Kong is Asia’s world city and this episode is a complete 360 from the melee of tropical island paradises. Hong Kong is famous for it’s skyscraper strewn skyline and in this episode, local girl Lesley Chiang is on a mission to show a different side of Hong Kong.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526181400 GMT+3" stop="20260526185700 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ1 ΕΠ8</title>
+    <desc lang="el">In this episode, Tianran He and Eva May venture to Xi&apos;an, an ancient city with over 3000 years of history, capital to 13 Chinese dynasties. But first, our hosts are going to carb load on street food, from glutinous rice cakes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526185700 GMT+3" stop="20260526195800 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ3</title>
+    <desc lang="el">It’s the birthplace of Halloween, but the ghosts and ghouls which have canvassed the world have not scared up much interest in Irish cuisine. Mounting a classic motorcycle Jonathan tours a land of mystic traditions, boisterous locals, and iconic scenery. The world’s most magnetic pub culture draws him in, border conflict pushes him out, and dark legends pull him around. It’s an adventure soaked in rain, lore, and the food of ancestor’s past.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526195800 GMT+3" stop="20260526205900 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ4</title>
+    <desc lang="el">Jonathan faces his toughest challenge yet as he enters a country that has been coming to grips in defining and understanding their own cuisine. Through the historical turmoil and harsh climate, Russia has lost it’s traditional way of cooking, and eating. But the country is reviving this culture; Jonathan ventures the far stretches of the country to learn about modern cooks, as well as ancient kitchens housing the one key tool that gave birth to true Russian cuisine, the Russian oven.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526205900 GMT+3" stop="20260526214300 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ5</title>
+    <desc lang="el">In a vibrant exploration of textures and tastes, Will dives into the world of Indian street food chats and snacks, some of the most loved and sought after dishes in all of India. The original fast food.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526214300 GMT+3" stop="20260526222700 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ6</title>
+    <desc lang="el">In Kolkata street-food isn’t only about the Hawker stalls. The Coffee Houses are part meeting place, part restaurant, part community hall. Serving up quick and simple food for the multitudes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526222700 GMT+3" stop="20260526232600 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ4</title>
+    <desc lang="el">Vegas Bboy Ronnie is traveling to Japan to visit Bboy Shigekix in his hometown Tokyo. Shigekix will take Ronnie on an exciting Journey to show the Japanese culture and it&apos;s unique style of breaking and hip-hop.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526232600 GMT+3" stop="20260527002600 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ5</title>
+    <desc lang="el">In the city of Rotterdam, three times world champion, Menno, hosts b-boy Junior from France. Both are considered legends. Menno takes Junior on a trip he will never forget and meet people who have all left their mark in the Dutch breaking community.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260526000000 GMT+3" stop="20260526003000 GMT+3" channel="216382">
     <title lang="el">Top Models</title>
     <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
@@ -70028,7 +70598,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260526164500 GMT+3" stop="20260526190000 GMT+3" channel="46137848">
-    <title lang="el">EuroLeague Final 4: Τελικός</title>
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -70050,7 +70620,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260526000000 GMT+3" stop="20260526020000 GMT+3" channel="216415">
-    <title lang="el">Τελικός</title>
+    <title lang="el">Adidas NextGen EuroLeague Finals 2026</title>
     <desc lang="el">Το τουρνουά συγκεντρώνει κορυφαία ταλέντα του μπάσκετ κάτω των 18 ετών από όλο τον κόσμο. Οκτώ ομάδες Κ18 διεκδικούν τον τίτλο στο πλαίσιο των εκδηλώσεων για το Final Four 2026 που διεξάγεται στην Αθήνα. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -79484,6 +80054,228 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527002600 GMT+3" stop="20260527010000 GMT+3" channel="9744258">
+    <title lang="el">Roads End Κ1 ΕΠ7</title>
+    <desc lang="el">In this episode, Rob and Dave drive through Fiambala and decide to stop at the town’s most famous site the naturally occurring hot springs baths.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527010000 GMT+3" stop="20260527015900 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ3</title>
+    <desc lang="el">Rhys learns what makes Japanese audiences tick from a pair of comedy masters, and he puts on a comedy show of his own. Also, New Zealand&apos;s mascot Pabu-chan is finally revealed to the world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527015900 GMT+3" stop="20260527025900 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ4</title>
+    <desc lang="el">The popularity of New Zealand&apos;s mascot, Pabu-chan, grows at the Sapporo Snow Festival, and then he gets a chance to hit the big time. Rhys also travels to the Okinawa Islands in search of the beautiful and fleeting cherry blossoms.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527025900 GMT+3" stop="20260527032900 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ2 ΕΠ5</title>
+    <desc lang="el">Vinnie and the team at Muscle Cars of Texas are working in the paint booth on the Malicious Intent. The 1966 Mustang is sanding out the car to get it ready for the paint booth. The 86 Camaro is being converted into a sniper system under the hood.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527032900 GMT+3" stop="20260527040000 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ2 ΕΠ6</title>
+    <desc lang="el">Vinnie is working on replacing the gages on this 1975 Corvette. The rocker panels on the 1964 Corvette are ready to be reinstalled.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527040000 GMT+3" stop="20260527043000 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ1</title>
+    <desc lang="el">Thom Hunt heads to Las Vegas to meet Tim Cridland, a sideshow performer who claims to be pain-proof.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527043000 GMT+3" stop="20260527050000 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ2</title>
+    <desc lang="el">Thom Hunt travels to the US to track down Ron White, a man whose mind-blowing memory powers defy belief.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527050000 GMT+3" stop="20260527054600 GMT+3" channel="9744258">
+    <title lang="el">Story of Masters Κ1 ΕΠ4</title>
+    <desc lang="el">For the final chapter of his journey into martial arts Dan questions how modern audiences engage and enjoy these ancient practices. From the excitement and drama of MMA arenas to legends of cinema like Bruce Lee and Korean director Crazy Doo.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527054600 GMT+3" stop="20260527060000 GMT+3" channel="9744258">
+    <title lang="el">The Streets Κ1 ΕΠ2</title>
+    <desc lang="el">Rapper Shiniqua, aka Pretty Little Monster, juggles motherhood while trying to avoid the trappings of Instagram fame. Her passion is writing rap lyrics and always tries to keep it real.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527060000 GMT+3" stop="20260527061500 GMT+3" channel="9744258">
+    <title lang="el">The Streets Κ1 ΕΠ3</title>
+    <desc lang="el">Las Vegas is home to a hot rod car club community which over the decades has been connected to the rise of rockabilly music. Through Luke Metz and his band, Shanda &amp; The Howlers, we learn how this bond between fashion, music and cars was created.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527061500 GMT+3" stop="20260527064500 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ10</title>
+    <desc lang="el">As the temperature plummets, the Keefer brothers fight their way down stream through freezing water and strong headwinds as they hope to reach their extraction site before the arctic storm lays claim to it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260527064500 GMT+3" stop="20260527070000 GMT+3" channel="9744258">
+    <title lang="el">Bright Now Κ1 ΕΠ10</title>
+    <desc lang="el">Firefighters have relied on the same basic tools for decades. But former NASA engineer Mike Ralston hopes to change that with a new breed of emergency vehicle.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527070000 GMT+3" stop="20260527073000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ6 ΕΠ1</title>
+    <desc lang="el">Holy Hollywood Weapons! Terry and Larry put some of your favorite Superhero&apos;s to the test. Tune in to the same Bat Outdoor Channel for the results.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260527073000 GMT+3" stop="20260527080000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ6 ΕΠ2</title>
+    <desc lang="el">We&apos;re putting Jack Reacher to the test! The movie, the series, and the pie!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260527080000 GMT+3" stop="20260527084200 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ2 ΕΠ12</title>
+    <desc lang="el">The stunning east coast of Hainan in southeast China, attract numerous visitors to travel. Hainan’s four famous dishes are chicken, duck, goat and crab.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527084200 GMT+3" stop="20260527092500 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ3 ΕΠ1</title>
+    <desc lang="el">From dazzling night markets to lush bamboo forests, 800 year old tea trees to close encounters with elephants, this tropical city in southwest China has everything, and is where the story of tea begins.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527092500 GMT+3" stop="20260527095500 GMT+3" channel="9744258">
+    <title lang="el">Top Million Dollar Agent Κ4 ΕΠ2</title>
+    <desc lang="el">Suhail and Niki have busy schedules. He’s a marketing director and she’s a doctor so she’s often on call for a hospital downtown. Can they find a place that can help relieve stress, but also be close enough to downtown for those urgent calls?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527095500 GMT+3" stop="20260527102500 GMT+3" channel="9744258">
+    <title lang="el">Top Million Dollar Agent Κ4 ΕΠ3</title>
+    <desc lang="el">Wendy and Daniel are looking to downsize after their kids have moved out, but still want an elegant home. She’s a physical therapist and she’s a business analyst. They want something that can help them relax at the end of the day.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527102500 GMT+3" stop="20260527112500 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ5</title>
+    <desc lang="el">Cody encounters wild animals and thrilling attractions in abandoned Six Flags, New Orleans. Meanwhile, Josh is in Cyprus where the UN peace keeping force allows him to explore the abandoned Nicosia International Airport and the UN bufferzone.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527112500 GMT+3" stop="20260527122500 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ6</title>
+    <desc lang="el">Together with rooftopper Elaina Hammeken, Josh explores an incredible radio telescope from the Soviet era in Armenia while Cody experiences an astonishing trip through the Greek mining industry of Ptolemaida with his travel companion, Elvis Brauer.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527122500 GMT+3" stop="20260527125500 GMT+3" channel="9744258">
+    <title lang="el">The Garms Dealer Κ1 ΕΠ2</title>
+    <desc lang="el">Britsh football’s most expensive footballer Jack Grealish is famous for his rascal style and is after some particularly crazy pieces in this episode. An additional last-minute request for some vintage items tests Sam: will he be able to pull it off?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527125500 GMT+3" stop="20260527132600 GMT+3" channel="9744258">
+    <title lang="el">The Garms Dealer Κ1 ΕΠ3</title>
+    <desc lang="el">Crystal Palace and Ivory Coast winger Wilf Zaha is going on holiday and has an urgent order for Sam. He’s after a number of hard-to-get items, including a very rare and expensive Prada jacket. Is the Garms Dealer going to be able to deliver on time?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527132600 GMT+3" stop="20260527135700 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ5</title>
+    <desc lang="el">Reya El-Salahi visits Spain’s Sierra Morena to see how conservation brought the Iberian lynx back from under 100 to thriving again.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527135700 GMT+3" stop="20260527142700 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ6</title>
+    <desc lang="el">Reya El-Salahi explores how the northern lights can disrupt technology and visits EISCAT 3D, a new radar studying solar particle impacts.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527142700 GMT+3" stop="20260527152700 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ6</title>
+    <desc lang="el">The three finalists cook off over two rounds. First, a live fire challenge where they must prepare a whole lamb asado style, next, a barbecue degustation to impress legendary chef Al Brown.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527152700 GMT+3" stop="20260527162700 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ5</title>
+    <desc lang="el">Sung braves the ice-cold winter and reputation as one of the US&apos;s crime capitals to uncover the best of Chicago&apos;s car culture. He finds there&apos;s much more to the windy city than the Blues Mobile. Car nuts are giving the big city a small town heart.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260527162700 GMT+3" stop="20260527171200 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ8</title>
+    <desc lang="el">After meeting an old friend from the Chu Great Wall, Ash visits some beautiful stone structures – both natural and human-made – at Yardang National Park and Xiaofang City. With one final phone call home, it&apos;s time to leave The Great Wall of China.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527171200 GMT+3" stop="20260527181300 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ6</title>
+    <desc lang="el">Luxe Travels showcases beautiful Belize; with hundreds of kilometers of coastline with the Caribbean sea, the 2nd largest barrier reef, and one of the best dive sites in the world, how could you not? In this episode, Dani Kristo is on a mission to showcase the best of Belize</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527181300 GMT+3" stop="20260527191300 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ7</title>
+    <desc lang="el">Cyprus is the island of love beauty and in this episode of Luxe Travels, Host Sophie Ashley traverses the beautiful Mediterranean island to find out all about the must see and must experience spots in the birth place of Aphrodite!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527191300 GMT+3" stop="20260527194400 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ1</title>
+    <desc lang="el">In the northeast of India in the state of West Benghal, Kolkata lies on the banks of the Ganges River and is a melting pot of cultures and cuisines. Inspired by Kolkata&apos;s heritage, Will puts his own twist on classic Indian dishes, reinventing and infusing these recipes with unexpected flavours.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527194400 GMT+3" stop="20260527202900 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ2</title>
+    <desc lang="el">The Eastern port Kolkata has been the centre for international merchants and migrants. The closest entry-point from China, in 1778 Kolkota became home to India’s only Chinese community. They have left an indelible mark on Kolkata’s architecture, culture and cuisine.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527202900 GMT+3" stop="20260527212900 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ6</title>
+    <desc lang="el">Four BC One World Final legends from our series, Ronnie, Neguin, Junior and Shigekix, are coming to NYC. These legends will meet some of the future legends taking part in this year’s world final and take them on a journey through hip hop history.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527212900 GMT+3" stop="20260527215900 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ10</title>
+    <desc lang="el">In the Exuma Islands, Blue World experiences swimming pigs before exploring an underwater cave that vanishes under an island.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527215900 GMT+3" stop="20260527223000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ11</title>
+    <desc lang="el">In Florida, Blue World joins a shark researcher investigating the mysterious gathering of thousands of Blacktip sharks every spring, just offshore. Then Jonathan takes his family on a Grand Cayman diving trip where they meet stingrays and sea turtles</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527223000 GMT+3" stop="20260527230000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ12</title>
+    <desc lang="el">Blue World investigates mysterious formations called Cave Bells, which are only found in seven cenotes in the world, all within a few miles of each other.Then the team travels to Palau to witness the spawning ritual of the massive Bumphead Parrotfish</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527230000 GMT+3" stop="20260527233000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ7 ΕΠ13</title>
+    <desc lang="el">On Grand Cayman, Jonathan and his kids explore the wreck of the Kittiwake, an artificial reef planted just for divers. Then the Blue World team travels to the Yucatan where they explore the longest submerged cave in the world!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527233000 GMT+3" stop="20260528000000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ8 ΕΠ1</title>
+    <desc lang="el">In the Season 8 premiere, Jonathan’s longtime cameraman/editor decides to break out of his desk job and get scuba certified. Then he and Jonathan travel to Florida to film goliath groupers—huge fish that reach 800 pounds!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527000000 GMT+3" stop="20260527003000 GMT+3" channel="216382">
     <title lang="el">Fashion Films</title>
     <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
@@ -87319,7 +88111,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260527220000 GMT+3" stop="20260528001500 GMT+3" channel="216415">
-    <title lang="el">EuroLeague Final 4: Τελικός</title>
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -96747,6 +97539,210 @@
     <title lang="el">Rachel Khoo&apos;s Simple Pleasures Κ1 ΕΠ2</title>
     <desc lang="el">Rachel serves up her favourite recipes using everyday ingredients. Dishes include a quick lentil dal with homemade flatbreads, fresh pesto, and peach-ripple ice-cream.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528000000 GMT+3" stop="20260528003000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ8 ΕΠ2</title>
+    <desc lang="el">The Blue World team travels to Vermont, USA, where they explore the depths of Lake Champlain and find the wrecks of old canal boats, remarkably well-preserved in the cold fresh water. Then, the biology of pipefish and seahorses is explored.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528003000 GMT+3" stop="20260528010000 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ3</title>
+    <desc lang="el">Cody is in Marrakech, Morocco, for a local exploring adventure on BMX-bikes through an old medina, along graffiti walls, night markets and a forbidden hotel.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528010000 GMT+3" stop="20260528015800 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ1</title>
+    <desc lang="el">Rhys learns the tricks of the trade from Japan&apos;s #1 mascot, battles a roboticist, experiences the relaxation of forest bathing, and trains with a samurai master.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528015800 GMT+3" stop="20260528025900 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ2</title>
+    <desc lang="el">Rhys doubles his efforts to break into the Japanese entertainment industry by getting a brand designed, and by enrolling in mascot school. Missing his family, he spends time with a Japanese family who are a little bit like the Osbournes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528025900 GMT+3" stop="20260528032900 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ1</title>
+    <desc lang="el">Vinnie and the team at Muscle Cars of Texas take you on a tour of what is happening in the shop. Replacing the front end of a 64 Corvette resto mod. Painting racing stripes on a 67 442 convertible. A yellow Camaro underneath the hood of this car.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528032900 GMT+3" stop="20260528040000 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ2</title>
+    <desc lang="el">Vinnie and the team at Muscle Cars of Texas work on gluing the front panel on the 442 Restomod. This 67 Mercury Cougar has some issues with the rear brake pads.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528043000 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ3</title>
+    <desc lang="el">Thom heads to Nevada, to find a man who defies human biology. Igor Zaripov performs mind-blowing feats of power using only the might of his jaw.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528043000 GMT+3" stop="20260528050000 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ4</title>
+    <desc lang="el">Thom’s in Nevada, tracking down world record-holding mathlete Scott Flansburg, who’s able to crunch numbers faster than a calculator.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528050000 GMT+3" stop="20260528053000 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ6 ΕΠ1</title>
+    <desc lang="el">In the season premiere, brothers Chris and Casey Keefer are dropped in the wilderness of New Zealand with virtually nothing. They must quickly adapt to their new environment or face life threatening consequences.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260528053000 GMT+3" stop="20260528060000 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ6 ΕΠ2</title>
+    <desc lang="el">The adrenaline has worn off for Chris and Casey, and the jet lag has set in. The brothers face frigid temperatures and unpredictable whitewater rapids. When they try to navigate the rough waterways, their safety is threatened.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260528060000 GMT+3" stop="20260528061500 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ3 ΕΠ1</title>
+    <desc lang="el">Tear hails from New York City and is a 52 blocks master, a defensive fighting style invented by African Americans in prisons. Instead of hitting, you block.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528061500 GMT+3" stop="20260528062900 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ3 ΕΠ2</title>
+    <desc lang="el">Bjørn Braathen is a young man and a passionate Glima (Norwegian wrestling) champion. This is the Art of the Norwegian Vikings, the special forces of their time.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528062900 GMT+3" stop="20260528070000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ6 ΕΠ3</title>
+    <desc lang="el">Dust off your chaps as Terry tests several things from the epic western The Harder They Fall, and a canteen buster test from Gunsmoke!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260528070000 GMT+3" stop="20260528074400 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ3 ΕΠ2</title>
+    <desc lang="el">Come get soaked at the Dai people&apos;s New Year celebrations! All this before hiking through an actual rainforest. We&apos;re going to need all the good tea and food we can get!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528074400 GMT+3" stop="20260528082900 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ3 ΕΠ3</title>
+    <desc lang="el">Tianran and Hannah climb Mount Huangshan, one of China&apos;s most famous mountains, sampling its delicate green tea and the rich flavors of Anhui cuisine, and explore the regions&apos;s ancient villages and lush bamboo forests.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528082900 GMT+3" stop="20260528093000 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ5</title>
+    <desc lang="el">Jonathan Legg is from California and he thinks he knows Mexican cuisine. This notion gets shattered as he experiences the onslaught of food in Mexico city! Between trying scorpion tacos and dodging shady markets in San Juan, he learns the dark art of sacred drinks, like pulque and mezcal, now turned into social libations. His journey also takes him to Oaxaca where he gets the low down on the fabled Mole sauce, and a long haul to a village reveals a secret ceremony that has origins of dark arts!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528093000 GMT+3" stop="20260528102800 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ7</title>
+    <desc lang="el">While Cody explores lost industries in the &apos;ugliest&apos; city in the world with freerunner Abudi Alsagoff, Josh, together with his old neighborhood friend John Yurei, is in the famous American prison &apos;Joliet&apos;, where prisoners build their own cells.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528102800 GMT+3" stop="20260528112800 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ8</title>
+    <desc lang="el">Josh and urban exploring-legend Steve Duncan travel to the arctic island of Spitsbergen, Norway, where there is an old Soviet mining town waiting to be explored. Meanwhile Cody explores the dark and cruel history of Goli Otok prison in Croatia.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528112800 GMT+3" stop="20260528121400 GMT+3" channel="9744258">
+    <title lang="el">Story of Masters Κ1 ΕΠ1</title>
+    <desc lang="el">Dan teams up with actor Claudia Kim to explore the birth of the iconic Shaolin style to the masters who adapted its techniques, Dan’s Foglers journey stretches across centuries of history and shows how martial arts evolve and develop over time.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528121400 GMT+3" stop="20260528131000 GMT+3" channel="9744258">
+    <title lang="el">Story of Masters Κ1 ΕΠ2</title>
+    <desc lang="el">Dan Fogler investigates the mental and physical benefits of martial arts. From children helping to ease their ADHD to a man known as ‘The Most Dangerous Man in the World’ – the impact martial arts can have on our lives is extensive.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528131000 GMT+3" stop="20260528134100 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ7</title>
+    <desc lang="el">Emma meets Dr. Asad Khan, whose life was upended by long COVID, as new research seeks answers for millions still suffering worldwide.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528134100 GMT+3" stop="20260528141100 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ8</title>
+    <desc lang="el">Emma Keeling treks through Romania’s Tarcu Mountains to see how European bison, once extinct in the wild, are making a comeback.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528141100 GMT+3" stop="20260528151100 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ1 ΕΠ1</title>
+    <desc lang="el">Seven teams meet judges Ganesh Raj, Nici Wickes and Jared Macdonald in the BBQ arena. They make their signature barbecues and are challenged to cook with a mystery ingredient: the eggplant.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528151100 GMT+3" stop="20260528161100 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ1 ΕΠ2</title>
+    <desc lang="el">The six returning teams are asked to make a fast food barbecue in the Throwdown challenge, then the mystery Scorcher gives them something to be excited about: venison.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528161100 GMT+3" stop="20260528171100 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ7</title>
+    <desc lang="el">A slow and outdated 1959 Mercedes Benz 180 D is modified with a bargain budget to include new wheels and an American V8 muscle motor.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528171100 GMT+3" stop="20260528181100 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ8</title>
+    <desc lang="el">A 1972 Ford Track T Roadster is incomplete and needs Titan Restorarion;s finishing touch with its flathead V8 engine.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528181100 GMT+3" stop="20260528191100 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ9</title>
+    <desc lang="el">The engine is removed and the &apos;Cuda is slated for paint. But before Will can prepare, he receives a package with something magical inside.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528191100 GMT+3" stop="20260528201100 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ10</title>
+    <desc lang="el">It&apos;s nearing the end of Operation Firepower. The ghouls are working hard to complete the project and tries to fire up the &apos;Cuda for the first time.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528201100 GMT+3" stop="20260528205700 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ5</title>
+    <desc lang="el">Supercar Blondie arrives in ‘Motor City’ in the dead of winter but given access to a half million dollar new Ford GT raises her spirits. Her goal is to learn more about muscle cars, born in Detroit, and her journey takes her in different directions.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528205700 GMT+3" stop="20260528215700 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ6</title>
+    <desc lang="el">Supercar Blondie hits New York City in a four million dollar rare Lamborghini Centenario. Her quest is to track down the players in the underground drift driving scene and visit the exclusive Manhattan Motor Club.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528215700 GMT+3" stop="20260528225800 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ6</title>
+    <desc lang="el">Sung returns to his home town LA, the car culture capital of the world. This is where Sung feels the most pressure to be on his game. But in the car scene, Sung meets old friends, discovers new inspirations, and finds a way to face life&apos;s challenges.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260528225800 GMT+3" stop="20260528232800 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ3</title>
+    <desc lang="el">The team at Muscle Cars of Texas will add primer to the frame of a half million dollar 1963 Corvette Z06. This 65 Mustang had a tune up and its ready for a test drive. A new costumer has dropped off a 1968 Corvette for a restoration project.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528232800 GMT+3" stop="20260528235800 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ4</title>
+    <desc lang="el">This time, on Muscle Cars of Texas, Vinnie and the team are working on a 63 Z06, 59 Ford Pickup and a 69 Chevy Malibu.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528235800 GMT+3" stop="20260529010000 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ9</title>
+    <desc lang="el">A 1957 Ford Thunderbird gets the restoration treatment with new paint, interior, and a rebuilt V8 motor.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260528000000 GMT+3" stop="20260528003000 GMT+3" channel="216382">
@@ -114107,6 +115103,198 @@
     <title lang="el">Best Baker In America Κ2 ΕΠ3</title>
     <desc lang="el">The seven remaining bakers must make strawberry shortcakes for the skills challenge. Then, in the master challenge they must bake a difficult &apos;fire and ice&apos; dessert.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529010000 GMT+3" stop="20260529014400 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ3</title>
+    <desc lang="el">Kolkata’s extraordinary street-food scene has been influenced by its various conquerors and rulers. The most profound influence has been from the fabulously rich and powerful Mughals. Will reimagines classic dishes while also incorporating the unique street food flavours he encounters.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529014400 GMT+3" stop="20260529022900 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ4</title>
+    <desc lang="el">The city of Kolkata is one of the most densely populated in the world. That’s a lot of mouths to feed. Fortunately, it’s a place that knows just how to do it. Fuelled by the bustling energy of street vendors, Will seeks inspiration from Indian working man&apos;s essentials.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529022900 GMT+3" stop="20260529025900 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ1</title>
+    <desc lang="el">Ash’s journey along the Great Wall of China begins at the furthest point to the East, at an ancient section known as the Chu Great Wall. After that, Ash heads to the Shaolin Temple in Dengfeng City, to learn some of their ancient practices.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529025900 GMT+3" stop="20260529033400 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ2</title>
+    <desc lang="el">Starting at Old Dragon’s Head, Ash continues west to meet a Wall Protector who has dedicated his life to preserving this iconic monument, before gearing up for an unexpected adventure: scuba diving the ruins of the Great Wall of China.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529033400 GMT+3" stop="20260529043400 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ8</title>
+    <desc lang="el">This Luxe Travels episode explores one of Philippines 7000+ islands, and this particular island is voted by most travel publications to be the most beautiful in the world. We are of course talking about the island of Palawan.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529043400 GMT+3" stop="20260529053500 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ9</title>
+    <desc lang="el">A unique episode in it’s own right, this episode features a road trip through California, Luxe Travels style; however, the focus this time around is not necessarily on luxury, it’s more about adventures and explorations on the road. Host Sophie Ashley tours around the Golden State, making stops in iconic destinations like San Francisco, Los Angeles, Monterey, and Santa Barbara. Her ride for the episode, true to the Island Hunter style is the iconic Aston Martin DB11 Volante</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529053500 GMT+3" stop="20260529063500 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ1</title>
+    <desc lang="el">Bboy Junior is going back where he was born, The Democratic Republic of Congo. World champion Shigekix will join him, visiting Africa for the first time. Together they will explore the dance culture in the city of Goma.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529063500 GMT+3" stop="20260529070000 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ6</title>
+    <desc lang="el">Driver Jon Webster is strapped in and ready to push the Flying Kestrel to its limits.The Kestrel team must overcome multiple problems on the day to stand any chance of topping the time sheets and can Jon keep the kestrel on track and break the record</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529070000 GMT+3" stop="20260529073000 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ6 ΕΠ3</title>
+    <desc lang="el">The Keefer Brothers make an important decision that vastly impacts their expedition. In a desperate search of necessary food, they attempt to hunt big game for the first time in New Zealand, and encounter a new set of challenges.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529073000 GMT+3" stop="20260529080000 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ6 ΕΠ4</title>
+    <desc lang="el">Chris and Casey are introduced to the tastes of the New Zealand wild, and get a rude awakening. Mother Nature’s mind games start to mess with the brothers’ mental strength, while their inflatable raft continues to be a serious problem.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529080000 GMT+3" stop="20260529081500 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ3 ΕΠ3</title>
+    <desc lang="el">Kirby Koo is a Shaolin Kung Fu Martial Artist and yoga teacher who lives in New York City and trains with Shi Yan Ming, a 34rd generation Shaolin warrior monk.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529081500 GMT+3" stop="20260529083000 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Football Κ3 ΕΠ4</title>
+    <desc lang="el">Amit Himelstein is the head instructor of the IKF and the leader in Kapap. His big motto? Respect everyone but fear no-one. He&apos;s the embodiment of krav maga.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529083000 GMT+3" stop="20260529090000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ6 ΕΠ5</title>
+    <desc lang="el">We go to the mail room for viewer requests as Terry and Larry take a look into famous scenes from Yellowstone, SWAT, Fast and Furious.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529090000 GMT+3" stop="20260529093000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ6 ΕΠ6</title>
+    <desc lang="el">Terry and Larry test things they never got to from other episodes. Pull up a chair and get ready for leftovers, and a surprise guest!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529093000 GMT+3" stop="20260529100000 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ5</title>
+    <desc lang="el">Thom heads to Louisiana to meet Jerry Miculek, the human machine gun who can fire a handgun faster than an automatic weapon.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529100000 GMT+3" stop="20260529102900 GMT+3" channel="9744258">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ6</title>
+    <desc lang="el">Thom Hunt heads to Nevada, to meet Dean Karnazes, an ultramarathon runner who’s taken endurance running to a level that defies human biology.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529102900 GMT+3" stop="20260529114300 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ1</title>
+    <desc lang="el">The nation of 7,000 islands has no problems with beach, sun, or sea; but they suffer tremendously with cuisine image. Jonathan lands in Manila to discover the top chefs are well aware of the issue and, following their advice, he launches off on an expedition to find part of the solution. Driving from headhunting tribal villages, to step-back-in-time colonial towns, to restaurants in the shadow of the American military behemoth an intriguing story slowly pieces together.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260529114300 GMT+3" stop="20260529124300 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ2</title>
+    <desc lang="el">Finland is that one Nordic country that is never on the global cuisine radar. However, the reserved Finns have been quietly perfecting their craft of foraging culture and incorporating it into their unique cuisine. Jonathan Legg explores the entire expanse of the country to understand it’s cuisine, and the ethos of the country’s top chefs; from amazing locally sourced cuisine in Helsinki, to an expedition in Lapland to learn about foraging and the Finnish delicacy, reindeer!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529124300 GMT+3" stop="20260529134300 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ9</title>
+    <desc lang="el">Cody is in Namibia following in the footsteps of German diamond seekers hearing stories of thieves and smugglers. Josh is in Albania and finds abandoned fighter jets and a secret factory.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529134300 GMT+3" stop="20260529144300 GMT+3" channel="9744258">
+    <title lang="el">Epic Exploring Κ1 ΕΠ10</title>
+    <desc lang="el">The final episode reunites Josh and Cody after months of travelling separately, this time to the nuclear disaster area of Fukushima in Japan. Meanwhile, they look back at their adventures and reveal the result of their rankings of locations.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529144300 GMT+3" stop="20260529154100 GMT+3" channel="9744258">
+    <title lang="el">Story of Masters Κ1 ΕΠ3</title>
+    <desc lang="el">Dan Fogler explores how martial arts have been used by a range of warriors throughout the ages. From the ancient Terracotta Army in China to Japan’s legendary samurai. How did martial arts forge empires and overcome the threat of modern weaponry?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529154100 GMT+3" stop="20260529162600 GMT+3" channel="9744258">
+    <title lang="el">Story of Masters Κ1 ΕΠ4</title>
+    <desc lang="el">For the final chapter of his journey into martial arts Dan questions how modern audiences engage and enjoy these ancient practices. From the excitement and drama of MMA arenas to legends of cinema like Bruce Lee and Korean director Crazy Doo.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529162600 GMT+3" stop="20260529172700 GMT+3" channel="9744258">
+    <title lang="el">Breaking Limits Κ1 ΕΠ1</title>
+    <desc lang="el">Speed skater Beorn Nijenhuis and presenter Julien Kang visit laboratories to ask how does technology help to make the difference between silver and gold?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529172700 GMT+3" stop="20260529182700 GMT+3" channel="9744258">
+    <title lang="el">Breaking Limits Κ1 ΕΠ2</title>
+    <desc lang="el">How do innovators and athletes work together to beat the competition on the slope and the half pipe?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529182700 GMT+3" stop="20260529192700 GMT+3" channel="9744258">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ1</title>
+    <desc lang="el">FaZe Clan, INTZ and Gen.G are lining up for major events, and they&apos;re hoping to claim esports glory. The prize for winning can be huge, but so is the personal sacrifice to make it happen.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529192700 GMT+3" stop="20260529202700 GMT+3" channel="9744258">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ2</title>
+    <desc lang="el">Through the eyes of their most passionate members, we dive into the communities that add to the diverse world of esports - from cosplaying in Brazil to underground gaming tournaments in Korea.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529202700 GMT+3" stop="20260529211200 GMT+3" channel="9744258">
+    <title lang="el">Kungfu - Wise Κ1 ΕΠ5</title>
+    <desc lang="el">In Quanzhou, southeast China, Kleber seeks out masters of the Five Ancestors Fist, a combination of five local kungfu styles. He meets the abbot of a Southern Shaolin Temple, and takes part in the extraordinary training regime used by Shaolin monks.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529211200 GMT+3" stop="20260529215700 GMT+3" channel="9744258">
+    <title lang="el">Kungfu - Wise Κ1 ΕΠ6</title>
+    <desc lang="el">In Yongchun, China, Kleber explores the origins of White Crane kungfu and its effect on the martial arts world. He learns how its blocks and strikes were inspired by animal movements, and how acupuncture points can be used to deadly effect.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529215700 GMT+3" stop="20260529222700 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ1</title>
+    <desc lang="el">To kick off this season of Inside Masters of Dirt, you’ll get to know the legendary M.O.D riders, their stories, and the iconic Vienna shows that forged their legacy as the world’s wildest athletes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529222700 GMT+3" stop="20260529225700 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ2</title>
+    <desc lang="el">In Beirut, the Masters of Dirt crew prepare to put on yet another epic show in the Middle East. But even in the hottest countries - when it rains, it pours! See why this tour stop goes down as one of the most challenging in recent M.O.D history!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529225700 GMT+3" stop="20260529232500 GMT+3" channel="9744258">
+    <title lang="el">FMX Nomads Κ1 ΕΠ1</title>
+    <desc lang="el">Join Dan Whitby, Samson Eaton and Arran Powley for a day in the life of globetrotting freestyle motocross team, Bolddog.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529232500 GMT+3" stop="20260530002500 GMT+3" channel="9744258">
+    <title lang="el">F2: Tackling Europe Κ1 ΕΠ1</title>
+    <desc lang="el">F2 checks in with Manchester United and England International winger Ashley Young and meets up with world record throw-in expert Danny Brookes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260529000000 GMT+3" stop="20260529003000 GMT+3" channel="216382">
