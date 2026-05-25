@@ -14960,12 +14960,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525093000 GMT+3" stop="20260525100000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260525100000 GMT+3" stop="20260525110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
@@ -15029,12 +15023,6 @@
   <programme start="20260525170000 GMT+3" stop="20260525173000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260525173000 GMT+3" stop="20260525180000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -15833,6 +15821,12 @@
   <programme start="20260525220000 GMT+3" stop="20260525230000 GMT+3" channel="24745114">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 4)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230000 GMT+3" stop="20260526020000 GMT+3" channel="24745114">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -17367,9 +17361,189 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260525003000 GMT+3" stop="20260525023000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525023000 GMT+3" stop="20260525040500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525040500 GMT+3" stop="20260525050200 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525050200 GMT+3" stop="20260525060200 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060200 GMT+3" stop="20260525080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525080000 GMT+3" stop="20260525090000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525090000 GMT+3" stop="20260525105900 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525105900 GMT+3" stop="20260525115700 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525115700 GMT+3" stop="20260525130000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525130000 GMT+3" stop="20260525142500 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525142500 GMT+3" stop="20260525172900 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525172900 GMT+3" stop="20260525192900 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525192900 GMT+3" stop="20260525202900 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525202900 GMT+3" stop="20260526003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260524220000 GMT+3" stop="20260525010000 GMT+3" channel="5183085">
     <title lang="el">Μπάιρον Νέλσον - 4η ημέρα</title>
     <desc lang="el">Μπάιρον Νέλσον - 4η ημέρα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525010000 GMT+3" stop="20260525023000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525023000 GMT+3" stop="20260525040800 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525040800 GMT+3" stop="20260525060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525065900 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525065900 GMT+3" stop="20260525080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525080000 GMT+3" stop="20260525084500 GMT+3" channel="5183085">
+    <title lang="el">ΓΑΛΛΙΑ - MX2 - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΓΑΛΛΙΑ - MX2 - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525084500 GMT+3" stop="20260525093000 GMT+3" channel="5183085">
+    <title lang="el">ΓΑΛΛΙΑ - MXGP - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΓΑΛΛΙΑ - MXGP - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525093000 GMT+3" stop="20260525101500 GMT+3" channel="5183085">
+    <title lang="el">ΓΑΛΛΙΑ - MX2 - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΓΑΛΛΙΑ - MX2 - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525101500 GMT+3" stop="20260525110400 GMT+3" channel="5183085">
+    <title lang="el">ΓΑΛΛΙΑ - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΓΑΛΛΙΑ - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525110400 GMT+3" stop="20260525113000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525113000 GMT+3" stop="20260525145000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525145000 GMT+3" stop="20260525170700 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525170700 GMT+3" stop="20260525190700 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525190700 GMT+3" stop="20260525220700 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525220700 GMT+3" stop="20260525230800 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230800 GMT+3" stop="20260526000700 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -17940,6 +18114,12 @@
   <programme start="20260525220000 GMT+3" stop="20260525230000 GMT+3" channel="52187736">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 4)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525230000 GMT+3" stop="20260526020000 GMT+3" channel="52187736">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -32487,12 +32667,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526123000 GMT+3" stop="20260526130000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260526130000 GMT+3" stop="20260526140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
@@ -33534,6 +33708,12 @@
   <programme start="20260526200000 GMT+3" stop="20260526220000 GMT+3" channel="53005467">
     <title lang="el">Lemesos Volley - ΑΕΚ Λάρνακας 25/11/25 (E)</title>
     <desc lang="el">Πρωτάθλημα Πετόσφαιρας ΟΠΑΠ Α Κατηγορίας Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526220000 GMT+3" stop="20260527003000 GMT+3" channel="53005467">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ 21/5/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -34822,6 +35002,180 @@
   <programme start="20260526180000 GMT+3" stop="20260527000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526003000 GMT+3" stop="20260526013000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526013000 GMT+3" stop="20260526023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526023000 GMT+3" stop="20260526040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526040000 GMT+3" stop="20260526050000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526050000 GMT+3" stop="20260526060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526060000 GMT+3" stop="20260526080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526080000 GMT+3" stop="20260526093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526093000 GMT+3" stop="20260526110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526110000 GMT+3" stop="20260526120000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526120000 GMT+3" stop="20260526130000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526130000 GMT+3" stop="20260526140000 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526140000 GMT+3" stop="20260526143000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526143000 GMT+3" stop="20260526184500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526184500 GMT+3" stop="20260526200000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526200000 GMT+3" stop="20260526210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526210000 GMT+3" stop="20260527003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526000700 GMT+3" stop="20260526010000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526010000 GMT+3" stop="20260526023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526023000 GMT+3" stop="20260526040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526040000 GMT+3" stop="20260526060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526060000 GMT+3" stop="20260526080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526080000 GMT+3" stop="20260526093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 15ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526093000 GMT+3" stop="20260526103000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526103000 GMT+3" stop="20260526113000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526113000 GMT+3" stop="20260526140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526140000 GMT+3" stop="20260526170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526170000 GMT+3" stop="20260526190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526190000 GMT+3" stop="20260526220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260526220000 GMT+3" stop="20260527000000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260526000000 GMT+3" stop="20260526020000 GMT+3" channel="52101919">
@@ -49705,12 +50059,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527063000 GMT+3" stop="20260527070000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260527070000 GMT+3" stop="20260527073000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
@@ -50719,9 +51067,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527163000 GMT+3" stop="20260527193000 GMT+3" channel="24746908">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527193000 GMT+3" stop="20260527200000 GMT+3" channel="24746908">
     <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 01 18/8/28 (E)</title>
     <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527200000 GMT+3" stop="20260527223000 GMT+3" channel="24746908">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ 21/5/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52090,6 +52450,198 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260527003000 GMT+3" stop="20260527013000 GMT+3" channel="4185119">
+    <title lang="el">Άλμα - Ααχεν</title>
+    <desc lang="el">Άλμα - Ααχεν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527013000 GMT+3" stop="20260527023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527023000 GMT+3" stop="20260527040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527040000 GMT+3" stop="20260527050000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527050000 GMT+3" stop="20260527060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527060000 GMT+3" stop="20260527080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527080000 GMT+3" stop="20260527084500 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527084500 GMT+3" stop="20260527093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527093000 GMT+3" stop="20260527110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527110000 GMT+3" stop="20260527120000 GMT+3" channel="4185119">
+    <title lang="el">Άλμα - Ααχεν</title>
+    <desc lang="el">Άλμα - Ααχεν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527120000 GMT+3" stop="20260527130000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527130000 GMT+3" stop="20260527184500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527184500 GMT+3" stop="20260527200000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527200000 GMT+3" stop="20260527210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527210000 GMT+3" stop="20260528003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527000000 GMT+3" stop="20260527010000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527010000 GMT+3" stop="20260527013000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527013000 GMT+3" stop="20260527023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527023000 GMT+3" stop="20260527040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527040000 GMT+3" stop="20260527060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527060000 GMT+3" stop="20260527070000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527070000 GMT+3" stop="20260527080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527080000 GMT+3" stop="20260527093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527093000 GMT+3" stop="20260527103000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527103000 GMT+3" stop="20260527113000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527113000 GMT+3" stop="20260527140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527140000 GMT+3" stop="20260527170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527170000 GMT+3" stop="20260527190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527190000 GMT+3" stop="20260527220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527220000 GMT+3" stop="20260527230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527230000 GMT+3" stop="20260527233000 GMT+3" channel="5183085">
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527233000 GMT+3" stop="20260528000000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527000000 GMT+3" stop="20260527020000 GMT+3" channel="52101919">
     <title lang="el">APOLLON LADIES - OMONOIA 22/3/26</title>
     <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΓΥΝΑΙΚΩΝ 2025-26</desc>
@@ -52744,9 +53296,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260527163000 GMT+3" stop="20260527193000 GMT+3" channel="52187749">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260527193000 GMT+3" stop="20260527200000 GMT+3" channel="52187749">
     <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 01 18/8/28 (E)</title>
     <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527200000 GMT+3" stop="20260527223000 GMT+3" channel="52187749">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ 21/5/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -67936,6 +68500,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528070000 GMT+3" channel="24745114">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260528070000 GMT+3" stop="20260528080000 GMT+3" channel="24745114">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 4) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
@@ -68059,6 +68629,12 @@
   <programme start="20260528050000 GMT+3" stop="20260528070000 GMT+3" channel="24746908">
     <title lang="el">Auxerre - Lorient 17/8/25 (E)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528070000 GMT+3" stop="20260528100000 GMT+3" channel="24746908">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69491,6 +70067,198 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260528003000 GMT+3" stop="20260528010000 GMT+3" channel="4185119">
+    <title lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528010000 GMT+3" stop="20260528023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528023000 GMT+3" stop="20260528040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528050000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528050000 GMT+3" stop="20260528060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528060000 GMT+3" stop="20260528080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528080000 GMT+3" stop="20260528093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528093000 GMT+3" stop="20260528103000 GMT+3" channel="4185119">
+    <title lang="el">Άλμα - Ααχεν</title>
+    <desc lang="el">Άλμα - Ααχεν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528103000 GMT+3" stop="20260528110000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528110000 GMT+3" stop="20260528120000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528120000 GMT+3" stop="20260528130000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528130000 GMT+3" stop="20260528140000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528140000 GMT+3" stop="20260528184500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528184500 GMT+3" stop="20260528200000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528200000 GMT+3" stop="20260528210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528210000 GMT+3" stop="20260529003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528000000 GMT+3" stop="20260528010000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528010000 GMT+3" stop="20260528023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528023000 GMT+3" stop="20260528031500 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528031500 GMT+3" stop="20260528040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528060000 GMT+3" stop="20260528070000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528070000 GMT+3" stop="20260528080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528080000 GMT+3" stop="20260528093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 17ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528093000 GMT+3" stop="20260528103000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528103000 GMT+3" stop="20260528113000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528113000 GMT+3" stop="20260528140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528140000 GMT+3" stop="20260528170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528170000 GMT+3" stop="20260528190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528190000 GMT+3" stop="20260528220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528220000 GMT+3" stop="20260528230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528230000 GMT+3" stop="20260529020000 GMT+3" channel="5183085">
+    <title lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 1Η ΗΜΕΡΑ</title>
+    <desc lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 1Η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260528000000 GMT+3" stop="20260528020000 GMT+3" channel="52101919">
     <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ 15/3/26</title>
     <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΓΥΝΑΙΚΩΝ 2025-26</desc>
@@ -69959,6 +70727,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528070000 GMT+3" channel="52187736">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260528070000 GMT+3" stop="20260528080000 GMT+3" channel="52187736">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ο πιο τυχερός άνθρωπος στον κόσμο (Μέρος 4) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
@@ -70082,6 +70856,12 @@
   <programme start="20260528050000 GMT+3" stop="20260528070000 GMT+3" channel="52187749">
     <title lang="el">Auxerre - Lorient 17/8/25 (E)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528070000 GMT+3" stop="20260528100000 GMT+3" channel="52187749">
+    <title lang="el">Ajax - Utrecht 24/5/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -86069,6 +86849,192 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260529003000 GMT+3" stop="20260529010000 GMT+3" channel="4185119">
+    <title lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</title>
+    <desc lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529010000 GMT+3" stop="20260529023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529023000 GMT+3" stop="20260529040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529040000 GMT+3" stop="20260529050000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529050000 GMT+3" stop="20260529060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529080000 GMT+3" stop="20260529093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529093000 GMT+3" stop="20260529110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529110000 GMT+3" stop="20260529113000 GMT+3" channel="4185119">
+    <title lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</title>
+    <desc lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529113000 GMT+3" stop="20260529120000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529123000 GMT+3" channel="4185119">
+    <title lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529123000 GMT+3" stop="20260529131500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529131500 GMT+3" stop="20260529184500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529184500 GMT+3" stop="20260529200000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529200000 GMT+3" stop="20260529210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529210000 GMT+3" stop="20260530003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529020000 GMT+3" stop="20260529023000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Νόβε Μέστο</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Νόβε Μέστο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529023000 GMT+3" stop="20260529040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529040000 GMT+3" stop="20260529060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529070000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529070000 GMT+3" stop="20260529080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529080000 GMT+3" stop="20260529093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 18ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529093000 GMT+3" stop="20260529100000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ -</title>
+    <desc lang="el">PTO Τουρ -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529100000 GMT+3" stop="20260529103000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529103000 GMT+3" stop="20260529113000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529113000 GMT+3" stop="20260529140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529140000 GMT+3" stop="20260529170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529170000 GMT+3" stop="20260529190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529190000 GMT+3" stop="20260529220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529220000 GMT+3" stop="20260529230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529230000 GMT+3" stop="20260530020000 GMT+3" channel="5183085">
+    <title lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 2Η ΗΜΕΡΑ</title>
+    <desc lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 2Η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260529003000 GMT+3" stop="20260529010000 GMT+3" channel="52187736">
     <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 01 12/8/25 (E)</title>
     <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
@@ -101869,6 +102835,162 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260530003000 GMT+3" stop="20260530010000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530010000 GMT+3" stop="20260530023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530023000 GMT+3" stop="20260530040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530040000 GMT+3" stop="20260530060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530080000 GMT+3" stop="20260530093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530093000 GMT+3" stop="20260530100000 GMT+3" channel="4185119">
+    <title lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</title>
+    <desc lang="el">Ιστιοπλοΐα Sail GP Αγώνας στο Όριο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530100000 GMT+3" stop="20260530110000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530110000 GMT+3" stop="20260530113000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530113000 GMT+3" stop="20260530173000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530173000 GMT+3" stop="20260530180000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260530200000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530200000 GMT+3" stop="20260530210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530210000 GMT+3" stop="20260531003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530020000 GMT+3" stop="20260530023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530023000 GMT+3" stop="20260530040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530040000 GMT+3" stop="20260530060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530070000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530070000 GMT+3" stop="20260530080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530080000 GMT+3" stop="20260530093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 19ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530093000 GMT+3" stop="20260530113000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530113000 GMT+3" stop="20260530140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530140000 GMT+3" stop="20260530170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530170000 GMT+3" stop="20260530190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530190000 GMT+3" stop="20260530220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530220000 GMT+3" stop="20260531013000 GMT+3" channel="5183085">
+    <title lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 3η ΗΜΕΡΑ</title>
+    <desc lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 3η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531010000 GMT+3" stop="20260531020000 GMT+3" channel="54111184">
     <title lang="el">The Social Experiment (E)</title>
     <desc lang="el">Μία καινοτόμα κοινωνική εκπομπή αλλάζει τα δεδομένα και αναδεικνύει την ωμή πραγματικότητα που βιώνουμε καθημερινά με κρίσιμα κοινωνικά ζητήματα. Στόχος, είναι η ανάδειξη αυτών των φλεγόντων θεμάτων που απασχολούν την κοινωνία μας και πως τα αντιμετωπίζουμε όταν βρισκόμαστε μάρτυρες σε ακραία περιστατικά. Με τον Χάρη Αριστείδου</desc>
@@ -117252,6 +118374,180 @@
   <programme start="20260531180000 GMT+3" stop="20260601000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531003000 GMT+3" stop="20260531010000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531010000 GMT+3" stop="20260531023000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531023000 GMT+3" stop="20260531040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531040000 GMT+3" stop="20260531050000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531050000 GMT+3" stop="20260531060000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531080000 GMT+3" stop="20260531093000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531093000 GMT+3" stop="20260531103000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531103000 GMT+3" stop="20260531113000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 1ο Ετάπ - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531113000 GMT+3" stop="20260531140000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531140000 GMT+3" stop="20260531170000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531170000 GMT+3" stop="20260531203000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 21ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 21ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531203000 GMT+3" stop="20260531210000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531210000 GMT+3" stop="20260601003000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531013000 GMT+3" stop="20260531020000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Τρεντίνο ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531020000 GMT+3" stop="20260531023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531023000 GMT+3" stop="20260531031500 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531031500 GMT+3" stop="20260531040000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531040000 GMT+3" stop="20260531060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531070000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531070000 GMT+3" stop="20260531080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531080000 GMT+3" stop="20260531093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531093000 GMT+3" stop="20260531113000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531113000 GMT+3" stop="20260531120000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531140000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531140000 GMT+3" stop="20260531170000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531170000 GMT+3" stop="20260531190000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531190000 GMT+3" stop="20260531220000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531220000 GMT+3" stop="20260601010000 GMT+3" channel="5183085">
+    <title lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 4η ημέρα</title>
+    <desc lang="el">Τσαρλς Σουάμπ Τσάλεντζ - 4η ημέρα</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
 </tv>
