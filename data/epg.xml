@@ -16088,19 +16088,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525033000 GMT+3" stop="20260525040000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260525040000 GMT+3" stop="20260525043000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525043000 GMT+3" stop="20260525050000 GMT+3" channel="54111722">
+  <programme start="20260525033000 GMT+3" stop="20260525040000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16112,19 +16106,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525060000 GMT+3" stop="20260525063000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260525063000 GMT+3" stop="20260525070000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260525070000 GMT+3" stop="20260525073000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16136,13 +16118,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525080000 GMT+3" stop="20260525083000 GMT+3" channel="54111722">
+  <programme start="20260525043000 GMT+3" stop="20260525050000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525083000 GMT+3" stop="20260525090000 GMT+3" channel="54111722">
+  <programme start="20260525070000 GMT+3" stop="20260525073000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525060000 GMT+3" stop="20260525063000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525080000 GMT+3" stop="20260525083000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16154,19 +16148,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525093000 GMT+3" stop="20260525100000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260525100000 GMT+3" stop="20260525103000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525103000 GMT+3" stop="20260525110000 GMT+3" channel="54111722">
+  <programme start="20260525083000 GMT+3" stop="20260525090000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260525093000 GMT+3" stop="20260525100000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16178,7 +16172,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525120000 GMT+3" stop="20260525123000 GMT+3" channel="54111722">
+  <programme start="20260525150000 GMT+3" stop="20260525153000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16208,7 +16202,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525150000 GMT+3" stop="20260525153000 GMT+3" channel="54111722">
+  <programme start="20260525103000 GMT+3" stop="20260525110000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16226,7 +16220,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525173000 GMT+3" stop="20260525180000 GMT+3" channel="54111722">
+  <programme start="20260525120000 GMT+3" stop="20260525123000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16436,43 +16430,31 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525010000 GMT+3" stop="20260525033000 GMT+3" channel="97085851">
+  <programme start="20260525010000 GMT+3" stop="20260525030800 GMT+3" channel="97085851">
     <title lang="el">Champions League 99/00:</title>
     <desc lang="el">Classic Matches: 2000 UCL Final (8th) Real Madrid v Valencia. La Octava.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525033000 GMT+3" stop="20260525034500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260525034500 GMT+3" stop="20260525060000 GMT+3" channel="97085851">
+  <programme start="20260525034600 GMT+3" stop="20260525060000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Espanyol vs Real Madrid</title>
     <desc lang="el">Matchday 34 of Liga. Real Madrid travel to Barcelona to face Espanyol in the RCDE Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525060000 GMT+3" stop="20260525070000 GMT+3" channel="97085851">
+  <programme start="20260525060000 GMT+3" stop="20260525070100 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525070000 GMT+3" stop="20260525071500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260525071500 GMT+3" stop="20260525083000 GMT+3" channel="97085851">
+  <programme start="20260525071400 GMT+3" stop="20260525082000 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525083000 GMT+3" stop="20260526060000 GMT+3" channel="97085851">
+  <programme start="20260525082900 GMT+3" stop="20260525105100 GMT+3" channel="97085851">
     <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
     <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16790,13 +16772,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525164500 GMT+3" stop="20260525190000 GMT+3" channel="216415">
-    <title lang="el">Asteras AKTOR - Πανσερραϊκός</title>
-    <desc lang="el">Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports! Ποδόσφαιρο</desc>
+  <programme start="20260525164500 GMT+3" stop="20260525171500 GMT+3" channel="216415">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260525190000 GMT+3" stop="20260525213000 GMT+3" channel="216415">
+  <programme start="20260525171500 GMT+3" stop="20260525200000 GMT+3" channel="216415">
     <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
@@ -27711,36 +27693,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526020000 GMT+3" stop="20260526030000 GMT+3" channel="1945">
-    <title lang="el">Erin Burnett OutFront ΕΠ103</title>
-    <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526030000 GMT+3" stop="20260526040000 GMT+3" channel="1945">
-    <title lang="el">Anderson Cooper 360 ΕΠ103</title>
-    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526040000 GMT+3" stop="20260526050000 GMT+3" channel="1945">
-    <title lang="el">The Source with Kaitlan Collins ΕΠ103</title>
-    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526050000 GMT+3" stop="20260526060000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsnight ΕΠ103</title>
-    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526060000 GMT+3" stop="20260526070000 GMT+3" channel="1945">
-    <title lang="el">Laura Coates Live ΕΠ103</title>
-    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260526070000 GMT+3" stop="20260526080000 GMT+3" channel="1945">
     <title lang="el">The Story is with Elex Michaelson ΕΠ205</title>
     <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
@@ -27774,18 +27726,6 @@
   <programme start="20260526104500 GMT+3" stop="20260526110000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ363</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526110000 GMT+3" stop="20260526120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ81</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526120000 GMT+3" stop="20260526130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ104</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -33537,12 +33477,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526060000 GMT+3" stop="20260526063000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260526063000 GMT+3" stop="20260526073000 GMT+3" channel="54111722">
     <title lang="el">Review</title>
     <desc lang="el">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
@@ -33633,21 +33567,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526173000 GMT+3" stop="20260526180000 GMT+3" channel="54111722">
-    <title lang="el">REWIND</title>
-    <desc lang="el">An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260526180000 GMT+3" stop="20260526183000 GMT+3" channel="54111722">
     <title lang="el">Netbusters</title>
     <desc lang="el">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every goal and key moment from the latest round of Premier League fixtures.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526183000 GMT+3" stop="20260526190000 GMT+3" channel="54111722">
-    <title lang="el">Netbusters</title>
-    <desc lang="el">Fast-paced with music, ISO angles, and commentary, Netbusters offers an alternative review of every Erling Haaland goal as he becomes the fastest player ever to hit 100 Premier League goals.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -34100,35 +34022,29 @@
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260526060000 GMT+3" stop="20260526080000 GMT+3" channel="46137848">
+  <programme start="20260526060000 GMT+3" stop="20260526081500 GMT+3" channel="46137848">
     <title lang="el">Novasports Start</title>
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260526080000 GMT+3" stop="20260526120000 GMT+3" channel="46137848">
+  <programme start="20260526081500 GMT+3" stop="20260526121500 GMT+3" channel="46137848">
     <title lang="el">Ποδόσφαιρο: Elite NEON Cup 2026</title>
     <desc lang="el">Το τουρνουά Elite Neon Cup είναι το πρώτο και μεγαλύτερο διεθνές τουρνουά ποδοσφαίρου νέων στην Ελλάδα και φέτος διεξάγεται για 12η χρονιά στις 6-9 Απριλίου στην Αθήνα, στις κατηγορίες Κ14 και Κ16. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526120000 GMT+3" stop="20260526140000 GMT+3" channel="46137848">
+  <programme start="20260526121500 GMT+3" stop="20260526141500 GMT+3" channel="46137848">
     <title lang="el">Novasports Start</title>
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260526140000 GMT+3" stop="20260526144500 GMT+3" channel="46137848">
-    <title lang="el">Unfiltered</title>
-    <desc lang="el">Η σειρά Unfiltered της πλατφόρμας Skweek μάς μεταφέρει την καθημερινότητα των παικτών της EuroLeague, καταγράφοντας τις συνήθειές τους, τον χρόνο με τις οικογένειές τους, τη συγκέντρωση πριν από τους αγώνες και στιγμές από τα αποδυτήρια. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260526144500 GMT+3" stop="20260526164500 GMT+3" channel="46137848">
+  <programme start="20260526141500 GMT+3" stop="20260526161500 GMT+3" channel="46137848">
     <title lang="el">Βόλφσμπουργκ - Πάντερμπορν</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526164500 GMT+3" stop="20260526190000 GMT+3" channel="46137848">
+  <programme start="20260526161500 GMT+3" stop="20260526190000 GMT+3" channel="46137848">
     <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
@@ -34402,25 +34318,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526180000 GMT+3" stop="20260526200000 GMT+3" channel="46137467">
+  <programme start="20260526180000 GMT+3" stop="20260526203000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internazionali BNL d&apos;Italia της σειράς WTA 1000, που διεξάγεται το διάστημα 05 έως 17 Μαϊου στη Ρώμη της Ιταλίας. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526200000 GMT+3" stop="20260526224500 GMT+3" channel="46137467">
+  <programme start="20260526203000 GMT+3" stop="20260526231500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526224500 GMT+3" stop="20260526231500 GMT+3" channel="46137467">
+  <programme start="20260526231500 GMT+3" stop="20260526234500 GMT+3" channel="46137467">
     <title lang="el">Παγκόσμιο Πρωτάθλημα F1Η2Ο</title>
     <desc lang="el">Το Παγκόσμιο Πρωτάθλημα F1H2O αποτελεί το κορυφαίο επίπεδο παράκτιας αγωνιστικής δράσης! Παρακολουθήστε την προεπισκόπηση της σεζόν 2026 της θαλάσσιας Formula 1, που περιλαμβάνει πέντε Γκραν Πρι σε Ασία και Μέση Ανατολή. Υδάτινα Σπορ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260526231500 GMT+3" stop="20260527011500 GMT+3" channel="46137467">
+  <programme start="20260526234500 GMT+3" stop="20260527011500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -42809,7 +42725,7 @@
     <title lang="el">American Detective With Lt. Joe Kenda Κ5 ΕΠ3</title>
     <desc lang="el">American Detective With Lt. Joe Kenda (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
+    <rating>12</rating>
   </programme>
   <programme start="20260527230000 GMT+3" stop="20260528000000 GMT+3" channel="38335725">
     <title lang="el">Dog Detectives Κ1 ΕΠ5</title>
@@ -51626,13 +51542,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527203000 GMT+3" stop="20260527223000 GMT+3" channel="46137467">
+  <programme start="20260527203000 GMT+3" stop="20260527231500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527223000 GMT+3" stop="20260528003000 GMT+3" channel="46137467">
+  <programme start="20260527231500 GMT+3" stop="20260528012000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -59942,7 +59858,7 @@
     <title lang="el">American Detective With Lt. Joe Kenda Κ5 ΕΠ3</title>
     <desc lang="el">American Detective With Lt. Joe Kenda (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
+    <rating>12</rating>
   </programme>
   <programme start="20260528030000 GMT+3" stop="20260528040000 GMT+3" channel="38335725">
     <title lang="el">People Magazine Investigates Κ7 ΕΠ6</title>
@@ -69053,7 +68969,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260528003000 GMT+3" stop="20260528060000 GMT+3" channel="46137467">
+  <programme start="20260528012000 GMT+3" stop="20260528060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -69087,13 +69003,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528203000 GMT+3" stop="20260528223000 GMT+3" channel="46137467">
+  <programme start="20260528203000 GMT+3" stop="20260528221500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528223000 GMT+3" stop="20260529003000 GMT+3" channel="46137467">
+  <programme start="20260528221500 GMT+3" stop="20260529013000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -77290,7 +77206,7 @@
     <title lang="el">American Detective With Lt. Joe Kenda Κ5 ΕΠ3</title>
     <desc lang="el">American Detective With Lt. Joe Kenda (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
+    <rating>12</rating>
   </programme>
   <programme start="20260529010000 GMT+3" stop="20260529020000 GMT+3" channel="38335725">
     <title lang="el">Dog Detectives Κ1 ΕΠ5</title>
@@ -85601,7 +85517,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260529003000 GMT+3" stop="20260529060000 GMT+3" channel="46137467">
+  <programme start="20260529013000 GMT+3" stop="20260529060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -85635,13 +85551,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260529201500 GMT+3" stop="20260529221500 GMT+3" channel="46137467">
+  <programme start="20260529201500 GMT+3" stop="20260529214500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260529221500 GMT+3" stop="20260530001500 GMT+3" channel="46137467">
+  <programme start="20260529214500 GMT+3" stop="20260529230000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -101182,8 +101098,8 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260530220000 GMT+3" stop="20260531000000 GMT+3" channel="10965554">
-    <title lang="el">Φενέρμπαχτσε - Ζάλγκιρις Κάουνας</title>
+  <programme start="20260530220000 GMT+3" stop="20260531003000 GMT+3" channel="10965554">
+    <title lang="el">Ολυμπιακός - Ρεάλ Μαδρίτης</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -101209,7 +101125,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260530001500 GMT+3" stop="20260530060000 GMT+3" channel="46137467">
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -101243,13 +101159,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260530200000 GMT+3" stop="20260530220000 GMT+3" channel="46137467">
+  <programme start="20260530200000 GMT+3" stop="20260530230000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260530220000 GMT+3" stop="20260531000000 GMT+3" channel="46137467">
+  <programme start="20260530230000 GMT+3" stop="20260531010000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -115529,7 +115445,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531103000 GMT+3" stop="20260531110000 GMT+3" channel="54111722">
+  <programme start="20260531113000 GMT+3" stop="20260531120000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531143000 GMT+3" stop="20260531150000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -115541,7 +115463,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531113000 GMT+3" stop="20260531120000 GMT+3" channel="54111722">
+  <programme start="20260531103000 GMT+3" stop="20260531110000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -115553,19 +115475,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531123000 GMT+3" stop="20260531130000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260531130000 GMT+3" stop="20260531133000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260531133000 GMT+3" stop="20260531140000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -115577,7 +115487,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531143000 GMT+3" stop="20260531150000 GMT+3" channel="54111722">
+  <programme start="20260531123000 GMT+3" stop="20260531130000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531133000 GMT+3" stop="20260531140000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -115637,19 +115553,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531223000 GMT+3" stop="20260531230000 GMT+3" channel="54111722">
+  <programme start="20260531233000 GMT+3" stop="20260601000000 GMT+3" channel="54111722">
+    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
+    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601023000 GMT+3" stop="20260601030000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260531230000 GMT+3" stop="20260531233000 GMT+3" channel="54111722">
-    <title lang="el">MATCH HIGHLIGHTS 25/26</title>
-    <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260531233000 GMT+3" stop="20260601000000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 25/26</title>
     <desc lang="el">Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
     <category lang="el">Αθλητικά</category>
@@ -116257,7 +116173,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στη γερμανική Bundesliga, το νούμερο ένα ποδοσφαιρικό πρωτάθλημα στον κόσμο σε μέσο όρο προσέλευσης θεατών από όλα τα αθλήματα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="10965554">
+  <programme start="20260531003000 GMT+3" stop="20260531060000 GMT+3" channel="10965554">
     <title lang="el">Novasports4</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
@@ -116330,7 +116246,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="46137467">
+  <programme start="20260531010000 GMT+3" stop="20260531060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -116364,15 +116280,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531210000 GMT+3" stop="20260531230000 GMT+3" channel="46137467">
+  <programme start="20260531210000 GMT+3" stop="20260601000000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260531230000 GMT+3" stop="20260601010000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
