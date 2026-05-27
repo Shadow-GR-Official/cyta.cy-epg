@@ -16363,13 +16363,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527030000 GMT+3" stop="20260527031300 GMT+3" channel="97085851">
+  <programme start="20260527030000 GMT+3" stop="20260527031200 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527031300 GMT+3" stop="20260527064000 GMT+3" channel="97085851">
+  <programme start="20260527031200 GMT+3" stop="20260527064000 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16381,61 +16381,79 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527070000 GMT+3" stop="20260527071500 GMT+3" channel="97085851">
+  <programme start="20260527070000 GMT+3" stop="20260527070800 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527071500 GMT+3" stop="20260527092000 GMT+3" channel="97085851">
+  <programme start="20260527070800 GMT+3" stop="20260527071500 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527071500 GMT+3" stop="20260527091500 GMT+3" channel="97085851">
     <title lang="el">European Super Cup 2002 Real Madrid vs Feyenoord</title>
     <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527092000 GMT+3" stop="20260527112500 GMT+3" channel="97085851">
+  <programme start="20260527091500 GMT+3" stop="20260527092300 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527092300 GMT+3" stop="20260527112700 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Villarreal vs Real Madrid</title>
     <desc lang="el">Matchday 21 of Liga. Real Madrid travel to Villarreal to face Villarrea in the Cerámica Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527112500 GMT+3" stop="20260527133000 GMT+3" channel="97085851">
+  <programme start="20260527112700 GMT+3" stop="20260527132900 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
     <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527133000 GMT+3" stop="20260527143500 GMT+3" channel="97085851">
+  <programme start="20260527132900 GMT+3" stop="20260527143700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527143500 GMT+3" stop="20260527164500 GMT+3" channel="97085851">
+  <programme start="20260527143700 GMT+3" stop="20260527164900 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527164500 GMT+3" stop="20260527175000 GMT+3" channel="97085851">
+  <programme start="20260527164900 GMT+3" stop="20260527175100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527175000 GMT+3" stop="20260527200500 GMT+3" channel="97085851">
+  <programme start="20260527175100 GMT+3" stop="20260527200600 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Deportivo Alavés</title>
     <desc lang="el">Matchday 33 of Liga. Real Madrid host Deportivo Alavés in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527200500 GMT+3" stop="20260527202500 GMT+3" channel="97085851">
+  <programme start="20260527200600 GMT+3" stop="20260527201900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527202500 GMT+3" stop="20260527213000 GMT+3" channel="97085851">
+  <programme start="20260527201900 GMT+3" stop="20260527202600 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527202600 GMT+3" stop="20260527213000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
@@ -16447,9 +16465,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260527214500 GMT+3" stop="20260528000000 GMT+3" channel="97085851">
+  <programme start="20260527214500 GMT+3" stop="20260527234400 GMT+3" channel="97085851">
     <title lang="el">Classics Matches Liga 03/04: Real Madrid vs Betis</title>
     <desc lang="el">David Beckham enjoyed his debut for Real Madrid.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260527234400 GMT+3" stop="20260528000000 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">Classic Highlights</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -27974,14 +27998,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260528110000 GMT+3" stop="20260528120000 GMT+3" channel="1945">
-    <title lang="el">Amanpour ΕΠ83</title>
-    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
+    <title lang="el">CNN Newsroom ΕΠ238</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260528120000 GMT+3" stop="20260528130000 GMT+3" channel="1945">
-    <title lang="el">Early Start ΕΠ106</title>
-    <desc lang="el">Get a jump on the day&apos;s news. (2026)</desc>
+    <title lang="el">CNN Headline Express ΕΠ29</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -34111,55 +34135,61 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528000000 GMT+3" stop="20260528010000 GMT+3" channel="97085851">
+  <programme start="20260528000000 GMT+3" stop="20260528010100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass Weekly analysis show.</title>
     <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528010000 GMT+3" stop="20260528031500 GMT+3" channel="97085851">
-    <title lang="el">The Match</title>
-    <desc lang="el">Don´t miss our first team football action. Catch all the matches in full night here on Real Madrid TV</desc>
+  <programme start="20260528010100 GMT+3" stop="20260528031300 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Sevilla vs Real Madrid</title>
+    <desc lang="el">Matchday 37 of Liga. Real Madrid travel to Sevilla to face Sevilla in the Ramón Sánchez Pizjuán Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528031500 GMT+3" stop="20260528040000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme start="20260528031300 GMT+3" stop="20260528033000 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">Enjoy this close fought derby that saw Butragueño alongside the likes of Hugo Sanchez, Valdano and Santillana</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528040000 GMT+3" stop="20260528041500 GMT+3" channel="97085851">
+  <programme start="20260528033000 GMT+3" stop="20260528040000 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights: Betis vs Real Madrid 86/87</title>
+    <desc lang="el">One of the club&apos;s greatest attacking line-ups in action, spearheaded by Hugo Sanchez and Butragueno.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528040000 GMT+3" stop="20260528041600 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528041500 GMT+3" stop="20260528064500 GMT+3" channel="97085851">
+  <programme start="20260528041600 GMT+3" stop="20260528063400 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 22 of Liga. Real Madrid host Rayo Vallecano in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528064500 GMT+3" stop="20260528070000 GMT+3" channel="97085851">
+  <programme start="20260528063400 GMT+3" stop="20260528064400 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260528064400 GMT+3" stop="20260528070000 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528070000 GMT+3" stop="20260528071500 GMT+3" channel="97085851">
+  <programme start="20260528070000 GMT+3" stop="20260528071700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528071500 GMT+3" stop="20260528090000 GMT+3" channel="97085851">
-    <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
-    <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260528090000 GMT+3" stop="20260528093000 GMT+3" channel="97085851">
+  <programme start="20260528071700 GMT+3" stop="20260528093000 GMT+3" channel="97085851">
     <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
     <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -34492,26 +34522,20 @@
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260528144500 GMT+3" stop="20260528164500 GMT+3" channel="46137848">
+  <programme start="20260528144500 GMT+3" stop="20260528171500 GMT+3" channel="46137848">
     <title lang="el">Πάντερμπορν - Βόλφσμπουργκ</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260528164500 GMT+3" stop="20260528210000 GMT+3" channel="46137848">
+  <programme start="20260528171500 GMT+3" stop="20260528213000 GMT+3" channel="46137848">
     <title lang="el">Novasports Start</title>
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260528210000 GMT+3" stop="20260528220000 GMT+3" channel="46137848">
+  <programme start="20260528213000 GMT+3" stop="20260528223000 GMT+3" channel="46137848">
     <title lang="el">Goodwood Members&apos; Meeting</title>
     <desc lang="el">Δείτε τις καλύτερες στιγμές από το 83ο Members&apos; Meeting, την ετήσια εκδήλωση των μελών του Goodwood Club, με συναρπαστικούς αγώνες αυτοκινήτων κορυφαίων κατασκευαστών όπως Audi, Aston Martin, BMW και Ferrari. Στιγμιότυπα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260528220000 GMT+3" stop="20260528223000 GMT+3" channel="46137848">
-    <title lang="el">Παγκόσμιο Πρωτάθλημα F1Η2Ο</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα F1H2O αποτελεί το κορυφαίο επίπεδο παράκτιας αγωνιστικής δράσης! Παρακολουθήστε την προεπισκόπηση της σεζόν 2026 της θαλάσσιας Formula 1, που περιλαμβάνει πέντε Γκραν Πρι σε Ασία και Μέση Ανατολή. Υδάτινα Σπορ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -40700,7 +40724,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260529030000 GMT+3" stop="20260529060000 GMT+3" channel="9745267">
+  <programme start="20260529022500 GMT+3" stop="20260529060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -40977,199 +41001,199 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529060000 GMT+3" stop="20260529061500 GMT+3" channel="216595">
+  <programme start="20260529060000 GMT+3" stop="20260529062000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ17</title>
     <desc lang="el">Οι ενήλικες για μια μέρα αντάλλαξαν μεταξύ τους τα παιδιά. Η Claire και η Gloria αναλαμβάνουν να βρουν το τέλειο φόρεμα για την Lily, αλλά σύντομα η Claire θα διαπιστώσει ότι είναι η μόνη που ενδιαφέρεται πραγματικά για τα ψώνια. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529061500 GMT+3" stop="20260529064000 GMT+3" channel="216595">
+  <programme start="20260529062000 GMT+3" stop="20260529065000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ18</title>
     <desc lang="el">Οι μεγάλοι καταλήγουν στο Vegas, όταν ένας από τους μεγάλους πελάτες του Jay του κάνει δώρο τη διαμονή σε πολυτελές ξενοδοχείο. Ωστόσο, όταν εκείνος συνειδητοποιεί ότι τα δωμάτια τους δεν είναι τα καλύτερα του γίνεται έμμονη ιδέα να τους αναβαθμίσουν την κράτηση. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529064000 GMT+3" stop="20260529072500 GMT+3" channel="216595">
+  <programme start="20260529065000 GMT+3" stop="20260529073500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ3</title>
     <desc lang="el">Όταν η σορός μιας μαθήτριας λυκείου ξεβράζεται στην παραλία, ο Πάτρικ Τζέιν στήνει μια παγίδα για να κάνει τους φίλους της στο σέρφινγκ να στραφούν ο ένας εναντίον του άλλου και να αποκαλύψουν τι πραγματικά συνέβη. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529072500 GMT+3" stop="20260529080500 GMT+3" channel="216595">
+  <programme start="20260529073500 GMT+3" stop="20260529082000 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ15</title>
     <desc lang="el">Η δολοφονία μιας μοχθηρής μαθήτριας οδηγεί τον Castle σ’ έναν αναπάντεχο δράστη – ένα τηλεκινητικό νεαρό, φέρνοντάς τους μπροστά σε μια πραγματική “Carrie”. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529080500 GMT+3" stop="20260529085000 GMT+3" channel="216595">
+  <programme start="20260529082000 GMT+3" stop="20260529090000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ15</title>
     <desc lang="el">Όταν ένας σεφ καντίνας πεθαίνει ξαφνικά, όλα τα σημάδια υποδηλώνουν ύποπτη δηλητηρίαση, αλλά πολλά ερωτήματα παραμένουν αναπάντητα. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529085000 GMT+3" stop="20260529091500 GMT+3" channel="216595">
+  <programme start="20260529090000 GMT+3" stop="20260529092500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ9</title>
     <desc lang="el">Ενώ η παρέα θυμάται τι συνέβη κατά τη διάρκεια του τυφώνα Irene, ο Barney προσπαθεί απεγνωσμένα να πείσει τον Marshal και τη Lily να μην τον αναγκάσουν να φορέσει την γραβάτα με τις πάπιες. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529091500 GMT+3" stop="20260529093500 GMT+3" channel="216595">
+  <programme start="20260529092500 GMT+3" stop="20260529094500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ10</title>
     <desc lang="el">Ο Barney και η Robin αισθάνονται αμήχανα επειδή πρέπει να κρύψουν ένα μυστικό από τους συντρόφους τους. Εντωμεταξύ, ο Marshall, η Lily και ο Ted παρακολουθούν μια συναυλία. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529093500 GMT+3" stop="20260529100000 GMT+3" channel="216595">
+  <programme start="20260529094500 GMT+3" stop="20260529101000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ9</title>
     <desc lang="el">Με τη βοήθεια της Νελ, η Κρίκετ αποφασίζει να σκορπίσει τελικά τις στάχτες του Μόντι. Στο μεταξύ, η Σαμ και η Λέξι συμπαρίστανται στον Ντένις που επιλέγει μια δότρια ωαρίων. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529100000 GMT+3" stop="20260529102000 GMT+3" channel="216595">
+  <programme start="20260529101000 GMT+3" stop="20260529103500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ10</title>
     <desc lang="el">Μετά από μια διασκεδαστική βραδιά με τη Σαμ και τον Ντένις, η Νελ καταλήγει άρρωστη στο κρεβάτι και θέλει να μείνει μόνη της. Στο μεταξύ, η Λέξι πείθει τη Σαμ και τον Ντένις να πάνε μαζί της για ένα μεσημεριανό γεύμα, κάτι που εξελίσσεται σε κάτι πολύ μεγαλύτερο. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529102000 GMT+3" stop="20260529104500 GMT+3" channel="216595">
+  <programme start="20260529103500 GMT+3" stop="20260529105500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ9</title>
     <desc lang="el">Η Τζανίν λείπει με αναρρωτική άδεια και η Έιβα πρέπει να πάρει τη θέση της για να βοηθήσει. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529104500 GMT+3" stop="20260529110500 GMT+3" channel="216595">
+  <programme start="20260529105500 GMT+3" stop="20260529111500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ10</title>
     <desc lang="el">Η Τζανίν ακολουθεί τελικά τη φίλη της σε μια λέσχη ναργιλέ όπου συναντά απρόσμενους συναδέλφους. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529110500 GMT+3" stop="20260529115000 GMT+3" channel="216595">
+  <programme start="20260529111500 GMT+3" stop="20260529120000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ4</title>
     <desc lang="el">Ο Πάτρικ Τζέιν παίζει παιχνίδια μυαλού με τους υπόπτους στην υπόθεση ενός πλούσιου επενδυτικού τραπεζίτη που βρέθηκε δολοφονημένος μέσα στο κλειδωμένο χρηματοκιβώτιό του. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529115000 GMT+3" stop="20260529123500 GMT+3" channel="216595">
+  <programme start="20260529120000 GMT+3" stop="20260529124500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ15</title>
     <desc lang="el">Όταν η Vic στηρίζει τους γονείς της σε μια τραγική απώλεια, κάνουν μια συζήτηση που έπρεπε να είχε γίνει εδώ και καιρό για την αγωνία του να ζεις ως μαύρος στην Αμερική. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529123500 GMT+3" stop="20260529125500 GMT+3" channel="216595">
+  <programme start="20260529124500 GMT+3" stop="20260529130500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ19</title>
     <desc lang="el">Ο Mitch και o Cam διαφωνούν σχετικά με τη διακόσμηση της τούρτας που έχει προτείνει ο πατέρας του Cam. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529125500 GMT+3" stop="20260529132000 GMT+3" channel="216595">
+  <programme start="20260529130500 GMT+3" stop="20260529133000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ20</title>
     <desc lang="el">Η οικογένεια ακολουθεί τον Phil όταν εκείνος αποφασίζει να εκπληρώσει την επιθυμία της μητέρας του να επιστρέψει στις ρίζες του και να επισκεφτεί την Αυστραλία - τη χώρα που βρίσκονταν οι γονείς του, όταν η μητέρα του έμεινε έγκυος. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529132000 GMT+3" stop="20260529140000 GMT+3" channel="216595">
+  <programme start="20260529133000 GMT+3" stop="20260529141500 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 4 Κ4 ΕΠ16</title>
     <desc lang="el">Η Υπηρεσία Εσωτερικής Ασφάλειας επεμβαίνει όταν η κόρη ενός γερουσιαστή βρίσκεται δολοφονημένη. Η ομάδα σπεύδει να λύσει την υπόθεση, η οποία θα μπορούσε να θέσει σε κίνδυνο την εθνική ασφάλεια. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529140000 GMT+3" stop="20260529144500 GMT+3" channel="216595">
+  <programme start="20260529141500 GMT+3" stop="20260529145500 GMT+3" channel="216595">
     <title lang="el">Masterchef 15 Κ15 ΕΠ6</title>
     <desc lang="el">Τα 10 κορυφαία ζευγάρια, σε ένα πανέμορφο σκηνικό στην προβλήτα, πρέπει να ταΐσουν πάνω από 100 άντρες και γυναίκες ψαράδες της περιοχής. Πρωταγωνιστούν: Gordon Ramsay,Joe Bastianich,Tiffany Derry. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529144500 GMT+3" stop="20260529151000 GMT+3" channel="216595">
+  <programme start="20260529145500 GMT+3" stop="20260529152000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ11</title>
     <desc lang="el">Ο Ted και ο Barney συζητούν μια κοινή απόφαση που θα τους αλλάξει τη ζωή, ενώ η Robin προσπαθεί να αποθαρρύνει τον Marshall και τη Lily απ&apos;το να μετακομίσουν στο Long Island. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529151000 GMT+3" stop="20260529153000 GMT+3" channel="216595">
+  <programme start="20260529152000 GMT+3" stop="20260529154000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ12</title>
     <desc lang="el">Όταν η Robin μαθαίνει κάποια δυσάρεστα νέα αποφασίζει να πει ψέματα στην παρέα. Εντωμεταξύ, ο Marshall κρεμάει τα χριστουγεννιάτικα στολίδια στο σπίτι του, με την βοήθεια του γείτονα. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529153000 GMT+3" stop="20260529161500 GMT+3" channel="216595">
+  <programme start="20260529154000 GMT+3" stop="20260529162500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ16</title>
     <desc lang="el">Όταν μια νεαρή γυναίκα ομολογεί το φόνο ενός ηθοποιού – γνωρίζοντας λεπτομέρειες που μόνο ο δολοφόνος θα ήξερε – η Beckett και ο Castle φαίνεται ότι έχουν μια εύκολη υπόθεση, μέχρι που ανακαλύπτουν ότι η ύποπτη δεν είναι η δολοφόνος. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529161500 GMT+3" stop="20260529164000 GMT+3" channel="216595">
+  <programme start="20260529162500 GMT+3" stop="20260529165000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ11</title>
     <desc lang="el">Έχοντας επεξεργαστεί για μήνες τη σχέση της με τον Φίλιπ, η Νελ λέει στη Σαμ ότι είναι έτοιμη να προχωρήσει. Στο μεταξύ, η Σαμ προσπαθεί να ανανεώσει τη σχέση της με τον σύζυγό της ενώ η Λέξι βοηθάει τον Ντένις να βρει την ιδανική δότρια ωαρίων. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529164000 GMT+3" stop="20260529170500 GMT+3" channel="216595">
+  <programme start="20260529165000 GMT+3" stop="20260529171000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ12</title>
     <desc lang="el">Η Νελ συμφωνεί να συναντηθεί με τον Φίλιπ, ελπίζοντας να δοθεί ένα τέλος ενώ η Σαμ και η Λέξι κάνουν ένα κοινό πάρτι γενεθλίων για τις κόρες τους. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529170500 GMT+3" stop="20260529172500 GMT+3" channel="216595">
+  <programme start="20260529171000 GMT+3" stop="20260529173500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο ανταγωνισμός της Μελίσα και της Τζανίν φουντώνει καθώς οι τάξεις τους διαγωνίζονται σε έναν μαραθώνιο διαβάσματος με χορηγό μια τοπική πιτσαρία. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529172500 GMT+3" stop="20260529175000 GMT+3" channel="216595">
+  <programme start="20260529173500 GMT+3" stop="20260529175500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η Τζανίν ζητάει συμβουλές από τους συναδέλφους της. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529175000 GMT+3" stop="20260529183500 GMT+3" channel="216595">
+  <programme start="20260529175500 GMT+3" stop="20260529184500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ5</title>
     <desc lang="el">Όταν ένα κορίτσι είναι ύποπτο για τη δολοφονία της καλύτερής της φίλης, αλλά δεν έχει καμία ανάμνηση του γεγονότος, ο Τζέιν σχεδιάζει έναν επικίνδυνο ελιγμό κατά τον οποίο εκείνη πρέπει να ξαναζήσει τη βραδιά για να τη θυμηθεί. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529183500 GMT+3" stop="20260529192500 GMT+3" channel="216595">
+  <programme start="20260529184500 GMT+3" stop="20260529193000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ16</title>
     <desc lang="el">Η Maya αντιμετωπίζει κάποια άλυτα οικογενειακά θέματα και η ομάδα παίρνει την κατάσταση στα χέρια της όταν έρχεται αντιμέτωπη με μια στιγμή ζωής και θανάτου σε ένα περιστατικό. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529192500 GMT+3" stop="20260529194500 GMT+3" channel="216595">
+  <programme start="20260529193000 GMT+3" stop="20260529195000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ21</title>
     <desc lang="el">Ο Phil δεν μένει στο σπίτι να περιμένει τον μάστορα και μπαίνει σε περιπέτειες προκειμένου να κρύψει την αλήθεια από την Claire. Το άγχος του όμως ξεπερνά το τεράστιο ψέμα που επινόησε για να γλιτώσει. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529194500 GMT+3" stop="20260529201000 GMT+3" channel="216595">
+  <programme start="20260529195000 GMT+3" stop="20260529201500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 5 Κ5 ΕΠ22</title>
     <desc lang="el">Ο Jay, η Gloria και ο Manny προκαλούν ο ένας τον άλλο να εγκαταλείψουν την πεπατημένη και να δοκιμάσουν νέα πράγματα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529201000 GMT+3" stop="20260529210000 GMT+3" channel="216595">
+  <programme start="20260529201500 GMT+3" stop="20260529210000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 5 Κ5 ΕΠ1</title>
     <desc lang="el">Η επίλυση της δολοφονίας μιας δρομέα αποκτά ακόμη μεγαλύτερη επείγουσα σημασία όταν η Τζέιν συνειδητοποιεί ότι το κίνητρο ήταν η κλοπή... του μωρού της γυναίκας. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529210000 GMT+3" stop="20260529214500 GMT+3" channel="216595">
+  <programme start="20260529210000 GMT+3" stop="20260529215000 GMT+3" channel="216595">
     <title lang="el">Masterchef 15 Κ15 ΕΠ7</title>
     <desc lang="el">Τα πέντε ζευγάρια της ηττημένης ομάδας από την προηγούμενη δοκιμασία αντιμετωπίζουν το πρώτο τεστ πίεσης της σεζόν: τη δοκιμασία Mystery Box για επιδόρπιο. Πρωταγωνιστούν: Gordon Ramsay,Joe Bastianich,Tiffany Derry. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529214500 GMT+3" stop="20260529224000 GMT+3" channel="216595">
+  <programme start="20260529215000 GMT+3" stop="20260529224000 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy 22 Κ22 ΕΠ18</title>
     <desc lang="el">Grey&apos;s Anatomy 22 Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,James Pickens Jr.. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529224000 GMT+3" stop="20260529232500 GMT+3" channel="216595">
+  <programme start="20260529224000 GMT+3" stop="20260529233000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 1 Κ1 ΕΠ6</title>
     <desc lang="el">Ο Τζέιν χρησιμοποιεί τις τεχνικές του σε τραπέζια χαρτοπαιξίας ενός καζίνο. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529232500 GMT+3" stop="20260530001500 GMT+3" channel="216595">
+  <programme start="20260529233000 GMT+3" stop="20260530001500 GMT+3" channel="216595">
     <title lang="el">Masterchef 15 Κ15 ΕΠ7</title>
     <desc lang="el">Τα πέντε ζευγάρια της ηττημένης ομάδας από την προηγούμενη δοκιμασία αντιμετωπίζουν το πρώτο τεστ πίεσης της σεζόν: τη δοκιμασία Mystery Box για επιδόρπιο. Πρωταγωνιστούν: Gordon Ramsay,Joe Bastianich,Tiffany Derry. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41241,19 +41265,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529060000 GMT+3" stop="20260529065000 GMT+3" channel="2755">
+  <programme start="20260529060000 GMT+3" stop="20260529064500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ7</title>
     <desc lang="el">Η ομάδα 118 σπεύδει να διασώσει έναν άντρα που έχει παγιδευτεί κάτω από ένα στρατιωτικό όχημα και μια άσημη μπάντα που το παράκανε. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529065000 GMT+3" stop="20260529073500 GMT+3" channel="2755">
+  <programme start="20260529064500 GMT+3" stop="20260529073000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ8</title>
     <desc lang="el">Η ομάδα καλείται στο αεροδρόμιο όταν μια αεροσυνοδός φτάνει στα όριά της με τους επιβάτες της πτήσης της. Η Athena ανακαλύπτει ότι η καραντίνα έχει ωθήσει ένα ζευγάρι σε κρίσιμο σημείο. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529073500 GMT+3" stop="20260529081500 GMT+3" channel="2755">
+  <programme start="20260529073000 GMT+3" stop="20260529081500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ14</title>
     <desc lang="el">Ένας έφηβος μουσικός εξαφανίζεται στη Νέα Ορλεάνη. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41277,19 +41301,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529095000 GMT+3" stop="20260529101000 GMT+3" channel="2755">
+  <programme start="20260529095000 GMT+3" stop="20260529101500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 3 Κ3 ΕΠ2</title>
     <desc lang="el">Ο Μπαρτ πετάει στο Πνεύμα του Σεντ Λούις κι η Λίζα με το Κογκρέσο σώζει το δάσος του Σπρίνγκφιλντ. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1991)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529101000 GMT+3" stop="20260529103500 GMT+3" channel="2755">
+  <programme start="20260529101500 GMT+3" stop="20260529104000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ16</title>
     <desc lang="el">Το πέιντμπολ οδηγεί σε καβγά ανάμεσα στον Σέλντον και την Πένι, καθώς και σε ειδύλλιο ανάμεσα στον Χάουαρντ και τη Λέσλι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529103500 GMT+3" stop="20260529110000 GMT+3" channel="2755">
+  <programme start="20260529104000 GMT+3" stop="20260529110000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ17</title>
     <desc lang="el">Η παρέα ενθουσιάζεται όταν βλέπει τη Σάμερ Γκλάου της σειράς Ο Εξολοθρευτής: Τα Χρονικά της Σάρα Κόνορ να ταξιδεύει κι αυτή στο τρένο τους για Σαν Φρανσίσκο. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41301,67 +41325,67 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529112500 GMT+3" stop="20260529114500 GMT+3" channel="2755">
+  <programme start="20260529112500 GMT+3" stop="20260529115000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ6</title>
     <desc lang="el">Ο Τζέικ και η Έιμι δουλεύουν σε μια υπόθεση που είναι δύσκολο να λυθεί, ενώ ο Χολτ προσαρμόζεται σε νέα κατάσταση. Ο Χίτσκοκ αναζητά τον έρωτα της ζωής του. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529114500 GMT+3" stop="20260529123000 GMT+3" channel="2755">
+  <programme start="20260529115000 GMT+3" stop="20260529123500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ9</title>
     <desc lang="el">Η Athena και η ομάδα 118 σπεύδουν να σώσουν ζωές όταν ένας μεθυσμένος οδηγός προκαλεί θανατηφόρα καραμπόλα στον αυτοκινητόδρομο. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529123000 GMT+3" stop="20260529131500 GMT+3" channel="2755">
+  <programme start="20260529123500 GMT+3" stop="20260529132000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ10</title>
     <desc lang="el">Η ομάδα 118 καλείται σε μια σειρά περιστατικών με γονείς και παιδιά, όπως ένα καταστροφικό πάρτι γενεθλίων που έχει οργανωθεί από μια μαμά blogger. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529131500 GMT+3" stop="20260529135500 GMT+3" channel="2755">
+  <programme start="20260529132000 GMT+3" stop="20260529140000 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ15</title>
     <desc lang="el">Ο Κόλτερ επιστρατεύει τη βοήθεια της Μπίλι Μάταλον για να διεισδύσει σε μια γυναικεία φυλακή. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529135500 GMT+3" stop="20260529144000 GMT+3" channel="2755">
+  <programme start="20260529140000 GMT+3" stop="20260529145000 GMT+3" channel="2755">
     <title lang="el">The Resident 3 Κ3 ΕΠ1</title>
     <desc lang="el">Νέο Τσαστέιν, νέα προβλήματα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Morris Chestnut,Michael Hogan,Tasso Feldman. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529144000 GMT+3" stop="20260529150500 GMT+3" channel="2755">
+  <programme start="20260529145000 GMT+3" stop="20260529151000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 3 Κ3 ΕΠ3</title>
     <desc lang="el">Ο Νεντ Φλάντερς ανακοινώνει ότι ανοίγει νέο κατάστημα αφιερωμένο στα εμπορεύματα για αριστερόχειρες. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1991)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529150500 GMT+3" stop="20260529153000 GMT+3" channel="2755">
+  <programme start="20260529151000 GMT+3" stop="20260529153500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 3 Κ3 ΕΠ4</title>
     <desc lang="el">Ενώ η τάξη του πάει εκδρομή, ο Μπαρτ πάει με το αφεντικό της μαφίας του Σπρίνγκφιλντ, Χοντρό Τόνι. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1991)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529153000 GMT+3" stop="20260529155500 GMT+3" channel="2755">
+  <programme start="20260529153500 GMT+3" stop="20260529160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ18</title>
     <desc lang="el">Η επιχείρηση της Πένι, δηλαδή η πώληση αξεσουάρ μαλλιών από το διαμέρισμά τη, βγαίνει εκτός ελέγχου όταν ο Σέλντον, που έχει καταναλώσει υπερβολική καφεΐνη, αναλαμβάνει τα ηνία. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529155500 GMT+3" stop="20260529162000 GMT+3" channel="2755">
+  <programme start="20260529160000 GMT+3" stop="20260529162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ19</title>
     <desc lang="el">Η Πένι νιώθει να απειλείται όταν μια άλλη σέξι γυναίκα μετακομίζει στην πολυκατοικία και θυμώνει όταν νιώθει ότι εκμεταλλεύεται τους άντρες της παρέας. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529162000 GMT+3" stop="20260529164000 GMT+3" channel="2755">
+  <programme start="20260529162000 GMT+3" stop="20260529164500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ7</title>
     <desc lang="el">Ο αρχηγός Χολτ αντιμετωπίζει μια προσωπική απώλεια. Ο Τζέικ πρέπει να αποφασίσει αν θα πάει τον Τέρι ή τον Τσαρλς σε μια αποκλειστική εκδήλωση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529164000 GMT+3" stop="20260529170500 GMT+3" channel="2755">
+  <programme start="20260529164500 GMT+3" stop="20260529170500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ8</title>
     <desc lang="el">Ο Νταγκ Τζούντι επιστρέφει και αυτή τη φορά, η υπόθεση ανάμεσα σ&apos; εκείνον και τον Τζέικ είναι προσωπική. Η Έιμι και ο Τσαρλς προσπαθούν να βρουν τον τέλειο νέο αυτόματο πωλητή για το Τμήμα. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41373,19 +41397,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529175000 GMT+3" stop="20260529183500 GMT+3" channel="2755">
+  <programme start="20260529175000 GMT+3" stop="20260529184000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ12</title>
     <desc lang="el">Όταν ένας διάσημος συγγραφέας βιβλίων μυστηρίου ξαφνικά πεθαίνει, η Athena, ο Bobby και η ομάδα 118 καλούνται να αντιμετωπίσουν το χάος που έχει προκληθεί σε ολόκληρη την πόλη λόγω της αναζήτησης ενός κρυμμένου θησαυρού που άφησε πίσω του ο συγγραφέας. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529183500 GMT+3" stop="20260529192000 GMT+3" channel="2755">
+  <programme start="20260529184000 GMT+3" stop="20260529192500 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ16</title>
     <desc lang="el">Ο Κόλτερ βοηθά έναν παλιό φίλο με την αποστολή έρευνας και διάσωσης δύο αγνοούμενων αδερφών. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529192000 GMT+3" stop="20260529201000 GMT+3" channel="2755">
+  <programme start="20260529192500 GMT+3" stop="20260529201000 GMT+3" channel="2755">
     <title lang="el">The Resident 3 Κ3 ΕΠ2</title>
     <desc lang="el">Οι γιατροί αναλαμβάνουν τη δυσκολότερη εγχείρηση. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Morris Chestnut,Michael Hogan,Tasso Feldman. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41403,13 +41427,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529210000 GMT+3" stop="20260529212000 GMT+3" channel="2755">
+  <programme start="20260529210000 GMT+3" stop="20260529212500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ20</title>
     <desc lang="el">Όταν ένας άλλος λάτρης των κόμικς την πέφτει στην Πένι, ο Λέοναρντ, ο Ραζ και ο Χάουαρντ πηγαίνουν στη Βραδιά Γυναικών ενός μπαρ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529212000 GMT+3" stop="20260529215000 GMT+3" channel="2755">
+  <programme start="20260529212500 GMT+3" stop="20260529215000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ21</title>
     <desc lang="el">Ο Λέοναρντ και ο Ραζ πηγαίνουν τον Γουόλοβιτς στο Λας Βέγκας για να τον βοηθήσουν να ξεπεράσει τον χωρισμό του. Ο Σέλντον κλειδώνεται έξω και έχει μόνο ένα άλλο μέρος να μείνει: στο σπίτι της Πένι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -41421,19 +41445,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529221500 GMT+3" stop="20260529225000 GMT+3" channel="2755">
+  <programme start="20260529221500 GMT+3" stop="20260529224000 GMT+3" channel="2755">
     <title lang="el">Bob&apos;s Burgers 16 Κ16 ΕΠ15</title>
     <desc lang="el">Bob&apos;s Burgers 16 Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529225000 GMT+3" stop="20260529235500 GMT+3" channel="2755">
+  <programme start="20260529224000 GMT+3" stop="20260529233000 GMT+3" channel="2755">
     <title lang="el">Will Trent 4 Κ4 ΕΠ13</title>
     <desc lang="el">Will Trent 4 Πρωταγωνιστούν: Ramón Rodríguez,Erika Christensen,Iantha Richardson,Jake McLaughlin,Kevin Daniels,Sonja Sohn. (2026)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529235500 GMT+3" stop="20260530004500 GMT+3" channel="2755">
+  <programme start="20260529233000 GMT+3" stop="20260530001500 GMT+3" channel="2755">
     <title lang="el">The Resident 3 Κ3 ΕΠ2</title>
     <desc lang="el">Οι γιατροί αναλαμβάνουν τη δυσκολότερη εγχείρηση. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Morris Chestnut,Michael Hogan,Tasso Feldman. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -42219,13 +42243,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529060500 GMT+3" stop="20260529064500 GMT+3" channel="216459">
+  <programme start="20260529060500 GMT+3" stop="20260529065000 GMT+3" channel="216459">
     <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ3</title>
     <desc lang="el">Παρακουλουθήστε τη ζωή και τις συνθήκες εργασίας όσων δουλεύουν στα ναυπηγεία στην περιοχή Pacific Northwest καθώς παλεύουν με το χρόνο προκειμένου να επισκευάσουν πολύτιμα αλιευτικά σκάφη για να επιστρέψουν στον ωκεανό. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529064500 GMT+3" stop="20260529073500 GMT+3" channel="216459">
+  <programme start="20260529065000 GMT+3" stop="20260529073500 GMT+3" channel="216459">
     <title lang="el">Επικίνδυνες Διαδρομές στην Αμερική Κ1 ΕΠ8</title>
     <desc lang="el">Η σεζόν πλησιάζει στο τέλος της και τα προβλήματα διαδέχονται το ένα το άλλο καθώς ο Sam παραλίγο να καταπλακωθεί, ο Justin αντικρίζει τον θάνατο και ένας οδηγός φεύγει από το βουνό για πάντα. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -42237,61 +42261,61 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529082000 GMT+3" stop="20260529090500 GMT+3" channel="216459">
+  <programme start="20260529082000 GMT+3" stop="20260529091000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ1</title>
     <desc lang="el">Σε ένα ταξίδι ρουτίνας από το Βερολίνο, η πτήση 3597 της Crossair πλησιάζει στη Ζυρίχη. Όμως, λίγο πριν την προσγείωση, οι πιλότοι δεν μπορούν να βρουν τον αεροδιάδρομο. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529090500 GMT+3" stop="20260529095500 GMT+3" channel="216459">
+  <programme start="20260529091000 GMT+3" stop="20260529100000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ2</title>
     <desc lang="el">17 Ιανουαρίου 2008. Πλησιάζοντας στο τέλος της 10ωρης πτήσης από το Πεκίνο, η πτήση 38 της British Airways ετοιμάζεται να προσγειωθεί στο Heathrow. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529095500 GMT+3" stop="20260529104500 GMT+3" channel="216459">
+  <programme start="20260529100000 GMT+3" stop="20260529104500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ3</title>
     <desc lang="el">27 Δεκεμβρίου 1991. Η πτήση 751 των Σκανδιναβικών αερογραμμών αντιμετωπίζει χιόνι στο αεροδρόμιο της Στοκχόλμης. Ο αεροδιάδρομος έχει καθαριστεί δύο φορές για να διασφαλιστεί η απογείωση του αεροσκάφους. Παρά τις κακές καιρικές συνθήκες, το αεροπλάνο καταφέρνει να απογειωθεί. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529104500 GMT+3" stop="20260529113000 GMT+3" channel="216459">
+  <programme start="20260529104500 GMT+3" stop="20260529113500 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ3 ΕΠ5</title>
     <desc lang="el">Αυτό το μοναδικό εναέριο ταξίδι σε όλη την Ιρλανδία αποκαλύπτει το δραματικό θέαμα ζευγαρώματος ελαφιών στο Δουβλίνο, μια απίστευτη διοικητική πρόκληση και το σπίτι των γαελικών αθλημάτων. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529113000 GMT+3" stop="20260529121500 GMT+3" channel="216459">
+  <programme start="20260529113500 GMT+3" stop="20260529122000 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ3 ΕΠ1</title>
     <desc lang="el">Αυτό το μοναδικό εναέριο ταξίδι σε όλη τη Νορβηγία αποκαλύπτει το πιο μακρύ υποβρύχιο καλώδιο, την ανακαίνιση μιας εκκλησίας του 13ου αιώνα και μια εντυπωσιακή ταχυδρομική διαδρομή. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529121500 GMT+3" stop="20260529130500 GMT+3" channel="216459">
+  <programme start="20260529122000 GMT+3" stop="20260529130500 GMT+3" channel="216459">
     <title lang="el">Στο Ναυπηγείο Κ1 ΕΠ4</title>
     <desc lang="el">Παρακουλουθήστε τη ζωή και τις συνθήκες εργασίας όσων δουλεύουν στα ναυπηγεία στην περιοχή Pacific Northwest καθώς παλεύουν με το χρόνο προκειμένου να επισκευάσουν πολύτιμα αλιευτικά σκάφη για να επιστρέψουν στον ωκεανό. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529130500 GMT+3" stop="20260529135000 GMT+3" channel="216459">
+  <programme start="20260529130500 GMT+3" stop="20260529135500 GMT+3" channel="216459">
     <title lang="el">Family Guns Κ1 ΕΠ1</title>
     <desc lang="el">Γνωρίστε τους Cranmer, τους ιδιοκτήτες μιας από τις μεγαλύτερες αντικερί στρατιωτικών αντικειμένων στον κόσμο, καθώς ετοιμάζουν μία εκδήλωση σκοποβολής για τους Βικτωριανούς Τουφεκιοφόρους. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529135000 GMT+3" stop="20260529143500 GMT+3" channel="216459">
+  <programme start="20260529135500 GMT+3" stop="20260529144000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ8</title>
     <desc lang="el">Η άνοιξη πλησιάζει καθώς νέες προκλήσεις εμφανίζονται για τους κατοίκους της αγροτικής Αλάσκας. Η προετοιμασία είναι το κλειδί της επιτυχίας και της επιβίωσης τόσο βαθιά στην ερημιά. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529143500 GMT+3" stop="20260529152500 GMT+3" channel="216459">
+  <programme start="20260529144000 GMT+3" stop="20260529153000 GMT+3" channel="216459">
     <title lang="el">Origins: Το Ταξίδι της Ανθρωπότητας Κ1 ΕΠ8</title>
     <desc lang="el">Είμαστε ένα είδος σε κίνηση - καθώς η περιπέτεια να κυριαρχήσουμε σε γη και ουρανό συνεχίζεται, εφευρίσκουμε νέους, πιο αποτελεσματικούς τρόπους μετακίνησης. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529152500 GMT+3" stop="20260529161500 GMT+3" channel="216459">
+  <programme start="20260529153000 GMT+3" stop="20260529161500 GMT+3" channel="216459">
     <title lang="el">Η Πόλη του Βασιλιά Μαχητή των Μάγια ΕΠ1</title>
     <desc lang="el">Ο εξερευνητής Albert Lin ταξιδεύει στις ζούγκλες της Κεντρικής Αμερικής, στα ίχνη ενός αρχαίου πολεμιστή βασιλιά και της πόλης που κάποτε διοικούσε. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -42303,61 +42327,61 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529170500 GMT+3" stop="20260529175000 GMT+3" channel="216459">
+  <programme start="20260529170500 GMT+3" stop="20260529175500 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ9 ΕΠ6</title>
     <desc lang="el">Ο Tim και ο Fuzz ταξιδεύουν στο Norfolk όπου τους περιμένει ένα σπορ γαλλικό hatchback άλλης εποχής. Το αυτοκίνητο ανήκει στην 21χρονη φοιτήτρια Senna, η οποία προέρχεται από οικογένεια με λατρεία στα αυτοκίνητα. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529175000 GMT+3" stop="20260529181000 GMT+3" channel="216459">
+  <programme start="20260529175500 GMT+3" stop="20260529181500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ19</title>
     <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529181000 GMT+3" stop="20260529183500 GMT+3" channel="216459">
+  <programme start="20260529181500 GMT+3" stop="20260529184000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ20</title>
     <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529183500 GMT+3" stop="20260529192000 GMT+3" channel="216459">
+  <programme start="20260529184000 GMT+3" stop="20260529192500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ4</title>
     <desc lang="el">12 Φεβρουαρίου 2009. Με δύο ώρες καθυστέρηση και φτάνοντας στο τέλος της πτήσης από το Νιου Τζέρσι, η πτήση 3407 της Continental Connections πλησιάζει το διεθνές αεροδρόμιο Buffalo-Niagara. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529192000 GMT+3" stop="20260529201000 GMT+3" channel="216459">
+  <programme start="20260529192500 GMT+3" stop="20260529201500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ5</title>
     <desc lang="el">15 Ιανουαρίου 2009. Σε λιγότερο από 2 λεπτά μετά την απογείωσή του από το αεροδρόμιο La Guardia της Νέας Υόρκης, η πτήση 1549 των Αμερικανικών αερογραμμών προσκρούει σε ένα σμήνος πουλιών. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529201000 GMT+3" stop="20260529210000 GMT+3" channel="216459">
+  <programme start="20260529201500 GMT+3" stop="20260529210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ6</title>
     <desc lang="el">Στις 25 Φεβρουαρίου 2005, ένα τζετ των τουρκικών αερογραμμών συνετρίβη ενώ προσγειωνόταν στο αεροδρόμιο Schiphol, παίρνοντας μαζί του στον θάνατο εννέα ανθρώπους. Τι προκάλεσε τη συντριβή; (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529210000 GMT+3" stop="20260529214500 GMT+3" channel="216459">
+  <programme start="20260529210000 GMT+3" stop="20260529215000 GMT+3" channel="216459">
     <title lang="el">Άμστερνταμ: Κεντρικός Σταθμός 24/7 Κ2 ΕΠ1</title>
     <desc lang="el">Ο Κεντρικός Σταθμός του Άμστερνταμ είναι η πύλη προς το Άμστερνταμ. Η Αλεξάντρα και η Γκούστα βοηθούν τους αλλοδαπούς τουρίστες. Οι υπεύθυνοι ασφαλείας και εξυπηρέτησης, Μένο και Μπαράν, αναζητούν κλέφτες αποσκευών. Στον ειδικό τερματικό σταθμό για το Ηνωμένο Βασίλειο, η ομάδα αγωνίζεται ενάντια στον χρόνο για να διασφαλίσει ότι το τρένο για το Λονδίνο θα αναχωρήσει στην ώρα του. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529214500 GMT+3" stop="20260529223500 GMT+3" channel="216459">
+  <programme start="20260529215000 GMT+3" stop="20260529224000 GMT+3" channel="216459">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ2</title>
     <desc lang="el">Το ελικόπτερο αναζήτησης και διάσωσης ψάχνει ένα αγνοούμενο κορίτσι στο Μπονέρ. Οι ακτοφύλακες λαμβάνουν μια κλήση για τη διάσωση ενός θαλάσσιου σκούτερ που βυθίζεται. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260529223500 GMT+3" stop="20260529232000 GMT+3" channel="216459">
+  <programme start="20260529224000 GMT+3" stop="20260529232500 GMT+3" channel="216459">
     <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ1</title>
     <desc lang="el">Οι Αμερικανοί αλεξιπτωτιστές έπεσαν στη Γαλλία πριν την απόβαση της Νορμανδίας για δώσουν μάχη με τους Ναζί για μια γέφυρα-κλειδί πίσω από τις γραμμές των εχθρών. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260529232000 GMT+3" stop="20260530000500 GMT+3" channel="216459">
+  <programme start="20260529232500 GMT+3" stop="20260530001000 GMT+3" channel="216459">
     <title lang="el">H Τελευταία Μάχη του Χίτλερ Κ3 ΕΠ4</title>
     <desc lang="el">Με χιλιάδες Γερμανούς στρατιώτες παγιδευμένους στoν θύλακα της Φαλέζ, μια μικρή καναδική ομάδα με τανκς προσπαθεί να κλείσει το σημείο διεξόδου. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -51741,9 +51765,75 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260529071500 GMT+3" stop="20260530060000 GMT+3" channel="97085851">
+  <programme start="20260529071500 GMT+3" stop="20260529090000 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22</title>
     <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529090000 GMT+3" stop="20260529094500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 21/22</title>
+    <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529094500 GMT+3" stop="20260529120000 GMT+3" channel="97085851">
+    <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
+    <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529141500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 99/00:</title>
+    <desc lang="el">Classic Matches: 2000 UCL Final (8th) Real Madrid v Valencia. La Octava.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529141500 GMT+3" stop="20260529170000 GMT+3" channel="97085851">
+    <title lang="el">Club World Cup Real Madrid vs Kashima 2016</title>
+    <desc lang="el">RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529170000 GMT+3" stop="20260529191500 GMT+3" channel="97085851">
+    <title lang="el">Club World Cup Real Madrid vs Gremio 2017</title>
+    <desc lang="el">Watch Los Blancos clinch the Club World Cup by beating the champions of South America.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529191500 GMT+3" stop="20260529193000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 13/14</title>
+    <desc lang="el">Real Madrid v At. Madrid Champions League Final 13/14</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529193000 GMT+3" stop="20260529213000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24: Manchester City vs Real Madrid</title>
+    <desc lang="el">Round of 8 (second leg). Real Madrid face Manchester City Etihad Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529213000 GMT+3" stop="20260529214500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529214500 GMT+3" stop="20260529230000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24: Manchester City vs Real Madrid</title>
+    <desc lang="el">Round of 8 (second leg). Real Madrid face Manchester City Etihad Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529230000 GMT+3" stop="20260529233000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529233000 GMT+3" stop="20260530000000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52283,7 +52373,7 @@
   </programme>
   <programme start="20260529153000 GMT+3" stop="20260529173000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 156 (Ζ)</title>
-    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
+    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Ακ. Κουζούλης Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
@@ -53312,7 +53402,49 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529180000 GMT+3" stop="20260529212000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529212000 GMT+3" stop="20260530003000 GMT+3" channel="52196563">
+    <title lang="el">BOSNIA_HERZEGOVINA - NORTH MACEDONIA (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260529000000 GMT+3" stop="20260529060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529180000 GMT+3" stop="20260530000000 GMT+3" channel="52196745">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -53324,7 +53456,43 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529180000 GMT+3" stop="20260530000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260529000000 GMT+3" stop="20260529060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529180000 GMT+3" stop="20260530000000 GMT+3" channel="52196754">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -53336,7 +53504,49 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529180000 GMT+3" stop="20260530000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260529000000 GMT+3" stop="20260529060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529060000 GMT+3" stop="20260529120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529120000 GMT+3" stop="20260529143000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529143000 GMT+3" stop="20260529213000 GMT+3" channel="52196763">
+    <title lang="el">44η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260529213000 GMT+3" stop="20260530000000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -58434,31 +58644,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530033500 GMT+3" stop="20260530035500 GMT+3" channel="216595">
+  <programme start="20260530033500 GMT+3" stop="20260530040000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 1 Κ1 ΕΠ12</title>
     <desc lang="el">Η Νελ συμφωνεί να συναντηθεί με τον Φίλιπ, ελπίζοντας να δοθεί ένα τέλος ενώ η Σαμ και η Λέξι κάνουν ένα κοινό πάρτι γενεθλίων για τις κόρες τους. Πρωταγωνιστούν: Gina Rodriguez, Hannah Simone, Lauren Ash, Rick Glassman, Angela Elayne Gibbs. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530035500 GMT+3" stop="20260530042000 GMT+3" channel="216595">
+  <programme start="20260530040000 GMT+3" stop="20260530042500 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο ανταγωνισμός της Μελίσα και της Τζανίν φουντώνει καθώς οι τάξεις τους διαγωνίζονται σε έναν μαραθώνιο διαβάσματος με χορηγό μια τοπική πιτσαρία. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530042000 GMT+3" stop="20260530044000 GMT+3" channel="216595">
+  <programme start="20260530042500 GMT+3" stop="20260530045000 GMT+3" channel="216595">
     <title lang="el">Abbott Elementary 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η Τζανίν ζητάει συμβουλές από τους συναδέλφους της. Πρωταγωνιστούν: Quinta Brunson,Sheryl Lee Ralph,Tyler James Williams. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530044000 GMT+3" stop="20260530052500 GMT+3" channel="216595">
+  <programme start="20260530045000 GMT+3" stop="20260530053500 GMT+3" channel="216595">
     <title lang="el">Castle 6 Κ6 ΕΠ16</title>
     <desc lang="el">Όταν μια νεαρή γυναίκα ομολογεί το φόνο ενός ηθοποιού – γνωρίζοντας λεπτομέρειες που μόνο ο δολοφόνος θα ήξερε – η Beckett και ο Castle φαίνεται ότι έχουν μια εύκολη υπόθεση, μέχρι που ανακαλύπτουν ότι η ύποπτη δεν είναι η δολοφόνος. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530052500 GMT+3" stop="20260530060000 GMT+3" channel="216595">
+  <programme start="20260530053500 GMT+3" stop="20260530060000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ7 ΕΠ11</title>
     <desc lang="el">Ο Ted και ο Barney συζητούν μια κοινή απόφαση που θα τους αλλάξει τη ζωή, ενώ η Robin προσπαθεί να αποθαρρύνει τον Marshall και τη Lily απ&apos;το να μετακομίσουν στο Long Island. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -58620,55 +58830,55 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530004500 GMT+3" stop="20260530011000 GMT+3" channel="2755">
+  <programme start="20260530001500 GMT+3" stop="20260530004000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 37 Κ37 ΕΠ12</title>
     <desc lang="el">Ο Χόμερ δίνει νέα πνοή στην καριέρα του Μπάμπολμπι Μαν όταν γίνεται ο κρυφός του κασκαντέρ. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530011000 GMT+3" stop="20260530014000 GMT+3" channel="2755">
+  <programme start="20260530004000 GMT+3" stop="20260530010000 GMT+3" channel="2755">
     <title lang="el">Bob&apos;s Burgers 16 Κ16 ΕΠ15</title>
     <desc lang="el">Bob&apos;s Burgers 16 Πρωταγωνιστούν: Dan Mintz,Eugene Mirman,H. Jon Benjamin. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530014000 GMT+3" stop="20260530020500 GMT+3" channel="2755">
+  <programme start="20260530010000 GMT+3" stop="20260530012500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 3 Κ3 ΕΠ5</title>
     <desc lang="el">Όταν ο Χόμερ σώζει το πυρηνικό εργοστάσιο από την κατάρρευση αισθάνεται ότι το χρωστάει στην τύχη. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1991)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530020500 GMT+3" stop="20260530023000 GMT+3" channel="2755">
+  <programme start="20260530012500 GMT+3" stop="20260530015000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 3 Κ3 ΕΠ6</title>
     <desc lang="el">Στο δείπνο με τους Σίμπσον, ο Κράστι ο Κλόουν αποκαλύπτει ότι αποξενώθηκε από τον ραβίνο πατέρα του. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1991)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530023000 GMT+3" stop="20260530025000 GMT+3" channel="2755">
+  <programme start="20260530015000 GMT+3" stop="20260530021000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ20</title>
     <desc lang="el">Όταν ένας άλλος λάτρης των κόμικς την πέφτει στην Πένι, ο Λέοναρντ, ο Ραζ και ο Χάουαρντ πηγαίνουν στη Βραδιά Γυναικών ενός μπαρ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530025000 GMT+3" stop="20260530031500 GMT+3" channel="2755">
+  <programme start="20260530021000 GMT+3" stop="20260530023500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ21</title>
     <desc lang="el">Ο Λέοναρντ και ο Ραζ πηγαίνουν τον Γουόλοβιτς στο Λας Βέγκας για να τον βοηθήσουν να ξεπεράσει τον χωρισμό του. Ο Σέλντον κλειδώνεται έξω και έχει μόνο ένα άλλο μέρος να μείνει: στο σπίτι της Πένι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530031500 GMT+3" stop="20260530040000 GMT+3" channel="2755">
+  <programme start="20260530023500 GMT+3" stop="20260530032000 GMT+3" channel="2755">
     <title lang="el">Tracker 2 Κ2 ΕΠ16</title>
     <desc lang="el">Ο Κόλτερ βοηθά έναν παλιό φίλο με την αποστολή έρευνας και διάσωσης δύο αγνοούμενων αδερφών. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Abby McEnany,Eric Graise. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530040000 GMT+3" stop="20260530044500 GMT+3" channel="2755">
+  <programme start="20260530032000 GMT+3" stop="20260530040500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ11</title>
     <desc lang="el">Τα μέλη της ομάδας 118 σπεύδουν σε ένα περιστατικό όπου οδηγός χτύπησε και εγκατέλειψε το θύμα, το οποίο πλέον βρίσκεται σε σοβαρή κατάσταση και τυχαίνει να είναι ένα οικείο πρόσωπο της ομάδας. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260530044500 GMT+3" stop="20260530051000 GMT+3" channel="2755">
+  <programme start="20260530045000 GMT+3" stop="20260530051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ20</title>
     <desc lang="el">Όταν ένας άλλος λάτρης των κόμικς την πέφτει στην Πένι, ο Λέοναρντ, ο Ραζ και ο Χάουαρντ πηγαίνουν στη Βραδιά Γυναικών ενός μπαρ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59604,61 +59814,61 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260530000500 GMT+3" stop="20260530005000 GMT+3" channel="216459">
+  <programme start="20260530001000 GMT+3" stop="20260530005500 GMT+3" channel="216459">
     <title lang="el">Άμστερνταμ: Κεντρικός Σταθμός 24/7 Κ2 ΕΠ1</title>
     <desc lang="el">Ο Κεντρικός Σταθμός του Άμστερνταμ είναι η πύλη προς το Άμστερνταμ. Η Αλεξάντρα και η Γκούστα βοηθούν τους αλλοδαπούς τουρίστες. Οι υπεύθυνοι ασφαλείας και εξυπηρέτησης, Μένο και Μπαράν, αναζητούν κλέφτες αποσκευών. Στον ειδικό τερματικό σταθμό για το Ηνωμένο Βασίλειο, η ομάδα αγωνίζεται ενάντια στον χρόνο για να διασφαλίσει ότι το τρένο για το Λονδίνο θα αναχωρήσει στην ώρα του. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530005000 GMT+3" stop="20260530013500 GMT+3" channel="216459">
+  <programme start="20260530005500 GMT+3" stop="20260530014500 GMT+3" channel="216459">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ2</title>
     <desc lang="el">Το ελικόπτερο αναζήτησης και διάσωσης ψάχνει ένα αγνοούμενο κορίτσι στο Μπονέρ. Οι ακτοφύλακες λαμβάνουν μια κλήση για τη διάσωση ενός θαλάσσιου σκούτερ που βυθίζεται. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530013500 GMT+3" stop="20260530022500 GMT+3" channel="216459">
+  <programme start="20260530014500 GMT+3" stop="20260530023000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ4</title>
     <desc lang="el">12 Φεβρουαρίου 2009. Με δύο ώρες καθυστέρηση και φτάνοντας στο τέλος της πτήσης από το Νιου Τζέρσι, η πτήση 3407 της Continental Connections πλησιάζει το διεθνές αεροδρόμιο Buffalo-Niagara. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530022500 GMT+3" stop="20260530031500 GMT+3" channel="216459">
+  <programme start="20260530023000 GMT+3" stop="20260530032000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ5</title>
     <desc lang="el">15 Ιανουαρίου 2009. Σε λιγότερο από 2 λεπτά μετά την απογείωσή του από το αεροδρόμιο La Guardia της Νέας Υόρκης, η πτήση 1549 των Αμερικανικών αερογραμμών προσκρούει σε ένα σμήνος πουλιών. (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530031500 GMT+3" stop="20260530040000 GMT+3" channel="216459">
+  <programme start="20260530032000 GMT+3" stop="20260530041000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ9 ΕΠ6</title>
     <desc lang="el">Στις 25 Φεβρουαρίου 2005, ένα τζετ των τουρκικών αερογραμμών συνετρίβη ενώ προσγειωνόταν στο αεροδρόμιο Schiphol, παίρνοντας μαζί του στον θάνατο εννέα ανθρώπους. Τι προκάλεσε τη συντριβή; (2010)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530040000 GMT+3" stop="20260530044500 GMT+3" channel="216459">
+  <programme start="20260530041000 GMT+3" stop="20260530045500 GMT+3" channel="216459">
     <title lang="el">Άμστερνταμ: Κεντρικός Σταθμός 24/7 Κ2 ΕΠ1</title>
     <desc lang="el">Ο Κεντρικός Σταθμός του Άμστερνταμ είναι η πύλη προς το Άμστερνταμ. Η Αλεξάντρα και η Γκούστα βοηθούν τους αλλοδαπούς τουρίστες. Οι υπεύθυνοι ασφαλείας και εξυπηρέτησης, Μένο και Μπαράν, αναζητούν κλέφτες αποσκευών. Στον ειδικό τερματικό σταθμό για το Ηνωμένο Βασίλειο, η ομάδα αγωνίζεται ενάντια στον χρόνο για να διασφαλίσει ότι το τρένο για το Λονδίνο θα αναχωρήσει στην ώρα του. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530044500 GMT+3" stop="20260530053500 GMT+3" channel="216459">
+  <programme start="20260530045500 GMT+3" stop="20260530054000 GMT+3" channel="216459">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ1 ΕΠ2</title>
     <desc lang="el">Το ελικόπτερο αναζήτησης και διάσωσης ψάχνει ένα αγνοούμενο κορίτσι στο Μπονέρ. Οι ακτοφύλακες λαμβάνουν μια κλήση για τη διάσωση ενός θαλάσσιου σκούτερ που βυθίζεται. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530053500 GMT+3" stop="20260530055500 GMT+3" channel="216459">
+  <programme start="20260530054000 GMT+3" stop="20260530060000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ19</title>
     <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530055500 GMT+3" stop="20260530062000 GMT+3" channel="216459">
+  <programme start="20260530060000 GMT+3" stop="20260530062500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ7 ΕΠ20</title>
     <desc lang="el">Η σειρά επιστρέφει για 7η σεζόν. Λατρεύουμε να παρακολουθούμε ανθρώπους να τα κάνουν θάλασσα - ειδικά με τρόπο εντυπωσιακό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260530062000 GMT+3" stop="20260530070500 GMT+3" channel="216459">
+  <programme start="20260530062500 GMT+3" stop="20260530070500 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ1 ΕΠ6</title>
     <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι σε όλη την Πολωνία αποκαλύπτει μια χώρα που κάποτε έπρεπε να δώσει μάχη για να επιβιώσει, αλλά σήμερα θεωρείται το μέλλον της Ευρώπης. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -63193,7 +63403,7 @@
     <rating>12</rating>
   </programme>
   <programme start="20260530123000 GMT+3" stop="20260530130000 GMT+3" channel="213706">
-    <title lang="el">Witness: Fergal Keane&apos;s Journey of Hope</title>
+    <title lang="el">The Road to Hope with Fergal Keane</title>
     <desc lang="el">The BBC&apos;s Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
@@ -69570,6 +69780,54 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530010000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530010000 GMT+3" stop="20260530033000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 02/03 Roma vs Real Madrid</title>
+    <desc lang="el">Real Madrid travelled to the Stadio Olimpico and put in a magnificent showing.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530033000 GMT+3" stop="20260530034500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530034500 GMT+3" stop="20260530045000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530045000 GMT+3" stop="20260530070000 GMT+3" channel="97085851">
+    <title lang="el">Liga 25/26: Real Madrid vs Real Oviedo</title>
+    <desc lang="el">Matchday 36 of Liga. Real Madrid host Real Oviedo in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530070000 GMT+3" stop="20260530071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530071500 GMT+3" stop="20260530083000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530083000 GMT+3" stop="20260531060000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260530000500 GMT+3" stop="20260530003000 GMT+3" channel="2491">
     <title lang="el">US Pro Pulling 2023</title>
     <desc lang="el">US Pro Pulling 2023</desc>
@@ -71116,6 +71374,162 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260530003000 GMT+3" stop="20260530060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260530230000 GMT+3" channel="52196563">
+    <title lang="el">PARIS SAINT_GERMAIN - ARSENAL (FINAL) (Z)</title>
+    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530230000 GMT+3" stop="20260531000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530145000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530145000 GMT+3" stop="20260530180000 GMT+3" channel="52196745">
+    <title lang="el">SCOTLAND - CURACAO (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260531000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260531000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260531000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260531000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530000000 GMT+3" stop="20260530060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530060000 GMT+3" stop="20260530120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530120000 GMT+3" stop="20260530180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260530180000 GMT+3" stop="20260531000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531003000 GMT+3" stop="20260531012000 GMT+3" channel="561066">
     <title lang="el">Πολιτιστικό Ημερολόγιο (E)</title>
     <desc lang="el">10/13/24</desc>
@@ -72556,7 +72970,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="2221">
+  <programme start="20260531000000 GMT+3" stop="20260531070000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -75693,75 +76107,63 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531075000 GMT+3" stop="20260531081500 GMT+3" channel="9744271">
+  <programme start="20260531075000 GMT+3" stop="20260531082500 GMT+3" channel="9744271">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531081500 GMT+3" stop="20260531094500 GMT+3" channel="9744271">
+  <programme start="20260531082500 GMT+3" stop="20260531095500 GMT+3" channel="9744271">
     <title lang="el">Marianne</title>
     <desc lang="el">Με έναν εκτεταμένο μονόλογο, μία μοναχική γυναίκα παραθέτει τις σκέψεις της για την τέχνη, τη ζωή, τον έρωτα, τον κινηματογράφο, την ταυτότητα και τον θάνατο. Σκηνή της, ο εαυτός της και τα λόγια της. Δράμα, 2023. Σκηνοθεσία: Μάικλ Ρόζεκ. Πρωταγωνιστές: Ιζαμπέλ Ιπέρ.</desc>
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260531094500 GMT+3" stop="20260531103500 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ1</title>
-    <desc lang="el">Στη δυνατή πρεμιέρα του κύκλου, η Τζουν και η Σερίνα βρίσκονται σε ένα επικίνδυνο ταξίδι ως πρόσφυγες που δραπετεύουν από το εχθρικό Τορόντο. Η Μόιρα έρχεται αντιμέτωπη με μια μεγάλη απόφαση, ενώ ο Νικ δέχεται μια ανεπιθύμητη επίσκεψη. Φαντασίας, 2022. Σκηνοθεσία: Ελίζαμπεθ Μος. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531095500 GMT+3" stop="20260531110000 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ1</title>
+    <desc lang="el">Έναρξη σειράς. Λίγο πριν αναχωρήσει για μια αποστολή στην Αρκτική, η Λένα μαθαίνει ότι η αποξενωμένη κόρη της, η Άντα, και τα παιδιά του νηπιαγωγείου που φροντίζει, έχουν εξαφανιστεί. Η Λένα επιστρέφει στην πατρίδα της, όπου ζούσε η Άντα. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531103500 GMT+3" stop="20260531113000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ2</title>
-    <desc lang="el">Η Τζουν ξεκινά ένα δύσκολο ταξίδι, προσπαθώντας να δημιουργήσει μια νέα ζωή σε μια άγνωστη κοινότητα, ενώ οι συνθήκες αναγκάζουν τη Σερίνα να αναζητήσει καταφύγιο. Ο Λουκ και η Μόιρα παίρνουν ένα επικίνδυνο ρίσκο που ίσως αλλάξει τα πάντα. Φαντασίας, 2022. Σκηνοθεσία: Ελίζαμπεθ Μος. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531110000 GMT+3" stop="20260531120000 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ2</title>
+    <desc lang="el">Πεπεισμένη για την αθωότητα της κόρης της, η Λένα ξεκινά τη δική της έρευνα, βιώνοντας μια σειρά από παράξενες οπτασίες. Την ίδια ώρα, η Μάρτα προσλαμβάνει μεταλλωρύχους για να προκαλέσουν μια έκρηξη στα τούνελ κάτω από την πόλη. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531113000 GMT+3" stop="20260531121500 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ3</title>
-    <desc lang="el">Η Τζουν δίνει μάχη με τον χρόνο για να προστατεύσει τους δικούς της. Την ίδια ώρα, ο Ταξιάρχης Λόρενς κάνει στρατηγικές κινήσεις, φιλοξενώντας διεθνείς διπλωμάτες, ενώ η αναζήτηση της θείας Λίντια για την Τζανίν έχει απρόσμενες συνέπειες. Φαντασίας, 2022. Σκηνοθεσία: Ντέιβιντ Λέστερ. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531120000 GMT+3" stop="20260531130000 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ3</title>
+    <desc lang="el">Η Άντα και τα παιδιά που είναι μαζί της ξυπνούν σε ένα υπόγειο τούνελ χωρίς καμία ανάμνηση του πώς βρέθηκαν εκεί. Η Λένα συνεχίζει την έρευνά της, η οποία την οδηγεί βαθιά σε ένα κοντινό δάσος. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531121500 GMT+3" stop="20260531130500 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ4</title>
-    <desc lang="el">Η Τζουν κάνει μια συγκλονιστική κίνηση που απειλεί να ανατρέψει τα προσεκτικά σχέδια της εξέγερσης. Παράλληλα, η επιρροή του Ταξιάρχη Λόρενς αυξάνεται καθώς ανεβαίνει υψηλότερα στην ιεραρχία του Γκιλεάδ. Φαντασίας, 2022. Σκηνοθεσία: Νατάλια Λέιτε. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531130000 GMT+3" stop="20260531140500 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ4</title>
+    <desc lang="el">Η Λένα ανακαλύπτει ότι το κλειδί είναι για ένα σπίτι που κάποτε άνηκε σε μια νοσοκόμα ονόματι Ίλζε. Εκεί βρίσκει ένα κουτί με μια μάσκα που φέρει το σύμβολο των Βριλ, μιας μυστικής οργάνωσης που συνδέεται με τα ναζιστικά πειράματα. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531130500 GMT+3" stop="20260531135000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ5</title>
-    <desc lang="el">Η Τζουν και η Μόιρα αναλαμβάνουν μια επικίνδυνη αποστολή που δοκιμάζει το θάρρος και την ευρηματικότητά τους. Ταυτόχρονα, η Σερίνα κι ο Νικ βρίσκονται σε κρίσιμα σταυροδρόμια, λαμβάνοντας αποφάσεις που θα έχουν μόνιμες συνέπειες για όλους. Φαντασίας, 2022. Σκηνοθεσία: Νατάλια Λέιτε. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531140500 GMT+3" stop="20260531150500 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ5</title>
+    <desc lang="el">Η Λένα αποφασίζει να μπει μόνη της στα τούνελ, όπου ανακαλύπτει ένα παλιό ναζιστικό εργαστήριο. Εκεί βρίσκει ένα βίντεο από κάμερα ασφαλείας που δείχνει την Άντα και τα αγνοούμενα παιδιά μέσα στο ίδιο εργαστήριο. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531135000 GMT+3" stop="20260531143000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ6</title>
-    <desc lang="el">Η Τζουν αναγκάζεται να κρυφτεί στο πιο απρόσμενο καταφύγιο, αμφισβητώντας όλα όσα πίστευε πως γνώριζε για την επιβίωση και την εμπιστοσύνη. Φαντασίας, 2022. Σκηνοθεσία: Νατάλια Λέιτε. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531150500 GMT+3" stop="20260531160500 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ6</title>
+    <desc lang="el">Δύο από τα αγνοούμενα παιδιά επανεμφανίζονται, αλλά η Μάρτα τα εντοπίζει και τα μεταφέρει σε έναν ειδικά διαμορφωμένο θάλαμο στο Σανατόριο. Η Λένα εισβάλλει εκεί και εξερευνά τη μυστική πτέρυγα, όπου μαθαίνει για τα ναζιστικά πειράματα. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531143000 GMT+3" stop="20260531151500 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ7</title>
-    <desc lang="el">Ο κόσμος της Τζουν ανατρέπεται από μια αποκάλυψη που τη φέρνει στα όριά της, καθώς έρχεται αντιμέτωπη με τις καταστροφικές συνέπειες. Ενώ η Τζουν αντιμετωπίζει τη νέα πραγματικότητα, η Σερίνα στοχεύει σε ένα φιλόδοξο σχέδιο για το μέλλον. Φαντασίας, 2022. Σκηνοθεσία: Ντέινα Ριντ. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531160500 GMT+3" stop="20260531170500 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ7</title>
+    <desc lang="el">Όταν η Λένα επιστρέφει στο σπίτι της Ίλζε, το πνεύμα της γιαγιάς της την καταλαμβάνει. Η Μάρτα ανακαλύπτει μια υπόγεια λίμνη που οδηγεί σε μια άλλη πραγματικότητα - τον τέλειο κόσμο των Βριλ. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260531151500 GMT+3" stop="20260531161000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ8</title>
-    <desc lang="el">Η Τζουν και η Μόιρα ρισκάρουν τα πάντα καθώς εκτελούν το επικίνδυνο σχέδιό τους, γνωρίζοντας πως δεν υπάρχει επιστροφή. Παράλληλα, η Σερίνα βρίσκεται σε μια καθοριστική στιγμή, λαμβάνοντας μια απόφαση που θα αλλάξει τη ζωή της για πάντα. Φαντασίας, 2022. Σκηνοθεσία: Ντέινα Ριντ. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
-    <category lang="el">Σειρές</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260531161000 GMT+3" stop="20260531171000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ9</title>
-    <desc lang="el">Η Τζουν αντιμετωπίζει τη μεγαλύτερη δοκιμασία της, καθώς το Γκιλεάδ εξαπολύει όλη του τη δύναμη εναντίον της αντίστασης. Καθώς οι αρχές εντείνουν τον έλεγχo, πρέπει να κινηθεί σε ένα επικίνδυνο μονοπάτι μεταξύ επιβίωσης και εξέγερσης. Φαντασίας, 2022. Σκηνοθεσία: Ελίζαμπεθ Μος. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
-    <category lang="el">Σειρές</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260531171000 GMT+3" stop="20260531181000 GMT+3" channel="9744271">
-    <title lang="el">The Handmaid&apos;s Tale 6 Κ6 ΕΠ10</title>
-    <desc lang="el">Στο φινάλε της σειράς, η Τζουν έρχεται αντιμέτωπη με το παρελθόν της στο Γκιλεάδ. Καθώς παλεύει με το τραύμα και τις συνέπειες, καλείται να πάρει μια απόφαση που θα αλλάξει τη ζωή της: να αποδεχτεί την ηρεμία ή να συνεχίσει τον αγώνα της. Φαντασίας, 2022. Σκηνοθεσία: Ελίζαμπεθ Μος. Πρωταγωνιστές: Ελίζαμπεθ Μος, Ιβόν Στραχόφσκι, Αλέξις Μπλεντέλ.</desc>
+  <programme start="20260531170500 GMT+3" stop="20260531181000 GMT+3" channel="9744271">
+    <title lang="el">Black Daisies Κ1 ΕΠ8</title>
+    <desc lang="el">Φινάλε σεζόν. Η Λένα και τα παιδιά βγαίνουν από τα υποθαλάσσια τούνελ σε μια υπόγεια λίμνη, όπου συναντούν την Άντα. Καθοδηγούμενοι από το πνεύμα της Ίλζε, μπαίνουν στον μυστηριώδη κόσμο των Βριλ. Η Μάρτα δολοφονείται από τον μπράβο της. Επιστημονικής Φαντασίας, 2024. Σκηνοθεσία: Μάριους Παλέι. Πρωταγωνιστές: Νταβίντ Ογκρόντνικ, Καρολίνα Κομίνεκ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
@@ -80667,7 +81069,7 @@
     <rating>12</rating>
   </programme>
   <programme start="20260531063000 GMT+3" stop="20260531070000 GMT+3" channel="213706">
-    <title lang="el">Witness: Fergal Keane&apos;s Journey of Hope</title>
+    <title lang="el">The Road to Hope with Fergal Keane</title>
     <desc lang="el">The BBC&apos;s Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
@@ -80805,7 +81207,7 @@
     <rating>12</rating>
   </programme>
   <programme start="20260531183000 GMT+3" stop="20260531190000 GMT+3" channel="213706">
-    <title lang="el">Witness: Fergal Keane&apos;s Journey of Hope</title>
+    <title lang="el">The Road to Hope with Fergal Keane</title>
     <desc lang="el">The BBC&apos;s Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
@@ -86420,6 +86822,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260531193000 GMT+3" stop="20260531213000 GMT+3" channel="74516237">
+    <title lang="el">MULTIGOAL R42 (Z)</title>
+    <desc lang="el">LA LIGA SEGUNDA DIVISION 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531213000 GMT+3" stop="20260601060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="66620028">
     <title lang="el">ΚΑΝΑΛΙ MULTI VIEW</title>
     <desc lang="el">ΚΑΝΑΛΙ MULTI VIEW</desc>
@@ -88463,6 +88877,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260531193000 GMT+3" stop="20260531213000 GMT+3" channel="77956035">
+    <title lang="el">MULTIGOAL R42 (Z)</title>
+    <desc lang="el">LA LIGA SEGUNDA DIVISION 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531213000 GMT+3" stop="20260601060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="54111209">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
@@ -88754,6 +89180,174 @@
   <programme start="20260531220000 GMT+3" stop="20260601000000 GMT+3" channel="52187749">
     <title lang="el">Ανόρθωση - Ομόνοια Αραδίππου 23/8/25 (E)</title>
     <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531165000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531165000 GMT+3" stop="20260531200000 GMT+3" channel="52196563">
+    <title lang="el">CZECHIA - KOSOVO (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531200000 GMT+3" stop="20260531213500 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531213500 GMT+3" stop="20260601004500 GMT+3" channel="52196563">
+    <title lang="el">GERMANY - FINLAND (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531180000 GMT+3" stop="20260531182000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531182000 GMT+3" stop="20260531213000 GMT+3" channel="52196745">
+    <title lang="el">POLAND - UKRAINE (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531213000 GMT+3" stop="20260601000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531180000 GMT+3" stop="20260601000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531180000 GMT+3" stop="20260601000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531180000 GMT+3" stop="20260601000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531000000 GMT+3" stop="20260531060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531060000 GMT+3" stop="20260531120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531120000 GMT+3" stop="20260531180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531180000 GMT+3" stop="20260601000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -93359,7 +93953,7 @@
   </programme>
   <programme start="20260601220000 GMT+3" stop="20260601230000 GMT+3" channel="9744271">
     <title lang="el">The Brigade 2 Κ2 ΕΠ1</title>
-    <desc lang="el">Ύστερα από ανταλλαγή πυροβολισμών ανάμεσα σε διακινητές ναρκωτικών και την αστυνομία, η επίλεκτη ομάδα νεαρών αστυνομικών του Σαϊντ βρίσκεται στο επίκεντρο μιας μεγάλης έρευνας που αποδεικνύεται πολύ πιο περίπλοκη απ&apos; όσο φαινόταν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Ενώ βρίσκεται σε διαδικασία στελέχωσης, η ομάδα του Σαϊντ καλείται πίσω στις Βερσαλλίες: δύο αστυνομικοί έχουν δεχθεί επίθεση. Η Φεράτσι πιέζει την ομάδα να εντοπίσει τους εμπόρους που τους πυροβόλησαν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
@@ -98018,7 +98612,7 @@
     <rating>12</rating>
   </programme>
   <programme start="20260601023000 GMT+3" stop="20260601030000 GMT+3" channel="213706">
-    <title lang="el">Witness: Fergal Keane&apos;s Journey of Hope</title>
+    <title lang="el">The Road to Hope with Fergal Keane</title>
     <desc lang="el">The BBC&apos;s Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
@@ -101209,12 +101803,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531213000 GMT+3" stop="20260601060000 GMT+3" channel="74516237">
-    <title lang="el">REAL MADRID TV</title>
-    <desc lang="el">REAL MADRID TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -103225,12 +103813,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260531213000 GMT+3" stop="20260601060000 GMT+3" channel="77956035">
-    <title lang="el">REAL MADRID TV</title>
-    <desc lang="el">REAL MADRID TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -103546,6 +104128,168 @@
   <programme start="20260601220000 GMT+3" stop="20260602000000 GMT+3" channel="52187749">
     <title lang="el">BAXI Manresa - Real Madrid 29/5/26 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601004500 GMT+3" stop="20260601060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260601213500 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601213500 GMT+3" stop="20260602004500 GMT+3" channel="52196563">
+    <title lang="el">AUSTRIA - TUNISIA (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601000000 GMT+3" stop="20260601060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260601195000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601195000 GMT+3" stop="20260601230000 GMT+3" channel="52196745">
+    <title lang="el">NORWAY - SWEDEN (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601230000 GMT+3" stop="20260602000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601000000 GMT+3" stop="20260601060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260602000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601000000 GMT+3" stop="20260601060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260602000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601000000 GMT+3" stop="20260601060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260602000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601000000 GMT+3" stop="20260601060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601060000 GMT+3" stop="20260601120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601120000 GMT+3" stop="20260601180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260602000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -107873,7 +108617,7 @@
     <title lang="el">King of My Castle</title>
     <desc lang="el">. Κωμωδία, 2025. Σκηνοθεσία: Αλεξάντρ Σαρλό, Φρανκ Μανιέ. Πρωταγωνιστές: Καντ Μεράντ, Κλοβί Κορνιγιάκ, Ιζαμπέλ Καρέ.</desc>
     <category lang="el">Ταινίες</category>
-    <rating>15</rating>
+    <rating>K</rating>
   </programme>
   <programme start="20260602235000 GMT+3" stop="20260603012500 GMT+3" channel="216582">
     <title lang="el">The Collective</title>
@@ -107995,7 +108739,7 @@
   </programme>
   <programme start="20260602005500 GMT+3" stop="20260602015500 GMT+3" channel="9744271">
     <title lang="el">The Brigade 2 Κ2 ΕΠ1</title>
-    <desc lang="el">Ύστερα από ανταλλαγή πυροβολισμών ανάμεσα σε διακινητές ναρκωτικών και την αστυνομία, η επίλεκτη ομάδα νεαρών αστυνομικών του Σαϊντ βρίσκεται στο επίκεντρο μιας μεγάλης έρευνας που αποδεικνύεται πολύ πιο περίπλοκη απ&apos; όσο φαινόταν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Ενώ βρίσκεται σε διαδικασία στελέχωσης, η ομάδα του Σαϊντ καλείται πίσω στις Βερσαλλίες: δύο αστυνομικοί έχουν δεχθεί επίθεση. Η Φεράτσι πιέζει την ομάδα να εντοπίσει τους εμπόρους που τους πυροβόλησαν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
@@ -108071,13 +108815,13 @@
   </programme>
   <programme start="20260602220000 GMT+3" stop="20260602230500 GMT+3" channel="9744271">
     <title lang="el">The Corsican Line Κ1 ΕΠ1</title>
-    <desc lang="el">Μετά από 10 χρόνια στη φυλακή, ο Ρεντά είναι προδομένος από τον πρώην συνεργό του. Παράλληλα, η αποξενωμένη αδελφή του εντάσσεται στην μονάδα κατά της Μαφίας στην Κορσική. Μαζί, επιχειρούν να διαλύσουν την τοπική Μαφία εκ των έσω. Αστυνομική Πρωταγωνιστές: Ραφαέλ Ακλόκ, Λίνα Ελ Αραμπί, Βερλ Μπάτενς.</desc>
+    <desc lang="el">Έναρξη κύκλου. Λίγο πριν αποφυλακιστεί, ο Ρεντά συναντά την ετεροθαλή αδελφή του, μέλος της Αντιμαφίας που ερευνά τη δολοφονία ενός δημάρχου. Επιστρέφοντας στους δρόμους, συνειδητοποιεί πως δεν ανήκει πια στον παλιό του κόσμο. Αστυνομική Σκηνοθεσία: Πιέρ Λεσά. Πρωταγωνιστές: Ραφαέλ Ακλόκ, Λίνα Ελ Αραμπί, Βερλ Μπάτενς.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
   <programme start="20260602230500 GMT+3" stop="20260603000500 GMT+3" channel="9744271">
     <title lang="el">The Brigade 2 Κ2 ΕΠ1</title>
-    <desc lang="el">Ύστερα από ανταλλαγή πυροβολισμών ανάμεσα σε διακινητές ναρκωτικών και την αστυνομία, η επίλεκτη ομάδα νεαρών αστυνομικών του Σαϊντ βρίσκεται στο επίκεντρο μιας μεγάλης έρευνας που αποδεικνύεται πολύ πιο περίπλοκη απ&apos; όσο φαινόταν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Ενώ βρίσκεται σε διαδικασία στελέχωσης, η ομάδα του Σαϊντ καλείται πίσω στις Βερσαλλίες: δύο αστυνομικοί έχουν δεχθεί επίθεση. Η Φεράτσι πιέζει την ομάδα να εντοπίσει τους εμπόρους που τους πυροβόλησαν. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
   </programme>
@@ -118323,6 +119067,174 @@
   <programme start="20260602223000 GMT+3" stop="20260603003000 GMT+3" channel="52187749">
     <title lang="el">Barcelona - Valencia Basket 31/5/26 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602004500 GMT+3" stop="20260602060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260602185000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602185000 GMT+3" stop="20260602213500 GMT+3" channel="52196563">
+    <title lang="el">CROATIA - BELGIUM (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602213500 GMT+3" stop="20260603004500 GMT+3" channel="52196563">
+    <title lang="el">WALES - GHANA (Z)</title>
+    <desc lang="el">FRIENDLY MATCH</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602000000 GMT+3" stop="20260602060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260603000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602000000 GMT+3" stop="20260602060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260603000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602000000 GMT+3" stop="20260602060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260603000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602000000 GMT+3" stop="20260602060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260603000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602000000 GMT+3" stop="20260602060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260602210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602210000 GMT+3" stop="20260602220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (45η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602220000 GMT+3" stop="20260603000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
