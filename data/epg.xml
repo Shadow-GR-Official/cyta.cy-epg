@@ -19971,6 +19971,12 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260530190000 GMT+3" stop="20260530210000 GMT+3" channel="206750">
+    <title lang="el">Επικαιροτητες</title>
+    <desc lang="el">Εκδήλωση λήξης σχολικής χρονιάς - Δημοτικό Σχολείο Αριστοτελείου Κολλεγίου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260530210000 GMT+3" stop="20260530220000 GMT+3" channel="206750">
     <title lang="el">ΠΡΟΣΕΓΓΙΣΕΙΣ</title>
     <desc lang="el">Καλεσμένος του π. Θεόφιλου Ζησόπουλου είναι ο π. Χρυσόστομος Μαϊδώνης. Θέμα: Τα Ιερά Βιβλία της Εκκλησίας μας. Συζητήσεις με Επισκόπους και Καθηγητές Πανεπιστημίου για θέματα πνευματικής οικοδομής, λειτουργικά και κοινωνικά.</desc>
@@ -38003,15 +38009,39 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260531031500 GMT+3" stop="20260531052000 GMT+3" channel="206750">
+    <title lang="el">Επικαιροτητες</title>
+    <desc lang="el">Εκδήλωση λήξης σχολικής χρονιάς - Δημοτικό Σχολείο Αριστοτελείου Κολλεγίου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531052000 GMT+3" stop="20260531062000 GMT+3" channel="206750">
     <title lang="el">ΠΡΟΣΕΓΓΙΣΕΙΣ</title>
     <desc lang="el">Καλεσμένος του π. Θεόφιλου Ζησόπουλου είναι ο π. Χρυσόστομος Μαϊδώνης. Θέμα: Τα Ιερά Βιβλία της Εκκλησίας μας. Συζητήσεις με Επισκόπους και Καθηγητές Πανεπιστημίου για θέματα πνευματικής οικοδομής, λειτουργικά και κοινωνικά.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260531062000 GMT+3" stop="20260531070000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΗΣ ΘΕΙΑΣ ΜΕΤΑΛΗΨΕΩΣ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531070000 GMT+3" stop="20260531072000 GMT+3" channel="206750">
+    <title lang="el">Ακολουθια Της Λιτης</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260531072000 GMT+3" stop="20260531073000 GMT+3" channel="206750">
     <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
     <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531073000 GMT+3" stop="20260531104500 GMT+3" channel="206750">
+    <title lang="el">Ορθρος - Θεια Λειτουργια - Εσπερινος Της Πεντηκοστης</title>
+    <desc lang="el">Απευθείας σύνδεση με τον Ιερό Ναό Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -38126,6 +38156,12 @@
   <programme start="20260531230000 GMT+3" stop="20260531234500 GMT+3" channel="206750">
     <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260531234500 GMT+3" stop="20260601030000 GMT+3" channel="206750">
+    <title lang="el">Ορθρος - Θεια Λειτουργια - Εσπερινος Της Πεντηκοστης</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -55458,6 +55494,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260601233000 GMT+3" stop="20260602003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260601004500 GMT+3" stop="20260601014500 GMT+3" channel="54184415">
     <title lang="el">ΓΙΑΤΙ ΡΕ ΠΑΤΕΡΑ; (E) ΕΠ25</title>
     <desc lang="el">Η Βιβή ξυπνάει στο νοσοκομείο και αρχίζει να θυμάται τι συνέβη το προηγούμενο βράδυ, σε αντίθεση με την Αντιγόνη και τη Μαλεφιτσάκη που ξυπνάνε με τρελό hangover και θυμούνται ελάχιστα. Κι ενώ τα ίχνη του Μιχαήλου αγνοούνται, ο Νίκος με τη βοήθεια του Φώντα και του Τάσου, κρατάνε έγκλειστη τη Βιβή στο νοσοκομείο μέχρι να γίνει καλά. Παράλληλα στο κομμωτήριο, η Μάγδα αναζητεί μάταια τον Μιχαήλο.</desc>
@@ -56424,6 +56466,138 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260601030000 GMT+3" stop="20260601033000 GMT+3" channel="206750">
+    <title lang="el">Ορθοδοξη Λατρεια Στην Πραξη</title>
+    <desc lang="el">Μία προσέγγιση στα τελούμενα της Ορθοδόξου Εκκλησίας μας. Με τον Πρωτοπρεσβύτερο Θεμιστοκλή Χριστοδούλου, Δρ Θεολογίας. Λειτουργικά θέματα με απλό τρόπο δοσμένα για καλύτερη κατανόηση από τους τηλεθεατές. Θέμα: Το Μυστήριο του Ευχελαίου (α΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601033000 GMT+3" stop="20260601053500 GMT+3" channel="206750">
+    <title lang="el">Πανηγυρικος Εσπερινος</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601053500 GMT+3" stop="20260601065500 GMT+3" channel="206750">
+    <title lang="el">Ο ΤΟΠΟΣ ΜΟΥ, Η ΖΩΗ ΜΟΥ</title>
+    <desc lang="el">Άγιος Πέτρος Κιλκίς. Oδοιπορικό σε χωριά της Ελλάδας και γνωριμία με την ιστορία, τα έθιμα και τις παραδόσεις τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601065500 GMT+3" stop="20260601070000 GMT+3" channel="206750">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601070000 GMT+3" stop="20260601110000 GMT+3" channel="206750">
+    <title lang="el">ΠΑΝΗΓΥΡΙΚΗ ΑΡΧΙΕΡΑΤΙΚΗ ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Απευθείας σύνδεση με την Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601110000 GMT+3" stop="20260601111000 GMT+3" channel="206750">
+    <title lang="el">ΕΥΧΑΡΙΣΤΙΑ ΜΕΤΑ ΤΗΝ ΘΕΙΑ ΜΕΤΑΛΗΨΗ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601111000 GMT+3" stop="20260601121000 GMT+3" channel="206750">
+    <title lang="el">Οδοιπορικο Στη Ρουμανια</title>
+    <desc lang="el">(Ζ΄ μέρος) - Επιμέλεια-παρουσίαση: Αρχιμ. π. Νικάνωρ Παπανικολάου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601121000 GMT+3" stop="20260601123000 GMT+3" channel="206750">
+    <title lang="el">ΚΟΙΤΩΝΤΑΣ ΓΥΡΩ ΜΑΣ</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Θέμα: Κατασκευή Πιάνου (α΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601123000 GMT+3" stop="20260601133000 GMT+3" channel="206750">
+    <title lang="el">Μνημες</title>
+    <desc lang="el">Από τον τόπο προέλευσης στον τόπο εγκατάστασης (β΄ μέρος). Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601133000 GMT+3" stop="20260601143000 GMT+3" channel="206750">
+    <title lang="el">Βυζαντινα Μελωδηματα</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο. Καλεσμένος: Απόστολος Παπαδόπουλος. Η εκπομπή παρουσιάζει ανθρώπους που διακονούν την ιερή τέχνη της ψαλτικής και που κοσμούν τα αναλόγια των Εκκλησιών μας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601143000 GMT+3" stop="20260601145000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601145000 GMT+3" stop="20260601150000 GMT+3" channel="206750">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601150000 GMT+3" stop="20260601155000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΙ</title>
+    <desc lang="el">Θέμα: Το Άγιο Πνεύμα στην ζωή μας. Ομιλητής: Μοναχός Μωυσής Αγιορείτης. Ομιλίες εθνικού, κοινωνικού, ιστορικού, θρησκευτικού και παιδαγωγικού περιεχομένου από διακεκριμένους επιστήμονες και ανθρώπους του πνεύματος.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601155000 GMT+3" stop="20260601163000 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΟΝΑΣ ΣΤΗΝ ΑΓΙΑ ΤΡΙΑΔΑ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601163000 GMT+3" stop="20260601173000 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">Ε΄ Διεθνές Θεολογικό Συνέδριο &quot;Θεολογία-Θεολόγοι και Ενορία&quot; - Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601173000 GMT+3" stop="20260601180000 GMT+3" channel="206750">
+    <title lang="el">Νεανικο Αρχονταρικι</title>
+    <desc lang="el">Θέμα: Κοινωνικά δίκτυα και σεβασμός. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601180000 GMT+3" stop="20260601200000 GMT+3" channel="206750">
+    <title lang="el">ΜΕΘΕΟΡΤΟΣ ΕΣΠΕΡΙΝΟΣ - ΚΤΙΤΟΡΙΚΟ ΜΝΗΜΟΣΥΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601200000 GMT+3" stop="20260601210000 GMT+3" channel="206750">
+    <title lang="el">ΛΟΓΙΑ ΤΗΣ ΠΛΩΡΗΣ</title>
+    <desc lang="el">Με τον κ. Μιχάλη Πετρόπουλο, δικηγόρο. Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601210000 GMT+3" stop="20260601224500 GMT+3" channel="206750">
+    <title lang="el">Μουσικη Εκδηλωση</title>
+    <desc lang="el">Μελίσματα από τον πλούτο της ελληνικής παράδοσης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601224500 GMT+3" stop="20260601230000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601230000 GMT+3" stop="20260601234500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601234500 GMT+3" stop="20260602034500 GMT+3" channel="206750">
+    <title lang="el">ΠΑΝΗΓΥΡΙΚΗ ΑΡΧΙΕΡΑΤΙΚΗ ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260601000000 GMT+3" stop="20260601010000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
@@ -56643,6 +56817,12 @@
   <programme start="20260601211000 GMT+3" stop="20260601233000 GMT+3" channel="289555">
     <title lang="el">Wonder Woman</title>
     <desc lang="el">Όταν ένας πιλότος συντρίβεται και μιλάει για σύγκρουση στον έξω κόσμο, η Νταϊάνα, μια εκπαιδευόμενη πολεμίστρια από τον Αμαζόνιο, φεύγει από το σπίτι για να πολεμήσει, ανακαλύπτοντας όλες τις δυνάμεις της και το πραγματικό της πεπρωμένο. Σκηνοθεσία: Patty Jenkins. Με τους: Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260601233000 GMT+3" stop="20260602003000 GMT+3" channel="289555">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -60176,18 +60356,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260601083000 GMT+3" stop="20260601085500 GMT+3" channel="2755">
-    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ6</title>
-    <desc lang="el">Ο Τζέικ και η Έιμι δουλεύουν σε μια υπόθεση που είναι δύσκολο να λυθεί, ενώ ο Χολτ προσαρμόζεται σε νέα κατάσταση. Ο Χίτσκοκ αναζητά τον έρωτα της ζωής του. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260601111000 GMT+3" stop="20260601113500 GMT+3" channel="2755">
-    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ7</title>
-    <desc lang="el">Ο αρχηγός Χολτ αντιμετωπίζει μια προσωπική απώλεια. Ο Τζέικ πρέπει να αποφασίσει αν θα πάει τον Τέρι ή τον Τσαρλς σε μια αποκλειστική εκδήλωση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260601060000 GMT+3" stop="20260601064500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ9</title>
     <desc lang="el">Η Athena και η ομάδα 118 σπεύδουν να σώσουν ζωές όταν ένας μεθυσμένος οδηγός προκαλεί θανατηφόρα καραμπόλα στον αυτοκινητόδρομο. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
@@ -60209,6 +60377,12 @@
   <programme start="20260601081000 GMT+3" stop="20260601083000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ5</title>
     <desc lang="el">Όταν κοκαΐνη και όπλα κλέβονται από το ντουλάπι με τα αποδεικτικά στοιχεία, η ομάδα πρέπει να ερευνήσει το ίδιο το Τμήμα. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260601083000 GMT+3" stop="20260601085500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ6</title>
+    <desc lang="el">Ο Τζέικ και η Έιμι δουλεύουν σε μια υπόθεση που είναι δύσκολο να λυθεί, ενώ ο Χολτ προσαρμόζεται σε νέα κατάσταση. Ο Χίτσκοκ αναζητά τον έρωτα της ζωής του. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -60239,6 +60413,12 @@
   <programme start="20260601105000 GMT+3" stop="20260601111000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 2 Κ2 ΕΠ19</title>
     <desc lang="el">Η Πένι νιώθει να απειλείται όταν μια άλλη σέξι γυναίκα μετακομίζει στην πολυκατοικία και θυμώνει όταν νιώθει ότι εκμεταλλεύεται τους άντρες της παρέας. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2008)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260601111000 GMT+3" stop="20260601113500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ7</title>
+    <desc lang="el">Ο αρχηγός Χολτ αντιμετωπίζει μια προσωπική απώλεια. Ο Τζέικ πρέπει να αποφασίσει αν θα πάει τον Τέρι ή τον Τσαρλς σε μια αποκλειστική εκδήλωση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -72614,15 +72794,15 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602020000 GMT+3" stop="20260602030000 GMT+3" channel="54111184">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260602003000 GMT+3" stop="20260602020000 GMT+3" channel="54111184">
     <title lang="el">First Dates (E)</title>
     <desc lang="el">Η Ζενεβιέβ Μαζαρί, γεμάτη ενθουσιασμό, υποδέχεται όλους τους singles που αναζητούν την αγάπη και την μαγεία του πρώτου ραντεβού. Αληθινά, αυθόρμητα, με ευγένεια και χιούμορ. Η Ζεν, ως αιώνια ρομαντική, ενθαρρύνει τους daters να δώσουν μια ευκαιρία στο άγνωστο και να αφεθούν στο φλερτ!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602020000 GMT+3" stop="20260602030000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -72713,6 +72893,12 @@
   <programme start="20260602211000 GMT+3" stop="20260602233000 GMT+3" channel="54111184">
     <title lang="el">Master Chef 10</title>
     <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602233000 GMT+3" stop="20260603003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -73658,6 +73844,198 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260602034500 GMT+3" stop="20260602041500 GMT+3" channel="206750">
+    <title lang="el">Μοναστηρια Του Τοπου Μας</title>
+    <desc lang="el">Ιερά Μονή Παναγίας Παντάνασσας-Πανάσσαρης - Γραβιά Φωκίδας. Τα μοναστήρια της Πατρίδας μας επισκέπτεται αυτή η εκπομπή, για να κάνει κάθε τηλεθεατή συμμέτοχο στην ευλογία του προσκυνήματος.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602041500 GMT+3" stop="20260602044500 GMT+3" channel="206750">
+    <title lang="el">Νεανικο Αρχονταρικι</title>
+    <desc lang="el">Θέμα: Κοινωνικά δίκτυα και σεβασμός. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602044500 GMT+3" stop="20260602064500 GMT+3" channel="206750">
+    <title lang="el">ΜΕΘΕΟΡΤΟΣ ΕΣΠΕΡΙΝΟΣ - ΚΤΙΤΟΡΙΚΟ ΜΝΗΜΟΣΥΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602064500 GMT+3" stop="20260602070500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΣΥΝΑΞΑΡΙ</title>
+    <desc lang="el">Αγία Παρθενομάρτυς Αγάθη. Ευχάριστοι και διδακτικοί βίοι Αγίων με εικονογράφηση και διαλόγους για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602070500 GMT+3" stop="20260602071000 GMT+3" channel="206750">
+    <title lang="el">ΓΝΩΡΙΖΕΤΕ ΟΤΙ...</title>
+    <desc lang="el">Πρόληψη μικροβίων στο σπίτι. Εκπομπή που παρέχει εγκυκλοπαιδικές γνώσεις ποικίλου περιεχομένου. Σύντομες, έξυπνες και πρακτικές συμβουλές για όλα τα θέματα που αφορούν τον άνθρωπο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602071000 GMT+3" stop="20260602075500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602075500 GMT+3" stop="20260602080000 GMT+3" channel="206750">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602080000 GMT+3" stop="20260602090000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΟΡΘΡΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602090000 GMT+3" stop="20260602100000 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">Ε΄ Διεθνές Θεολογικό Συνέδριο &quot;Θεολογία-Θεολόγοι και Ενορία&quot; - Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602100000 GMT+3" stop="20260602104000 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602104000 GMT+3" stop="20260602110000 GMT+3" channel="206750">
+    <title lang="el">ΚΟΙΤΩΝΤΑΣ ΓΥΡΩ ΜΑΣ</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Θέμα: Κατασκευή Πιάνου (α΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602110000 GMT+3" stop="20260602120000 GMT+3" channel="206750">
+    <title lang="el">ΛΟΓΙΑ ΤΗΣ ΠΛΩΡΗΣ</title>
+    <desc lang="el">Με τον κ. Μιχάλη Πετρόπουλο, δικηγόρο. Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602130000 GMT+3" channel="206750">
+    <title lang="el">ΤΟ ΜΕΓΑΛΕΙΟ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ</title>
+    <desc lang="el">Με τον κ. Κυριάκο Χρυσοστομίδη, Φιλόλογο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602130000 GMT+3" stop="20260602133000 GMT+3" channel="206750">
+    <title lang="el">ΟΛΑ ΓΙΑ ΤΟ ΠΑΙΔΙ ΚΑΙ ΤΗΝ ΟΙΚΟΓΕΝΕΙΑ</title>
+    <desc lang="el">Με την Πέπη Κολαρά, Λογοθεραπεύτρια-Ειδική Παιδαγωγό-Υπεύθυνη Κέντρου &quot;ΑΛΜΑ&quot;. Θέμα: Απαντήσεις σε Ερωτήματα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602133000 GMT+3" stop="20260602143000 GMT+3" channel="206750">
+    <title lang="el">ΠΝΕΥΜΑΤΙΚΗ ΟΔΟΙΠΟΡΙΑ</title>
+    <desc lang="el">Απαντήσεις σε θέματα της Ορθόδοξης πίστης, μέσα από τον φωτισμένο λόγο του Σεβασμιωτάτου Μητροπολίτου Εδέσσης, Πέλλης και Αλμωπίας κ. Ιωήλ. Θέμα: Η Πεντηκοστή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602143000 GMT+3" stop="20260602145000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602145000 GMT+3" stop="20260602150000 GMT+3" channel="206750">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602150000 GMT+3" stop="20260602160000 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602160000 GMT+3" stop="20260602164000 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΟΝΑΣ ΣΤΟΝ ΑΓΙΟ ΔΗΜΗΤΡΙΟ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602164000 GMT+3" stop="20260602170000 GMT+3" channel="206750">
+    <title lang="el">ΑΓΙΟΓΡΑΦΙΚΑ ΑΝΑΓΝΩΣΜΑΤΑ</title>
+    <desc lang="el">Το Ευαγγελικό - Αποστολικό Ανάγνωσμα και το Συναξάρι της ημέρας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602170000 GMT+3" stop="20260602180000 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">Ε΄ Διεθνές Θεολογικό Συνέδριο &quot;Θεολογία-Θεολόγοι και Ενορία&quot; - Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260602183500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602183500 GMT+3" stop="20260602190000 GMT+3" channel="206750">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ</title>
+    <desc lang="el">Τα Πνευματικά Ιδρύματα: Ίδρυμα Ευγενίδου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602190000 GMT+3" stop="20260602193000 GMT+3" channel="206750">
+    <title lang="el">Λογος Οικοδομης</title>
+    <desc lang="el">Θέμα: Οι αυτάδελφοι Θεσσαλονικείς και φωτισταί των Σλάβων - Με τον Σεβ. Μητρ. Βεροίας, Ναούσης και Καμπανίας κ. Παντελεήμονα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602193000 GMT+3" stop="20260602200000 GMT+3" channel="206750">
+    <title lang="el">ΕΝ ΧΟΡΔΑΙΣ</title>
+    <desc lang="el">Όμιλος Μουσικοφίλων &quot;Βυζαντινό Αναλόγιο Καλαμαριάς&quot;. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602200000 GMT+3" stop="20260602203000 GMT+3" channel="206750">
+    <title lang="el">Οψεις Του Αποκρυφισμου Στο Φως Της Ορθοδοξιας</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Ο Νεοπαγανισμός ορίζεται από την άρνηση</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602203000 GMT+3" stop="20260602211500 GMT+3" channel="206750">
+    <title lang="el">ΕΝΟΡΙΑ ΕΝ ΔΡΑΣΕΙ</title>
+    <desc lang="el">Ο άνθρωπος της Πεντηκοστής</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602211500 GMT+3" stop="20260602221500 GMT+3" channel="206750">
+    <title lang="el">Εν Χορδαις</title>
+    <desc lang="el">Βυζαντινή Χορωδία Πολιτιστικού Κέντρου Ομίλου Τραπέζης Πειραιώς. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602221500 GMT+3" stop="20260602224500 GMT+3" channel="206750">
+    <title lang="el">Ορθοδοξη Λατρεια Στην Πραξη</title>
+    <desc lang="el">Μία προσέγγιση στα τελούμενα της Ορθοδόξου Εκκλησίας μας. Με τον Πρωτοπρεσβύτερο Θεμιστοκλή Χριστοδούλου, Δρ Θεολογίας. Λειτουργικά θέματα με απλό τρόπο δοσμένα για καλύτερη κατανόηση από τους τηλεθεατές. Θέμα: Η ακολουθία της Θείας Μεταλήψεως (α΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602224500 GMT+3" stop="20260602230000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602230000 GMT+3" stop="20260602234500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602234500 GMT+3" stop="20260603004500 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260602000000 GMT+3" stop="20260602010000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
@@ -73790,15 +74168,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260602020000 GMT+3" stop="20260602030000 GMT+3" channel="289555">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260602003000 GMT+3" stop="20260602020000 GMT+3" channel="289555">
     <title lang="el">First Dates (E)</title>
     <desc lang="el">Η Ζενεβιέβ Μαζαρί, γεμάτη ενθουσιασμό, υποδέχεται όλους τους singles που αναζητούν την αγάπη και την μαγεία του πρώτου ραντεβού. Αληθινά, αυθόρμητα, με ευγένεια και χιούμορ. Η Ζεν, ως αιώνια ρομαντική, ενθαρρύνει τους daters να δώσουν μια ευκαιρία στο άγνωστο και να αφεθούν στο φλερτ!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602020000 GMT+3" stop="20260602030000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -73889,6 +74267,12 @@
   <programme start="20260602211000 GMT+3" stop="20260602233000 GMT+3" channel="289555">
     <title lang="el">Master Chef 10</title>
     <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602233000 GMT+3" stop="20260603003000 GMT+3" channel="289555">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -77396,6 +77780,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260602053500 GMT+3" stop="20260602060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ10</title>
+    <desc lang="el">Ο Τζέικ και ο πατέρας του ασχολούνται με μια έκρυθμη οικογενειακή δουλειά. Η Έιμι και η Ρόζα ερευνούν μια πολύκροτη υπόθεση. Ο Τέρι θέλει να ενταχθεί στο συγκρότημα της αστυνομίας. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260602060000 GMT+3" stop="20260602065000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ11</title>
     <desc lang="el">Τα μέλη της ομάδας 118 σπεύδουν σε ένα περιστατικό όπου οδηγός χτύπησε και εγκατέλειψε το θύμα, το οποίο πλέον βρίσκεται σε σοβαρή κατάσταση και τυχαίνει να είναι ένα οικείο πρόσωπο της ομάδας. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
@@ -77456,7 +77846,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260602053500 GMT+3" stop="20260602060000 GMT+3" channel="2755">
+  <programme start="20260602112500 GMT+3" stop="20260602115000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ10</title>
     <desc lang="el">Ο Τζέικ και ο πατέρας του ασχολούνται με μια έκρυθμη οικογενειακή δουλειά. Η Έιμι και η Ρόζα ερευνούν μια πολύκροτη υπόθεση. Ο Τέρι θέλει να ενταχθεί στο συγκρότημα της αστυνομίας. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -89677,15 +90067,15 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603020000 GMT+3" stop="20260603030000 GMT+3" channel="54111184">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260603003000 GMT+3" stop="20260603020000 GMT+3" channel="54111184">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603020000 GMT+3" stop="20260603030000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -89776,6 +90166,12 @@
   <programme start="20260603211000 GMT+3" stop="20260603233000 GMT+3" channel="54111184">
     <title lang="el">Master Chef 10</title>
     <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603233000 GMT+3" stop="20260604003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -90703,6 +91099,216 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260603004500 GMT+3" stop="20260603011500 GMT+3" channel="206750">
+    <title lang="el">ΟΛΑ ΓΙΑ ΤΟ ΠΑΙΔΙ ΚΑΙ ΤΗΝ ΟΙΚΟΓΕΝΕΙΑ</title>
+    <desc lang="el">Με την Πέπη Κολαρά, Λογοθεραπεύτρια-Ειδική Παιδαγωγό-Υπεύθυνη Κέντρου &quot;ΑΛΜΑ&quot;. Θέμα: Απαντήσεις σε Ερωτήματα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603011500 GMT+3" stop="20260603021500 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">Ε΄ Διεθνές Θεολογικό Συνέδριο &quot;Θεολογία-Θεολόγοι και Ενορία&quot; - Διοργάνωση: Πανελλήνιος Ένωσις Θεολόγων. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603021500 GMT+3" stop="20260603024500 GMT+3" channel="206750">
+    <title lang="el">Εξ Ερημου Διατυπωσεις: Σπουδη Στον Ευεργετινο</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Ελαφριές εντολές, βαριές προσκολλήσεις</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603024500 GMT+3" stop="20260603031500 GMT+3" channel="206750">
+    <title lang="el">ΟΜΟΡΦΗ ΖΩΗ</title>
+    <desc lang="el">Θέμα: Μητρική ενοχή - Καλεσμένη: Αλεξάνδρα Χοροζίδου, Σύμβουλος Προσωπικής Ανάπτυξης για Μητέρες</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603031500 GMT+3" stop="20260603034500 GMT+3" channel="206750">
+    <title lang="el">ΟΡΘΟΔΟΞΗ ΜΑΡΤΥΡΙΑ</title>
+    <desc lang="el">Καλεσμένος του κ. Νίκου Νικολαΐδη, Καθηγητή Θεολογικής Σχολής Πανεπιστημίου Αθηνών, είναι ο κ. Συμεών Πασχαλίδης, Καθηγητής Θεολογικής Σχολής Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης. Θέμα: Οι νέοι άγιοι και η αγιοκατάταξη στην Ορθόδοξη Εκκλησία. Έγκριτοι Καθηγητές των Θεολογικών Σχολών του Πανεπιστημίου καταθέτουν τις γνώσεις τους και βοηθούν τους τηλεθεατές να γνωρίσουν σε βάθος την Ορθοδοξία.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603034500 GMT+3" stop="20260603041500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΑ ΑΛΛΙΩΤΙΚΗ ΠΑΡΕΑ</title>
+    <desc lang="el">Προσευχή, το πιο ισχυρό όπλο μας. Διδακτική παιδική σειρά που σκοπό έχει την καλλιέργεια της παιδικής ψυχής μέσα από τα διδάγματα που παίρνουν οι ίδιοι οι πρωταγωνιστές σε κάθε επεισόδιο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603041500 GMT+3" stop="20260603050000 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΟΝΑΣ ΣΤΟΝ ΑΓΙΟ ΔΗΜΗΤΡΙΟ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603050000 GMT+3" stop="20260603060000 GMT+3" channel="206750">
+    <title lang="el">ΠΝΕΥΜΑΤΙΚΗ ΟΔΟΙΠΟΡΙΑ</title>
+    <desc lang="el">Απαντήσεις σε θέματα της Ορθόδοξης πίστης, μέσα από τον φωτισμένο λόγο του Σεβασμιωτάτου Μητροπολίτου Εδέσσης, Πέλλης και Αλμωπίας κ. Ιωήλ. Θέμα: Η Πεντηκοστή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603060000 GMT+3" stop="20260603070000 GMT+3" channel="206750">
+    <title lang="el">Βυζαντινα Μελωδηματα</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο. Καλεσμένος: Απόστολος Παπαδόπουλος. Η εκπομπή παρουσιάζει ανθρώπους που διακονούν την ιερή τέχνη της ψαλτικής και που κοσμούν τα αναλόγια των Εκκλησιών μας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603070000 GMT+3" stop="20260603075500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603075500 GMT+3" stop="20260603080000 GMT+3" channel="206750">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603080000 GMT+3" stop="20260603090000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΟΡΘΡΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603090000 GMT+3" stop="20260603093000 GMT+3" channel="206750">
+    <title lang="el">Οψεις Του Αποκρυφισμου Στο Φως Της Ορθοδοξιας</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Ο Νεοπαγανισμός ορίζεται από την άρνηση</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603093000 GMT+3" stop="20260603094500 GMT+3" channel="206750">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ</title>
+    <desc lang="el">Τα Πνευματικά Ιδρύματα: Ίδρυμα Ευγενίδου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603094500 GMT+3" stop="20260603103000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΟΡΙΑ ΕΝ ΔΡΑΣΕΙ</title>
+    <desc lang="el">Ο άνθρωπος της Πεντηκοστής</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603103000 GMT+3" stop="20260603113000 GMT+3" channel="206750">
+    <title lang="el">Εν Χορδαις</title>
+    <desc lang="el">Βυζαντινή Χορωδία Πολιτιστικού Κέντρου Ομίλου Τραπέζης Πειραιώς. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603113000 GMT+3" stop="20260603120000 GMT+3" channel="206750">
+    <title lang="el">Ορθοδοξη Λατρεια Στην Πραξη</title>
+    <desc lang="el">Μία προσέγγιση στα τελούμενα της Ορθοδόξου Εκκλησίας μας. Με τον Πρωτοπρεσβύτερο Θεμιστοκλή Χριστοδούλου, Δρ Θεολογίας. Λειτουργικά θέματα με απλό τρόπο δοσμένα για καλύτερη κατανόηση από τους τηλεθεατές. Θέμα: Η ακολουθία της Θείας Μεταλήψεως (α΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603120000 GMT+3" stop="20260603124500 GMT+3" channel="206750">
+    <title lang="el">Μαθαινω Να Ειμαι Γονιος</title>
+    <desc lang="el">Με την κ. Χάρη Δημητρακούδη, Θεολόγο - Παιδαγωγό. Θέμα: Μαζί στην οικογένεια (γ΄ μέρος). Η εκπομπή έρχεται αρωγός στην δύσκολη αποστολή του γονιού και στο έργο του.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603124500 GMT+3" stop="20260603140000 GMT+3" channel="206750">
+    <title lang="el">Οδοιπορικο Στη Ρουμανια</title>
+    <desc lang="el">(Ζ΄ μέρος) - Επιμέλεια-παρουσίαση: Αρχιμ. π. Νικάνωρ Παπανικολάου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603140000 GMT+3" stop="20260603143000 GMT+3" channel="206750">
+    <title lang="el">ΘΕΜΑΤΑ ΘΕΟΛΟΓΙΑΣ</title>
+    <desc lang="el">Θέμα: Περί Εκκλησίας. Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603143000 GMT+3" stop="20260603145000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603145000 GMT+3" stop="20260603150000 GMT+3" channel="206750">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603150000 GMT+3" stop="20260603160000 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603160000 GMT+3" stop="20260603164000 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟΣ ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΩΝ ΣΤΗΝ ΥΠΕΡΑΓΙΑ ΘΕΟΤΟΚΟ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603164000 GMT+3" stop="20260603170000 GMT+3" channel="206750">
+    <title lang="el">ΑΓΙΟΓΡΑΦΙΚΑ ΑΝΑΓΝΩΣΜΑΤΑ</title>
+    <desc lang="el">Το Ευαγγελικό - Αποστολικό Ανάγνωσμα και το Συναξάρι της ημέρας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603170000 GMT+3" stop="20260603180000 GMT+3" channel="206750">
+    <title lang="el">Αιχμη Του Δορατος</title>
+    <desc lang="el">Ενημερωτική Εκπομπή του Υπουργείου Εθνικής Άμυνας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603180000 GMT+3" stop="20260603184000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603184000 GMT+3" stop="20260603190000 GMT+3" channel="206750">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΗ ΤΡΑΠΕΖΑ</title>
+    <desc lang="el">Με τον κ. Ηλία Κούτλα, μάγειρα. Θέμα: Γαύρος στην λαδόκολλα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603190000 GMT+3" stop="20260603200000 GMT+3" channel="206750">
+    <title lang="el">Ταξιδια</title>
+    <desc lang="el">Κύμη, πράσινο βαθύ γαλάζιο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603200000 GMT+3" stop="20260603210000 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603210000 GMT+3" stop="20260603220000 GMT+3" channel="206750">
+    <title lang="el">ΑΝΑΔΡΟΜΕΣ ΣΤΟ ΜΕΛΛΟΝ</title>
+    <desc lang="el">Με την Ελένη Κοκτσίδου. Θέμα: ThessIntec</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603220000 GMT+3" stop="20260603224500 GMT+3" channel="206750">
+    <title lang="el">Εξ Ερημου Διατυπωσεις: Σπουδη Στον Ευεργετινο</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Παραδείγματα ανεξικακίας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603224500 GMT+3" stop="20260603230000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603230000 GMT+3" stop="20260603234500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603234500 GMT+3" stop="20260604004500 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260603000000 GMT+3" stop="20260603020000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
@@ -90769,15 +91375,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260603020000 GMT+3" stop="20260603030000 GMT+3" channel="289555">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260603003000 GMT+3" stop="20260603020000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603020000 GMT+3" stop="20260603030000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -90868,6 +91474,12 @@
   <programme start="20260603211000 GMT+3" stop="20260603233000 GMT+3" channel="289555">
     <title lang="el">Master Chef 10</title>
     <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603233000 GMT+3" stop="20260604003000 GMT+3" channel="289555">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -94400,6 +95012,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260603053500 GMT+3" stop="20260603060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ12</title>
+    <desc lang="el">Ο Χολτ ζητά τη βοήθεια του Τζέικ σε μια υπόθεση που έχει εξαιρετική σημασία γι&apos; αυτόν. Ο Τσαρλς και ο Τέρι συνεργάζονται σε μια δευτερεύουσα δουλειά. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260603060000 GMT+3" stop="20260603065000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ4 ΕΠ13</title>
     <desc lang="el">Τα μέλη της ομάδας 118 καλούνται να σώσουν μια απαιτητική νύφη σε έναν καταστροφικό γάμο και μια μητέρα που έχει παγιδευτεί στο μπαλκόνι της. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
@@ -94460,7 +95078,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260603053500 GMT+3" stop="20260603060000 GMT+3" channel="2755">
+  <programme start="20260603112000 GMT+3" stop="20260603114000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ12</title>
     <desc lang="el">Ο Χολτ ζητά τη βοήθεια του Τζέικ σε μια υπόθεση που έχει εξαιρετική σημασία γι&apos; αυτόν. Ο Τσαρλς και ο Τέρι συνεργάζονται σε μια δευτερεύουσα δουλειά. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -106441,15 +107059,15 @@
     <category lang="el">Γενικά</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260604020000 GMT+3" stop="20260604030000 GMT+3" channel="54111184">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260604003000 GMT+3" stop="20260604020000 GMT+3" channel="54111184">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604020000 GMT+3" stop="20260604030000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -107455,6 +108073,210 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260604004500 GMT+3" stop="20260604013000 GMT+3" channel="206750">
+    <title lang="el">Μαθαινω Να Ειμαι Γονιος</title>
+    <desc lang="el">Με την κ. Χάρη Δημητρακούδη, Θεολόγο - Παιδαγωγό. Θέμα: Μαζί στην οικογένεια (γ΄ μέρος). Η εκπομπή έρχεται αρωγός στην δύσκολη αποστολή του γονιού και στο έργο του.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604013000 GMT+3" stop="20260604023000 GMT+3" channel="206750">
+    <title lang="el">Οδοιπορικο Στη Ρουμανια</title>
+    <desc lang="el">(Ζ΄ μέρος) - Επιμέλεια-παρουσίαση: Αρχιμ. π. Νικάνωρ Παπανικολάου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604023000 GMT+3" stop="20260604033000 GMT+3" channel="206750">
+    <title lang="el">Ταξιδια</title>
+    <desc lang="el">Κύμη, πράσινο βαθύ γαλάζιο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604033000 GMT+3" stop="20260604040000 GMT+3" channel="206750">
+    <title lang="el">ΘΕΜΑΤΑ ΘΕΟΛΟΓΙΑΣ</title>
+    <desc lang="el">Θέμα: Περί Εκκλησίας. Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604040000 GMT+3" stop="20260604044500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟΣ ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΩΝ ΣΤΗΝ ΥΠΕΡΑΓΙΑ ΘΕΟΤΟΚΟ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604044500 GMT+3" stop="20260604050000 GMT+3" channel="206750">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΗ ΤΡΑΠΕΖΑ</title>
+    <desc lang="el">Με τον κ. Ηλία Κούτλα, μάγειρα. Θέμα: Γαύρος στην λαδόκολλα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604050000 GMT+3" stop="20260604060500 GMT+3" channel="206750">
+    <title lang="el">ΤΟ ΜΕΓΑΛΕΙΟ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ</title>
+    <desc lang="el">Με τον κ. Κυριάκο Χρυσοστομίδη, Φιλόλογο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604060500 GMT+3" stop="20260604063500 GMT+3" channel="206750">
+    <title lang="el">Λογος Οικοδομης</title>
+    <desc lang="el">Θέμα: Οι αυτάδελφοι Θεσσαλονικείς και φωτισταί των Σλάβων - Με τον Σεβ. Μητρ. Βεροίας, Ναούσης και Καμπανίας κ. Παντελεήμονα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604063500 GMT+3" stop="20260604070500 GMT+3" channel="206750">
+    <title lang="el">ΕΝ ΧΟΡΔΑΙΣ</title>
+    <desc lang="el">Όμιλος Μουσικοφίλων &quot;Βυζαντινό Αναλόγιο Καλαμαριάς&quot;. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604070500 GMT+3" stop="20260604075500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604075500 GMT+3" stop="20260604080000 GMT+3" channel="206750">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604080000 GMT+3" stop="20260604091000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΟΡΘΡΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604091000 GMT+3" stop="20260604101500 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604101500 GMT+3" stop="20260604111500 GMT+3" channel="206750">
+    <title lang="el">ΑΝΑΔΡΟΜΕΣ ΣΤΟ ΜΕΛΛΟΝ</title>
+    <desc lang="el">Με την Ελένη Κοκτσίδου. Θέμα: ThessIntec</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604111500 GMT+3" stop="20260604120000 GMT+3" channel="206750">
+    <title lang="el">Εξ Ερημου Διατυπωσεις: Σπουδη Στον Ευεργετινο</title>
+    <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Παραδείγματα ανεξικακίας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604120000 GMT+3" stop="20260604130000 GMT+3" channel="206750">
+    <title lang="el">ΛΟΓΙΑ ΤΗΣ ΠΛΩΡΗΣ</title>
+    <desc lang="el">Με τον κ. Μιχάλη Πετρόπουλο, δικηγόρο. Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604130000 GMT+3" stop="20260604141500 GMT+3" channel="206750">
+    <title lang="el">Ιατρικη Ενημερωση</title>
+    <desc lang="el">Με τον κ. Παύλο Φιρινίδη, Νευρολόγο. Θέμα: Εξελίξεις στη θεραπεία των ορθοπαιδικών παθήσεων - Καλεσμένος: Δημήτριος Κιτρίδης, Ορθοπαιδικός Χειρουργός MD, Μsc, FEBOT, Επιμελητής Α΄ Ορθοπαιδικής Κλινικής 424 ΓΣΝΕ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604141500 GMT+3" stop="20260604143000 GMT+3" channel="206750">
+    <title lang="el">ΓΛΥΚΕΣ ΔΗΜΙΟΥΡΓΙΕΣ</title>
+    <desc lang="el">Γλυκό ψυγείου λεμόνι. Συνταγές μαγειρικής και ζαχαροπλαστικής.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604143000 GMT+3" stop="20260604145000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604145000 GMT+3" stop="20260604150000 GMT+3" channel="206750">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604150000 GMT+3" stop="20260604160000 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604160000 GMT+3" stop="20260604164000 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΟΝΑΣ ΣΤΗΝ ΑΓΙΑ ΛΥΔΙΑ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604164000 GMT+3" stop="20260604170000 GMT+3" channel="206750">
+    <title lang="el">ΑΓΙΟΓΡΑΦΙΚΑ ΑΝΑΓΝΩΣΜΑΤΑ</title>
+    <desc lang="el">Το Ευαγγελικό - Αποστολικό Ανάγνωσμα και το Συναξάρι της ημέρας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604170000 GMT+3" stop="20260604180000 GMT+3" channel="206750">
+    <title lang="el">ΛΟΓΟΣ ΛΕΙΤΟΥΡΓΙΚΟΣ</title>
+    <desc lang="el">Με τον κ. Παναγιώτη Σκαλτσή, Καθηγητή Λειτουργικής Θεολογικής Σχολής ΑΠΘ - Θέμα: Η εορτή της Πεντηκοστής</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604180000 GMT+3" stop="20260604183500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604183500 GMT+3" stop="20260604190000 GMT+3" channel="206750">
+    <title lang="el">ΕΚΠΑΙΔΕΥΤΙΚΗ ΤΗΛΕΟΡΑΣΗ ΓΙΑ ΠΑΙΔΙΑ</title>
+    <desc lang="el">Επαγωγή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604190000 GMT+3" stop="20260604193000 GMT+3" channel="206750">
+    <title lang="el">Εν Χορδαις</title>
+    <desc lang="el">Βυζαντινός Χορός Θεολογικής Σχολής ΑΠΘ. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604193000 GMT+3" stop="20260604200000 GMT+3" channel="206750">
+    <title lang="el">ΚΟΙΤΩΝΤΑΣ ΓΥΡΩ ΜΑΣ</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Θέμα: Κατασκευή Πιάνου (β΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604200000 GMT+3" stop="20260604210000 GMT+3" channel="206750">
+    <title lang="el">ΠΝΕΥΜΑΤΙΚΗ ΟΔΟΙΠΟΡΙΑ</title>
+    <desc lang="el">Απαντήσεις σε θέματα της Ορθόδοξης πίστης, μέσα από τον φωτισμένο λόγο του Σεβασμιωτάτου Μητροπολίτου Εδέσσης, Πέλλης και Αλμωπίας κ. Ιωήλ. Θέμα: Οι πρεσβείες και η δύναμη των αγίων</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604210000 GMT+3" stop="20260604220000 GMT+3" channel="206750">
+    <title lang="el">Μουσικη Εκδηλωση</title>
+    <desc lang="el">Συμφωνική Ορχήστρα Νέων</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604220000 GMT+3" stop="20260604224500 GMT+3" channel="206750">
+    <title lang="el">Νεανικο Αρχονταρικι</title>
+    <desc lang="el">Θέμα: Καλό καλοκαίρι. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604224500 GMT+3" stop="20260604230000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604230000 GMT+3" stop="20260604234500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604234500 GMT+3" stop="20260605004500 GMT+3" channel="206750">
+    <title lang="el">ΤΗΛΕΦΗΜΕΡΙΔΑ ΕΠ1</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260604000000 GMT+3" stop="20260604020000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
@@ -107521,15 +108343,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260604020000 GMT+3" stop="20260604030000 GMT+3" channel="289555">
-    <title lang="el">Cash Or Trash (E)</title>
-    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260604003000 GMT+3" stop="20260604020000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604020000 GMT+3" stop="20260604030000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (E)</title>
+    <desc lang="el">Με πλούσια εμπειρία και κυρίως αγάπη στον τομέα των παλιών αντικειμένων, η Δέσποινα Μοιραράκη μας προσκαλεί και μας υποδέχεται στη δημοπρασία της ζωής μας, τα αντικείμενα ξετυλίγουν τις ιστορίες τους και διεκδικούν την καλύτερη προσφορά για να αλλάξουν χέρια σε μια από τις πιο πετυχημένες εκπομπές στην Ευρώπη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -111153,6 +111975,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260604053500 GMT+3" stop="20260604060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ1</title>
+    <desc lang="el">Η Έιμι επιστρέφει από άδεια μητρότητας. Ο Τζέικ και η Ρόζα δουλεύουν μια δύσκολη υπόθεση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260604060000 GMT+3" stop="20260604064500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ5 ΕΠ1</title>
     <desc lang="el">Μια σειρά από λυτρισμικές απειλές οδηγεί σε αφθονία έκτακτων περιστατικών για την ομάδα 118, όπως μια ιατρική εκκένωση σε πτώση ελικοπτέρου και η κατάρρευση του συστήματος σε πύργο εναέριου ελέγχου. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause. (2021)</desc>
@@ -111213,7 +112041,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260604053500 GMT+3" stop="20260604060000 GMT+3" channel="2755">
+  <programme start="20260604112000 GMT+3" stop="20260604114000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ1</title>
     <desc lang="el">Η Έιμι επιστρέφει από άδεια μητρότητας. Ο Τζέικ και η Ρόζα δουλεύουν μια δύσκολη υπόθεση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
