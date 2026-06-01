@@ -10395,8 +10395,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260601030000 GMT+3" stop="20260601040000 GMT+3" channel="1945">
-    <title lang="el">State of the Union with Jake Tapper and Dana Bash ΕΠ22</title>
-    <desc lang="el">Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage. (2026)</desc>
+    <title lang="el">K-Everything: a CNN Original Series ΕΠ3</title>
+    <desc lang="el">This CNN Series follows acclaimed actor Daniel Dae Kim as he explores the global rise of South Korean culture, from music and film to food and beauty. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -14883,8 +14883,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260601093000 GMT+3" stop="20260601100000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">The Nobel Peace Prize laureate and former Colombian president discusses Colombia&apos;s peace process, global conflict and the future of diplomacy. (2012)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -14955,8 +14955,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260601173000 GMT+3" stop="20260601180000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">The Nobel Peace Prize laureate and former Colombian president discusses Colombia&apos;s peace process, global conflict and the future of diplomacy. (2012)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -19853,21 +19853,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602034500 GMT+3" stop="20260602041500 GMT+3" channel="206750">
+  <programme start="20260602034500 GMT+3" stop="20260602044500 GMT+3" channel="206750">
     <title lang="el">Μοναστηρια Του Τοπου Μας</title>
     <desc lang="el">Ιερά Μονή Παναγίας Παντάνασσας-Πανάσσαρης - Γραβιά Φωκίδας. Τα μοναστήρια της Πατρίδας μας επισκέπτεται αυτή η εκπομπή, για να κάνει κάθε τηλεθεατή συμμέτοχο στην ευλογία του προσκυνήματος.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602041500 GMT+3" stop="20260602044500 GMT+3" channel="206750">
-    <title lang="el">Νεανικο Αρχονταρικι</title>
-    <desc lang="el">Θέμα: Κοινωνικά δίκτυα και σεβασμός. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+  <programme start="20260602044500 GMT+3" stop="20260602051500 GMT+3" channel="206750">
+    <title lang="el">ΜΕΘΕΟΡΤΟΣ ΕΣΠΕΡΙΝΟΣ - ΚΤΙΤΟΡΙΚΟ ΜΝΗΜΟΣΥΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602044500 GMT+3" stop="20260602064500 GMT+3" channel="206750">
-    <title lang="el">ΜΕΘΕΟΡΤΟΣ ΕΣΠΕΡΙΝΟΣ - ΚΤΙΤΟΡΙΚΟ ΜΝΗΜΟΣΥΝΟ</title>
-    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+  <programme start="20260602051500 GMT+3" stop="20260602064500 GMT+3" channel="206750">
+    <title lang="el">Νεανικο Αρχονταρικι</title>
+    <desc lang="el">Θέμα: Κοινωνικά δίκτυα και σεβασμός. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -21605,31 +21605,31 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602081000 GMT+3" stop="20260602083500 GMT+3" channel="2374">
+  <programme start="20260602081000 GMT+3" stop="20260602083000 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ2</title>
     <desc lang="el">Tom and Jerry each build their own booby-trapped bunker. / Spike hasn&apos;t been the best role model for his boy when it comes to being a good sport. That&apos;s why Spike recruits Tom and Jerry to help teach the little guy how to lose gracefully. / When Tom’s hit by a trolley while he and Jerry are investigating their latest case he’s sent to recover at the local animal hospital. Σκηνοθεσία: Darrell Van Citters,. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602083500 GMT+3" stop="20260602085500 GMT+3" channel="2374">
+  <programme start="20260602083000 GMT+3" stop="20260602085500 GMT+3" channel="2374">
     <title lang="el">Looney Tunes Cartoons Κ1</title>
     <desc lang="el">Bugs wakes up to find Earth has been conquered by Martians and now must become Marvin’s loyal servant. Ralph Wolf tries on a myriad of disguises to catch sheep. / Bugs has a detour on his test drive with a self-driving vehicle./Taz tries quenching his thirst with a coconut. Σκηνοθεσία: Ryan Kramer,David Gemmill,. (2021)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602085500 GMT+3" stop="20260602092000 GMT+3" channel="2374">
+  <programme start="20260602085500 GMT+3" stop="20260602091500 GMT+3" channel="2374">
     <title lang="el">Be Cool, Scooby-Doo! Κ1 ΕΠ10</title>
     <desc lang="el">The gang hits the road in the Mystery Machine, chasing fun and adventure. But monsters and mayhem keep getting in the way. Σκηνοθεσία: Shaunt Nigoghossian,. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602092000 GMT+3" stop="20260602094500 GMT+3" channel="2374">
+  <programme start="20260602091500 GMT+3" stop="20260602094000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana stages a scenario to dismiss Chopov as her Guardian, accidentally endangering the ship. / Lana tries to impress her mom at a magic school but learns to embrace her unique talents after chaos ensues. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602094500 GMT+3" stop="20260602100500 GMT+3" channel="2374">
+  <programme start="20260602094000 GMT+3" stop="20260602100500 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">Fern is less than welcoming when Saige comes to spend a weekend with Gigi in her mountain home. / Gigi gets her first zit and doesn&apos;t understand why everyone thinks it&apos;s such a big deal. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -21641,43 +21641,43 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602105000 GMT+3" stop="20260602111500 GMT+3" channel="2374">
+  <programme start="20260602105000 GMT+3" stop="20260602111000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball and Darwin use Molly’s time-halting power (because she’s so boring) to avoid an after school beatdown by Tina. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602111500 GMT+3" stop="20260602114000 GMT+3" channel="2374">
+  <programme start="20260602111000 GMT+3" stop="20260602113500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ3</title>
     <desc lang="el">Gumball and Darwin hit snooze too many times on their alarm clock and miss the school-bus. / Things keep going missing in the house so it’s up to Gumball and Darwin to find the culprit. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602114000 GMT+3" stop="20260602122000 GMT+3" channel="2374">
+  <programme start="20260602113500 GMT+3" stop="20260602122000 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ7</title>
     <desc lang="el">The Titans&apos; antics with their imaginary friend Captain Cool annoy Robin until make-believe starts becoming real. / When the Titans run amok in the Tower&apos;s evidence room, Robin does everything he can to keep things under control. / The Titans&apos; negative behavior is giving superheroes a bad name, so they must learn proper conduct to be good role models for kids. / Robin finally experiences drip, a magical coolness that comes from wearing sneakers, and soon seeks out the ultimate pair. (2021)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602122000 GMT+3" stop="20260602124500 GMT+3" channel="2374">
+  <programme start="20260602122000 GMT+3" stop="20260602124000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana stages a scenario to dismiss Chopov as her Guardian, accidentally endangering the ship. / Lana tries to impress her mom at a magic school but learns to embrace her unique talents after chaos ensues. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602124500 GMT+3" stop="20260602133000 GMT+3" channel="2374">
+  <programme start="20260602124000 GMT+3" stop="20260602132500 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">It&apos;s Family Weekend at Goodenough and Gigi&apos;s mother worries that Gigi is fitting in a bit too well and forgetting her goaty life. / Gigi becomes obsessed with mastering skateboarding - and so does Overblown Academy&apos;s wolf boy, Ren. They decide to work together and it... does not go well. / A book has gone missing from the library and Sully will stop at nothing until the mystery is solved. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602133000 GMT+3" stop="20260602142000 GMT+3" channel="2374">
+  <programme start="20260602132500 GMT+3" stop="20260602141500 GMT+3" channel="2374">
     <title lang="el">Totally Spies! Κ7</title>
     <desc lang="el">The spies get stuck in Mandy’s alternate universe and it’s totally scary. / Popstars go missing and Sam confronts her stage fright to save the day. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602142000 GMT+3" stop="20260602150000 GMT+3" channel="2374">
+  <programme start="20260602141500 GMT+3" stop="20260602150000 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ3</title>
     <desc lang="el">Arin ventures into a dangerous new land to heal Ras while Nya and Kai come up with a plan to make Jay come to them. / Zane&apos;s search for Arin leads to an old friend but lands him in the middle of the Forbidden Five&apos;s hunt for the Prismatic Blades. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -21785,25 +21785,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602213000 GMT+3" stop="20260602215500 GMT+3" channel="2374">
+  <programme start="20260602213000 GMT+3" stop="20260602215000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Reality shifts with every roll of a magical dice. Lana must outwit its Titan creators to restore order. / Lana stages a scenario to dismiss Chopov as her Guardian, accidentally endangering the ship. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602215500 GMT+3" stop="20260602221500 GMT+3" channel="2374">
+  <programme start="20260602215000 GMT+3" stop="20260602221500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana scrambles to complete a quest to save her Guild membership, but Horatius sabotages her efforts. Can she finish in time? / Lana&apos;s first cake offering is ruined by Sprog. Now she must bake another to calm a whirlpool and save the Mighty Windbreaker. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602221500 GMT+3" stop="20260602224000 GMT+3" channel="2374">
+  <programme start="20260602221500 GMT+3" stop="20260602223500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Benson learns a better way to motivate. / A secret nap spot causes major problems. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602224000 GMT+3" stop="20260602230000 GMT+3" channel="2374">
+  <programme start="20260602223500 GMT+3" stop="20260602230000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ3</title>
     <desc lang="el">Regular Show follows the lives of best friends Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) whose lazy afternoon adventures always seem to get interrupted. Σκηνοθεσία: John Davis Infantino,Sean Szeles. Πρωταγωνιστούν: J. G. Quintel, J.G. Quintel, William Salyers,. (2009)</desc>
     <category lang="el">Παιδικά</category>
@@ -28085,15 +28085,129 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602020000 GMT+3" stop="20260602164500 GMT+3" channel="1945">
+  <programme start="20260602020000 GMT+3" stop="20260602030000 GMT+3" channel="1945">
     <title lang="el">Erin Burnett OutFront ΕΠ108</title>
     <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602164500 GMT+3" stop="20260602190000 GMT+3" channel="1945">
+  <programme start="20260602030000 GMT+3" stop="20260602040000 GMT+3" channel="1945">
+    <title lang="el">Anderson Cooper 360 ΕΠ108</title>
+    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602040000 GMT+3" stop="20260602050000 GMT+3" channel="1945">
+    <title lang="el">The Source with Kaitlan Collins ΕΠ108</title>
+    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602050000 GMT+3" stop="20260602060000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsnight ΕΠ108</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602060000 GMT+3" stop="20260602070000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ108</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602070000 GMT+3" stop="20260602080000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ215</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602080000 GMT+3" stop="20260602084500 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ216</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602084500 GMT+3" stop="20260602090000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ108</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602090000 GMT+3" stop="20260602100000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ360</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602100000 GMT+3" stop="20260602104500 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ368</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602104500 GMT+3" stop="20260602110000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ108</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602110000 GMT+3" stop="20260602120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ241</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602120000 GMT+3" stop="20260602130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ32</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602130000 GMT+3" stop="20260602140000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning ΕΠ109</title>
+    <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602140000 GMT+3" stop="20260602150000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ325</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602150000 GMT+3" stop="20260602153000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ109</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602153000 GMT+3" stop="20260602160000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ109</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602160000 GMT+3" stop="20260602164500 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ109</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602164500 GMT+3" stop="20260602170000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ109</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602170000 GMT+3" stop="20260602180000 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ370</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602180000 GMT+3" stop="20260602190000 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ109</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28103,9 +28217,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602194500 GMT+3" stop="20260602210000 GMT+3" channel="1945">
+  <programme start="20260602194500 GMT+3" stop="20260602200000 GMT+3" channel="1945">
     <title lang="el">African Voices ΕΠ20</title>
     <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260602200000 GMT+3" stop="20260602210000 GMT+3" channel="1945">
+    <title lang="el">Amanpour ΕΠ86</title>
+    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -28121,7 +28241,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602230000 GMT+3" stop="20260603010000 GMT+3" channel="1945">
+  <programme start="20260602230000 GMT+3" stop="20260603000000 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ108</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -29903,12 +30023,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260602000000 GMT+3" stop="20260602003000 GMT+3" channel="71037999">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">AI’s rapid growth is pushing global energy demand skyward, forcing electrical grids to expand and modernize. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260602003000 GMT+3" stop="20260602010000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg Primer Κ2</title>
     <desc lang="el">Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
@@ -29936,12 +30050,6 @@
   <programme start="20260602023000 GMT+3" stop="20260602030000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg Primer Κ2</title>
     <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260602030000 GMT+3" stop="20260602033000 GMT+3" channel="71037999">
-    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="el">Alex Rodriguez and Jason Kelly talk to NBA Hall of Famer Tracy McGrady to discuss how he became an NFL owner, why the ‘90s revolutionized basketball and returning to the NBA as an NBC analyst.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -30014,12 +30122,6 @@
   <programme start="20260602093000 GMT+3" stop="20260602100000 GMT+3" channel="71037999">
     <title lang="el">Quantum Marketing Κ1</title>
     <desc lang="el">From immersive experiences to live streaming, National Women&apos;s Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women&apos;s professional sports.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260602100000 GMT+3" stop="20260602103000 GMT+3" channel="71037999">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">AI’s rapid growth is pushing global energy demand skyward, forcing electrical grids to expand and modernize. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -32376,8 +32478,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260602123000 GMT+3" stop="20260602130000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">The Nobel Peace Prize laureate and former Colombian president discusses Colombia&apos;s peace process, global conflict and the future of diplomacy. (2012)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -39046,19 +39148,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603082000 GMT+3" stop="20260603084500 GMT+3" channel="2374">
+  <programme start="20260603082000 GMT+3" stop="20260603084000 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ2</title>
     <desc lang="el">Tom’s being unusually difficult when he’s rocked by an epiphany-- HE’S LOSING HIS HAIR! / Little Quacker is heartsick and he’s come to the cat and mouse detective to help mend his broken heart. / When a little cat and mouse ends poorly for Tom he ends up having to wear the cone of shame. Σκηνοθεσία: Darrell Van Citters,. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603084500 GMT+3" stop="20260603090000 GMT+3" channel="2374">
+  <programme start="20260603084000 GMT+3" stop="20260603085500 GMT+3" channel="2374">
     <title lang="el">Looney Tunes Cartoons Κ1</title>
     <desc lang="el">Petunia Pig&apos;s photo shoot goes a little nutty./Wile E. gets inspiration from a hawk. / Porky and Daffy wash the windows of a sky-high building. Yosemite Sam is tamed by a horse. Σκηνοθεσία: David Gemmill,. (2021)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603090000 GMT+3" stop="20260603092000 GMT+3" channel="2374">
+  <programme start="20260603085500 GMT+3" stop="20260603092000 GMT+3" channel="2374">
     <title lang="el">What&apos;s New Scooby-Doo? Κ1 ΕΠ11</title>
     <desc lang="el">Mystery solving adventures with Fred, Velma, Daphne, Shaggy and Scooby as they attempt to uncover some ghostly and ghoulish goings-on. Σκηνοθεσία: Russell Calabrese,Scott Jeralds,. (2003)</desc>
     <category lang="el">Παιδικά</category>
@@ -39088,37 +39190,37 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603111500 GMT+3" stop="20260603114000 GMT+3" channel="2374">
+  <programme start="20260603111500 GMT+3" stop="20260603113500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ3</title>
     <desc lang="el">Gumball and Darwin spice up their friendship by introducing a third best friend. / Gumball sets out to solve the mystery of who stuffed Principal Brown into his locker. (2011)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603114000 GMT+3" stop="20260603122500 GMT+3" channel="2374">
+  <programme start="20260603113500 GMT+3" stop="20260603122000 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ7</title>
     <desc lang="el">Robin starts working at an ice cream shop to get revenge on Joker&apos;s Gelato for denying him a free birthday scoop. / In order to defeat The Calculator, the Titans must learn common core math. / Robin teaches the Titans all about health insurance. / Having watched everything on TV, the Titans decide to make their own show. (2022)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603122500 GMT+3" stop="20260603124500 GMT+3" channel="2374">
+  <programme start="20260603122000 GMT+3" stop="20260603124500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Reality shifts with every roll of a magical dice. Lana must outwit its Titan creators to restore order. / Lana stages a scenario to dismiss Chopov as her Guardian, accidentally endangering the ship. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603124500 GMT+3" stop="20260603133500 GMT+3" channel="2374">
+  <programme start="20260603124500 GMT+3" stop="20260603133000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">Gigi is home for a nice relaxing long weekend... but Bo has other ideas. / When Gigi and Kallista get detention, they work together on a covert mission to obtain their favorite lunch - potato waffles! / When Saige is made school deputy and the power goes to her head, she and Gigi have their first fight. / Gigi invites Saige and Sully to celebrate Grass Day with her family but Billy has trouble being flexible on his favourite goat holiday. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603133500 GMT+3" stop="20260603142000 GMT+3" channel="2374">
+  <programme start="20260603133000 GMT+3" stop="20260603141500 GMT+3" channel="2374">
     <title lang="el">Totally Spies! Κ7</title>
     <desc lang="el">Is it gameover for the spies when they are framed and sent to Space Jail? / The ultimate villain rises up to take down the Spies once and for all. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603142000 GMT+3" stop="20260603150000 GMT+3" channel="2374">
+  <programme start="20260603141500 GMT+3" stop="20260603150000 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ3</title>
     <desc lang="el">The Ninja learn of the Forbidden Five&apos;s quest to collect the Prismatic Blades, meanwhile Ras finally leads Arin to his parents. / Sora, Nya and Riyu are summoned to New Djinjago to help a friend, and the mystery bounty hunter receives a new mission. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -39148,13 +39250,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603155000 GMT+3" stop="20260603161500 GMT+3" channel="2374">
+  <programme start="20260603155000 GMT+3" stop="20260603161000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ4</title>
     <desc lang="el">Regular Show follows the lives of best friends Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) whose lazy afternoon adventures always seem to get interrupted. Σκηνοθεσία: John Davis Infantino,Sean Szeles. Πρωταγωνιστούν: J. G. Quintel, William Salyers. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603161500 GMT+3" stop="20260603163500 GMT+3" channel="2374">
+  <programme start="20260603161000 GMT+3" stop="20260603163500 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ1</title>
     <desc lang="el">Apple and Onion must rid their apartment of a fly or face eviction. / Apple and Onion must run a secret parking lot on their roof terrace so they can have a shower. Σκηνοθεσία: George Gendi,Benton Connor,. Πρωταγωνιστούν: Richard Ayoade, George Gendi. (2020)</desc>
     <category lang="el">Παιδικά</category>
@@ -39178,25 +39280,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603174500 GMT+3" stop="20260603183500 GMT+3" channel="2374">
+  <programme start="20260603174500 GMT+3" stop="20260603183000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ6</title>
     <desc lang="el">Gumball questions Mr Small&apos;s eco-friendly commitment, causing him to abandon society and live in the forest. / Leslie calls Gumball&apos;s bluff. / Richard Watterson gets mistaken for the founder of Chanax and destroys the company. / Gumball and Darwin spend a day in Larry&apos;s shoes, doing all the menial jobs in Elmore. Σκηνοθεσία: Mic Graves. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603183500 GMT+3" stop="20260603185500 GMT+3" channel="2374">
+  <programme start="20260603183000 GMT+3" stop="20260603185500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">A rival coffee shop moves into town. / Mordecai and Rigby have to unload a lot of boba. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603185500 GMT+3" stop="20260603192000 GMT+3" channel="2374">
+  <programme start="20260603185500 GMT+3" stop="20260603191500 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ1</title>
     <desc lang="el">Apple and Onion join a gym to gain the strength of seven people. / Apple and Onion try to convince Onion’s dad that Apple is not a bad influence. Σκηνοθεσία: George Gendi,Benton Connor,. Πρωταγωνιστούν: Richard Ayoade, George Gendi. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603192000 GMT+3" stop="20260603194000 GMT+3" channel="2374">
+  <programme start="20260603191500 GMT+3" stop="20260603194000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -39214,49 +39316,49 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603202000 GMT+3" stop="20260603204500 GMT+3" channel="2374">
+  <programme start="20260603202000 GMT+3" stop="20260603204000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ1</title>
     <desc lang="el">Mordecai and Rigby try to seize an opportunity to eat a piece of cake and it comes when they learn that Skips&apos; birthday is coming soon. However Skips secludes himself in a forest every year on the night of his birthday so Mordecai plans to give Skips a surprise party. However they interrupt him while he is doing a spiritual dance ritual. As it turns out Skips had made a pact with the Guardians of Eternal Youth who are behind Skips&apos; gift of immortality. / ...and much more! Σκηνοθεσία: J. G. Quintel,J.G. Quintel,John Davis Infantino,. Πρωταγωνιστούν: J. G. Quintel, William Salyers, Sam Marin, Mark Hamill, David Kaye, Roger Jackson. (2010)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603204500 GMT+3" stop="20260603213000 GMT+3" channel="2374">
+  <programme start="20260603204000 GMT+3" stop="20260603213000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">When Saige is made school deputy and the power goes to her head, she and Gigi have their first fight. / Gigi invites Saige and Sully to celebrate Grass Day with her family but Billy has trouble being flexible on his favourite goat holiday. / Gigi tries to settle into her new Boarding School, which is proving a little tricky for a girl raised as a goat. / When Gigi experiences test anxiety for the first time, her goaty instincts kick in. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603213000 GMT+3" stop="20260603215500 GMT+3" channel="2374">
+  <programme start="20260603213000 GMT+3" stop="20260603215000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana breaks a robotic crew’s routine during an exchange program, putting their ship in grave danger. / Lana tries to impress her mom at a magic school but learns to embrace her unique talents after chaos ensues. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603215500 GMT+3" stop="20260603221500 GMT+3" channel="2374">
+  <programme start="20260603215000 GMT+3" stop="20260603221500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana clashes with her dad over a boomerang and hammer until teamwork saves them from the Arachno Queen&apos;s web of doom. / Lana dons a magical beard to steer the ship, but it causes chaos. Can she and Andar reclaim control of the Mighty Windbreaker? (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603221500 GMT+3" stop="20260603224000 GMT+3" channel="2374">
+  <programme start="20260603221500 GMT+3" stop="20260603223500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">A rival coffee shop moves into town. / Mordecai and Rigby have to unload a lot of boba. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603224000 GMT+3" stop="20260603230000 GMT+3" channel="2374">
+  <programme start="20260603223500 GMT+3" stop="20260603230000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ4</title>
     <desc lang="el">Regular Show follows the lives of best friends Mordecai (a six-foot-tall blue jay) and Rigby (a hyperactive raccoon) whose lazy afternoon adventures always seem to get interrupted. Σκηνοθεσία: John Davis Infantino,Sean Szeles. Πρωταγωνιστούν: J. G. Quintel, William Salyers. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603230000 GMT+3" stop="20260603234500 GMT+3" channel="2374">
+  <programme start="20260603230000 GMT+3" stop="20260603234000 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">After Jake pulls the greatest prank in the history of pranks, Finn decides to get back at him. / The normally fearless Finn realizes he’s actually afraid of something: the ocean! / While trying to rescue a helpless stranger Finn becomes Marceline’s slave. / Finn tries to conquer a dungeon without Jake’s help. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603234500 GMT+3" stop="20260604001000 GMT+3" channel="2374">
+  <programme start="20260603234000 GMT+3" stop="20260604000500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Anais’s science project creates a genius version of Richard’s gut, forcing her to choose between it and her real dad. / Anais starts aging prematurely due to the stress and pressure of looking out for the rest of her stupid family. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -45521,15 +45623,147 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603010000 GMT+3" stop="20260603164500 GMT+3" channel="1945">
+  <programme start="20260603000000 GMT+3" stop="20260603003000 GMT+3" channel="1945">
+    <title lang="el">The Lead with Jake Tapper ΕΠ217</title>
+    <desc lang="el">Jake Tapper covers all the day&apos;s top stories around the country and the globe, from politics to money and sports to popular culture. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603003000 GMT+3" stop="20260603010000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ370</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603010000 GMT+3" stop="20260603020000 GMT+3" channel="1945">
     <title lang="el">The Brief with Jim Sciutto ΕΠ108</title>
     <desc lang="el">The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603164500 GMT+3" stop="20260603210000 GMT+3" channel="1945">
+  <programme start="20260603020000 GMT+3" stop="20260603030000 GMT+3" channel="1945">
+    <title lang="el">Erin Burnett OutFront ΕΠ109</title>
+    <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603030000 GMT+3" stop="20260603040000 GMT+3" channel="1945">
+    <title lang="el">Anderson Cooper 360 ΕΠ109</title>
+    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603040000 GMT+3" stop="20260603050000 GMT+3" channel="1945">
+    <title lang="el">The Source with Kaitlan Collins ΕΠ109</title>
+    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603050000 GMT+3" stop="20260603060000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsnight ΕΠ109</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603060000 GMT+3" stop="20260603070000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ109</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603070000 GMT+3" stop="20260603080000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ262</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603080000 GMT+3" stop="20260603090000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ217</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603090000 GMT+3" stop="20260603100000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ218</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603100000 GMT+3" stop="20260603110000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ725</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603110000 GMT+3" stop="20260603120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ242</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603120000 GMT+3" stop="20260603130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ33</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603130000 GMT+3" stop="20260603140000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning ΕΠ110</title>
+    <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603140000 GMT+3" stop="20260603150000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ328</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603150000 GMT+3" stop="20260603153000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ110</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603153000 GMT+3" stop="20260603160000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ110</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603160000 GMT+3" stop="20260603164500 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ110</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603164500 GMT+3" stop="20260603170000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ110</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603170000 GMT+3" stop="20260603180000 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ371</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603180000 GMT+3" stop="20260603190000 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ110</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603190000 GMT+3" stop="20260603200000 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ371</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260603200000 GMT+3" stop="20260603210000 GMT+3" channel="1945">
+    <title lang="el">Amanpour ΕΠ87</title>
+    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -45545,7 +45779,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603230000 GMT+3" stop="20260604010000 GMT+3" channel="1945">
+  <programme start="20260603230000 GMT+3" stop="20260604000000 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ109</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -47303,12 +47537,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260603000000 GMT+3" stop="20260603003000 GMT+3" channel="71037999">
-    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="el">Alex Rodriguez and Jason Kelly talk to NBA Hall of Famer Tracy McGrady to discuss how he became an NFL owner, why the ‘90s revolutionized basketball and returning to the NBA as an NBC analyst.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260603003000 GMT+3" stop="20260603010000 GMT+3" channel="71037999">
     <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4</title>
     <desc lang="el">Alex Rodriguez and Jason Kelly sit down with Jess Pegula to talk about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
@@ -47414,12 +47642,6 @@
   <programme start="20260603130000 GMT+3" stop="20260603133000 GMT+3" channel="71037999">
     <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4</title>
     <desc lang="el">Alex Rodriguez and Jason Kelly sit down with three-time Super Bowl champion Steve Young to discuss the challenges faced and lessons learned on his journey from the NFL to managing a $10 billion fund.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260603133000 GMT+3" stop="20260603140000 GMT+3" channel="71037999">
-    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="el">Alex Rodriguez and Jason Kelly talk to NBA Hall of Famer Tracy McGrady to discuss how he became an NFL owner, why the ‘90s revolutionized basketball and returning to the NBA as an NBC analyst.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -49644,8 +49866,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260603063000 GMT+3" stop="20260603070000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">The Nobel Peace Prize laureate and former Colombian president discusses Colombia&apos;s peace process, global conflict and the future of diplomacy. (2012)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -56206,13 +56428,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604001000 GMT+3" stop="20260604002000 GMT+3" channel="2374">
+  <programme start="20260604000500 GMT+3" stop="20260604001500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1 ΕΠ16</title>
     <desc lang="el">Welcome back to Elmore, where the laws of reality are a joke, and family life is anything but ordinary. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604002000 GMT+3" stop="20260604003000 GMT+3" channel="2374">
+  <programme start="20260604001500 GMT+3" stop="20260604003000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">During a heatwave, Richard recruits the kids to help him sneak into the Robinsons’ new above-ground pool. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -62706,15 +62928,141 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604010000 GMT+3" stop="20260604164500 GMT+3" channel="1945">
+  <programme start="20260604000000 GMT+3" stop="20260604003000 GMT+3" channel="1945">
+    <title lang="el">The Lead with Jake Tapper ΕΠ219</title>
+    <desc lang="el">Jake Tapper covers all the day&apos;s top stories around the country and the globe, from politics to money and sports to popular culture. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604003000 GMT+3" stop="20260604010000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ371</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604010000 GMT+3" stop="20260604020000 GMT+3" channel="1945">
     <title lang="el">The Brief with Jim Sciutto ΕΠ109</title>
     <desc lang="el">The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604164500 GMT+3" stop="20260604180000 GMT+3" channel="1945">
+  <programme start="20260604020000 GMT+3" stop="20260604030000 GMT+3" channel="1945">
+    <title lang="el">Erin Burnett OutFront ΕΠ110</title>
+    <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604030000 GMT+3" stop="20260604040000 GMT+3" channel="1945">
+    <title lang="el">Anderson Cooper 360 ΕΠ110</title>
+    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604040000 GMT+3" stop="20260604050000 GMT+3" channel="1945">
+    <title lang="el">The Source with Kaitlan Collins ΕΠ110</title>
+    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604050000 GMT+3" stop="20260604060000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsnight ΕΠ110</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604060000 GMT+3" stop="20260604070000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ110</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604070000 GMT+3" stop="20260604080000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ219</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604080000 GMT+3" stop="20260604084500 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ220</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604084500 GMT+3" stop="20260604090000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ370</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604090000 GMT+3" stop="20260604100000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ362</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604100000 GMT+3" stop="20260604104500 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ370</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604104500 GMT+3" stop="20260604110000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ370</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604110000 GMT+3" stop="20260604120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ243</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604120000 GMT+3" stop="20260604130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ34</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604130000 GMT+3" stop="20260604140000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning ΕΠ111</title>
+    <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604140000 GMT+3" stop="20260604150000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ331</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604150000 GMT+3" stop="20260604153000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ111</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604153000 GMT+3" stop="20260604160000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ111</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604160000 GMT+3" stop="20260604164500 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ111</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604164500 GMT+3" stop="20260604170000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ111</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604170000 GMT+3" stop="20260604180000 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ372</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -62724,9 +63072,27 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604183000 GMT+3" stop="20260604210000 GMT+3" channel="1945">
+  <programme start="20260604183000 GMT+3" stop="20260604190000 GMT+3" channel="1945">
     <title lang="el">CNN Creators ΕΠ22</title>
     <desc lang="el">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604190000 GMT+3" stop="20260604194500 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ111</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604194500 GMT+3" stop="20260604200000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ18</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260604200000 GMT+3" stop="20260604210000 GMT+3" channel="1945">
+    <title lang="el">Amanpour ΕΠ88</title>
+    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -62742,7 +63108,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260604230000 GMT+3" stop="20260605010000 GMT+3" channel="1945">
+  <programme start="20260604230000 GMT+3" stop="20260605000000 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ110</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -67039,8 +67405,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260604223000 GMT+3" stop="20260604230000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">The Nobel Peace Prize laureate and former Colombian president discusses Colombia&apos;s peace process, global conflict and the future of diplomacy. (2012)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -80066,15 +80432,159 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260605010000 GMT+3" stop="20260605164500 GMT+3" channel="1945">
+  <programme start="20260605000000 GMT+3" stop="20260605003000 GMT+3" channel="1945">
+    <title lang="el">The Lead with Jake Tapper ΕΠ221</title>
+    <desc lang="el">Jake Tapper covers all the day&apos;s top stories around the country and the globe, from politics to money and sports to popular culture. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605003000 GMT+3" stop="20260605010000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ372</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605010000 GMT+3" stop="20260605020000 GMT+3" channel="1945">
     <title lang="el">The Brief with Jim Sciutto ΕΠ110</title>
     <desc lang="el">The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260605164500 GMT+3" stop="20260605210000 GMT+3" channel="1945">
+  <programme start="20260605020000 GMT+3" stop="20260605030000 GMT+3" channel="1945">
+    <title lang="el">Erin Burnett OutFront ΕΠ111</title>
+    <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605030000 GMT+3" stop="20260605040000 GMT+3" channel="1945">
+    <title lang="el">Anderson Cooper 360 ΕΠ111</title>
+    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605040000 GMT+3" stop="20260605050000 GMT+3" channel="1945">
+    <title lang="el">The Source with Kaitlan Collins ΕΠ111</title>
+    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605050000 GMT+3" stop="20260605060000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsnight ΕΠ111</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605060000 GMT+3" stop="20260605070000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ111</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605070000 GMT+3" stop="20260605080000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ221</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605080000 GMT+3" stop="20260605084500 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ222</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605084500 GMT+3" stop="20260605090000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ111</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605090000 GMT+3" stop="20260605100000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ363</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605100000 GMT+3" stop="20260605104500 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ371</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605104500 GMT+3" stop="20260605110000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ111</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605110000 GMT+3" stop="20260605120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ244</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605120000 GMT+3" stop="20260605130000 GMT+3" channel="1945">
+    <title lang="el">CNN Headline Express ΕΠ35</title>
+    <desc lang="el">The biggest headlines and most buzzworthy stories with live updates throughout the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605130000 GMT+3" stop="20260605140000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning ΕΠ112</title>
+    <desc lang="el">Start your day with Audie Cornish bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605140000 GMT+3" stop="20260605150000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ334</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605150000 GMT+3" stop="20260605153000 GMT+3" channel="1945">
+    <title lang="el">CNN News Central ΕΠ112</title>
+    <desc lang="el">Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN&apos;s immersive news hub. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605153000 GMT+3" stop="20260605160000 GMT+3" channel="1945">
     <title lang="el">World Sport ΕΠ112</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605160000 GMT+3" stop="20260605164500 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ112</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605164500 GMT+3" stop="20260605170000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ112</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605170000 GMT+3" stop="20260605180000 GMT+3" channel="1945">
+    <title lang="el">Connect the World ΕΠ373</title>
+    <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605180000 GMT+3" stop="20260605190000 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ112</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605190000 GMT+3" stop="20260605200000 GMT+3" channel="1945">
+    <title lang="el">One World ΕΠ373</title>
+    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260605200000 GMT+3" stop="20260605210000 GMT+3" channel="1945">
+    <title lang="el">Amanpour ΕΠ230</title>
+    <desc lang="el">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -80090,7 +80600,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260605230000 GMT+3" stop="20260606010000 GMT+3" channel="1945">
+  <programme start="20260605230000 GMT+3" stop="20260606000000 GMT+3" channel="1945">
     <title lang="el">Quest Means Business ΕΠ111</title>
     <desc lang="el">Richard Quest speaks to the top names in global business to bring viewers the bottom line. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
@@ -81941,12 +82451,6 @@
   <programme start="20260605050000 GMT+3" stop="20260605053000 GMT+3" channel="71037999">
     <title lang="el">The Deal with Alex Rodriguez and Jason Kelly Κ4</title>
     <desc lang="el">Alex Rodriguez and Jason Kelly sit down with Jess Pegula to talk about lobbying for change in the business of professional tennis and what she’s learned from her parents.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260605053000 GMT+3" stop="20260605060000 GMT+3" channel="71037999">
-    <title lang="el">The Deal with Alex Rodriguez and Jason Kelly</title>
-    <desc lang="el">Alex Rodriguez and Jason Kelly talk to NBA Hall of Famer Tracy McGrady to discuss how he became an NFL owner, why the ‘90s revolutionized basketball and returning to the NBA as an NBC analyst.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -95121,33 +95625,201 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260606010000 GMT+3" stop="20260606103000 GMT+3" channel="1945">
+  <programme start="20260606000000 GMT+3" stop="20260606003000 GMT+3" channel="1945">
+    <title lang="el">The Lead with Jake Tapper ΕΠ223</title>
+    <desc lang="el">Jake Tapper covers all the day&apos;s top stories around the country and the globe, from politics to money and sports to popular culture. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606003000 GMT+3" stop="20260606010000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ112</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606010000 GMT+3" stop="20260606020000 GMT+3" channel="1945">
     <title lang="el">The Brief with Jim Sciutto ΕΠ111</title>
     <desc lang="el">The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260606103000 GMT+3" stop="20260606113000 GMT+3" channel="1945">
+  <programme start="20260606020000 GMT+3" stop="20260606030000 GMT+3" channel="1945">
+    <title lang="el">Erin Burnett OutFront ΕΠ112</title>
+    <desc lang="el">Erin Burnett stays ahead of the headlines, delivering a show that&apos;s in-depth and informative. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606030000 GMT+3" stop="20260606040000 GMT+3" channel="1945">
+    <title lang="el">Anderson Cooper 360 ΕΠ112</title>
+    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606040000 GMT+3" stop="20260606050000 GMT+3" channel="1945">
+    <title lang="el">The Source with Kaitlan Collins ΕΠ112</title>
+    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606050000 GMT+3" stop="20260606060000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsnight ΕΠ112</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606060000 GMT+3" stop="20260606070000 GMT+3" channel="1945">
+    <title lang="el">Laura Coates Live ΕΠ112</title>
+    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606070000 GMT+3" stop="20260606080000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ223</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606080000 GMT+3" stop="20260606090000 GMT+3" channel="1945">
+    <title lang="el">The Story is with Elex Michaelson ΕΠ224</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606090000 GMT+3" stop="20260606093000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ253</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606093000 GMT+3" stop="20260606100000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ228</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606100000 GMT+3" stop="20260606103000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ357</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606103000 GMT+3" stop="20260606110000 GMT+3" channel="1945">
     <title lang="el">Connecting Africa ΕΠ6</title>
     <desc lang="el">We profile the people, projects and companies revolutionizing African business and bringing the continent together. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260606113000 GMT+3" stop="20260606193000 GMT+3" channel="1945">
+  <programme start="20260606110000 GMT+3" stop="20260606113000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ461</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606113000 GMT+3" stop="20260606120000 GMT+3" channel="1945">
     <title lang="el">CNN Creators ΕΠ22</title>
     <desc lang="el">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260606120000 GMT+3" stop="20260606130000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ149</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606130000 GMT+3" stop="20260606133000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ228</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606133000 GMT+3" stop="20260606140000 GMT+3" channel="1945">
+    <title lang="el">Tech for Good ΕΠ1</title>
+    <desc lang="el">The power of technology to build a better world - incredible people beating the odds to follow their dreams, and the remarkable new technologies enabling them and others to thrive. (2025)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606140000 GMT+3" stop="20260606150000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning Weekend ΕΠ90</title>
+    <desc lang="el">Start your day with Victor Blackwell bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606150000 GMT+3" stop="20260606160000 GMT+3" channel="1945">
+    <title lang="el">First of All with Victor Blackwell ΕΠ23</title>
+    <desc lang="el">Victor Blackwell brings a fresh perspective on the week&apos;s news with a focus on stories affecting communities of color. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606160000 GMT+3" stop="20260606170000 GMT+3" channel="1945">
+    <title lang="el">Smerconish ΕΠ23</title>
+    <desc lang="el">Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606170000 GMT+3" stop="20260606173000 GMT+3" channel="1945">
+    <title lang="el">CNN Creators ΕΠ22</title>
+    <desc lang="el">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606173000 GMT+3" stop="20260606180000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ727</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606180000 GMT+3" stop="20260606190000 GMT+3" channel="1945">
+    <title lang="el">The Amanpour Hour ΕΠ23</title>
+    <desc lang="el">Christiane Amanpour, CNN’s chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606190000 GMT+3" stop="20260606193000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ567</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260606193000 GMT+3" stop="20260606194500 GMT+3" channel="1945">
-    <title lang="el">Marketplace Middle East ΕΠ55</title>
+    <title lang="el">Marketplace Middle East ΕΠ53</title>
     <desc lang="el">The latest business headlines, events and developments in and around the Middle East. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260606194500 GMT+3" stop="20260607003000 GMT+3" channel="1945">
+  <programme start="20260606194500 GMT+3" stop="20260606200000 GMT+3" channel="1945">
     <title lang="el">Marketplace Africa ΕΠ599</title>
     <desc lang="el">Marketplace Africa reports on the latest African market information, with a look at events and developments that impact the business world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606200000 GMT+3" stop="20260606210000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ178</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606210000 GMT+3" stop="20260606220000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ180</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606220000 GMT+3" stop="20260606223000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ2</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606223000 GMT+3" stop="20260606230000 GMT+3" channel="1945">
+    <title lang="el">All Access at Roland-Garros: a CNN Sports Special ΕΠ1</title>
+    <desc lang="el">As the women’s champion is crowned and on the eve of the men’s final, Coy reports the action in Paris at the tennis Grand Slam, Roland-Garros. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260606230000 GMT+3" stop="20260607000000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ181</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -100918,8 +101590,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260606230000 GMT+3" stop="20260606232500 GMT+3" channel="2491">
-    <title lang="el">Tour European Rally 2026</title>
-    <desc lang="el">Tour European Rally 2026</desc>
+    <title lang="el">Ter Series</title>
+    <desc lang="el">Ter Series</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -108276,8 +108948,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260607142400 GMT+3" stop="20260607151100 GMT+3" channel="218874">
-    <title lang="el">Απρόσμενο: έφηβη και έγκυος Κ7 ΕΠ9</title>
-    <desc lang="el">Ανήλικες έγκυες αντιμετωπίζουν καλές και άσχημες στιγμές της ζωής και τις σχέσεις με γονείς και συντρόφους, μέχρι τη στιγμή της γέννησης του παιδιού. (2025)</desc>
+    <title lang="el">Πες ναι στο νυφικό, με τον Ταν Φρανς Κ1 ΕΠ5</title>
+    <desc lang="el">Ο Ταν βοηθά την Τζέμα να αποκτήσει αυτοπεποίθηση και να ακολουθήσει αυτό που της λέει η καρδιά της. Η επαγγελματίας γοργόνα Τζαζ αναζητά κάτι καλύτερο από μια απλή γοργονοουρά! (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -110399,9 +111071,57 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260607003000 GMT+3" stop="20260607060000 GMT+3" channel="1945">
+  <programme start="20260607000000 GMT+3" stop="20260607003000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ671</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607003000 GMT+3" stop="20260607010000 GMT+3" channel="1945">
     <title lang="el">CNN Creators ΕΠ22</title>
     <desc lang="el">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607010000 GMT+3" stop="20260607020000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ183</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607020000 GMT+3" stop="20260607030000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Saturday ΕΠ184</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607030000 GMT+3" stop="20260607040000 GMT+3" channel="1945">
+    <title lang="el">Smerconish ΕΠ23</title>
+    <desc lang="el">Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607040000 GMT+3" stop="20260607043000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ671</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607043000 GMT+3" stop="20260607050000 GMT+3" channel="1945">
+    <title lang="el">Tech for Good ΕΠ1</title>
+    <desc lang="el">The power of technology to build a better world - incredible people beating the odds to follow their dreams, and the remarkable new technologies enabling them and others to thrive. (2025)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607050000 GMT+3" stop="20260607053000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ727</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607053000 GMT+3" stop="20260607060000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ228</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -110412,32 +111132,158 @@
     <rating>K</rating>
   </programme>
   <programme start="20260607063000 GMT+3" stop="20260607064500 GMT+3" channel="1945">
-    <title lang="el">Marketplace Middle East ΕΠ55</title>
+    <title lang="el">Marketplace Middle East ΕΠ53</title>
     <desc lang="el">The latest business headlines, events and developments in and around the Middle East. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260607064500 GMT+3" stop="20260607093000 GMT+3" channel="1945">
+  <programme start="20260607064500 GMT+3" stop="20260607070000 GMT+3" channel="1945">
     <title lang="el">Marketplace Africa ΕΠ599</title>
     <desc lang="el">Marketplace Africa reports on the latest African market information, with a look at events and developments that impact the business world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607070000 GMT+3" stop="20260607073000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ46</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607073000 GMT+3" stop="20260607080000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ671</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607080000 GMT+3" stop="20260607083000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ150</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607083000 GMT+3" stop="20260607090000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ727</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607090000 GMT+3" stop="20260607093000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ254</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260607093000 GMT+3" stop="20260607094500 GMT+3" channel="1945">
-    <title lang="el">Marketplace Middle East ΕΠ55</title>
+    <title lang="el">Marketplace Middle East ΕΠ53</title>
     <desc lang="el">The latest business headlines, events and developments in and around the Middle East. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260607094500 GMT+3" stop="20260607130000 GMT+3" channel="1945">
+  <programme start="20260607094500 GMT+3" stop="20260607100000 GMT+3" channel="1945">
     <title lang="el">Marketplace Africa ΕΠ599</title>
     <desc lang="el">Marketplace Africa reports on the latest African market information, with a look at events and developments that impact the business world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260607130000 GMT+3" stop="20260608053000 GMT+3" channel="1945">
+  <programme start="20260607100000 GMT+3" stop="20260607110000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ729</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607110000 GMT+3" stop="20260607120000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ46</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607120000 GMT+3" stop="20260607130000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ150</title>
+    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607130000 GMT+3" stop="20260607133000 GMT+3" channel="1945">
     <title lang="el">Connecting Africa ΕΠ6</title>
     <desc lang="el">We profile the people, projects and companies revolutionizing African business and bringing the continent together. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607133000 GMT+3" stop="20260607140000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ727</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607140000 GMT+3" stop="20260607150000 GMT+3" channel="1945">
+    <title lang="el">CNN This Morning Weekend ΕΠ92</title>
+    <desc lang="el">Start your day with Victor Blackwell bringing you the latest headlines and analysis. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607150000 GMT+3" stop="20260607160000 GMT+3" channel="1945">
+    <title lang="el">Inside Politics with Manu Raju ΕΠ23</title>
+    <desc lang="el">Manu Raju leads an in-depth conversation on the week&apos;s most important political storylines, with a diverse set of analysts and news-making interviews. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607160000 GMT+3" stop="20260607170000 GMT+3" channel="1945">
+    <title lang="el">State of the Union with Jake Tapper and Dana Bash ΕΠ23</title>
+    <desc lang="el">Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607170000 GMT+3" stop="20260607180000 GMT+3" channel="1945">
+    <title lang="el">Fareed Zakaria GPS ΕΠ23</title>
+    <desc lang="el">Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607180000 GMT+3" stop="20260607190000 GMT+3" channel="1945">
+    <title lang="el">Inside Politics with Manu Raju ΕΠ23</title>
+    <desc lang="el">Manu Raju leads an in-depth conversation on the week&apos;s most important political storylines, with a diverse set of analysts and news-making interviews. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607190000 GMT+3" stop="20260607193000 GMT+3" channel="1945">
+    <title lang="el">World Sport ΕΠ568</title>
+    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607193000 GMT+3" stop="20260607200000 GMT+3" channel="1945">
+    <title lang="el">Inside Africa ΕΠ727</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607200000 GMT+3" stop="20260607203000 GMT+3" channel="1945">
+    <title lang="el">African Voices ΕΠ228</title>
+    <desc lang="el">Shining a spotlight on Africa&apos;s most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607203000 GMT+3" stop="20260607210000 GMT+3" channel="1945">
+    <title lang="el">Tech for Good ΕΠ1</title>
+    <desc lang="el">The power of technology to build a better world - incredible people beating the odds to follow their dreams, and the remarkable new technologies enabling them and others to thrive. (2025)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607210000 GMT+3" stop="20260607220000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Sunday ΕΠ155</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607220000 GMT+3" stop="20260607230000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Sunday ΕΠ156</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260607230000 GMT+3" stop="20260608000000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom Sunday ΕΠ157</title>
+    <desc lang="el">The latest news and information from around the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -112730,12 +113576,6 @@
   <programme start="20260607010000 GMT+3" stop="20260607013000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg Primer Κ2</title>
     <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260607013000 GMT+3" stop="20260607020000 GMT+3" channel="71037999">
-    <title lang="el">Bloomberg Primer</title>
-    <desc lang="el">AI’s rapid growth is pushing global energy demand skyward, forcing electrical grids to expand and modernize. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -115422,7 +116262,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260607223000 GMT+3" stop="20260607230000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
+    <title lang="el">Talk to Al Jazeera</title>
     <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -116130,8 +116970,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260607110000 GMT+3" stop="20260607112500 GMT+3" channel="2491">
-    <title lang="el">Tour European Rally 2026</title>
-    <desc lang="el">Tour European Rally 2026</desc>
+    <title lang="el">Ter Series</title>
+    <desc lang="el">Ter Series</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -116184,8 +117024,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260607160000 GMT+3" stop="20260607220500 GMT+3" channel="2491">
-    <title lang="el">Le Mans Classic 2026</title>
-    <desc lang="el">Le Mans Classic 2026</desc>
+    <title lang="el">Le Mans Classic Series 2026</title>
+    <desc lang="el">Le Mans Classic Series 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
