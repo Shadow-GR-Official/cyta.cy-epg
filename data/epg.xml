@@ -210,9 +210,6 @@
   <channel id="8242848">
     <display-name>Cytavision Sports2 HD</display-name>
   </channel>
-  <channel id="8242808">
-    <display-name>Cytavision Sports3 HD</display-name>
-  </channel>
   <channel id="8242862">
     <display-name>Cytavision Sports4 HD</display-name>
   </channel>
@@ -300,9 +297,6 @@
   <channel id="52098866">
     <display-name>Cytavision Sports2 HD Real Time</display-name>
   </channel>
-  <channel id="52101930">
-    <display-name>Cytavision Sports3 HD Real Time</display-name>
-  </channel>
   <channel id="52103938">
     <display-name>Cytavision Sports4 HD Real Time</display-name>
   </channel>
@@ -347,6 +341,12 @@
   </channel>
   <channel id="52196763">
     <display-name>PPV6 Real Time</display-name>
+  </channel>
+  <channel id="8242808">
+    <display-name>Cytavision Sports3 HD</display-name>
+  </channel>
+  <channel id="52101930">
+    <display-name>Cytavision Sports3 HD Real Time</display-name>
   </channel>
   <programme start="20260607233000 GMT+3" stop="20260608002000 GMT+3" channel="561066">
     <title lang="el">Προσωπογραφίες (E)</title>
@@ -1803,12 +1803,6 @@
   <programme start="20260608210000 GMT+3" stop="20260608210500 GMT+3" channel="561178">
     <title lang="el">LUBEN</title>
     <desc lang="el">LUBEN</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608210500 GMT+3" stop="20260608224500 GMT+3" channel="561178">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
-    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -15264,102 +15258,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260608000000 GMT+3" stop="20260608020000 GMT+3" channel="8242808">
-    <title lang="el">STRASBOURG - RAYO VALLECANO 7/5/26</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608020000 GMT+3" stop="20260608040000 GMT+3" channel="8242808">
-    <title lang="el">BELGIUM - TUNISIA 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608040000 GMT+3" stop="20260608060000 GMT+3" channel="8242808">
-    <title lang="el">SWITZERLAND - AUSTRALIA 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608060000 GMT+3" stop="20260608080000 GMT+3" channel="8242808">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608080000 GMT+3" stop="20260608100000 GMT+3" channel="8242808">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608100000 GMT+3" stop="20260608120000 GMT+3" channel="8242808">
-    <title lang="el">ΠΑΝΑΙΤΩΛΙΚΟΣ - ΑΣΤΕΡΑΣ 21/5/26</title>
-    <desc lang="el">SUPER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608120000 GMT+3" stop="20260608140000 GMT+3" channel="8242808">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608140000 GMT+3" stop="20260608160000 GMT+3" channel="8242808">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608160000 GMT+3" stop="20260608173000 GMT+3" channel="8242808">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608173000 GMT+3" stop="20260608180000 GMT+3" channel="8242808">
-    <title lang="el">UCL MAGAZINE SHOW 35 MD17 FINAL Review (24) 5/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608180000 GMT+3" stop="20260608200000 GMT+3" channel="8242808">
-    <title lang="el">GREECE - ITALY 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608200000 GMT+3" stop="20260608201500 GMT+3" channel="8242808">
-    <title lang="el">Made in Italy clips : ROMA (15)</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608201500 GMT+3" stop="20260608203000 GMT+3" channel="8242808">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15)</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608203000 GMT+3" stop="20260608213000 GMT+3" channel="8242808">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48)</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608213000 GMT+3" stop="20260608221000 GMT+3" channel="8242808">
-    <title lang="el">NBA Action ep. 33 (30)</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608221000 GMT+3" stop="20260609001000 GMT+3" channel="8242808">
-    <title lang="el">FRANCE - NORTHERN IRELAND (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260608000000 GMT+3" stop="20260608060000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
@@ -16356,37 +16254,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260607222000 GMT+3" stop="20260608020000 GMT+3" channel="97085851">
+  <programme start="20260608015800 GMT+3" stop="20260608020700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Highlights</title>
     <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260608020000 GMT+3" stop="20260608044000 GMT+3" channel="97085851">
+  <programme start="20260608020700 GMT+3" stop="20260608044200 GMT+3" channel="97085851">
     <title lang="el">Champions League 23/24</title>
     <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260608044000 GMT+3" stop="20260608051000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608051000 GMT+3" stop="20260608070000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608070000 GMT+3" stop="20260608071500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608071500 GMT+3" stop="20260609060000 GMT+3" channel="97085851">
+  <programme start="20260608073400 GMT+3" stop="20260608095200 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22</title>
     <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
     <category lang="el">Αθλητικά</category>
@@ -17423,102 +17303,6 @@
   <programme start="20260608220000 GMT+3" stop="20260609000000 GMT+3" channel="52098866">
     <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ 22/5/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608000000 GMT+3" stop="20260608020000 GMT+3" channel="52101930">
-    <title lang="el">STRASBOURG - RAYO VALLECANO 7/5/26</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608020000 GMT+3" stop="20260608040000 GMT+3" channel="52101930">
-    <title lang="el">BELGIUM - TUNISIA 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608040000 GMT+3" stop="20260608060000 GMT+3" channel="52101930">
-    <title lang="el">SWITZERLAND - AUSTRALIA 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608060000 GMT+3" stop="20260608080000 GMT+3" channel="52101930">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608080000 GMT+3" stop="20260608100000 GMT+3" channel="52101930">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608100000 GMT+3" stop="20260608120000 GMT+3" channel="52101930">
-    <title lang="el">ΠΑΝΑΙΤΩΛΙΚΟΣ - ΑΣΤΕΡΑΣ 21/5/26</title>
-    <desc lang="el">SUPER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608120000 GMT+3" stop="20260608140000 GMT+3" channel="52101930">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608140000 GMT+3" stop="20260608160000 GMT+3" channel="52101930">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608160000 GMT+3" stop="20260608173000 GMT+3" channel="52101930">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608173000 GMT+3" stop="20260608180000 GMT+3" channel="52101930">
-    <title lang="el">UCL MAGAZINE SHOW 35 MD17 FINAL Review (24) 5/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608180000 GMT+3" stop="20260608200000 GMT+3" channel="52101930">
-    <title lang="el">GREECE - ITALY 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608200000 GMT+3" stop="20260608201500 GMT+3" channel="52101930">
-    <title lang="el">Made in Italy clips : ROMA (15)</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608201500 GMT+3" stop="20260608203000 GMT+3" channel="52101930">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15)</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608203000 GMT+3" stop="20260608213000 GMT+3" channel="52101930">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48)</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608213000 GMT+3" stop="20260608221000 GMT+3" channel="52101930">
-    <title lang="el">NBA Action ep. 33 (30)</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260608221000 GMT+3" stop="20260609001000 GMT+3" channel="52101930">
-    <title lang="el">FRANCE - NORTHERN IRELAND (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -19457,12 +19241,6 @@
   <programme start="20260609210000 GMT+3" stop="20260609210500 GMT+3" channel="561178">
     <title lang="el">LUBEN</title>
     <desc lang="el">LUBEN</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609210500 GMT+3" stop="20260609224500 GMT+3" channel="561178">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
-    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -32737,114 +32515,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260609001000 GMT+3" stop="20260609010000 GMT+3" channel="8242808">
-    <title lang="el">UTMB MONT BLANC 2025 EP.1 (45)</title>
-    <desc lang="el">UTMB MONT BLANC 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609010000 GMT+3" stop="20260609020000 GMT+3" channel="8242808">
-    <title lang="el">JET SKI WORLD SERIES 2025 - ROUND 3 IN THAILAND (52)</title>
-    <desc lang="el">JET SKI WORLD SERIES 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609020000 GMT+3" stop="20260609040000 GMT+3" channel="8242808">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609040000 GMT+3" stop="20260609060000 GMT+3" channel="8242808">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609060000 GMT+3" stop="20260609080000 GMT+3" channel="8242808">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609080000 GMT+3" stop="20260609100000 GMT+3" channel="8242808">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609100000 GMT+3" stop="20260609113000 GMT+3" channel="8242808">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609113000 GMT+3" stop="20260609120000 GMT+3" channel="8242808">
-    <title lang="el">ATP TOUR : THIS WEEK ep.21 (26) 5/6/26</title>
-    <desc lang="el">ATP WORLD TOUR 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609120000 GMT+3" stop="20260609140000 GMT+3" channel="8242808">
-    <title lang="el">GREECE - ITALY 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609140000 GMT+3" stop="20260609160000 GMT+3" channel="8242808">
-    <title lang="el">NETHERLANDS - UZBEKISTAN 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609160000 GMT+3" stop="20260609163000 GMT+3" channel="8242808">
-    <title lang="el">NBA Action ep. 33 (30) 8/6/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609163000 GMT+3" stop="20260609180000 GMT+3" channel="8242808">
-    <title lang="el">2026 ΕΚΠΟΜΠΗ TENNIS - TOPSPIN #18 (75)</title>
-    <desc lang="el">TENNIS WORLD TOUR 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609180000 GMT+3" stop="20260609183000 GMT+3" channel="8242808">
-    <title lang="el">NBA Production Feed ep. 34 (30) 5/6/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609183000 GMT+3" stop="20260609184500 GMT+3" channel="8242808">
-    <title lang="el">Made in Italy clips : ROMA (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609184500 GMT+3" stop="20260609190000 GMT+3" channel="8242808">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609190000 GMT+3" stop="20260609200000 GMT+3" channel="8242808">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48) 8/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609200000 GMT+3" stop="20260609220000 GMT+3" channel="8242808">
-    <title lang="el">HUNGARY - KAZAKHSTAN (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609220000 GMT+3" stop="20260610000000 GMT+3" channel="8242808">
-    <title lang="el">FRANCE - NORTHERN IRELAND 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260609000000 GMT+3" stop="20260609060000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
@@ -34366,15 +34036,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260609143000 GMT+3" stop="20260609160000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Open Capfinances Rouen Metropole της σειράς WTA 250, που πραγματοποιείται στη Ρουέν της Γαλλίας το διάστημα 13-19 Απριλίου. Τένις</desc>
+  <programme start="20260609150000 GMT+3" stop="20260609170000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260609160000 GMT+3" stop="20260609180000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 1000 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mutua Madrid Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Απριλίου έως 3 Μαϊου στη Μαδρίτη. Τένις</desc>
+  <programme start="20260609170000 GMT+3" stop="20260609180000 GMT+3" channel="46137467">
+    <title lang="el">Race Magazine</title>
+    <desc lang="el">Δείτε στιγμιότυπα αγώνων ποδηλασίας, κολύμβησης αντοχής, μηχανοκίνητων, ιστιοπλοϊας και μαραθωνίων. Περισσότερες από 50 κορυφαίες διεθνείς υπαίθριες διοργανώσεις σε 25 χώρες καθ&apos; όλη τη διάρκεια του έτους. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -34384,21 +34054,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260609193000 GMT+3" stop="20260609210000 GMT+3" channel="46137467">
+  <programme start="20260609193000 GMT+3" stop="20260609211500 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου. Τένις</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609211500 GMT+3" stop="20260609223000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 250 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609223000 GMT+3" stop="20260610003000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Internationaux de Strasbourg της σειράς WTA 500 που πραγματοποιείται στο Στρασβούργο το διάστημα 17-23 Μαϊου. Τένις</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609210000 GMT+3" stop="20260609221500 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609221500 GMT+3" stop="20260610001500 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Sar La Princesse Lalla Meryem, γνωστού και ως Rabat Grand Prix, της σειράς WTA 250, που πραγματοποιείται στο Μαρόκο το διάστημα 18-23 Μαϊου. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -34863,114 +34533,6 @@
   <programme start="20260609220000 GMT+3" stop="20260610000000 GMT+3" channel="52098866">
     <title lang="el">ΑΕΛ - ΑΝΟΡΘΩΣΗ 27/4/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609001000 GMT+3" stop="20260609010000 GMT+3" channel="52101930">
-    <title lang="el">UTMB MONT BLANC 2025 EP.1 (45)</title>
-    <desc lang="el">UTMB MONT BLANC 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609010000 GMT+3" stop="20260609020000 GMT+3" channel="52101930">
-    <title lang="el">JET SKI WORLD SERIES 2025 - ROUND 3 IN THAILAND (52)</title>
-    <desc lang="el">JET SKI WORLD SERIES 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609020000 GMT+3" stop="20260609040000 GMT+3" channel="52101930">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609040000 GMT+3" stop="20260609060000 GMT+3" channel="52101930">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609060000 GMT+3" stop="20260609080000 GMT+3" channel="52101930">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609080000 GMT+3" stop="20260609100000 GMT+3" channel="52101930">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609100000 GMT+3" stop="20260609113000 GMT+3" channel="52101930">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609113000 GMT+3" stop="20260609120000 GMT+3" channel="52101930">
-    <title lang="el">ATP TOUR : THIS WEEK ep.21 (26) 5/6/26</title>
-    <desc lang="el">ATP WORLD TOUR 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609120000 GMT+3" stop="20260609140000 GMT+3" channel="52101930">
-    <title lang="el">GREECE - ITALY 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609140000 GMT+3" stop="20260609160000 GMT+3" channel="52101930">
-    <title lang="el">NETHERLANDS - UZBEKISTAN 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609160000 GMT+3" stop="20260609163000 GMT+3" channel="52101930">
-    <title lang="el">NBA Action ep. 33 (30) 8/6/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609163000 GMT+3" stop="20260609180000 GMT+3" channel="52101930">
-    <title lang="el">2026 ΕΚΠΟΜΠΗ TENNIS - TOPSPIN #18 (75)</title>
-    <desc lang="el">TENNIS WORLD TOUR 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609180000 GMT+3" stop="20260609183000 GMT+3" channel="52101930">
-    <title lang="el">NBA Production Feed ep. 34 (30) 5/6/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609183000 GMT+3" stop="20260609184500 GMT+3" channel="52101930">
-    <title lang="el">Made in Italy clips : ROMA (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609184500 GMT+3" stop="20260609190000 GMT+3" channel="52101930">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609190000 GMT+3" stop="20260609200000 GMT+3" channel="52101930">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48) 8/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609200000 GMT+3" stop="20260609220000 GMT+3" channel="52101930">
-    <title lang="el">HUNGARY - KAZAKHSTAN (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260609220000 GMT+3" stop="20260610000000 GMT+3" channel="52101930">
-    <title lang="el">FRANCE - NORTHERN IRELAND 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -36993,12 +36555,6 @@
   <programme start="20260610210000 GMT+3" stop="20260610210500 GMT+3" channel="561178">
     <title lang="el">LUBEN</title>
     <desc lang="el">LUBEN</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610210500 GMT+3" stop="20260610224500 GMT+3" channel="561178">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
-    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -50129,102 +49685,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260610000000 GMT+3" stop="20260610020000 GMT+3" channel="8242808">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610020000 GMT+3" stop="20260610040000 GMT+3" channel="8242808">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610040000 GMT+3" stop="20260610060000 GMT+3" channel="8242808">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610060000 GMT+3" stop="20260610080000 GMT+3" channel="8242808">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610080000 GMT+3" stop="20260610100000 GMT+3" channel="8242808">
-    <title lang="el">VILLARREAL - ATLETICO MADRID 24/5/26</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610100000 GMT+3" stop="20260610110000 GMT+3" channel="8242808">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48) 8/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610110000 GMT+3" stop="20260610130000 GMT+3" channel="8242808">
-    <title lang="el">PARIS SAINT_GERMAIN - ARSENAL (FINAL) 30/5/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610130000 GMT+3" stop="20260610133000 GMT+3" channel="8242808">
-    <title lang="el">THE SPORTS RUNDOWN 2026 EP.2</title>
-    <desc lang="el">THE SPORTS RUNDOWN 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610133000 GMT+3" stop="20260610140000 GMT+3" channel="8242808">
-    <title lang="el">UCL MAGAZINE SHOW 35 MD17 FINAL Review (24) 5/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610140000 GMT+3" stop="20260610160000 GMT+3" channel="8242808">
-    <title lang="el">NETHERLANDS - UZBEKISTAN 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610160000 GMT+3" stop="20260610180000 GMT+3" channel="8242808">
-    <title lang="el">FRANCE - NORTHERN IRELAND 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610180000 GMT+3" stop="20260610190000 GMT+3" channel="8242808">
-    <title lang="el">PL Review of the Season (60) 5/6/26</title>
-    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610190000 GMT+3" stop="20260610203000 GMT+3" channel="8242808">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610203000 GMT+3" stop="20260610223000 GMT+3" channel="8242808">
-    <title lang="el">HUNGARY - KAZAKHSTAN 9/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610223000 GMT+3" stop="20260610230000 GMT+3" channel="8242808">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610230000 GMT+3" stop="20260611010000 GMT+3" channel="8242808">
-    <title lang="el">ENGLAND - COSTA RICA (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260610000000 GMT+3" stop="20260610060000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
@@ -51741,7 +51201,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260610001500 GMT+3" stop="20260610060000 GMT+3" channel="46137467">
+  <programme start="20260610003000 GMT+3" stop="20260610060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -51764,8 +51224,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260610160000 GMT+3" stop="20260610180000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 1000 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Mutua Madrid Open της σειράς WTA 1000, που διεξάγεται το διάστημα 21 Απριλίου έως 3 Μαϊου στη Μαδρίτη. Τένις</desc>
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52254,102 +51714,6 @@
   <programme start="20260610220000 GMT+3" stop="20260611000000 GMT+3" channel="52098866">
     <title lang="el">ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ - FREEDOM 24 KRASAVA Ε.Ν.Y. 25/4/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610000000 GMT+3" stop="20260610020000 GMT+3" channel="52101930">
-    <title lang="el">DENMARK - UKRAINE 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610020000 GMT+3" stop="20260610040000 GMT+3" channel="52101930">
-    <title lang="el">CROATIA - SLOVENIA 7/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610040000 GMT+3" stop="20260610060000 GMT+3" channel="52101930">
-    <title lang="el">PORTUGAL - CHILE 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610060000 GMT+3" stop="20260610080000 GMT+3" channel="52101930">
-    <title lang="el">ENGLAND - NEW ZEALAND 6/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610080000 GMT+3" stop="20260610100000 GMT+3" channel="52101930">
-    <title lang="el">VILLARREAL - ATLETICO MADRID 24/5/26</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610100000 GMT+3" stop="20260610110000 GMT+3" channel="52101930">
-    <title lang="el">UCL MAGAZINE SHOW 36 UCL Season Review (48) 8/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610110000 GMT+3" stop="20260610130000 GMT+3" channel="52101930">
-    <title lang="el">PARIS SAINT_GERMAIN - ARSENAL (FINAL) 30/5/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610130000 GMT+3" stop="20260610133000 GMT+3" channel="52101930">
-    <title lang="el">THE SPORTS RUNDOWN 2026 EP.2</title>
-    <desc lang="el">THE SPORTS RUNDOWN 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610133000 GMT+3" stop="20260610140000 GMT+3" channel="52101930">
-    <title lang="el">UCL MAGAZINE SHOW 35 MD17 FINAL Review (24) 5/6/26</title>
-    <desc lang="el">UEFA CHAMPIONS LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610140000 GMT+3" stop="20260610160000 GMT+3" channel="52101930">
-    <title lang="el">NETHERLANDS - UZBEKISTAN 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610160000 GMT+3" stop="20260610180000 GMT+3" channel="52101930">
-    <title lang="el">FRANCE - NORTHERN IRELAND 8/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610180000 GMT+3" stop="20260610190000 GMT+3" channel="52101930">
-    <title lang="el">PL Review of the Season (60) 5/6/26</title>
-    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610190000 GMT+3" stop="20260610203000 GMT+3" channel="52101930">
-    <title lang="el">GRAND PRIX OF HUNGARY 7/6/26</title>
-    <desc lang="el">2026 MOTO GP</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610203000 GMT+3" stop="20260610223000 GMT+3" channel="52101930">
-    <title lang="el">HUNGARY - KAZAKHSTAN 9/6/26</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610223000 GMT+3" stop="20260610230000 GMT+3" channel="52101930">
-    <title lang="el">Made in Italy clips : ΝAPOLI (15) 8/6/26</title>
-    <desc lang="el">ITALIAN SERIE A 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260610230000 GMT+3" stop="20260611010000 GMT+3" channel="52101930">
-    <title lang="el">ENGLAND - COSTA RICA (Z)</title>
-    <desc lang="el">FRIENDLY MATCH</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -54285,15 +53649,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260611190000 GMT+3" stop="20260611210000 GMT+3" channel="561178">
+  <programme start="20260611190000 GMT+3" stop="20260611200000 GMT+3" channel="561178">
     <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
     <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260611210000 GMT+3" stop="20260611210500 GMT+3" channel="561178">
-    <title lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</title>
-    <desc lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -68156,7 +67514,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260611230000 GMT+3" stop="20260612060000 GMT+3" channel="75835625">
+  <programme start="20260611230000 GMT+3" stop="20260612000000 GMT+3" channel="75835625">
     <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, ΕΠ4 - ΑΝΝΑ ΠΑΝΑΓΗ</title>
     <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
@@ -71654,12 +71012,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260612210000 GMT+3" stop="20260612215500 GMT+3" channel="561178">
-    <title lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</title>
-    <desc lang="el">ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΕΛΛΗΝΙΚΟ ΚΙΝΗΜΑΤΟΓΡΑΦΟ</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260612215500 GMT+3" stop="20260612220000 GMT+3" channel="561178">
     <title lang="el">LUBEN</title>
     <desc lang="el">LUBEN</desc>
@@ -71672,7 +71024,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260612234500 GMT+3" stop="20260613004500 GMT+3" channel="561178">
+  <programme start="20260612234500 GMT+3" stop="20260613001500 GMT+3" channel="561178">
     <title lang="el">ONE NEWS</title>
     <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -87129,7 +86481,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260613004500 GMT+3" stop="20260613030000 GMT+3" channel="561178">
+  <programme start="20260613001500 GMT+3" stop="20260613030000 GMT+3" channel="561178">
     <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
     <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -87216,12 +86568,6 @@
   <programme start="20260613210000 GMT+3" stop="20260613210500 GMT+3" channel="561178">
     <title lang="el">LUBEN</title>
     <desc lang="el">LUBEN</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260613210500 GMT+3" stop="20260613224500 GMT+3" channel="561178">
-    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
-    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -102615,12 +101961,6 @@
   <programme start="20260614230000 GMT+3" stop="20260615013500 GMT+3" channel="561166">
     <title lang="el">Κόκκινη πράκτορας</title>
     <desc lang="el">Κόκκινη πράκτορας</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260614014500 GMT+3" stop="20260614060000 GMT+3" channel="561178">
-    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
