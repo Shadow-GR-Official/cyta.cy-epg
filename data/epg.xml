@@ -17335,7 +17335,259 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260609010000 GMT+3" stop="20260609023000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609023000 GMT+3" stop="20260609040200 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
+    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609040200 GMT+3" stop="20260609045000 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΠΕΚΙΝΟ 2008</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609045000 GMT+3" stop="20260609050200 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609050200 GMT+3" stop="20260609063000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609063000 GMT+3" stop="20260609073000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609073000 GMT+3" stop="20260609093500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
+    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609093500 GMT+3" stop="20260609105500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609105500 GMT+3" stop="20260609115700 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609115700 GMT+3" stop="20260609132300 GMT+3" channel="4185119">
+    <title lang="el">8 ώρες του Σπα - ΑΓΩΝΑΣ</title>
+    <desc lang="el">8 ώρες του Σπα - ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609132300 GMT+3" stop="20260609142200 GMT+3" channel="4185119">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609142200 GMT+3" stop="20260609150200 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λούντενβιλ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λούντενβιλ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609150200 GMT+3" stop="20260609162000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609162000 GMT+3" stop="20260609181500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609181500 GMT+3" stop="20260609184500 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609184500 GMT+3" stop="20260609191400 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Σαν Φρανσίσκο</title>
+    <desc lang="el">PTO Τουρ - Σαν Φρανσίσκο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609191400 GMT+3" stop="20260609203500 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609203500 GMT+3" stop="20260609210300 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609210300 GMT+3" stop="20260609215900 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609215900 GMT+3" stop="20260609222900 GMT+3" channel="4185119">
+    <title lang="el">Αγώνες Powerboat: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΙΤΑΛΙΑ ()</title>
+    <desc lang="el">Αγώνες Powerboat: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΙΤΑΛΙΑ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609222900 GMT+3" stop="20260609232800 GMT+3" channel="4185119">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609232800 GMT+3" stop="20260610000000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260608233000 GMT+3" stop="20260609010000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609010000 GMT+3" stop="20260609020000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609020000 GMT+3" stop="20260609030000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609030000 GMT+3" stop="20260609040000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609040000 GMT+3" stop="20260609045900 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609045900 GMT+3" stop="20260609062900 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
+    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609062900 GMT+3" stop="20260609080100 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609080100 GMT+3" stop="20260609092700 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609092700 GMT+3" stop="20260609105600 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609105600 GMT+3" stop="20260609122400 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 6 ώρες της Ίμολα</title>
+    <desc lang="el">FIA WEC - 6 ώρες της Ίμολα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609122400 GMT+3" stop="20260609132200 GMT+3" channel="5183085">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609132200 GMT+3" stop="20260609142700 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609142700 GMT+3" stop="20260609153000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609153000 GMT+3" stop="20260609163000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609163000 GMT+3" stop="20260609180400 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609180400 GMT+3" stop="20260609192600 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609192600 GMT+3" stop="20260609210000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609210000 GMT+3" stop="20260609214700 GMT+3" channel="5183085">
+    <title lang="el">Λετονία - MX2 - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MX2 - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609214700 GMT+3" stop="20260609224000 GMT+3" channel="5183085">
+    <title lang="el">Λετονία - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609224000 GMT+3" stop="20260609231000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260609231000 GMT+3" stop="20260610005100 GMT+3" channel="5183085">
     <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -34802,6 +35054,258 @@
   <programme start="20260610180000 GMT+3" stop="20260611000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610000000 GMT+3" stop="20260610010400 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610010400 GMT+3" stop="20260610023000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610023000 GMT+3" stop="20260610040000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
+    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610040000 GMT+3" stop="20260610050000 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΛΟΝΔΙΝΟ 2012</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610050000 GMT+3" stop="20260610063000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610063000 GMT+3" stop="20260610073000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610073000 GMT+3" stop="20260610093000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
+    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610093000 GMT+3" stop="20260610100000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610100000 GMT+3" stop="20260610110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610110000 GMT+3" stop="20260610120000 GMT+3" channel="4185119">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610120000 GMT+3" stop="20260610133000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610133000 GMT+3" stop="20260610140000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610140000 GMT+3" stop="20260610150000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610150000 GMT+3" stop="20260610162000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610162000 GMT+3" stop="20260610181500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610181500 GMT+3" stop="20260610190000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610190000 GMT+3" stop="20260610193000 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λούντενβιλ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λούντενβιλ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610193000 GMT+3" stop="20260610211500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610211500 GMT+3" stop="20260610221500 GMT+3" channel="4185119">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610221500 GMT+3" stop="20260610224500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610224500 GMT+3" stop="20260611011500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610005100 GMT+3" stop="20260610011900 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Σαν Φρανσίσκο</title>
+    <desc lang="el">PTO Τουρ - Σαν Φρανσίσκο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610011900 GMT+3" stop="20260610020000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολ οφ Φέιμ Βαρκελώνη 1992</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610020000 GMT+3" stop="20260610030000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολ οφ Φέιμ Ατλάντα 1996</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610030000 GMT+3" stop="20260610040000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολ οφ Φέιμ Σίδνεϊ 2000</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610040000 GMT+3" stop="20260610050000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610050000 GMT+3" stop="20260610063000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 6 ώρες Σπα</title>
+    <desc lang="el">FIA WEC - 6 ώρες Σπα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610063000 GMT+3" stop="20260610080000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610080000 GMT+3" stop="20260610093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610093000 GMT+3" stop="20260610110000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610110000 GMT+3" stop="20260610113000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610113000 GMT+3" stop="20260610121500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610121500 GMT+3" stop="20260610131500 GMT+3" channel="5183085">
+    <title lang="el">ΤΕΝΙΣ ΓΚΡΑΝ ΣΛΑΜ Οι καλύτερες στιγμές του Ρολάν Γκαρός</title>
+    <desc lang="el">ΤΕΝΙΣ ΓΚΡΑΝ ΣΛΑΜ Οι καλύτερες στιγμές του Ρολάν Γκαρός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610131500 GMT+3" stop="20260610134500 GMT+3" channel="5183085">
+    <title lang="el">Αγώνες Powerboat: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΙΤΑΛΙΑ ()</title>
+    <desc lang="el">Αγώνες Powerboat: ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - ΙΤΑΛΙΑ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610134500 GMT+3" stop="20260610144500 GMT+3" channel="5183085">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610144500 GMT+3" stop="20260610181500 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610181500 GMT+3" stop="20260610200000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610200000 GMT+3" stop="20260610213000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610213000 GMT+3" stop="20260610220000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610220000 GMT+3" stop="20260610230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610230000 GMT+3" stop="20260610233000 GMT+3" channel="5183085">
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260610233000 GMT+3" stop="20260611010000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260610000000 GMT+3" stop="20260610020000 GMT+3" channel="52101919">
@@ -52299,6 +52803,240 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260611011500 GMT+3" stop="20260611023000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611023000 GMT+3" stop="20260611040000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611040000 GMT+3" stop="20260611050000 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΡΙΟ 2016</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611050000 GMT+3" stop="20260611063000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611063000 GMT+3" stop="20260611073000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611073000 GMT+3" stop="20260611093000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611093000 GMT+3" stop="20260611110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611110000 GMT+3" stop="20260611120000 GMT+3" channel="4185119">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611120000 GMT+3" stop="20260611123000 GMT+3" channel="4185119">
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611123000 GMT+3" stop="20260611130000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Σαν Φρανσίσκο</title>
+    <desc lang="el">PTO Τουρ - Σαν Φρανσίσκο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611130000 GMT+3" stop="20260611143000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611143000 GMT+3" stop="20260611150000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611150000 GMT+3" stop="20260611162000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611162000 GMT+3" stop="20260611181500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611181500 GMT+3" stop="20260611190000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λούντενβιλ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λούντενβιλ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611190000 GMT+3" stop="20260611193000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611193000 GMT+3" stop="20260611204500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611204500 GMT+3" stop="20260611233000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611233000 GMT+3" stop="20260611234500 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Η δύναμη των Ολυμπιακών</title>
+    <desc lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Η δύναμη των Ολυμπιακών</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611234500 GMT+3" stop="20260612011500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611010000 GMT+3" stop="20260611020000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΑΘΗΝΑ 2004</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611020000 GMT+3" stop="20260611030000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΠΕΚΙΝΟ 2008</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611030000 GMT+3" stop="20260611040000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΛΟΝΔΙΝΟ 2012</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611040000 GMT+3" stop="20260611050000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611050000 GMT+3" stop="20260611063000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611063000 GMT+3" stop="20260611070000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Franco Belgian Circuit - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611070000 GMT+3" stop="20260611080000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - Γύρος Ιταλίας - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611080000 GMT+3" stop="20260611093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611093000 GMT+3" stop="20260611110000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611110000 GMT+3" stop="20260611130000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611130000 GMT+3" stop="20260611133000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611133000 GMT+3" stop="20260611143000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611143000 GMT+3" stop="20260611153000 GMT+3" channel="5183085">
+    <title lang="el">RALLY RAID DAKAR</title>
+    <desc lang="el">RALLY RAID DAKAR</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611153000 GMT+3" stop="20260611190000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611190000 GMT+3" stop="20260611193000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Πράγα - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611193000 GMT+3" stop="20260611210000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611210000 GMT+3" stop="20260611213000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Σαν Φρανσίσκο</title>
+    <desc lang="el">PTO Τουρ - Σαν Φρανσίσκο</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611213000 GMT+3" stop="20260611220000 GMT+3" channel="5183085">
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260611220000 GMT+3" stop="20260612010000 GMT+3" channel="5183085">
+    <title lang="el">Καναδικό Όπεν - 1Η ΗΜΕΡΑ</title>
+    <desc lang="el">Καναδικό Όπεν - 1Η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260611000000 GMT+3" stop="20260611020000 GMT+3" channel="52101919">
     <title lang="el">STUTTGART - PORTO 12/3/26</title>
     <desc lang="el">UEFA EUROPA LEAGUE 2025-26</desc>
@@ -68391,6 +69129,78 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260612070000 GMT+3" stop="20260612090000 GMT+3" channel="24745114">
+    <title lang="el">Ajax - Heracles 24/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612090000 GMT+3" stop="20260612110000 GMT+3" channel="24745114">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612110000 GMT+3" stop="20260612120000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612120000 GMT+3" stop="20260612140000 GMT+3" channel="24745114">
+    <title lang="el">Arsenal FC - OL Lyonnes 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612140000 GMT+3" stop="20260612160000 GMT+3" channel="24745114">
+    <title lang="el">Paris - Metz 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612160000 GMT+3" stop="20260612180000 GMT+3" channel="24745114">
+    <title lang="el">Barcelona - La Laguna Tenerife 11/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612180000 GMT+3" stop="20260612200000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612203000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612203000 GMT+3" stop="20260612210000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612213000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612213000 GMT+3" stop="20260612220000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612220000 GMT+3" stop="20260613000000 GMT+3" channel="24745114">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260612003000 GMT+3" stop="20260612010000 GMT+3" channel="24746908">
     <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 06 Ποδηλασία βουνού (E)</title>
     <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
@@ -68415,6 +69225,78 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260612070000 GMT+3" stop="20260612073000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612073000 GMT+3" stop="20260612083000 GMT+3" channel="24746908">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612083000 GMT+3" stop="20260612093000 GMT+3" channel="24746908">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612093000 GMT+3" stop="20260612113000 GMT+3" channel="24746908">
+    <title lang="el">Paris FC - OH Leuven 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612113000 GMT+3" stop="20260612133000 GMT+3" channel="24746908">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612133000 GMT+3" stop="20260612153000 GMT+3" channel="24746908">
+    <title lang="el">Feyenoord - Fortuna Sittard 17/9/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612153000 GMT+3" stop="20260612173000 GMT+3" channel="24746908">
+    <title lang="el">Ανόρθωση - ΑΕΚ 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612173000 GMT+3" stop="20260612193000 GMT+3" channel="24746908">
+    <title lang="el">PSV Eindhoven - Groningen 23/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612193000 GMT+3" stop="20260612200000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612210000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612230000 GMT+3" channel="24746908">
+    <title lang="el">Valencia Basket - Asisa Joventut 12/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612230000 GMT+3" stop="20260613010000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260612000000 GMT+3" stop="20260612003000 GMT+3" channel="53005467">
     <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
     <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
@@ -68430,6 +69312,96 @@
   <programme start="20260612040000 GMT+3" stop="20260612070000 GMT+3" channel="53005467">
     <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
     <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612070000 GMT+3" stop="20260612100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612100000 GMT+3" stop="20260612103000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612103000 GMT+3" stop="20260612123000 GMT+3" channel="53005467">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612123000 GMT+3" stop="20260612130000 GMT+3" channel="53005467">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612130000 GMT+3" stop="20260612150000 GMT+3" channel="53005467">
+    <title lang="el">Barcelona - La Laguna Tenerife 11/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612150000 GMT+3" stop="20260612153000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612153000 GMT+3" stop="20260612173000 GMT+3" channel="53005467">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612173000 GMT+3" stop="20260612180000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 06 Ποδηλασία βουνού (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612180000 GMT+3" stop="20260612183000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612183000 GMT+3" stop="20260612190000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612190000 GMT+3" stop="20260612200000 GMT+3" channel="53005467">
+    <title lang="el">Τυχερός # 02 The Constructors (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612220000 GMT+3" channel="53005467">
+    <title lang="el">Manchester Utd - Valerenga Fotball 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612220000 GMT+3" stop="20260612223000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612223000 GMT+3" stop="20260612233000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612233000 GMT+3" stop="20260613003000 GMT+3" channel="53005467">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69652,6 +70624,234 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260612011500 GMT+3" stop="20260612023000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612023000 GMT+3" stop="20260612040000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612040000 GMT+3" stop="20260612050000 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολφ οφ Φέιμ Τόκιο 2020</title>
+    <desc lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολφ οφ Φέιμ Τόκιο 2020</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612050000 GMT+3" stop="20260612063000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612063000 GMT+3" stop="20260612071500 GMT+3" channel="4185119">
+    <title lang="el">Λετονία - MX2 - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MX2 - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612071500 GMT+3" stop="20260612080000 GMT+3" channel="4185119">
+    <title lang="el">Λετονία - MXGP - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MXGP - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612080000 GMT+3" stop="20260612084500 GMT+3" channel="4185119">
+    <title lang="el">Λετονία - MX2 - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MX2 - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612084500 GMT+3" stop="20260612093000 GMT+3" channel="4185119">
+    <title lang="el">Λετονία - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Λετονία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612093000 GMT+3" stop="20260612110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612110000 GMT+3" stop="20260612123000 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612123000 GMT+3" stop="20260612143000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612143000 GMT+3" stop="20260612150000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612150000 GMT+3" stop="20260612162000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612162000 GMT+3" stop="20260612181500 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612181500 GMT+3" stop="20260612190500 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612190500 GMT+3" stop="20260612200000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612210000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612214500 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612214500 GMT+3" stop="20260612223000 GMT+3" channel="4185119">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612223000 GMT+3" stop="20260612230000 GMT+3" channel="4185119">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612230000 GMT+3" stop="20260613010000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612010000 GMT+3" stop="20260612020000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΡΙΟ 2016</title>
+    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612020000 GMT+3" stop="20260612030000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολφ οφ Φέιμ Τόκιο 2020</title>
+    <desc lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Χολφ οφ Φέιμ Τόκιο 2020</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612030000 GMT+3" stop="20260612040000 GMT+3" channel="5183085">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Hall of Fame Παρίσι 2024</title>
+    <desc lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Hall of Fame Παρίσι 2024</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612040000 GMT+3" stop="20260612050000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612050000 GMT+3" stop="20260612063000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612063000 GMT+3" stop="20260612080000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612080000 GMT+3" stop="20260612093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612093000 GMT+3" stop="20260612110000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612110000 GMT+3" stop="20260612120000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612120000 GMT+3" stop="20260612130000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612130000 GMT+3" stop="20260612143000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612143000 GMT+3" stop="20260612163000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612163000 GMT+3" stop="20260612174500 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612174500 GMT+3" stop="20260612190000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Βέρνη - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612190000 GMT+3" stop="20260612210000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612220000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612220000 GMT+3" stop="20260613010000 GMT+3" channel="5183085">
+    <title lang="el">Καναδικό Όπεν - 2Η ΗΜΕΡΑ</title>
+    <desc lang="el">Καναδικό Όπεν - 2Η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260612000000 GMT+3" stop="20260612020000 GMT+3" channel="52101919">
     <title lang="el">HUESCA - LEGANES 17/8/25</title>
     <desc lang="el">LA LIGA SEGUNDA DIVISION 2025-26</desc>
@@ -70180,6 +71380,78 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260612070000 GMT+3" stop="20260612090000 GMT+3" channel="52187736">
+    <title lang="el">Ajax - Heracles 24/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612090000 GMT+3" stop="20260612110000 GMT+3" channel="52187736">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612110000 GMT+3" stop="20260612120000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612120000 GMT+3" stop="20260612140000 GMT+3" channel="52187736">
+    <title lang="el">Arsenal FC - OL Lyonnes 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612140000 GMT+3" stop="20260612160000 GMT+3" channel="52187736">
+    <title lang="el">Paris - Metz 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612160000 GMT+3" stop="20260612180000 GMT+3" channel="52187736">
+    <title lang="el">Barcelona - La Laguna Tenerife 11/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612180000 GMT+3" stop="20260612200000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612203000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612203000 GMT+3" stop="20260612210000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612213000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612213000 GMT+3" stop="20260612220000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612220000 GMT+3" stop="20260613000000 GMT+3" channel="52187736">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260612003000 GMT+3" stop="20260612010000 GMT+3" channel="52187749">
     <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 06 Ποδηλασία βουνού (E)</title>
     <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
@@ -70201,6 +71473,78 @@
   <programme start="20260612050000 GMT+3" stop="20260612070000 GMT+3" channel="52187749">
     <title lang="el">PSV Eindhoven - Groningen 23/8/25 (E)</title>
     <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612070000 GMT+3" stop="20260612073000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612073000 GMT+3" stop="20260612083000 GMT+3" channel="52187749">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612083000 GMT+3" stop="20260612093000 GMT+3" channel="52187749">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612093000 GMT+3" stop="20260612113000 GMT+3" channel="52187749">
+    <title lang="el">Paris FC - OH Leuven 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612113000 GMT+3" stop="20260612133000 GMT+3" channel="52187749">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612133000 GMT+3" stop="20260612153000 GMT+3" channel="52187749">
+    <title lang="el">Feyenoord - Fortuna Sittard 17/9/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612153000 GMT+3" stop="20260612173000 GMT+3" channel="52187749">
+    <title lang="el">Ανόρθωση - ΑΕΚ 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612173000 GMT+3" stop="20260612193000 GMT+3" channel="52187749">
+    <title lang="el">PSV Eindhoven - Groningen 23/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612193000 GMT+3" stop="20260612200000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612200000 GMT+3" stop="20260612210000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612210000 GMT+3" stop="20260612230000 GMT+3" channel="52187749">
+    <title lang="el">Valencia Basket - Asisa Joventut 12/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260612230000 GMT+3" stop="20260613010000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -85100,6 +86444,318 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260613000000 GMT+3" stop="20260613003000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613003000 GMT+3" stop="20260613013000 GMT+3" channel="24745114">
+    <title lang="el">Τυχερός # 02 The Constructors (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613013000 GMT+3" stop="20260613033000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613033000 GMT+3" stop="20260613040000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613040000 GMT+3" stop="20260613043000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 03 1/9/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613043000 GMT+3" stop="20260613050000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613070000 GMT+3" channel="24745114">
+    <title lang="el">Monaco - Strasbourg 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613090000 GMT+3" channel="24745114">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613090000 GMT+3" stop="20260613093000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613093000 GMT+3" stop="20260613113000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613133000 GMT+3" channel="24745114">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613153000 GMT+3" channel="24745114">
+    <title lang="el">Ανόρθωση - ΑΕΚ 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613153000 GMT+3" stop="20260613160000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613160000 GMT+3" stop="20260613163000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613163000 GMT+3" stop="20260613170000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613170000 GMT+3" stop="20260613190000 GMT+3" channel="24745114">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613190000 GMT+3" stop="20260613210000 GMT+3" channel="24745114">
+    <title lang="el">Valencia Basket - Asisa Joventut 12/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613210000 GMT+3" stop="20260613220000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613220000 GMT+3" stop="20260613230000 GMT+3" channel="24745114">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613230000 GMT+3" stop="20260613233000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613233000 GMT+3" stop="20260614000000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613010000 GMT+3" stop="20260613030000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613030000 GMT+3" stop="20260613050000 GMT+3" channel="24746908">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613070000 GMT+3" channel="24746908">
+    <title lang="el">Nantes - Auxerre 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613090000 GMT+3" channel="24746908">
+    <title lang="el">Arsenal FC - OL Lyonnes 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613090000 GMT+3" stop="20260613110000 GMT+3" channel="24746908">
+    <title lang="el">Monaco - Strasbourg 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613110000 GMT+3" stop="20260613113000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613133000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613143000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613143000 GMT+3" stop="20260613163000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613163000 GMT+3" stop="20260613183000 GMT+3" channel="24746908">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613183000 GMT+3" stop="20260613190000 GMT+3" channel="24746908">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613190000 GMT+3" stop="20260613210000 GMT+3" channel="24746908">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613210000 GMT+3" stop="20260613230000 GMT+3" channel="24746908">
+    <title lang="el">La Laguna Tenerife vs Barcelona 13/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613230000 GMT+3" stop="20260613233000 GMT+3" channel="24746908">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613233000 GMT+3" stop="20260614000000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613003000 GMT+3" stop="20260613040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613040000 GMT+3" stop="20260613070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613100000 GMT+3" stop="20260613103000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613103000 GMT+3" stop="20260613113000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613123000 GMT+3" channel="53005467">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26 Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613123000 GMT+3" stop="20260613130000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613130000 GMT+3" stop="20260613150000 GMT+3" channel="53005467">
+    <title lang="el">Real Madrid CF - AS Roma 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613150000 GMT+3" stop="20260613170000 GMT+3" channel="53005467">
+    <title lang="el">Valencia Basket - Asisa Joventut 12/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613170000 GMT+3" stop="20260613180000 GMT+3" channel="53005467">
+    <title lang="el">Τυχερός # 02 The Constructors (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613180000 GMT+3" stop="20260613190000 GMT+3" channel="53005467">
+    <title lang="el">Τυχερός # 03 The Talented Mr Ferrari (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613190000 GMT+3" stop="20260613193000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613193000 GMT+3" stop="20260613200000 GMT+3" channel="53005467">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613200000 GMT+3" stop="20260613220000 GMT+3" channel="53005467">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613220000 GMT+3" stop="20260613223000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613223000 GMT+3" stop="20260614003000 GMT+3" channel="53005467">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260613000000 GMT+3" stop="20260613010000 GMT+3" channel="75835625">
     <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.3</title>
     <desc lang="el">ΕΚΠΟΜΠΗ</desc>
@@ -86365,6 +88021,198 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260613010000 GMT+3" stop="20260613023000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613023000 GMT+3" stop="20260613031500 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613031500 GMT+3" stop="20260613040000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613040000 GMT+3" stop="20260613050000 GMT+3" channel="4185119">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Hall of Fame Παρίσι 2024</title>
+    <desc lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ Hall of Fame Παρίσι 2024</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613063000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613063000 GMT+3" stop="20260613093000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613093000 GMT+3" stop="20260613100000 GMT+3" channel="4185119">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613100000 GMT+3" stop="20260613110000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613110000 GMT+3" stop="20260613113000 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613120000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ Κρος Κάουντρι Σορτ Τρακ - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613120000 GMT+3" stop="20260613124500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613124500 GMT+3" stop="20260613133000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613153000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613153000 GMT+3" stop="20260613160000 GMT+3" channel="4185119">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613160000 GMT+3" stop="20260613164500 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613164500 GMT+3" stop="20260614040000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613010000 GMT+3" stop="20260613040000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613040000 GMT+3" stop="20260613050000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613060000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613060000 GMT+3" stop="20260613070000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΑΝΔΡΕΣ)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - BOULDER - Τελικός (ΑΝΔΡΕΣ)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613080000 GMT+3" channel="5183085">
+    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
+    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - ΜΑΔΡΙΤΗ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613080000 GMT+3" stop="20260613093000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613093000 GMT+3" stop="20260613113000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613120000 GMT+3" channel="5183085">
+    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
+    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613120000 GMT+3" stop="20260613131500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613131500 GMT+3" stop="20260613151500 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613151500 GMT+3" stop="20260613162000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613162000 GMT+3" stop="20260613171500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613171500 GMT+3" stop="20260613183000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613183000 GMT+3" stop="20260613191500 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613191500 GMT+3" stop="20260613200000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613200000 GMT+3" stop="20260614010000 GMT+3" channel="5183085">
+    <title lang="el">Καναδικό Όπεν - 3η ΗΜΕΡΑ</title>
+    <desc lang="el">Καναδικό Όπεν - 3η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260613000000 GMT+3" stop="20260613020000 GMT+3" channel="52101919">
     <title lang="el">LEGANES - CADIZ 22/8/25</title>
     <desc lang="el">LA LIGA SEGUNDA DIVISION 2025-26</desc>
@@ -86818,6 +88666,222 @@
   <programme start="20260613230000 GMT+3" stop="20260614000000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613000000 GMT+3" stop="20260613003000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613003000 GMT+3" stop="20260613013000 GMT+3" channel="52187736">
+    <title lang="el">Τυχερός # 02 The Constructors (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613013000 GMT+3" stop="20260613033000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613033000 GMT+3" stop="20260613040000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613040000 GMT+3" stop="20260613043000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26 # 03 1/9/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613043000 GMT+3" stop="20260613050000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613070000 GMT+3" channel="52187736">
+    <title lang="el">Monaco - Strasbourg 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613090000 GMT+3" channel="52187736">
+    <title lang="el">FC Barcelona - FC Bayern Munchen 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613090000 GMT+3" stop="20260613093000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613093000 GMT+3" stop="20260613113000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613133000 GMT+3" channel="52187736">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613153000 GMT+3" channel="52187736">
+    <title lang="el">Ανόρθωση - ΑΕΚ 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613153000 GMT+3" stop="20260613160000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613160000 GMT+3" stop="20260613163000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613163000 GMT+3" stop="20260613170000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613170000 GMT+3" stop="20260613190000 GMT+3" channel="52187736">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613190000 GMT+3" stop="20260613210000 GMT+3" channel="52187736">
+    <title lang="el">Valencia Basket - Asisa Joventut 12/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613210000 GMT+3" stop="20260613220000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613220000 GMT+3" stop="20260613230000 GMT+3" channel="52187736">
+    <title lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ K-19 10/6/26 (E)</title>
+    <desc lang="el">Ποδοσφαιρικά Βραβεία ΠΑΣΠ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613230000 GMT+3" stop="20260613233000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613233000 GMT+3" stop="20260614000000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613010000 GMT+3" stop="20260613030000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613030000 GMT+3" stop="20260613050000 GMT+3" channel="52187749">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613050000 GMT+3" stop="20260613070000 GMT+3" channel="52187749">
+    <title lang="el">Nantes - Auxerre 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613070000 GMT+3" stop="20260613090000 GMT+3" channel="52187749">
+    <title lang="el">Arsenal FC - OL Lyonnes 7/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613090000 GMT+3" stop="20260613110000 GMT+3" channel="52187749">
+    <title lang="el">Monaco - Strasbourg 31/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613110000 GMT+3" stop="20260613113000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613113000 GMT+3" stop="20260613133000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Απόλλων 13/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613143000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613143000 GMT+3" stop="20260613163000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613163000 GMT+3" stop="20260613183000 GMT+3" channel="52187749">
+    <title lang="el">Lorient - Lille 30/8/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613183000 GMT+3" stop="20260613190000 GMT+3" channel="52187749">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613190000 GMT+3" stop="20260613210000 GMT+3" channel="52187749">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613210000 GMT+3" stop="20260613230000 GMT+3" channel="52187749">
+    <title lang="el">La Laguna Tenerife vs Barcelona 13/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613230000 GMT+3" stop="20260613233000 GMT+3" channel="52187749">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613233000 GMT+3" stop="20260614000000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 01 9/10/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -101741,6 +103805,306 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260614000000 GMT+3" stop="20260614010000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614010000 GMT+3" stop="20260614030000 GMT+3" channel="24745114">
+    <title lang="el">PSV Eindhoven - Telstar 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614030000 GMT+3" stop="20260614050000 GMT+3" channel="24745114">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614050000 GMT+3" stop="20260614070000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614090000 GMT+3" channel="24745114">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614090000 GMT+3" stop="20260614093000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614093000 GMT+3" stop="20260614113000 GMT+3" channel="24745114">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614113000 GMT+3" stop="20260614120000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614120000 GMT+3" stop="20260614140000 GMT+3" channel="24745114">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614140000 GMT+3" stop="20260614143000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614143000 GMT+3" stop="20260614163000 GMT+3" channel="24745114">
+    <title lang="el">Brest - Paris 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614163000 GMT+3" stop="20260614170000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614170000 GMT+3" stop="20260614190000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614190000 GMT+3" stop="20260614211500 GMT+3" channel="24745114">
+    <title lang="el">La Laguna Tenerife vs Barcelona 13/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614211500 GMT+3" stop="20260614230000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614230000 GMT+3" stop="20260615010000 GMT+3" channel="24745114">
+    <title lang="el">Volendam - Ajax 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614000000 GMT+3" stop="20260614020000 GMT+3" channel="24746908">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614020000 GMT+3" stop="20260614023000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614023000 GMT+3" stop="20260614043000 GMT+3" channel="24746908">
+    <title lang="el">Brest - Paris 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614043000 GMT+3" stop="20260614050000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614050000 GMT+3" stop="20260614070000 GMT+3" channel="24746908">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614090000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614090000 GMT+3" stop="20260614100000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614100000 GMT+3" stop="20260614110000 GMT+3" channel="24746908">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614110000 GMT+3" stop="20260614113000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614113000 GMT+3" stop="20260614120000 GMT+3" channel="24746908">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614120000 GMT+3" stop="20260614140000 GMT+3" channel="24746908">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614140000 GMT+3" stop="20260614143000 GMT+3" channel="24746908">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614143000 GMT+3" stop="20260614163000 GMT+3" channel="24746908">
+    <title lang="el">Marseille - Lorient 12/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614163000 GMT+3" stop="20260614170000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614170000 GMT+3" stop="20260614185000 GMT+3" channel="24746908">
+    <title lang="el">PSV Eindhoven - Telstar 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614185000 GMT+3" stop="20260614210000 GMT+3" channel="24746908">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614210000 GMT+3" stop="20260614230000 GMT+3" channel="24746908">
+    <title lang="el">Asisa Joventut - Valencia Basket 14/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614230000 GMT+3" stop="20260615010000 GMT+3" channel="24746908">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614003000 GMT+3" stop="20260614040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614040000 GMT+3" stop="20260614070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614100000 GMT+3" stop="20260614103000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614103000 GMT+3" stop="20260614110000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614110000 GMT+3" stop="20260614130000 GMT+3" channel="53005467">
+    <title lang="el">FC Twente - Chelsea FC Women 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614130000 GMT+3" stop="20260614133000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614133000 GMT+3" stop="20260614140000 GMT+3" channel="53005467">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614140000 GMT+3" stop="20260614160000 GMT+3" channel="53005467">
+    <title lang="el">La Laguna Tenerife vs Barcelona 13/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614160000 GMT+3" stop="20260614180000 GMT+3" channel="53005467">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614180000 GMT+3" stop="20260614183000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614183000 GMT+3" stop="20260614190000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614190000 GMT+3" stop="20260614200000 GMT+3" channel="53005467">
+    <title lang="el">Τυχερός # 03 The Talented Mr Ferrari (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614200000 GMT+3" stop="20260614220000 GMT+3" channel="53005467">
+    <title lang="el">VFL Wolfsburg - Paris Saint-Germain 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614220000 GMT+3" stop="20260614223000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614223000 GMT+3" stop="20260615003000 GMT+3" channel="53005467">
+    <title lang="el">Manchester Utd - Valerenga Fotball 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260614000000 GMT+3" stop="20260614013000 GMT+3" channel="75835625">
     <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΛ (25/10/2025)</title>
     <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ14</desc>
@@ -102857,6 +105221,138 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260614040000 GMT+3" stop="20260614180000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614180000 GMT+3" stop="20260614184500 GMT+3" channel="4185119">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614184500 GMT+3" stop="20260614210000 GMT+3" channel="4185119">
+    <title lang="el">Άλμα - Σαιν-Τροπέ</title>
+    <desc lang="el">Άλμα - Σαιν-Τροπέ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614210000 GMT+3" stop="20260614230000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614230000 GMT+3" stop="20260615003000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614010000 GMT+3" stop="20260614023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614023000 GMT+3" stop="20260614031500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614031500 GMT+3" stop="20260614040000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614040000 GMT+3" stop="20260614053000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614053000 GMT+3" stop="20260614070000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614074500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΓΥΝΑΙΚΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614074500 GMT+3" stop="20260614093000 GMT+3" channel="5183085">
+    <title lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</title>
+    <desc lang="el">ΡΟΛΑΝ ΓΚΑΡΟΣ - Μονό - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614093000 GMT+3" stop="20260614100000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614100000 GMT+3" stop="20260614110000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614110000 GMT+3" stop="20260614114500 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614114500 GMT+3" stop="20260614123000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614123000 GMT+3" stop="20260614144000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614144000 GMT+3" stop="20260614162500 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614162500 GMT+3" stop="20260614181500 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614181500 GMT+3" stop="20260614190000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614190000 GMT+3" stop="20260614200000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614200000 GMT+3" stop="20260615010000 GMT+3" channel="5183085">
+    <title lang="el">Καναδικό Όπεν - 4η ημέρα</title>
+    <desc lang="el">Καναδικό Όπεν - 4η ημέρα</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260614000000 GMT+3" stop="20260614020000 GMT+3" channel="52101919">
     <title lang="el">ΑΠΟΕΛ - ΑΕΛ 16/2/26</title>
     <desc lang="el">ΚΥΠΕΛΛΟ FUTSAL 2025-26</desc>
@@ -103328,6 +105824,210 @@
   <programme start="20260614230000 GMT+3" stop="20260615000000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614000000 GMT+3" stop="20260614010000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614010000 GMT+3" stop="20260614030000 GMT+3" channel="52187736">
+    <title lang="el">PSV Eindhoven - Telstar 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614030000 GMT+3" stop="20260614050000 GMT+3" channel="52187736">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614050000 GMT+3" stop="20260614070000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614090000 GMT+3" channel="52187736">
+    <title lang="el">Ολλανδία - Πολωνία 9/6/26 (E)</title>
+    <desc lang="el">Προκριματικά Παγκοσμίου Κυπέλλου Γυναικών FIFA 2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614090000 GMT+3" stop="20260614093000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614093000 GMT+3" stop="20260614113000 GMT+3" channel="52187736">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614113000 GMT+3" stop="20260614120000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614120000 GMT+3" stop="20260614140000 GMT+3" channel="52187736">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614140000 GMT+3" stop="20260614143000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614143000 GMT+3" stop="20260614163000 GMT+3" channel="52187736">
+    <title lang="el">Brest - Paris 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614163000 GMT+3" stop="20260614170000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614170000 GMT+3" stop="20260614190000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614190000 GMT+3" stop="20260614211500 GMT+3" channel="52187736">
+    <title lang="el">La Laguna Tenerife vs Barcelona 13/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614211500 GMT+3" stop="20260614230000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614230000 GMT+3" stop="20260615010000 GMT+3" channel="52187736">
+    <title lang="el">Volendam - Ajax 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614000000 GMT+3" stop="20260614020000 GMT+3" channel="52187749">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614020000 GMT+3" stop="20260614023000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614023000 GMT+3" stop="20260614043000 GMT+3" channel="52187749">
+    <title lang="el">Brest - Paris 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614043000 GMT+3" stop="20260614050000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614050000 GMT+3" stop="20260614070000 GMT+3" channel="52187749">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614070000 GMT+3" stop="20260614090000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614090000 GMT+3" stop="20260614100000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26 # 03 26/8/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614100000 GMT+3" stop="20260614110000 GMT+3" channel="52187749">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614110000 GMT+3" stop="20260614113000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614113000 GMT+3" stop="20260614120000 GMT+3" channel="52187749">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614120000 GMT+3" stop="20260614140000 GMT+3" channel="52187749">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614140000 GMT+3" stop="20260614143000 GMT+3" channel="52187749">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614143000 GMT+3" stop="20260614163000 GMT+3" channel="52187749">
+    <title lang="el">Marseille - Lorient 12/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614163000 GMT+3" stop="20260614170000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614170000 GMT+3" stop="20260614185000 GMT+3" channel="52187749">
+    <title lang="el">PSV Eindhoven - Telstar 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614185000 GMT+3" stop="20260614210000 GMT+3" channel="52187749">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614210000 GMT+3" stop="20260614230000 GMT+3" channel="52187749">
+    <title lang="el">Asisa Joventut - Valencia Basket 14/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260614230000 GMT+3" stop="20260615010000 GMT+3" channel="52187749">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -117354,6 +120054,318 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615030000 GMT+3" channel="24745114">
+    <title lang="el">Sparta Rotterdam - Feyenoord 31/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615030000 GMT+3" stop="20260615050000 GMT+3" channel="24745114">
+    <title lang="el">Marseille - Lorient 12/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615050000 GMT+3" stop="20260615070000 GMT+3" channel="24745114">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615070000 GMT+3" stop="20260615090000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615090000 GMT+3" stop="20260615110000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615110000 GMT+3" stop="20260615123000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615123000 GMT+3" stop="20260615130000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615130000 GMT+3" stop="20260615150000 GMT+3" channel="24745114">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615153000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615153000 GMT+3" stop="20260615173000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Toulouse 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615173000 GMT+3" stop="20260615180000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615180000 GMT+3" stop="20260615200000 GMT+3" channel="24745114">
+    <title lang="el">Asisa Joventut - Valencia Basket 14/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615200000 GMT+3" stop="20260615203000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615203000 GMT+3" stop="20260615210000 GMT+3" channel="24745114">
+    <title lang="el">Football Nation (Season 3) # 06 Κροατία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615210000 GMT+3" stop="20260615213000 GMT+3" channel="24745114">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 42 12/6/26</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615213000 GMT+3" stop="20260615220000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260615230000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Τζόρνταν: Μια Αλλιώτικη Βόλτα (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615230000 GMT+3" stop="20260616000000 GMT+3" channel="24745114">
+    <title lang="el">Τυχερός # 03 The Talented Mr Ferrari (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615030000 GMT+3" channel="24746908">
+    <title lang="el">Lille - Toulouse 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615030000 GMT+3" stop="20260615050000 GMT+3" channel="24746908">
+    <title lang="el">Strasbourg - Le Havre 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615050000 GMT+3" stop="20260615070000 GMT+3" channel="24746908">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615070000 GMT+3" stop="20260615090000 GMT+3" channel="24746908">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615090000 GMT+3" stop="20260615093000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615093000 GMT+3" stop="20260615113000 GMT+3" channel="24746908">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615113000 GMT+3" stop="20260615120000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615120000 GMT+3" stop="20260615140000 GMT+3" channel="24746908">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615140000 GMT+3" stop="20260615143000 GMT+3" channel="24746908">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615143000 GMT+3" stop="20260615150000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615170000 GMT+3" channel="24746908">
+    <title lang="el">Volendam - Ajax 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615170000 GMT+3" stop="20260615173000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615173000 GMT+3" stop="20260615190000 GMT+3" channel="24746908">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615190000 GMT+3" stop="20260615193000 GMT+3" channel="24746908">
+    <title lang="el">Ομάδες Όνειρο # 0717 Benfica&apos;s Dream Team / USA&apos;s Best (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615193000 GMT+3" stop="20260615200000 GMT+3" channel="24746908">
+    <title lang="el">Football Nation (Season 3) # 06 Κροατία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615200000 GMT+3" stop="20260615220000 GMT+3" channel="24746908">
+    <title lang="el">Sparta Rotterdam - Feyenoord 31/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260616000000 GMT+3" channel="24746908">
+    <title lang="el">La Laguna Tenerife - Barcelona 15/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615003000 GMT+3" stop="20260615040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615040000 GMT+3" stop="20260615070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615070000 GMT+3" stop="20260615100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615100000 GMT+3" stop="20260615110000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Εβδομήντα Επτά (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615110000 GMT+3" stop="20260615113000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615113000 GMT+3" stop="20260615120000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615120000 GMT+3" stop="20260615140000 GMT+3" channel="53005467">
+    <title lang="el">Asisa Joventut - Valencia Basket 14/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615140000 GMT+3" stop="20260615160000 GMT+3" channel="53005467">
+    <title lang="el">Real Madrid CF - AS Roma 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615160000 GMT+3" stop="20260615180000 GMT+3" channel="53005467">
+    <title lang="el">Manchester Utd - Valerenga Fotball 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615180000 GMT+3" stop="20260615183000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615183000 GMT+3" stop="20260615190000 GMT+3" channel="53005467">
+    <title lang="el">Football Nation (Season 3) # 05 Βέλγιο (E)</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615190000 GMT+3" stop="20260615193000 GMT+3" channel="53005467">
+    <title lang="el">Football Nation (Season 3) # 06 Κροατία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615193000 GMT+3" stop="20260615200000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615200000 GMT+3" stop="20260615210000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Τζόρνταν: Μια Αλλιώτικη Βόλτα (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615210000 GMT+3" stop="20260615223000 GMT+3" channel="53005467">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615223000 GMT+3" stop="20260615230000 GMT+3" channel="53005467">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 42 12/6/26</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615230000 GMT+3" stop="20260616010000 GMT+3" channel="53005467">
+    <title lang="el">VFL Wolfsburg - Paris Saint-Germain 8/10/25 (E)</title>
+    <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260615000000 GMT+3" stop="20260615020000 GMT+3" channel="75835625">
     <title lang="el">ΟΜΟΝΟΙΑ - ΟΛΥΜΠΙΑΚΟΣ (08/11/2025)</title>
     <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
@@ -118428,6 +121440,204 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260615003000 GMT+3" stop="20260615010000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615023000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615023000 GMT+3" stop="20260615031500 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615031500 GMT+3" stop="20260615040000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615040000 GMT+3" stop="20260615053000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615053000 GMT+3" stop="20260615063000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615063000 GMT+3" stop="20260615073000 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615073000 GMT+3" stop="20260615093000 GMT+3" channel="4185119">
+    <title lang="el">- Μάστερς Λονδίνου - Τελικός</title>
+    <desc lang="el">- Μάστερς Λονδίνου - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615093000 GMT+3" stop="20260615120000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615120000 GMT+3" stop="20260615130000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615130000 GMT+3" stop="20260615140000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615140000 GMT+3" stop="20260615150000 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615170000 GMT+3" channel="4185119">
+    <title lang="el">Άλμα - Σαιν-Τροπέ</title>
+    <desc lang="el">Άλμα - Σαιν-Τροπέ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615170000 GMT+3" stop="20260615190000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615190000 GMT+3" stop="20260615203000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615203000 GMT+3" stop="20260615211500 GMT+3" channel="4185119">
+    <title lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615211500 GMT+3" stop="20260615220000 GMT+3" channel="4185119">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260616010000 GMT+3" channel="4185119">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615023000 GMT+3" stop="20260615040000 GMT+3" channel="5183085">
+    <title lang="el">- Μάστερς Λονδίνου - Τελικός</title>
+    <desc lang="el">- Μάστερς Λονδίνου - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615040000 GMT+3" stop="20260615044500 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615044500 GMT+3" stop="20260615053000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615053000 GMT+3" stop="20260615073000 GMT+3" channel="5183085">
+    <title lang="el">- Μάστερς Λονδίνου - Τελικός</title>
+    <desc lang="el">- Μάστερς Λονδίνου - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615073000 GMT+3" stop="20260615083000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615083000 GMT+3" stop="20260615093000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615093000 GMT+3" stop="20260615120000 GMT+3" channel="5183085">
+    <title lang="el">- Μάστερς Λονδίνου - Τελικός</title>
+    <desc lang="el">- Μάστερς Λονδίνου - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615120000 GMT+3" stop="20260615150000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615160000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</title>
+    <desc lang="el">ΑΝΔΡΕΣ Ολυμπιακό Κρος Κάουντρι - Λέογκανγκ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615160000 GMT+3" stop="20260615170000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615170000 GMT+3" stop="20260615180000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΟΒΕΡΝΗΣ ΡΟΝ ΑΛΠΕΙΣ - 8ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615180000 GMT+3" stop="20260615190000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - ΣΠΡΙΝΤ ΚΟΠΕΓΧΑΓΗΣ - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615190000 GMT+3" stop="20260615220000 GMT+3" channel="5183085">
+    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
+    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260616000000 GMT+3" channel="5183085">
+    <title lang="el">Άλμα - Σαιν-Τροπέ</title>
+    <desc lang="el">Άλμα - Σαιν-Τροπέ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260615000000 GMT+3" stop="20260615010000 GMT+3" channel="52101919">
     <title lang="el">2026 ATP 500 ABN AMRO Highlights (52) 17/2/26</title>
     <desc lang="el">2026 ATP 500 ABN AMRO</desc>
@@ -118905,6 +122115,216 @@
   <programme start="20260615230000 GMT+3" stop="20260616000000 GMT+3" channel="103956040">
     <title lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</title>
     <desc lang="el">ΣΥΝΤΟΜΑ ΞΑΝΑ ΚΟΝΤΑ ΣΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615030000 GMT+3" channel="52187736">
+    <title lang="el">Sparta Rotterdam - Feyenoord 31/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615030000 GMT+3" stop="20260615050000 GMT+3" channel="52187736">
+    <title lang="el">Marseille - Lorient 12/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615050000 GMT+3" stop="20260615070000 GMT+3" channel="52187736">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615070000 GMT+3" stop="20260615090000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615090000 GMT+3" stop="20260615110000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Ολυμπιακός 27/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615110000 GMT+3" stop="20260615123000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615123000 GMT+3" stop="20260615130000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615130000 GMT+3" stop="20260615150000 GMT+3" channel="52187736">
+    <title lang="el">Ανόρθωση - Ομόνοια 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615153000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615153000 GMT+3" stop="20260615173000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Toulouse 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615173000 GMT+3" stop="20260615180000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615180000 GMT+3" stop="20260615200000 GMT+3" channel="52187736">
+    <title lang="el">Asisa Joventut - Valencia Basket 14/6/26</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615200000 GMT+3" stop="20260615203000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615203000 GMT+3" stop="20260615210000 GMT+3" channel="52187736">
+    <title lang="el">Football Nation (Season 3) # 06 Κροατία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615210000 GMT+3" stop="20260615213000 GMT+3" channel="52187736">
+    <title lang="el">Game R1 (Season 6) 2025-26 # 42 12/6/26</title>
+    <desc lang="el">Game R1 (Season 6) 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615213000 GMT+3" stop="20260615220000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260615230000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Τζόρνταν: Μια Αλλιώτικη Βόλτα (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615230000 GMT+3" stop="20260616000000 GMT+3" channel="52187736">
+    <title lang="el">Τυχερός # 03 The Talented Mr Ferrari (E)</title>
+    <desc lang="el">Τυχερός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615010000 GMT+3" stop="20260615030000 GMT+3" channel="52187749">
+    <title lang="el">Lille - Toulouse 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615030000 GMT+3" stop="20260615050000 GMT+3" channel="52187749">
+    <title lang="el">Strasbourg - Le Havre 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615050000 GMT+3" stop="20260615070000 GMT+3" channel="52187749">
+    <title lang="el">ΑΠΟΕΛ - Απόλλων 28/9/25 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615070000 GMT+3" stop="20260615090000 GMT+3" channel="52187749">
+    <title lang="el">Paris Saint-Germain - Lens 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615090000 GMT+3" stop="20260615093000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615093000 GMT+3" stop="20260615113000 GMT+3" channel="52187749">
+    <title lang="el">Auxerre - Monaco 13/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615113000 GMT+3" stop="20260615120000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 4) # 08 Πυγμαχία (E)</title>
+    <desc lang="el">The Iconic (Season 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615120000 GMT+3" stop="20260615140000 GMT+3" channel="52187749">
+    <title lang="el">Rennes - Lyon 14/9/25 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615140000 GMT+3" stop="20260615143000 GMT+3" channel="52187749">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3) # 03 F1 Drivers (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615143000 GMT+3" stop="20260615150000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1) # 07 Μπέιζμπολ (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615150000 GMT+3" stop="20260615170000 GMT+3" channel="52187749">
+    <title lang="el">Volendam - Ajax 30/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615170000 GMT+3" stop="20260615173000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4) # 07 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615173000 GMT+3" stop="20260615190000 GMT+3" channel="52187749">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 32 14/6/26</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615190000 GMT+3" stop="20260615193000 GMT+3" channel="52187749">
+    <title lang="el">Ομάδες Όνειρο # 0717 Benfica&apos;s Dream Team / USA&apos;s Best (E)</title>
+    <desc lang="el">ΟΜΑΔΕΣ ΟΝΕΙΡΟ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615193000 GMT+3" stop="20260615200000 GMT+3" channel="52187749">
+    <title lang="el">Football Nation (Season 3) # 06 Κροατία</title>
+    <desc lang="el">Football Nation (Season 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615200000 GMT+3" stop="20260615220000 GMT+3" channel="52187749">
+    <title lang="el">Sparta Rotterdam - Feyenoord 31/8/25 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615220000 GMT+3" stop="20260616000000 GMT+3" channel="52187749">
+    <title lang="el">La Laguna Tenerife - Barcelona 15/6/26 (Z)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
