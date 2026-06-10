@@ -55,6 +55,8 @@ http://127.0.0.1/9745267
 http://127.0.0.1/9744271
 #EXTINF:-1 tvg-id="10963625" tvg-name="Novalife HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/16/20240226093905353ntp.png",Novalife HD
 http://127.0.0.1/10963625
+#EXTINF:-1 tvg-id="6260715" tvg-name="Novasummer" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202605/20260519/47/07111126098747a134f0.jpg",Novasummer
+http://127.0.0.1/6260715
 #EXTINF:-1 tvg-id="216595" tvg-name="FOX life HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/78/202402260813353617dr.png",FOX life HD
 http://127.0.0.1/216595
 #EXTINF:-1 tvg-id="2755" tvg-name="FOX HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/63/20240226081431262r72.png",FOX HD
@@ -167,6 +169,8 @@ http://127.0.0.1/54111722
 http://127.0.0.1/94430673
 #EXTINF:-1 tvg-id="97085851" tvg-name="REAL MADRID TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202507/20250730/43/06135676064447a1e4f2.jpg",REAL MADRID TV
 http://127.0.0.1/97085851
+#EXTINF:-1 tvg-id="12254006" tvg-name="Manchester United TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202605/20260515/74/05235613616047a1e4f2.jpg",Manchester United TV
+http://127.0.0.1/12254006
 #EXTINF:-1 tvg-id="2491" tvg-name="Motorvision" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/3/20240226083641273yfi.png",Motorvision
 http://127.0.0.1/2491
 #EXTINF:-1 tvg-id="46137848" tvg-name="Novasports Start HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240220/66/2024022009034125189u.png",Novasports Start HD
