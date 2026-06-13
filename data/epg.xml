@@ -15914,6 +15914,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613150000 GMT+3" channel="8242886">
+    <title lang="el">ATP 250 - S-HERTOGENBOSCH (QF 4) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 250 - S-HERTOGENBOSCH</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613150000 GMT+3" stop="20260613160000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260613160000 GMT+3" stop="20260613180000 GMT+3" channel="8242886">
     <title lang="el">Adrian MANNARINO - Alex DE MINAUR (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - S-HERTOGENBOSCH</desc>
@@ -16001,6 +16013,12 @@
   <programme start="20260613060000 GMT+3" stop="20260613120000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613120000 GMT+3" stop="20260613130000 GMT+3" channel="74516237">
+    <title lang="el">ATP 250 - STUTTGART (QF 4) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 250 - STUTTGART</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -18550,6 +18568,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260613133000 GMT+3" stop="20260613150000 GMT+3" channel="52105043">
+    <title lang="el">ATP 250 - S-HERTOGENBOSCH (QF 4) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 250 - S-HERTOGENBOSCH</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613150000 GMT+3" stop="20260613160000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260613160000 GMT+3" stop="20260613180000 GMT+3" channel="52105043">
     <title lang="el">Adrian MANNARINO - Alex DE MINAUR (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - S-HERTOGENBOSCH</desc>
@@ -18637,6 +18667,12 @@
   <programme start="20260613060000 GMT+3" stop="20260613120000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260613120000 GMT+3" stop="20260613130000 GMT+3" channel="77956035">
+    <title lang="el">ATP 250 - STUTTGART (QF 4) συνέχεια (Z)</title>
+    <desc lang="el">2026 ATP 250 - STUTTGART</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52649,6 +52685,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260615000000 GMT+3" stop="20260615060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260615060000 GMT+3" stop="20260615120000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -52730,6 +52772,12 @@
   <programme start="20260615180000 GMT+3" stop="20260616000000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615000000 GMT+3" stop="20260615060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -54923,6 +54971,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260615000000 GMT+3" stop="20260615060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260615060000 GMT+3" stop="20260615120000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -55004,6 +55058,12 @@
   <programme start="20260615180000 GMT+3" stop="20260616000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260615000000 GMT+3" stop="20260615060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
