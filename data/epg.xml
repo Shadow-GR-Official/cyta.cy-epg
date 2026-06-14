@@ -51934,6 +51934,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260616000000 GMT+3" stop="20260616060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260616060000 GMT+3" stop="20260616120000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -52027,6 +52033,12 @@
   <programme start="20260616214500 GMT+3" stop="20260617000000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260616000000 GMT+3" stop="20260616060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -54166,6 +54178,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260616000000 GMT+3" stop="20260616060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260616060000 GMT+3" stop="20260616120000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -54259,6 +54277,12 @@
   <programme start="20260616214500 GMT+3" stop="20260617000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260616000000 GMT+3" stop="20260616060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
