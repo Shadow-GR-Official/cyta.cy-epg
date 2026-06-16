@@ -96,14 +96,16 @@ function buildEpgUrl(channelIds, dayOffset = 0) {
 // FETCH WEEK
 // --------------------
 async function fetchBaseEpg(days = 7) {
-  log("EPG", `Fetching EPG for ${days} days...`);
+  // Ενημέρωση του log για να δείχνει σωστά το σύνολο των ημερών (+1 για τη χθεσινή)
+  log("EPG", `Fetching EPG for ${days + 1} days (including yesterday)...`);
 
   const channelMap = await fetchChannels();
   const channelIds = [...channelMap.keys()];
 
   let all = [];
 
-  for (let d = 0; d < days; d++) {
+  // ΑΛΛΑΓΗ: Το d ξεκινάει από -1 ώστε η Luxon να φέρει τη χθεσινή ημέρα
+  for (let d = -1; d < days; d++) {
     try {
       const res = await axios.get(buildEpgUrl(channelIds, d), {
         timeout: 30000,
