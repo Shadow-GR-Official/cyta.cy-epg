@@ -966,12 +966,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617001500 GMT+3" stop="20260617011500 GMT+3" channel="54111184">
-    <title lang="el">Lingo (E)</title>
-    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260615234500 GMT+3" stop="20260616004500 GMT+3" channel="54184415">
     <title lang="el">ΓΙΑΤΙ ΡΕ ΠΑΤΕΡΑ; ΕΠ28</title>
     <desc lang="el">Η Μάγδα ζητάει την βοήθεια του Ρουκάκα για να εκτελέσει το σχέδιο του Νίκου, ενώ η Χρυσώ και η Διαμάντω έχουν εγκατασταθεί στο σπίτι της Αντιγόνης με σκοπό να την «ξεμπροστιάσουν». Κι ενώ η σχέση του Μιχαήλου με τη Βιβή προχωράει, ο Μιχαήλος μαθαίνει για πρώτη φορά ότι ο Τσατσάνης ήταν βαριά άρρωστος. Σοκαρισμένος, βρίσκει τον Δάκη και του επιτίθεται, ενώ παράλληλα στο σπίτι του Τσατσάνη το σχέδιο εναντίον του Μιχαήλου είναι έτοιμο να ξεκινήσει...</desc>
@@ -1041,6 +1035,12 @@
   <programme start="20260616140000 GMT+3" stop="20260616150000 GMT+3" channel="54184415">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ (E)</title>
     <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων είναι το θέμα της σειράς. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη σερβιτόρα. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη ερωτική έλξη.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260616150000 GMT+3" stop="20260616160000 GMT+3" channel="54184415">
+    <title lang="el">ΟΝΕΙΡΟΠΑΓΙΔΑ (E) ΕΠ16</title>
+    <desc lang="el">Ο Πέτρος κατεβαίνει στο νησί για να βρει τη Χλόη και να του μιλήσει για την Κατερίνα Λαδά όταν βλέπει την Άννα - που θεωρούσε ότι είναι στην Αθήνα - να βγαίνει από το σπίτι του Μίλτου. Ο Πέτρος ξεκαθαρίζει με την Άννα και τον Μίλτο και ζητά εξηγήσεις από την Κατερίνα για την ταυτότητα της. Η Κατερίνα του λέει την αλήθεια και το λόγο που την έκανε να κρύβει την πραγματική της ταυτότητα, ενώ η Μύριαν και ο Άγγελος έρχονται για μερικές μέρες στην Ονειροπαγίδα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -2388,12 +2388,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617001500 GMT+3" stop="20260617011500 GMT+3" channel="289555">
-    <title lang="el">Lingo (E)</title>
-    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260615234500 GMT+3" stop="20260616004500 GMT+3" channel="289542">
     <title lang="el">ΓΙΑΤΙ ΡΕ ΠΑΤΕΡΑ; ΕΠ28</title>
     <desc lang="el">Η Μάγδα ζητάει την βοήθεια του Ρουκάκα για να εκτελέσει το σχέδιο του Νίκου, ενώ η Χρυσώ και η Διαμάντω έχουν εγκατασταθεί στο σπίτι της Αντιγόνης με σκοπό να την «ξεμπροστιάσουν». Κι ενώ η σχέση του Μιχαήλου με τη Βιβή προχωράει, ο Μιχαήλος μαθαίνει για πρώτη φορά ότι ο Τσατσάνης ήταν βαριά άρρωστος. Σοκαρισμένος, βρίσκει τον Δάκη και του επιτίθεται, ενώ παράλληλα στο σπίτι του Τσατσάνη το σχέδιο εναντίον του Μιχαήλου είναι έτοιμο να ξεκινήσει...</desc>
@@ -2463,6 +2457,12 @@
   <programme start="20260616140000 GMT+3" stop="20260616150000 GMT+3" channel="289542">
     <title lang="el">ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ (E)</title>
     <desc lang="el">Η συνύπαρξη δύο διαφορετικών ανθρώπων είναι το θέμα της σειράς. Ο Κωνσταντίνος Κατακουζηνός είναι επίκουρος καθηγητής της Βυζαντινολογίας και γενικά μισάνθρωπος. Η Ελένη Βλαχάκου είναι μια χαρούμενη σερβιτόρα. Από τη συμβίωση των δυο άκρως αντίθετων χαρακτήρων δημιουργούνται διάφορα ευτράπελα. Τους ήρωές μας ενώνει κάτι κοινό, μια αδιόρατη ερωτική έλξη.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260616150000 GMT+3" stop="20260616160000 GMT+3" channel="289542">
+    <title lang="el">ΟΝΕΙΡΟΠΑΓΙΔΑ (E) ΕΠ16</title>
+    <desc lang="el">Ο Πέτρος κατεβαίνει στο νησί για να βρει τη Χλόη και να του μιλήσει για την Κατερίνα Λαδά όταν βλέπει την Άννα - που θεωρούσε ότι είναι στην Αθήνα - να βγαίνει από το σπίτι του Μίλτου. Ο Πέτρος ξεκαθαρίζει με την Άννα και τον Μίλτο και ζητά εξηγήσεις από την Κατερίνα για την ταυτότητα της. Η Κατερίνα του λέει την αλήθεια και το λόγο που την έκανε να κρύβει την πραγματική της ταυτότητα, ενώ η Μύριαν και ο Άγγελος έρχονται για μερικές μέρες στην Ονειροπαγίδα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -18980,6 +18980,12 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260617001500 GMT+3" stop="20260617011500 GMT+3" channel="54111184">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260617011500 GMT+3" stop="20260617030000 GMT+3" channel="54111184">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
@@ -19268,6 +19274,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260617153000 GMT+3" stop="20260617170000 GMT+3" channel="289530">
+    <title lang="el">ΑΡΓΕΝΤΙΝΗ - ΑΛΓΕΡΙΑ</title>
+    <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260617170000 GMT+3" stop="20260617175000 GMT+3" channel="289530">
     <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
     <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
@@ -19295,6 +19307,12 @@
   <programme start="20260617193000 GMT+3" stop="20260617200000 GMT+3" channel="289530">
     <title lang="el">Mundial 2026 Pregame</title>
     <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260617200000 GMT+3" stop="20260617220000 GMT+3" channel="289530">
+    <title lang="el">ΠΟΡΤΟΓΑΛΙΑ - ΛΑΙΚΗ ΔΗΜΟΚΡΑΤΙΑ ΤΟΥ ΚΟΝΓΚΟ</title>
+    <desc lang="el">ΠΟΡΤΟΓΑΛΙΑ - ΛΑΙΚΗ ΔΗΜΟΚΡΑΤΙΑ ΤΟΥ ΚΟΝΓΚΟ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -20293,6 +20311,12 @@
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260617001500 GMT+3" stop="20260617011500 GMT+3" channel="289555">
+    <title lang="el">Lingo (E)</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260617011500 GMT+3" stop="20260617030000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
@@ -32555,6 +32579,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260617060000 GMT+3" stop="20260617070000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260617070000 GMT+3" stop="20260617073000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
@@ -32591,7 +32621,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617060000 GMT+3" stop="20260617070000 GMT+3" channel="211368">
+  <programme start="20260617100000 GMT+3" stop="20260617110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -32621,7 +32651,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617100000 GMT+3" stop="20260617110000 GMT+3" channel="211368">
+  <programme start="20260617130000 GMT+3" stop="20260617140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -32639,13 +32669,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617130000 GMT+3" stop="20260617140000 GMT+3" channel="211368">
+  <programme start="20260617150000 GMT+3" stop="20260617160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617150000 GMT+3" stop="20260617160000 GMT+3" channel="211368">
+  <programme start="20260617160000 GMT+3" stop="20260617170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -32663,7 +32693,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617160000 GMT+3" stop="20260617170000 GMT+3" channel="211368">
+  <programme start="20260617180000 GMT+3" stop="20260617190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -32693,7 +32723,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617180000 GMT+3" stop="20260617190000 GMT+3" channel="211368">
+  <programme start="20260617210000 GMT+3" stop="20260617220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -37002,6 +37032,12 @@
   <programme start="20260618140000 GMT+3" stop="20260618143000 GMT+3" channel="289530">
     <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
     <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260618143000 GMT+3" stop="20260618163000 GMT+3" channel="289530">
+    <title lang="el">ΓΚΑΝΑ - ΠΑΝΑΜΑΣ</title>
+    <desc lang="el">Σε επανάληψη</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -50304,13 +50340,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260617210000 GMT+3" stop="20260617220000 GMT+3" channel="211368">
+  <programme start="20260618000000 GMT+3" stop="20260618010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618000000 GMT+3" stop="20260618010000 GMT+3" channel="211368">
+  <programme start="20260618010000 GMT+3" stop="20260618020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50328,7 +50364,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618010000 GMT+3" stop="20260618020000 GMT+3" channel="211368">
+  <programme start="20260618030000 GMT+3" stop="20260618040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50346,7 +50382,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618030000 GMT+3" stop="20260618040000 GMT+3" channel="211368">
+  <programme start="20260618050000 GMT+3" stop="20260618060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260618060000 GMT+3" stop="20260618070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50388,7 +50430,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618050000 GMT+3" stop="20260618060000 GMT+3" channel="211368">
+  <programme start="20260618100000 GMT+3" stop="20260618110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50418,7 +50460,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618100000 GMT+3" stop="20260618110000 GMT+3" channel="211368">
+  <programme start="20260618130000 GMT+3" stop="20260618140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50436,13 +50478,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618130000 GMT+3" stop="20260618140000 GMT+3" channel="211368">
+  <programme start="20260618150000 GMT+3" stop="20260618160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618150000 GMT+3" stop="20260618160000 GMT+3" channel="211368">
+  <programme start="20260618160000 GMT+3" stop="20260618170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50454,7 +50496,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618160000 GMT+3" stop="20260618170000 GMT+3" channel="211368">
+  <programme start="20260618173000 GMT+3" stop="20260618180000 GMT+3" channel="211368">
+    <title lang="el">Iran, Israel and the Bomb</title>
+    <desc lang="el">After Donald Trump pulls the U.S. out of the Iran nuclear deal, Israel&apos;s shadow war erupts into open conflict, leaving the crucial nuclear question unresolved. (2026)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260618180000 GMT+3" stop="20260618190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -50484,7 +50532,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618180000 GMT+3" stop="20260618190000 GMT+3" channel="211368">
+  <programme start="20260618210000 GMT+3" stop="20260618220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -54699,6 +54747,12 @@
   <programme start="20260619040000 GMT+3" stop="20260619060000 GMT+3" channel="289530">
     <title lang="el">ΜΕΞΙΚΟ - ΝΟΤΙΑ ΚΟΡΕΑ</title>
     <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260619060000 GMT+3" stop="20260619064500 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -59449,6 +59503,18 @@
   <programme start="20260619045000 GMT+3" stop="20260619051500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ3</title>
     <desc lang="el">Ο Σέλντον και η Έιμι χωρίζουν. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2010)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260619051500 GMT+3" stop="20260619053500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ7</title>
+    <desc lang="el">Ο Τζέικ έχει 48 ώρες για να συλλέξει στοιχεία για μια σύλληψη που έκανε χωρίς αποδείξεις, αλλιώς ο θύτης, Ντάστιν Γουάιτμαν, θα αφεθεί ελεύθερος. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260619053500 GMT+3" stop="20260619060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ8</title>
+    <desc lang="el">Ο Τζέικ περνά μια μέρα με έναν πρώην αστυνομικό ρεπόρτερ, τον οποίο σέβεται, αλλά ανακαλύπτει ότι καταγράφηκαν επίσημα τα σχόλιά του για το τμήμα. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -68272,13 +68338,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618210000 GMT+3" stop="20260618220000 GMT+3" channel="211368">
+  <programme start="20260619000000 GMT+3" stop="20260619010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619000000 GMT+3" stop="20260619010000 GMT+3" channel="211368">
+  <programme start="20260619010000 GMT+3" stop="20260619020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68296,7 +68362,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619010000 GMT+3" stop="20260619020000 GMT+3" channel="211368">
+  <programme start="20260619030000 GMT+3" stop="20260619040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68314,7 +68380,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619030000 GMT+3" stop="20260619040000 GMT+3" channel="211368">
+  <programme start="20260619050000 GMT+3" stop="20260619060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260619060000 GMT+3" stop="20260619070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68356,7 +68428,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619050000 GMT+3" stop="20260619060000 GMT+3" channel="211368">
+  <programme start="20260619100000 GMT+3" stop="20260619110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68380,7 +68452,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619100000 GMT+3" stop="20260619110000 GMT+3" channel="211368">
+  <programme start="20260619130000 GMT+3" stop="20260619140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68398,13 +68470,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619130000 GMT+3" stop="20260619140000 GMT+3" channel="211368">
+  <programme start="20260619150000 GMT+3" stop="20260619160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619150000 GMT+3" stop="20260619160000 GMT+3" channel="211368">
+  <programme start="20260619160000 GMT+3" stop="20260619170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68422,7 +68494,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619160000 GMT+3" stop="20260619170000 GMT+3" channel="211368">
+  <programme start="20260619180000 GMT+3" stop="20260619190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -68452,7 +68524,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619180000 GMT+3" stop="20260619190000 GMT+3" channel="211368">
+  <programme start="20260619210000 GMT+3" stop="20260619220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -72531,6 +72603,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260620230000 GMT+3" stop="20260621010000 GMT+3" channel="54184415">
+    <title lang="el">ΕΧΕΙΣ ΜΟΝΟ 100 λεπτα... ΑΣΤΑΜΑΤΗΤΟ (Unstoppable)</title>
+    <desc lang="el">Ένας βετεράνος μηχανικός κι ένας νεαρός προϊστάμενος αμαξοστοιχίας συνεργάζονται για να σταματήσουν την ξέφρενη πορεία ενός ακυβέρνητου τρένου που μεταφέρει θανατηφόρες τοξικές ουσίες. Θα κάνουν τα πάντα για να αποτρέψουν τον εκτροχιασμό του, που μπορεί να προκαλέσει την έκχυση των τοξικών στην πόλη και τον αποδεκατισμό των κατοίκων της.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260620000000 GMT+3" stop="20260620010000 GMT+3" channel="289530">
     <title lang="el">Mundial 2026 Postgame</title>
     <desc lang="el">Mundial 2026 Postgame</desc>
@@ -73742,6 +73820,12 @@
     <desc lang="el">Casa De Mikel VII</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260620230000 GMT+3" stop="20260621010000 GMT+3" channel="289542">
+    <title lang="el">ΕΧΕΙΣ ΜΟΝΟ 100 λεπτα... ΑΣΤΑΜΑΤΗΤΟ (Unstoppable)</title>
+    <desc lang="el">Ένας βετεράνος μηχανικός κι ένας νεαρός προϊστάμενος αμαξοστοιχίας συνεργάζονται για να σταματήσουν την ξέφρενη πορεία ενός ακυβέρνητου τρένου που μεταφέρει θανατηφόρες τοξικές ουσίες. Θα κάνουν τα πάντα για να αποτρέψουν τον εκτροχιασμό του, που μπορεί να προκαλέσει την έκχυση των τοξικών στην πόλη και τον αποδεκατισμό των κατοίκων της.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260620000000 GMT+3" stop="20260620010000 GMT+3" channel="289607">
     <title lang="el">THE CHASE GR (E)</title>
@@ -86332,13 +86416,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619210000 GMT+3" stop="20260619220000 GMT+3" channel="211368">
+  <programme start="20260620000000 GMT+3" stop="20260620010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620000000 GMT+3" stop="20260620010000 GMT+3" channel="211368">
+  <programme start="20260620010000 GMT+3" stop="20260620020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86356,7 +86440,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620010000 GMT+3" stop="20260620020000 GMT+3" channel="211368">
+  <programme start="20260620030000 GMT+3" stop="20260620040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86374,13 +86458,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620030000 GMT+3" stop="20260620040000 GMT+3" channel="211368">
+  <programme start="20260620050000 GMT+3" stop="20260620060000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620050000 GMT+3" stop="20260620060000 GMT+3" channel="211368">
+  <programme start="20260620060000 GMT+3" stop="20260620070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86416,7 +86500,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620060000 GMT+3" stop="20260620070000 GMT+3" channel="211368">
+  <programme start="20260620100000 GMT+3" stop="20260620110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86446,7 +86530,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620100000 GMT+3" stop="20260620110000 GMT+3" channel="211368">
+  <programme start="20260620130000 GMT+3" stop="20260620140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86464,13 +86548,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620130000 GMT+3" stop="20260620140000 GMT+3" channel="211368">
+  <programme start="20260620150000 GMT+3" stop="20260620160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620150000 GMT+3" stop="20260620160000 GMT+3" channel="211368">
+  <programme start="20260620160000 GMT+3" stop="20260620170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86488,7 +86572,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620160000 GMT+3" stop="20260620170000 GMT+3" channel="211368">
+  <programme start="20260620180000 GMT+3" stop="20260620190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -86518,7 +86602,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620180000 GMT+3" stop="20260620190000 GMT+3" channel="211368">
+  <programme start="20260620210000 GMT+3" stop="20260620220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -90589,6 +90673,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260621181500 GMT+3" stop="20260621201500 GMT+3" channel="54184415">
+    <title lang="el">Don&apos;t Forget the Lyrics (ΝΈΟ ΕΠΕΙΣΟΔΙΟ)</title>
+    <desc lang="el">Don&apos;t Forget the Lyrics (ΝΈΟ ΕΠΕΙΣΟΔΙΟ)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260621201500 GMT+3" stop="20260621211500 GMT+3" channel="54184415">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
     <desc lang="el">10/09/24</desc>
@@ -90640,6 +90730,12 @@
   <programme start="20260621093000 GMT+3" stop="20260621103000 GMT+3" channel="289530">
     <title lang="el">ΤΑ ΧΡΥΣΟΨΑΡΑ</title>
     <desc lang="el">ΤΑ ΧΡΥΣΟΨΑΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621103000 GMT+3" stop="20260621123000 GMT+3" channel="289530">
+    <title lang="el">ΕΚΟΥΑΔΟΡ - ΚΟΥΡΑΣΑΟ</title>
+    <desc lang="el">Σε επανάληψη</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -91702,6 +91798,12 @@
   <programme start="20260621180000 GMT+3" stop="20260621181500 GMT+3" channel="289542">
     <title lang="el">ΤΑ ΝΕΑ ΣΕ 10&apos;</title>
     <desc lang="el">10/09/24</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621181500 GMT+3" stop="20260621201500 GMT+3" channel="289542">
+    <title lang="el">Don&apos;t Forget the Lyrics (ΝΈΟ ΕΠΕΙΣΟΔΙΟ)</title>
+    <desc lang="el">Don&apos;t Forget the Lyrics (ΝΈΟ ΕΠΕΙΣΟΔΙΟ)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -104541,13 +104643,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620210000 GMT+3" stop="20260620220000 GMT+3" channel="211368">
+  <programme start="20260621000000 GMT+3" stop="20260621010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621000000 GMT+3" stop="20260621010000 GMT+3" channel="211368">
+  <programme start="20260621010000 GMT+3" stop="20260621020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104565,7 +104667,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621010000 GMT+3" stop="20260621020000 GMT+3" channel="211368">
+  <programme start="20260621030000 GMT+3" stop="20260621040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104583,7 +104685,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621030000 GMT+3" stop="20260621040000 GMT+3" channel="211368">
+  <programme start="20260621050000 GMT+3" stop="20260621060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621060000 GMT+3" stop="20260621070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104625,7 +104733,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621050000 GMT+3" stop="20260621060000 GMT+3" channel="211368">
+  <programme start="20260621100000 GMT+3" stop="20260621110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104655,7 +104763,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621100000 GMT+3" stop="20260621110000 GMT+3" channel="211368">
+  <programme start="20260621130000 GMT+3" stop="20260621140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104673,13 +104781,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621130000 GMT+3" stop="20260621140000 GMT+3" channel="211368">
+  <programme start="20260621150000 GMT+3" stop="20260621160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621150000 GMT+3" stop="20260621160000 GMT+3" channel="211368">
+  <programme start="20260621160000 GMT+3" stop="20260621170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104691,7 +104799,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621160000 GMT+3" stop="20260621170000 GMT+3" channel="211368">
+  <programme start="20260621180000 GMT+3" stop="20260621190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -104721,7 +104829,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621180000 GMT+3" stop="20260621190000 GMT+3" channel="211368">
+  <programme start="20260621210000 GMT+3" stop="20260621220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -108692,6 +108800,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
+  <programme start="20260622024000 GMT+3" stop="20260622034000 GMT+3" channel="54184415">
+    <title lang="el">42°C (E) ΕΠ8</title>
+    <desc lang="el">Στο τελευταίο επεισόδιο, η Λένα θυμάται επιτέλους ποιος έσπρωξε τη μητέρα της στα βράχια. Κι ενώ τα κομμάτια του παζλ αρχίζουν να ενώνονται, ο χρόνος καταρρέει και όλα αυτά που θεωρούσε δεδομένα ανατρέπονται.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
   <programme start="20260622034000 GMT+3" stop="20260622043000 GMT+3" channel="54184415">
     <title lang="el">Η ΕΚΔΡΟΜΗ (E)</title>
     <desc lang="el">Μέσα στο καταχείμωνο, σε άγριες καιρικές συνθήκες, 13 άτομα βρίσκονται εγκλωβισμένα σε ένα ξενοδοχείο-καταφύγιο, στην απομακρυσμένη πλευρά ενός βουνού. Άγνωστοι μεταξύ τους, οι περισσότεροι. βρέθηκαν εκεί με διαφορετική αφορμή ο καθένας.</desc>
@@ -108836,6 +108950,96 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622064500 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622064500 GMT+3" stop="20260622100000 GMT+3" channel="289530">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος επιστρέφει, για 12η συνεχή χρονιά, για να ριχτεί στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Ό,τι συμβαίνει την ώρα που συμβαίνει σε Κύπρο και εξωτερικό γίνεται... ΠΡΩΤΟΣΕΛΙ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622100000 GMT+3" stop="20260622110000 GMT+3" channel="289530">
+    <title lang="el">Outdoor &amp; ΦΥΣΗ (E)</title>
+    <desc lang="el">Outdoor &amp; ΦΥΣΗ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622110000 GMT+3" stop="20260622133000 GMT+3" channel="289530">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
+    <desc lang="el">Ο Χρήστος Μιχάλαρος και η ομάδα του συναντούν για 6η συνεχόμενη χρονιά το τηλεοπτικό κοινό, παρουσιάζοντας ένα ενημερωτικό πρόγραμμα γεμάτο ειδήσεις, συζητήσεις, ανταποκρίσεις, αναλύσεις, δυναμικές παρεμβάσεις και αποκαλύψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622133000 GMT+3" stop="20260622140000 GMT+3" channel="289530">
+    <title lang="el">Mundial Zone</title>
+    <desc lang="el">Mundial Zone</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622140000 GMT+3" stop="20260622150000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622150000 GMT+3" stop="20260622170000 GMT+3" channel="289530">
+    <title lang="el">ΝΕΑ ΖΗΛΑΝΔΙΑ - ΑΙΓΥΠΤΟΣ</title>
+    <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622170000 GMT+3" stop="20260622175000 GMT+3" channel="289530">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175000 GMT+3" stop="20260622175500 GMT+3" channel="289530">
+    <title lang="el">Mundial Express</title>
+    <desc lang="el">Mundial Express</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175500 GMT+3" stop="20260622183000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622183000 GMT+3" stop="20260622193000 GMT+3" channel="289530">
+    <title lang="el">Still Standing (E)</title>
+    <desc lang="el">Still Standing (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622193000 GMT+3" stop="20260622200000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622200000 GMT+3" stop="20260622220000 GMT+3" channel="289530">
+    <title lang="el">PG One ΑΡΓΕΝΤΙΝΗ - ΑΥΣΤΡΙΑ</title>
+    <desc lang="el">PG One ΑΡΓΕΝΤΙΝΗ - ΑΥΣΤΡΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622220000 GMT+3" stop="20260622230000 GMT+3" channel="289530">
+    <title lang="el">PG One Mundial 2026 Postgame</title>
+    <desc lang="el">PG One Mundial 2026 Postgame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622230000 GMT+3" stop="20260623000000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260622011500 GMT+3" stop="20260622021500 GMT+3" channel="39337317">
     <title lang="el">ΔΙΑΦΑΝΗ ΑΓΑΠΗ (E)</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
@@ -108863,6 +109067,84 @@
   <programme start="20260622044500 GMT+3" stop="20260622060000 GMT+3" channel="39337317">
     <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ (E)</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622064500 GMT+3" channel="39337317">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622064500 GMT+3" stop="20260622092000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA ΚΑΛΗΜΕΡΑ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622092000 GMT+3" stop="20260622110000 GMT+3" channel="39337317">
+    <title lang="el">BUONGIORNO</title>
+    <desc lang="el">Ψυχαγωγική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622110000 GMT+3" stop="20260622135000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA ΕΝΗΜΕΡΩΣΗ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622135000 GMT+3" stop="20260622151500 GMT+3" channel="39337317">
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E)</title>
+    <desc lang="el">Ελληνική Σειρά</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622151500 GMT+3" stop="20260622170000 GMT+3" channel="39337317">
+    <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ</title>
+    <desc lang="el">Ψυχαγωγική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622170000 GMT+3" stop="20260622175500 GMT+3" channel="39337317">
+    <title lang="el">THE CHASE GR</title>
+    <desc lang="el">Τηλεπαιχνίδι.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175500 GMT+3" stop="20260622180000 GMT+3" channel="39337317">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+    <desc lang="el">Δελτίο Ειδήσεων στη Νοηματική</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180000 GMT+3" stop="20260622190000 GMT+3" channel="39337317">
+    <title lang="el">ΝΑ Μ&apos;ΑΓΑΠΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Βαδίζοντας προς το τέλος της ιστορίας, οι ήρωες καλούνται να πάρουν αποφάσεις που θα καθορίσουν οριστικά το μέλλον τους. Συμμαχίες δοκιμάζονται, μυστικά αποκαλύπτονται και λογαριασμοί του παρελθόντος ζητούν επιτέλους να κλείσουν. Καινούριες σχέσεις γεννιούνται και παλιές σχεδιάζουν ένα κοινό μέλλον.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622190000 GMT+3" stop="20260622200000 GMT+3" channel="39337317">
+    <title lang="el">DEAL (E)</title>
+    <desc lang="el">Τηλεπαιχνίδι</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622200000 GMT+3" stop="20260622210000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA NEWS</title>
+    <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Σε μια εποχή όπου τα πολιτικά, οικονομικά και κοινωνικά δεδομένα αλλάζουν και οι πολίτες αναζητούν την έγκυρη και έγκαιρη ενημέρωση, έρχονται οι Ειδήσεις του ALPHA με δυναμικό, μαχητικό, αποκαλυπτικό και αξιόπιστο χαρακτήρα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622210000 GMT+3" stop="20260622222000 GMT+3" channel="39337317">
+    <title lang="el">ΑΓΙΟΣ ΕΡΩΤΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Η μεγάλη μέρα της δίκης του Παύλου ξεκινά με αλλεπάλληλες ανατροπές, καθώς ο Αντρέας εμφανίζεται απρόσμενα στο δικαστήριο και αναλαμβάνει την πολιτική αγωγή. Ο Νικόλαος παλεύει με τη δική του σκοτεινή οργή, κρύβοντας από τη Χλόη και όλους ένα μαχαίρι. Παράλληλα, ο Πέτρος και η Ειρήνη ετοιμάζουν τη φυγή τους, χωρίς να ξέρουν ότι ο Στέφανος αρχίζει να αντιλαμβάνεται την προδοσία τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622222000 GMT+3" stop="20260623000000 GMT+3" channel="39337317">
+    <title lang="el">Η ΓΗ ΤΗΣ ΕΛΙΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Ρούσσος φτάνει στην Κρήτη κι ο Αντώνης τον κρύβει στο διαμέρισμα της Χριστιάνας, ενώ εκείνη προσπαθεί να πείσει την Άννα να αποσύρει τη μήνυση. Ο Μανώλης πλέει σε πελάγη ευτυχίας με την έλευση της Αμαλίας, αγνοώντας την περιπέτεια της Άννας. Η Μυρτώ και ο Παρασκευάς καταλήγουν στο κρεβάτι, αλλά η εμπειρία τούς απογοητεύει και τους δύο. Η Φρύνη ξεκαθαρίζει στον Κωνσταντίνο ότι θα τον περιμένει όσο χρειαστεί, καθώς η Ισμήνη έχει μπλεξίματα κι εκείνος έχει αναλάβει το παιδί τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -109652,6 +109934,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
+  <programme start="20260622024000 GMT+3" stop="20260622034000 GMT+3" channel="289542">
+    <title lang="el">42°C (E) ΕΠ8</title>
+    <desc lang="el">Στο τελευταίο επεισόδιο, η Λένα θυμάται επιτέλους ποιος έσπρωξε τη μητέρα της στα βράχια. Κι ενώ τα κομμάτια του παζλ αρχίζουν να ενώνονται, ο χρόνος καταρρέει και όλα αυτά που θεωρούσε δεδομένα ανατρέπονται.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
   <programme start="20260622034000 GMT+3" stop="20260622043000 GMT+3" channel="289542">
     <title lang="el">Η ΕΚΔΡΟΜΗ (E)</title>
     <desc lang="el">Μέσα στο καταχείμωνο, σε άγριες καιρικές συνθήκες, 13 άτομα βρίσκονται εγκλωβισμένα σε ένα ξενοδοχείο-καταφύγιο, στην απομακρυσμένη πλευρά ενός βουνού. Άγνωστοι μεταξύ τους, οι περισσότεροι. βρέθηκαν εκεί με διαφορετική αφορμή ο καθένας.</desc>
@@ -109799,6 +110087,84 @@
   <programme start="20260622044500 GMT+3" stop="20260622060000 GMT+3" channel="289607">
     <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ (E)</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622064500 GMT+3" channel="289607">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (E)</title>
+    <desc lang="el">Ελληνική Σειρά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622064500 GMT+3" stop="20260622092000 GMT+3" channel="289607">
+    <title lang="el">ALPHA ΚΑΛΗΜΕΡΑ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622092000 GMT+3" stop="20260622110000 GMT+3" channel="289607">
+    <title lang="el">BUONGIORNO</title>
+    <desc lang="el">Ψυχαγωγική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622110000 GMT+3" stop="20260622135000 GMT+3" channel="289607">
+    <title lang="el">ALPHA ΕΝΗΜΕΡΩΣΗ</title>
+    <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622135000 GMT+3" stop="20260622151500 GMT+3" channel="289607">
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E)</title>
+    <desc lang="el">Ελληνική Σειρά</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622151500 GMT+3" stop="20260622170000 GMT+3" channel="289607">
+    <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ</title>
+    <desc lang="el">Ψυχαγωγική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622170000 GMT+3" stop="20260622175500 GMT+3" channel="289607">
+    <title lang="el">THE CHASE GR</title>
+    <desc lang="el">Τηλεπαιχνίδι.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175500 GMT+3" stop="20260622180000 GMT+3" channel="289607">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
+    <desc lang="el">Δελτίο Ειδήσεων στη Νοηματική</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180000 GMT+3" stop="20260622190000 GMT+3" channel="289607">
+    <title lang="el">ΝΑ Μ&apos;ΑΓΑΠΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Βαδίζοντας προς το τέλος της ιστορίας, οι ήρωες καλούνται να πάρουν αποφάσεις που θα καθορίσουν οριστικά το μέλλον τους. Συμμαχίες δοκιμάζονται, μυστικά αποκαλύπτονται και λογαριασμοί του παρελθόντος ζητούν επιτέλους να κλείσουν. Καινούριες σχέσεις γεννιούνται και παλιές σχεδιάζουν ένα κοινό μέλλον.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622190000 GMT+3" stop="20260622200000 GMT+3" channel="289607">
+    <title lang="el">DEAL (E)</title>
+    <desc lang="el">Τηλεπαιχνίδι</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622200000 GMT+3" stop="20260622210000 GMT+3" channel="289607">
+    <title lang="el">ALPHA NEWS</title>
+    <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Σε μια εποχή όπου τα πολιτικά, οικονομικά και κοινωνικά δεδομένα αλλάζουν και οι πολίτες αναζητούν την έγκυρη και έγκαιρη ενημέρωση, έρχονται οι Ειδήσεις του ALPHA με δυναμικό, μαχητικό, αποκαλυπτικό και αξιόπιστο χαρακτήρα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622210000 GMT+3" stop="20260622222000 GMT+3" channel="289607">
+    <title lang="el">ΑΓΙΟΣ ΕΡΩΤΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Η μεγάλη μέρα της δίκης του Παύλου ξεκινά με αλλεπάλληλες ανατροπές, καθώς ο Αντρέας εμφανίζεται απρόσμενα στο δικαστήριο και αναλαμβάνει την πολιτική αγωγή. Ο Νικόλαος παλεύει με τη δική του σκοτεινή οργή, κρύβοντας από τη Χλόη και όλους ένα μαχαίρι. Παράλληλα, ο Πέτρος και η Ειρήνη ετοιμάζουν τη φυγή τους, χωρίς να ξέρουν ότι ο Στέφανος αρχίζει να αντιλαμβάνεται την προδοσία τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622222000 GMT+3" stop="20260623000000 GMT+3" channel="289607">
+    <title lang="el">Η ΓΗ ΤΗΣ ΕΛΙΑΣ</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Ρούσσος φτάνει στην Κρήτη κι ο Αντώνης τον κρύβει στο διαμέρισμα της Χριστιάνας, ενώ εκείνη προσπαθεί να πείσει την Άννα να αποσύρει τη μήνυση. Ο Μανώλης πλέει σε πελάγη ευτυχίας με την έλευση της Αμαλίας, αγνοώντας την περιπέτεια της Άννας. Η Μυρτώ και ο Παρασκευάς καταλήγουν στο κρεβάτι, αλλά η εμπειρία τούς απογοητεύει και τους δύο. Η Φρύνη ξεκαθαρίζει στον Κωνσταντίνο ότι θα τον περιμένει όσο χρειαστεί, καθώς η Ισμήνη έχει μπλεξίματα κι εκείνος έχει αναλάβει το παιδί τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -121853,13 +122219,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260621210000 GMT+3" stop="20260621220000 GMT+3" channel="211368">
+  <programme start="20260622000000 GMT+3" stop="20260622010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622000000 GMT+3" stop="20260622010000 GMT+3" channel="211368">
+  <programme start="20260622010000 GMT+3" stop="20260622020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121877,7 +122243,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622010000 GMT+3" stop="20260622020000 GMT+3" channel="211368">
+  <programme start="20260622030000 GMT+3" stop="20260622040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121895,7 +122261,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622030000 GMT+3" stop="20260622040000 GMT+3" channel="211368">
+  <programme start="20260622050000 GMT+3" stop="20260622060000 GMT+3" channel="211368">
+    <title lang="el">Newshour</title>
+    <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121937,7 +122309,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622050000 GMT+3" stop="20260622060000 GMT+3" channel="211368">
+  <programme start="20260622100000 GMT+3" stop="20260622110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121967,7 +122339,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622100000 GMT+3" stop="20260622110000 GMT+3" channel="211368">
+  <programme start="20260622130000 GMT+3" stop="20260622140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -121985,13 +122357,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622130000 GMT+3" stop="20260622140000 GMT+3" channel="211368">
+  <programme start="20260622150000 GMT+3" stop="20260622160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622150000 GMT+3" stop="20260622160000 GMT+3" channel="211368">
+  <programme start="20260622160000 GMT+3" stop="20260622170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -122009,7 +122381,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622160000 GMT+3" stop="20260622170000 GMT+3" channel="211368">
+  <programme start="20260622180000 GMT+3" stop="20260622190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -122039,7 +122411,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260622180000 GMT+3" stop="20260622190000 GMT+3" channel="211368">
+  <programme start="20260622210000 GMT+3" stop="20260622220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
