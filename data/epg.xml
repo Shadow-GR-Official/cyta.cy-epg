@@ -59590,17 +59590,17 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260619064500 GMT+3" stop="20260619070500 GMT+3" channel="2755">
-    <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ5</title>
-    <desc lang="el">Ένας ντετέκτιβ από την Ειδική Εγκληματολογική Μονάδα, γνωστός ως &apos;Ο Γύπας&apos; αναλαμβάνει μια υπόθεση που κοντεύει να λύσει ο Τζέικ και του κλέβει τη δόξα. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260619060000 GMT+3" stop="20260619064500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ6 ΕΠ3</title>
     <desc lang="el">Ενώ βρίσκεται στη Φλόριντα για να φροντίσει τον άρρωστο πατέρα της, η Athena και ο Bobby ερευνούν την εξαφάνιση του παιδικού της φίλου πριν από 45 χρόνια. Πρωταγωνιστούν: Angela Bassett,Peter Krause,Jennifer Love Hewitt,Aisha Hinds,Kenneth Choi. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
+  </programme>
+  <programme start="20260619064500 GMT+3" stop="20260619070500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ5</title>
+    <desc lang="el">Ένας ντετέκτιβ από την Ειδική Εγκληματολογική Μονάδα, γνωστός ως &apos;Ο Γύπας&apos; αναλαμβάνει μια υπόθεση που κοντεύει να λύσει ο Τζέικ και του κλέβει τη δόξα. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260619070500 GMT+3" stop="20260619075000 GMT+3" channel="2755">
     <title lang="el">Will Trent Κ1 ΕΠ9</title>
@@ -77386,9 +77386,21 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260620051500 GMT+3" stop="20260620053500 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ9</title>
+    <desc lang="el">Ο Τζέικ προσπαθεί να πιάσει έναν εμπρηστή που κατέστρεψε την αγαπημένη του πιτσαρία, ενώ μαλώνει με τον πεισματάρη πυραγό Μπουν. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260620053500 GMT+3" stop="20260620060000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ10</title>
     <desc lang="el">Η Έιμι ετοιμάζει δείπνο για τη Μέρα των Ευχαριστιών στο διαμέρισμά της για όλους τους συναδέλφους της, με πρωταρχικό σκοπό να ζητήσει στον Χολτ να γίνει ο μέντοράς της. Αλλά, γρήγορα, το δείπνο μετατρέπεται σε καταστροφή. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260620060000 GMT+3" stop="20260620064000 GMT+3" channel="2755">
+    <title lang="el">Bones 7 Κ7 ΕΠ3</title>
+    <desc lang="el">Tα λείψανα ενός στελέχους εταιρείας παιχνιδιών ανακαλύπτονται τυλιγμένα με μια κούκλα. Ο επικεφαλής της εταιρίας δίνει στην ομάδα πρόσβαση για το άκρως μυστικό εργαστήριο της επιχείρησης. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
