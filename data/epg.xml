@@ -34267,13 +34267,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618030500 GMT+3" stop="20260618031600 GMT+3" channel="97085851">
+  <programme start="20260618030500 GMT+3" stop="20260618031500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Highlights</title>
     <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618031600 GMT+3" stop="20260618033100 GMT+3" channel="97085851">
+  <programme start="20260618031500 GMT+3" stop="20260618032500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
@@ -34297,67 +34297,61 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618070600 GMT+3" stop="20260618071900 GMT+3" channel="97085851">
+  <programme start="20260618070600 GMT+3" stop="20260618071800 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618071900 GMT+3" stop="20260618090000 GMT+3" channel="97085851">
+  <programme start="20260618071800 GMT+3" stop="20260618092100 GMT+3" channel="97085851">
     <title lang="el">Champions League 00/01: Bayer Leverkusen vs Real Madrid</title>
     <desc lang="el">We go back to 2000 to take a look at this classic against Bayer Leverkusen away in Germany</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618090000 GMT+3" stop="20260618092000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 01/02</title>
-    <desc lang="el">Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen. \n\n</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260618092000 GMT+3" stop="20260618114500 GMT+3" channel="97085851">
+  <programme start="20260618092100 GMT+3" stop="20260618114900 GMT+3" channel="97085851">
     <title lang="el">Champions League 16/17</title>
     <desc lang="el">Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales. \n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618114500 GMT+3" stop="20260618140500 GMT+3" channel="97085851">
+  <programme start="20260618114900 GMT+3" stop="20260618140400 GMT+3" channel="97085851">
     <title lang="el">Champions League 17/18</title>
     <desc lang="el">RM v Liverpool Final Champions League Final 17/18. Watch Los Blancos complete a unique hat-trick \n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618140500 GMT+3" stop="20260618162500 GMT+3" channel="97085851">
+  <programme start="20260618140400 GMT+3" stop="20260618162500 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22</title>
     <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618162500 GMT+3" stop="20260618190000 GMT+3" channel="97085851">
+  <programme start="20260618162500 GMT+3" stop="20260618190400 GMT+3" channel="97085851">
     <title lang="el">Champions League 23/24</title>
     <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618190000 GMT+3" stop="20260618211500 GMT+3" channel="97085851">
+  <programme start="20260618190400 GMT+3" stop="20260618211600 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618211500 GMT+3" stop="20260618213000 GMT+3" channel="97085851">
+  <programme start="20260618211600 GMT+3" stop="20260618212900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618213000 GMT+3" stop="20260618234500 GMT+3" channel="97085851">
+  <programme start="20260618212900 GMT+3" stop="20260618234200 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260618234500 GMT+3" stop="20260619015000 GMT+3" channel="97085851">
+  <programme start="20260618234200 GMT+3" stop="20260619013500 GMT+3" channel="97085851">
     <title lang="el">Champions League 99/00: Real Madrid vs Bayern Munich</title>
     <desc lang="el">Relive the magical atmosphere of a Champions League semi-final at the Santiago Bernabeu</desc>
     <category lang="el">Αθλητικά</category>
@@ -52301,43 +52295,37 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619015000 GMT+3" stop="20260619040000 GMT+3" channel="97085851">
+  <programme start="20260619014500 GMT+3" stop="20260619040000 GMT+3" channel="97085851">
     <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
     <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619040000 GMT+3" stop="20260619041500 GMT+3" channel="97085851">
+  <programme start="20260619040000 GMT+3" stop="20260619041300 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619041500 GMT+3" stop="20260619063000 GMT+3" channel="97085851">
+  <programme start="20260619041300 GMT+3" stop="20260619061400 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: Copa del Rey 1980:</title>
     <desc lang="el">A rare encounter in the Copa Del Rey. Real Madrid&apos;s first team faced the club&apos;s second team back in 1980.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619063000 GMT+3" stop="20260619070000 GMT+3" channel="97085851">
+  <programme start="20260619063100 GMT+3" stop="20260619064500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619070000 GMT+3" stop="20260619071500 GMT+3" channel="97085851">
+  <programme start="20260619070300 GMT+3" stop="20260619071800 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260619071500 GMT+3" stop="20260619090000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 15/16</title>
-    <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260619090000 GMT+3" stop="20260619104500 GMT+3" channel="97085851">
+  <programme start="20260619071800 GMT+3" stop="20260619104500 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
@@ -54820,6 +54808,78 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260620060000 GMT+3" stop="20260620095000 GMT+3" channel="54111184">
+    <title lang="el">ΤΩΡΑ ΜΑΖΙ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Σπύρο Χαριτάτο και τη Χρύσα Φώσκολου.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620095000 GMT+3" stop="20260620130000 GMT+3" channel="54111184">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620130000 GMT+3" stop="20260620153000 GMT+3" channel="54111184">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620153000 GMT+3" stop="20260620163000 GMT+3" channel="54111184">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620163000 GMT+3" stop="20260620173000 GMT+3" channel="54111184">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620173000 GMT+3" stop="20260620180000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620180000 GMT+3" stop="20260620181000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620181000 GMT+3" stop="20260620190000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620190000 GMT+3" stop="20260620201000 GMT+3" channel="54111184">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620201000 GMT+3" stop="20260620211000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620211000 GMT+3" stop="20260620231000 GMT+3" channel="54111184">
+    <title lang="el">The Masketeer – D’ Artagnan</title>
+    <desc lang="el">Γαλλία, 17ος αιώνας. Ο νεαρός Ντ’ Αρτανιάν καταφθάνει στο Παρίσι για να ενταχθεί στο τάγμα των σωματοφυλάκων του βασιλιά. Παρόλα αυτά, πληροφορείται πως ο καρδινάλιος Ρισελιέ κατάργησε με διάταγμά του το τιμημένο αυτό τάγμα, ενώ φαίνεται πως κάνει κατάχρηση εξουσίας με τη βοήθεια του ραδιούργου Φεμπρ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620231000 GMT+3" stop="20260621013000 GMT+3" channel="54111184">
+    <title lang="el">SEASON OF THE WITCH</title>
+    <desc lang="el">Σε μια σκοτεινή εποχή γεμάτη φόβο και δεισιδαιμονίες, δύο ιππότες που επιστρέφουν από τις Σταυροφορίες αναλαμβάνουν μια επικίνδυνη αποστολή: να συνοδεύσουν μια νεαρή κοπέλα, που κατηγορείται για μαγεία, σε ένα απομονωμένο μοναστήρι. Καθώς το ταξίδι εξελίσσεται, μυστηριώδη και τρομακτικά γεγονότα κάνουν τους πάντες να αμφισβητούν τι είναι πραγματικότητα και τι υπερφυσικό. Η ταινία συνδυάζει δράση, φαντασία και μεταφυσικό τρόμο, σε μια ατμοσφαιρική μεσαιωνική περιπέτεια. Σκηνοθεσία: Dominic Sena.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260620001500 GMT+3" stop="20260620014500 GMT+3" channel="54184415">
     <title lang="el">ΟΙ ΗΡΩΕΣ ΤΩΝ ΑΙΘΕΡΩΝ (Devotion)</title>
     <desc lang="el">Υπόθεση: Ο Τζέσι Μπράουν είναι ο πρώτος Αφροαμερικανός πιλότος του Πολεμικού Ναυτικού. Οι προκλήσεις για να αποδείξει την αξία του είναι διαρκείς και θα πολλαπλασιαστούν όταν μετατεθεί στο μέτωπο του πολέμου της Κορέας.</desc>
@@ -56035,6 +56095,78 @@
   <programme start="20260620050000 GMT+3" stop="20260620060000 GMT+3" channel="289555">
     <title lang="el">Cuisinovia (E)</title>
     <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620060000 GMT+3" stop="20260620095000 GMT+3" channel="289555">
+    <title lang="el">ΤΩΡΑ ΜΑΖΙ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Σπύρο Χαριτάτο και τη Χρύσα Φώσκολου.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620095000 GMT+3" stop="20260620130000 GMT+3" channel="289555">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620130000 GMT+3" stop="20260620153000 GMT+3" channel="289555">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620153000 GMT+3" stop="20260620163000 GMT+3" channel="289555">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620163000 GMT+3" stop="20260620173000 GMT+3" channel="289555">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620173000 GMT+3" stop="20260620180000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620180000 GMT+3" stop="20260620181000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620181000 GMT+3" stop="20260620190000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620190000 GMT+3" stop="20260620201000 GMT+3" channel="289555">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620201000 GMT+3" stop="20260620211000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620211000 GMT+3" stop="20260620231000 GMT+3" channel="289555">
+    <title lang="el">The Masketeer – D’ Artagnan</title>
+    <desc lang="el">Γαλλία, 17ος αιώνας. Ο νεαρός Ντ’ Αρτανιάν καταφθάνει στο Παρίσι για να ενταχθεί στο τάγμα των σωματοφυλάκων του βασιλιά. Παρόλα αυτά, πληροφορείται πως ο καρδινάλιος Ρισελιέ κατάργησε με διάταγμά του το τιμημένο αυτό τάγμα, ενώ φαίνεται πως κάνει κατάχρηση εξουσίας με τη βοήθεια του ραδιούργου Φεμπρ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260620231000 GMT+3" stop="20260621013000 GMT+3" channel="289555">
+    <title lang="el">SEASON OF THE WITCH</title>
+    <desc lang="el">Σε μια σκοτεινή εποχή γεμάτη φόβο και δεισιδαιμονίες, δύο ιππότες που επιστρέφουν από τις Σταυροφορίες αναλαμβάνουν μια επικίνδυνη αποστολή: να συνοδεύσουν μια νεαρή κοπέλα, που κατηγορείται για μαγεία, σε ένα απομονωμένο μοναστήρι. Καθώς το ταξίδι εξελίσσεται, μυστηριώδη και τρομακτικά γεγονότα κάνουν τους πάντες να αμφισβητούν τι είναι πραγματικότητα και τι υπερφυσικό. Η ταινία συνδυάζει δράση, φαντασία και μεταφυσικό τρόμο, σε μια ατμοσφαιρική μεσαιωνική περιπέτεια. Σκηνοθεσία: Dominic Sena.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -70481,7 +70613,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260620071000 GMT+3" stop="20260621060000 GMT+3" channel="97085851">
+  <programme start="20260620071000 GMT+3" stop="20260620090000 GMT+3" channel="97085851">
     <title lang="el">Champions League 17/18: Juventus vs Real Madrid</title>
     <desc lang="el">A must-watch game for Madridistas as Zidane&apos;s side conquer Turin with a sensational performance.</desc>
     <category lang="el">Αθλητικά</category>
@@ -72986,6 +73118,96 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260621013000 GMT+3" stop="20260621040000 GMT+3" channel="54111184">
+    <title lang="el">Master Chef 10 (E)</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621040000 GMT+3" stop="20260621050000 GMT+3" channel="54111184">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (E)</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621050000 GMT+3" stop="20260621060000 GMT+3" channel="54111184">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621060000 GMT+3" stop="20260621095000 GMT+3" channel="54111184">
+    <title lang="el">ΤΩΡΑ ΜΑΖΙ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Σπύρο Χαριτάτο και τη Χρύσα Φώσκολου.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621095000 GMT+3" stop="20260621130000 GMT+3" channel="54111184">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621130000 GMT+3" stop="20260621153000 GMT+3" channel="54111184">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621153000 GMT+3" stop="20260621163000 GMT+3" channel="54111184">
+    <title lang="el">ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ</title>
+    <desc lang="el">Μαγειρική τέχνη, προσωπικό στιλ και πάθος ο συνδυασμός που φέρνει την απόλυτη γαστρονομική απόλαυση δια χειρός Σταυρή Γεωργίου. Κάθε επεισόδιο προσφέρει έμπνευση με σύγχρονες τεχνικές για τα πιο γευστικά... «έπιπλα».</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621163000 GMT+3" stop="20260621173000 GMT+3" channel="54111184">
+    <title lang="el">Happy Hours</title>
+    <desc lang="el">Η Μάγδα Τσέγκου μας προτείνει τις πιο ενδιαφέρουσες και διασκεδαστικές προτάσεις για να περάσουμε ξέγνοιαστες και ποιοτικές στιγμές με τους φίλους και την οικογένειά μας. Το ταξίδι στα πιο όμορφα σημεία της Αθήνας ξεκινάει. Μέρη καλά κρυμμένα, που δεν είναι ευρέως γνωστά, αλλά και hot προορισμοί μας περιμένουν για να περάσουμε την πιο χαρούμενη ώρα της εβδομάδας!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621173000 GMT+3" stop="20260621180000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621180000 GMT+3" stop="20260621181000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621181000 GMT+3" stop="20260621190000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621190000 GMT+3" stop="20260621201000 GMT+3" channel="54111184">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621201000 GMT+3" stop="20260621211000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621211000 GMT+3" stop="20260621221000 GMT+3" channel="54111184">
+    <title lang="el">De Facto - ΠΡΕΜΙΕΡΑ 4ος ΚΥΚΛΟΣ</title>
+    <desc lang="el">Μέσα από σπάνιο οπτικό υλικό, μαρτυρίες και αποκαλύψεις που έρχονται για πρώτη φορά στη δημοσιότητα, ο Σωτήρης Παρούτης και η ομάδα της εκπομπής μεταφέρουν στους τηλεθεατές γεγονότα που συγκλόνισαν την Κύπρο, αλλά και πτυχές υποθέσεων που παρέμειναν για χρόνια στο σκοτάδι. Ένας νέος κύκλος καθηλωτικών ντοκιμαντέρ που υπόσχεται να συγκινήσει, να προβληματίσει και να αναδείξει την αλήθεια πίσω από ιστορίες που δεν πρέπει να ξεχαστούν.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621221000 GMT+3" stop="20260622023000 GMT+3" channel="54111184">
+    <title lang="el">Borderlands</title>
+    <desc lang="el">Η Λίλιθ είναι μια σκληροτράχηλη διαστημική κυνηγός επικηρυγμένων, η οποία αναλαμβάνει να βρει ένα μικρό κορίτσι που έχει απαχθεί. Θα το εντοπίσει γρήγορα στον πλανήτη Πανδώρα, αλλά θα μπλεχτεί σε μια δόλια και ριψοκίνδυνη συνωμοσία που απειλεί το μέλλον ολόκληρου του γαλαξία. Σκηνοθεσία: Ιλάι Ροθ. Με τους: Κέιτ Μπλάνσετ, Έντγκαρ Ραμίρεζ, Κέβιν Χαρτ, Τζέιμι Λι Κέρτις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260621010000 GMT+3" stop="20260621024000 GMT+3" channel="54184415">
     <title lang="el">Speed</title>
     <desc lang="el">Ένας τρομοκράτης παγιδεύει ένα λεωφορείο με μια βόμβα προγραμματισμένη να εκραγεί μόλις η ταχύτητά του πέσει κάτω από τα 50 μίλια την ώρα.</desc>
@@ -74113,6 +74335,96 @@
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260621013000 GMT+3" stop="20260621040000 GMT+3" channel="289555">
+    <title lang="el">Master Chef 10 (E)</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621040000 GMT+3" stop="20260621050000 GMT+3" channel="289555">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (E)</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621050000 GMT+3" stop="20260621060000 GMT+3" channel="289555">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621060000 GMT+3" stop="20260621095000 GMT+3" channel="289555">
+    <title lang="el">ΤΩΡΑ ΜΑΖΙ</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Σπύρο Χαριτάτο και τη Χρύσα Φώσκολου.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621095000 GMT+3" stop="20260621130000 GMT+3" channel="289555">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621130000 GMT+3" stop="20260621153000 GMT+3" channel="289555">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621153000 GMT+3" stop="20260621163000 GMT+3" channel="289555">
+    <title lang="el">ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ</title>
+    <desc lang="el">Μαγειρική τέχνη, προσωπικό στιλ και πάθος ο συνδυασμός που φέρνει την απόλυτη γαστρονομική απόλαυση δια χειρός Σταυρή Γεωργίου. Κάθε επεισόδιο προσφέρει έμπνευση με σύγχρονες τεχνικές για τα πιο γευστικά... «έπιπλα».</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621163000 GMT+3" stop="20260621173000 GMT+3" channel="289555">
+    <title lang="el">Happy Hours</title>
+    <desc lang="el">Η Μάγδα Τσέγκου μας προτείνει τις πιο ενδιαφέρουσες και διασκεδαστικές προτάσεις για να περάσουμε ξέγνοιαστες και ποιοτικές στιγμές με τους φίλους και την οικογένειά μας. Το ταξίδι στα πιο όμορφα σημεία της Αθήνας ξεκινάει. Μέρη καλά κρυμμένα, που δεν είναι ευρέως γνωστά, αλλά και hot προορισμοί μας περιμένουν για να περάσουμε την πιο χαρούμενη ώρα της εβδομάδας!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621173000 GMT+3" stop="20260621180000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621180000 GMT+3" stop="20260621181000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621181000 GMT+3" stop="20260621190000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621190000 GMT+3" stop="20260621201000 GMT+3" channel="289555">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621201000 GMT+3" stop="20260621211000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621211000 GMT+3" stop="20260621221000 GMT+3" channel="289555">
+    <title lang="el">De Facto - ΠΡΕΜΙΕΡΑ 4ος ΚΥΚΛΟΣ</title>
+    <desc lang="el">Μέσα από σπάνιο οπτικό υλικό, μαρτυρίες και αποκαλύψεις που έρχονται για πρώτη φορά στη δημοσιότητα, ο Σωτήρης Παρούτης και η ομάδα της εκπομπής μεταφέρουν στους τηλεθεατές γεγονότα που συγκλόνισαν την Κύπρο, αλλά και πτυχές υποθέσεων που παρέμειναν για χρόνια στο σκοτάδι. Ένας νέος κύκλος καθηλωτικών ντοκιμαντέρ που υπόσχεται να συγκινήσει, να προβληματίσει και να αναδείξει την αλήθεια πίσω από ιστορίες που δεν πρέπει να ξεχαστούν.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621221000 GMT+3" stop="20260622023000 GMT+3" channel="289555">
+    <title lang="el">Borderlands</title>
+    <desc lang="el">Η Λίλιθ είναι μια σκληροτράχηλη διαστημική κυνηγός επικηρυγμένων, η οποία αναλαμβάνει να βρει ένα μικρό κορίτσι που έχει απαχθεί. Θα το εντοπίσει γρήγορα στον πλανήτη Πανδώρα, αλλά θα μπλεχτεί σε μια δόλια και ριψοκίνδυνη συνωμοσία που απειλεί το μέλλον ολόκληρου του γαλαξία. Σκηνοθεσία: Ιλάι Ροθ. Με τους: Κέιτ Μπλάνσετ, Έντγκαρ Ραμίρεζ, Κέβιν Χαρτ, Τζέιμι Λι Κέρτις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260621010000 GMT+3" stop="20260621024000 GMT+3" channel="289542">
     <title lang="el">Speed</title>
@@ -80253,6 +80565,168 @@
     <desc lang="el">The six remaining chefs are challenged to make three dishes featuring charcuterie board ingredients, and one dish must be a dessert.</desc>
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260621001000 GMT+3" stop="20260621004100 GMT+3" channel="9744258">
+    <title lang="el">Inside Moto Κ1 ΕΠ5</title>
+    <desc lang="el">We discover the relationship between Brad and Darryn Binder, 2 brothers who race against each other on motorcycle tracks around the world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621004100 GMT+3" stop="20260621010000 GMT+3" channel="9744258">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ4</title>
+    <desc lang="el">Hungarian Gymkhana Champion Nikolett Szanto is one of the sport’s few professional drivers. Balancing racing career with her day job is just one of the many.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621010000 GMT+3" stop="20260621015900 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven’s Wild Philippines Κ1 ΕΠ1</title>
+    <desc lang="el">Nigel tracks extraordinary wildlife across Luzon’s active volcanoes, Manila&apos;s urban sprawl, and some of the world’s most species-rich coral reefs.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621015900 GMT+3" stop="20260621030000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven’s Wild Philippines Κ1 ΕΠ2</title>
+    <desc lang="el">Known as the &quot;Last Frontier,&quot; Nigel ventures into Palawan’s ancient rainforests and underground treasures to find the island&apos;s unique coastal life.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621030000 GMT+3" stop="20260621040500 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ1</title>
+    <desc lang="el">From mountain passes to coral reefs, Turkey’s varied landscapes serve as a massive crossroads for diverse species.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621040500 GMT+3" stop="20260621051000 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ2</title>
+    <desc lang="el">Beyond the pyramids, giant reptiles, mystical birds, and unique mammals thrive in a landscape where life once seemed impossible.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621051000 GMT+3" stop="20260621061000 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ1</title>
+    <desc lang="el">Braving the spring chill, Andreas Kieling explores rugged slate mountains and forests, revealing the resilient creatures of this varied landscape.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621061000 GMT+3" stop="20260621070000 GMT+3" channel="9744258">
+    <title lang="el">My Van Life Κ1 ΕΠ6</title>
+    <desc lang="el">Lisa meets off-grid desert nomads turning to this lifestyle out of necessity rather than choice. Van Life rebels rule in Slab City, while in Nevada, Bob Wells - the godfather of Van Life - helps thousands turn to nomadic life when in dire straits.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621070000 GMT+3" stop="20260621080000 GMT+3" channel="9744258">
+    <title lang="el">Modern Explorers Κ1 ΕΠ5</title>
+    <desc lang="el">The Alaskan mountains in spring are mind blowing. Jokke and his friends board the helicopter to go speed flying. It may look peaceful but it&apos;s very dangerous.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621080000 GMT+3" stop="20260621090500 GMT+3" channel="9744258">
+    <title lang="el">Modern Explorers Κ1 ΕΠ6</title>
+    <desc lang="el">Jokke, Niccolo and Espen travel to China. They participate in a wingsuit flying competition. The platform they jump from is just like the mountains: gigantic.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621090500 GMT+3" stop="20260621093400 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ6 ΕΠ6</title>
+    <desc lang="el">Blue World joins a team of seal researchers on Cape Cod, and dives with these adorable pups of the sea to tell their story.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621093400 GMT+3" stop="20260621103400 GMT+3" channel="9744258">
+    <title lang="el">My Greek Odyssey Κ2 ΕΠ1</title>
+    <desc lang="el">First stop – Thassos. It’s the northernmost of the major Greek Islands. The fertile interior of the island and coastal areas away from the big towns, give you achance to escape the crowds and relax in peace.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621103400 GMT+3" stop="20260621113500 GMT+3" channel="9744258">
+    <title lang="el">My Greek Odyssey Κ2 ΕΠ2</title>
+    <desc lang="el">Mount Athos is the Holiest place in Greece, where 20 monasteries sit on a 300 square kilometer peninsula. From there, Peter will be making his way to Samothrace, or Samothraki as the Greeks know it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621113500 GMT+3" stop="20260621123400 GMT+3" channel="9744258">
+    <title lang="el">My Greek Odyssey Κ2 ΕΠ3</title>
+    <desc lang="el">Samothrace is an island frequented by adventure and nature lovers alike. It&apos;s also where they unearthed the famous winged goddess statue of Nike. Today, it&apos;s known for its thermal springs, running waters and adventure sports.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621123400 GMT+3" stop="20260621133400 GMT+3" channel="9744258">
+    <title lang="el">My Greek Odyssey Κ2 ΕΠ4</title>
+    <desc lang="el">The topography in Limnos is unlike the majority of Greek islands. Between the mountains there are fertile planes, where crops like wheat, barley and sesame are grown.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621133400 GMT+3" stop="20260621140500 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ1</title>
+    <desc lang="el">Overcoming illness and the chaos of bustling Chennai city traffic, Jess rides with a diverse group through vibrant coastal towns, before venturing inland toward the mountains and the sacred town of Palani.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621140500 GMT+3" stop="20260621150600 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ3</title>
+    <desc lang="el">Willem Burger faces a career-defining mission to relocate the Ivory Coast’s last white rhino after a tragic encounter with a local village chief.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621150600 GMT+3" stop="20260621160500 GMT+3" channel="9744258">
+    <title lang="el">Rhino Orphanage Κ1 ΕΠ3</title>
+    <desc lang="el">Facing an escalating poaching threat, The Rhino Orphanage welcomes four-week-old Jamila, a bushbaby named Nox, and a new team of volunteers.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621160500 GMT+3" stop="20260621171000 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ3</title>
+    <desc lang="el">In the heart of the Middle East, Jordan’s wildlife endures rising temperatures and advancing deserts in a landscape governed by the sun.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621171000 GMT+3" stop="20260621181000 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ3</title>
+    <desc lang="el">Deep in the unspoilt forests of the former border, Andreas Kieling tracks the shy lynx and elegant wood grouse across the Harz Mountains.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621181000 GMT+3" stop="20260621191000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven&apos;s Wild Central America Κ1 ΕΠ3</title>
+    <desc lang="el">Exploring Guatemala&apos;s peaks and rivers, Nigel Marven tracks rare crocodiles, venomous lizards, and the ancient history of the Maya.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621191000 GMT+3" stop="20260621201100 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven’s Wild Philippines Κ1 ΕΠ3</title>
+    <desc lang="el">From the Chocolate Hills to Mount Apo, Nigel discovers bizarre creatures and the rare Philippine Eagle in the archipelago&apos;s lush heart</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260621201100 GMT+3" stop="20260621205600 GMT+3" channel="9744258">
+    <title lang="el">My Van Life Κ1 ΕΠ2</title>
+    <desc lang="el">A hurricane in the south forces Lisa to change direction. We meet southern Van Lifers living under the radar in a state where the lifestyle is judged harshly. Tragically, Lisa’s story takes a heavy turn when she discovers that her father has died.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621205600 GMT+3" stop="20260621215600 GMT+3" channel="9744258">
+    <title lang="el">Order Up! Κ1 ΕΠ7</title>
+    <desc lang="el">From floating fish farms to plucking fresh greens from a garden, Hudson continues his culinary journey through Signapore and finds out how local ingredients make their way from farm to table. Even facing an unexpected reptilian ingredient...</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621215600 GMT+3" stop="20260621225700 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ2</title>
+    <desc lang="el">Rhys doubles his efforts to break into the Japanese entertainment industry by getting a brand designed, and by enrolling in mascot school. Missing his family, he spends time with a Japanese family who are a little bit like the Osbournes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621225700 GMT+3" stop="20260621235700 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ3</title>
+    <desc lang="el">Rhys learns what makes Japanese audiences tick from a pair of comedy masters, and he puts on a comedy show of his own. Also, New Zealand&apos;s mascot Pabu-chan is finally revealed to the world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260621235700 GMT+3" stop="20260622002700 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ5</title>
+    <desc lang="el">Using up the last of their energy, the Keefer brothers make their way down stream in search of their next supply cache. The tide turns as they finally make their way out of the open tundra and into the heart of moose country.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260621000000 GMT+3" stop="20260621003000 GMT+3" channel="216382">
     <title lang="el">Fashion Films</title>
@@ -91017,6 +91491,102 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260622023000 GMT+3" stop="20260622040000 GMT+3" channel="54111184">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622040000 GMT+3" stop="20260622050000 GMT+3" channel="54111184">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622050000 GMT+3" stop="20260622060000 GMT+3" channel="54111184">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622084500 GMT+3" channel="54111184">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622084500 GMT+3" stop="20260622114500 GMT+3" channel="54111184">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622114500 GMT+3" stop="20260622140000 GMT+3" channel="54111184">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622140000 GMT+3" stop="20260622150000 GMT+3" channel="54111184">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622150000 GMT+3" stop="20260622162000 GMT+3" channel="54111184">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622162000 GMT+3" stop="20260622174500 GMT+3" channel="54111184">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622174500 GMT+3" stop="20260622180000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180000 GMT+3" stop="20260622180500 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180500 GMT+3" stop="20260622185500 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622185500 GMT+3" stop="20260622201000 GMT+3" channel="54111184">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622201000 GMT+3" stop="20260622211000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622211000 GMT+3" stop="20260622233000 GMT+3" channel="54111184">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622233000 GMT+3" stop="20260623003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260622004500 GMT+3" stop="20260622014500 GMT+3" channel="54184415">
     <title lang="el">ΚΑΜΠΟΥΛ (Kabul) (E) ΕΠ3</title>
     <desc lang="el">Ενώ ο Μπακίρ μισθώνει πέντε σχολικά λεωφορεία για να αρχίσει η εκκένωση της γαλλικής πρεσβείας, η Βέρα και οι συνάδελφοί της εντοπίζουν τον Χασάν σε στρατόπεδο των Ταλιμπάν, μα συλλαμβάνονται στην απόπειρα να τον σώσουν.</desc>
@@ -91176,6 +91746,96 @@
   <programme start="20260622040000 GMT+3" stop="20260622060000 GMT+3" channel="289530">
     <title lang="el">ΝΕΑ ΖΗΛΑΝΔΙΑ - ΑΙΓΥΠΤΟΣ</title>
     <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622064500 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622064500 GMT+3" stop="20260622100000 GMT+3" channel="289530">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος επιστρέφει, για 12η συνεχή χρονιά, για να ριχτεί στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Ό,τι συμβαίνει την ώρα που συμβαίνει σε Κύπρο και εξωτερικό γίνεται... ΠΡΩΤΟΣΕΛΙ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622100000 GMT+3" stop="20260622110000 GMT+3" channel="289530">
+    <title lang="el">Outdoor &amp; ΦΥΣΗ (E)</title>
+    <desc lang="el">Outdoor &amp; ΦΥΣΗ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622110000 GMT+3" stop="20260622133000 GMT+3" channel="289530">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
+    <desc lang="el">Ο Χρήστος Μιχάλαρος και η ομάδα του συναντούν για 6η συνεχόμενη χρονιά το τηλεοπτικό κοινό, παρουσιάζοντας ένα ενημερωτικό πρόγραμμα γεμάτο ειδήσεις, συζητήσεις, ανταποκρίσεις, αναλύσεις, δυναμικές παρεμβάσεις και αποκαλύψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622133000 GMT+3" stop="20260622140000 GMT+3" channel="289530">
+    <title lang="el">Mundial Zone</title>
+    <desc lang="el">Mundial Zone</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622140000 GMT+3" stop="20260622150000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622150000 GMT+3" stop="20260622170000 GMT+3" channel="289530">
+    <title lang="el">ΝΕΑ ΖΗΛΑΝΔΙΑ - ΑΙΓΥΠΤΟΣ</title>
+    <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622170000 GMT+3" stop="20260622175000 GMT+3" channel="289530">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175000 GMT+3" stop="20260622175500 GMT+3" channel="289530">
+    <title lang="el">Mundial Express</title>
+    <desc lang="el">Mundial Express</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622175500 GMT+3" stop="20260622183000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622183000 GMT+3" stop="20260622193000 GMT+3" channel="289530">
+    <title lang="el">Still Standing (E)</title>
+    <desc lang="el">Still Standing (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622193000 GMT+3" stop="20260622200000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622200000 GMT+3" stop="20260622220000 GMT+3" channel="289530">
+    <title lang="el">PG One ΑΡΓΕΝΤΙΝΗ - ΑΥΣΤΡΙΑ</title>
+    <desc lang="el">PG One ΑΡΓΕΝΤΙΝΗ - ΑΥΣΤΡΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622220000 GMT+3" stop="20260622230000 GMT+3" channel="289530">
+    <title lang="el">PG One Mundial 2026 Postgame</title>
+    <desc lang="el">PG One Mundial 2026 Postgame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622230000 GMT+3" stop="20260623000000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -92060,6 +92720,102 @@
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260622023000 GMT+3" stop="20260622040000 GMT+3" channel="289555">
+    <title lang="el">ΡΑΝΤΕΒΟΥ ΤΟ ΣK</title>
+    <desc lang="el">Ανανεωμένοι, με ανεβασμένη διάθεση και έτοιμοι για μία δυναμική νέα χρονιά ο Λάμπρος Κωνσταντάρας και η Ιωάννα Μαλέσκου έρχονται καλούν σε .... Ραντεβού το ΣΚ. Το αγαπημένο δίδυμο επιστρέφει και δίνει άλλο αέρα στα Σαββατοκύριακά μας με πολλή χαρά, ζωντάνια και θετική διάθεση. Μας λένε την πιο αισιόδοξη καλημέρα κάθε Σαββατοκύριακο σε μια εκπομπή που τα έχει όλα.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622040000 GMT+3" stop="20260622050000 GMT+3" channel="289555">
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ</title>
+    <desc lang="el">Ο Βαγγέλης Δρίσκας μοιράζεται τις αγαπημένες του συνταγές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622050000 GMT+3" stop="20260622060000 GMT+3" channel="289555">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622060000 GMT+3" stop="20260622084500 GMT+3" channel="289555">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622084500 GMT+3" stop="20260622114500 GMT+3" channel="289555">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622114500 GMT+3" stop="20260622140000 GMT+3" channel="289555">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622140000 GMT+3" stop="20260622150000 GMT+3" channel="289555">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622150000 GMT+3" stop="20260622162000 GMT+3" channel="289555">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622162000 GMT+3" stop="20260622174500 GMT+3" channel="289555">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622174500 GMT+3" stop="20260622180000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180000 GMT+3" stop="20260622180500 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622180500 GMT+3" stop="20260622185500 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622185500 GMT+3" stop="20260622201000 GMT+3" channel="289555">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622201000 GMT+3" stop="20260622211000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622211000 GMT+3" stop="20260622233000 GMT+3" channel="289555">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622233000 GMT+3" stop="20260623003000 GMT+3" channel="289555">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260622004500 GMT+3" stop="20260622014500 GMT+3" channel="289542">
     <title lang="el">ΚΑΜΠΟΥΛ (Kabul) (E) ΕΠ3</title>
@@ -98200,6 +98956,228 @@
     <title lang="el">Dinner: Impossible Κ9 ΕΠ1</title>
     <desc lang="el">Robert Irvine heads to an abandoned mining town in Cerro Gordo, CA. He prepares a meal using the same ingredients and equipment as the miners had in 1865.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622002700 GMT+3" stop="20260622010000 GMT+3" channel="9744258">
+    <title lang="el">Blue World Κ6 ΕΠ7</title>
+    <desc lang="el">It’s a Red Sea expedition! Blue World explores the reefs, and marine life of the Red Sea, both during the day, and at night. And you can’t go to Egypt without a trip to the pyramids. It’s a desert adventure!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622010000 GMT+3" stop="20260622011400 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Sport Κ1 ΕΠ21</title>
+    <desc lang="el">Published author and popular international speaker Tim Emmet is as happy on rock as ice. Tim completed the hardest ice climb in the world in Canada.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622011400 GMT+3" stop="20260622012900 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Sport Κ1 ΕΠ22</title>
+    <desc lang="el">Shiva Keshavan is a luge athlete from India and is the only luge athlete from his country.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622012900 GMT+3" stop="20260622020000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ3 ΕΠ8</title>
+    <desc lang="el">Terry gets to relive part of his military carrier by attempting the famous sniper shot from Saving Private Ryan, and Larry and Terry demonstrate how sniper technology has developed over the years and test some amazing sniper shots.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622020000 GMT+3" stop="20260622022900 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ1</title>
+    <desc lang="el">Terry channels his inner Dr. Jones and tests 1 scene from Indiana Jones and the Last Crusade containing 3 different tests, two of which they will need a tank for. The duo will travel down to Uvalde, TX to visit Drivetanks.com to see if a tank round will topple over a car, and if a 9mm round can travel through three Germans.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622022900 GMT+3" stop="20260622031200 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ6</title>
+    <desc lang="el">In Kolkata street-food isn’t only about the Hawker stalls. The Coffee Houses are part meeting place, part restaurant, part community hall. Serving up quick and simple food for the multitudes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622031200 GMT+3" stop="20260622034300 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ1</title>
+    <desc lang="el">In the northeast of India in the state of West Benghal, Kolkata lies on the banks of the Ganges River and is a melting pot of cultures and cuisines. Inspired by Kolkata&apos;s heritage, Will puts his own twist on classic Indian dishes, reinventing and infusing these recipes with unexpected flavours.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622034300 GMT+3" stop="20260622041400 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ1</title>
+    <desc lang="el">Overcoming illness and the chaos of bustling Chennai city traffic, Jess rides with a diverse group through vibrant coastal towns, before venturing inland toward the mountains and the sacred town of Palani.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622041400 GMT+3" stop="20260622045800 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ2</title>
+    <desc lang="el">Jess and her riders face challenges heading to Kodaikanal, forced to confront landslides, ride through rough terrain and make decisions on the fly. Crossing into Kerala and reaching the iconic tea fields, the gang is rewarded with an elephant sighting and a new addition to their ride crew in Munnar.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622045800 GMT+3" stop="20260622052900 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ7</title>
+    <desc lang="el">Emma meets Dr. Asad Khan, whose life was upended by long COVID, as new research seeks answers for millions still suffering worldwide.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622052900 GMT+3" stop="20260622055900 GMT+3" channel="9744258">
+    <title lang="el">Razor: Science for a Better Future Κ1 ΕΠ8</title>
+    <desc lang="el">Emma Keeling treks through Romania’s Tarcu Mountains to see how European bison, once extinct in the wild, are making a comeback.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622055900 GMT+3" stop="20260622062900 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ2</title>
+    <desc lang="el">Vinnie and the team at Muscle Cars of Texas work on gluing the front panel on the 442 Restomod. This 67 Mercury Cougar has some issues with the rear brake pads.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622062900 GMT+3" stop="20260622064400 GMT+3" channel="9744258">
+    <title lang="el">Science of Sound Κ1 ΕΠ5</title>
+    <desc lang="el">It&apos;s no surprise that trained musicians experience music differently than others. Sure, musicians can hear and recognize similar chords or melodies across different songs, but is that all?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622064400 GMT+3" stop="20260622070000 GMT+3" channel="9744258">
+    <title lang="el">Science of Sound Κ1 ΕΠ6</title>
+    <desc lang="el">In the era of music streaming, there are millions of songs at our fingertips. But in a world of near infinite music choices, music discovery and exposure have changed drastically.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622070000 GMT+3" stop="20260622075900 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ2</title>
+    <desc lang="el">Sung&apos;s dive into the world&apos;s car cultures takes him to Poland, a country that emerged from a repressive communist era. Sung finds that new freedoms have led to an explosion of optimist and energy, and one of the most exciting experiences of his life.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260622075900 GMT+3" stop="20260622090000 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ3</title>
+    <desc lang="el">Despite a troubled past of poverty and invasions, Korea has emerged as a car building power-house. Through its unheralded and talented-loaded car scene, Sung reconnects with the land of his birth and finds peace with his estranged mother.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622090000 GMT+3" stop="20260622100000 GMT+3" channel="9744258">
+    <title lang="el">Cooks on Fire Κ1 ΕΠ2</title>
+    <desc lang="el">The six returning teams are asked to make a fast food barbecue in the Throwdown challenge, then the mystery Scorcher gives them something to be excited about: venison.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622100000 GMT+3" stop="20260622104500 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ2</title>
+    <desc lang="el">Starting at Old Dragon’s Head, Ash continues west to meet a Wall Protector who has dedicated his life to preserving this iconic monument, before gearing up for an unexpected adventure: scuba diving the ruins of the Great Wall of China.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622104500 GMT+3" stop="20260622105900 GMT+3" channel="9744258">
+    <title lang="el">Bright Now Κ1 ΕΠ6</title>
+    <desc lang="el">Follow a family of sperm whales in the heart of the Indian Ocean. Alongside a team of scientists, who have witnessed their most intimate moments over the past 7 years, we will lift the veil on the largest-toothed predator on earth.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622105900 GMT+3" stop="20260622111300 GMT+3" channel="9744258">
+    <title lang="el">Bright Now Κ1 ΕΠ7</title>
+    <desc lang="el">Deep in the mountains of West Virginia, the Green Bank Observatory has been receiving a mysterious signal from deep space. Could this be message from an advanced civilization, or is it a much stranger and violent occurrence?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622111300 GMT+3" stop="20260622112700 GMT+3" channel="9744258">
+    <title lang="el">Bright Now Κ1 ΕΠ8</title>
+    <desc lang="el">More than 400 million cups of coffee are consumed in the United States alone each day, making it one of the hottest drinks - even when served cold. Experts reveal some of the surprising secrets that make your favorite coffees taste the way they do.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622112700 GMT+3" stop="20260622122800 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ6</title>
+    <desc lang="el">Luxe Travels showcases beautiful Belize; with hundreds of kilometers of coastline with the Caribbean sea, the 2nd largest barrier reef, and one of the best dive sites in the world, how could you not? In this episode, Dani Kristo is on a mission to showcase the best of Belize</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622122800 GMT+3" stop="20260622133000 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ7</title>
+    <desc lang="el">Cyprus is the island of love beauty and in this episode of Luxe Travels, Host Sophie Ashley traverses the beautiful Mediterranean island to find out all about the must see and must experience spots in the birth place of Aphrodite!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622133000 GMT+3" stop="20260622143500 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ1</title>
+    <desc lang="el">The seasons at De Hoop Nature Reserve drive a remarkable recovery for five iconic species, from the arrival of whales to the intense Bontebok rut.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622143500 GMT+3" stop="20260622153600 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ2</title>
+    <desc lang="el">Mammoth mammals migrate from the Antarctic to South Africa&apos;s coast to mate and give birth, featuring aerial displays and massive feeding frenzies.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622153600 GMT+3" stop="20260622163700 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ9</title>
+    <desc lang="el">The engine is removed and the &apos;Cuda is slated for paint. But before Will can prepare, he receives a package with something magical inside.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622163700 GMT+3" stop="20260622173700 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ10</title>
+    <desc lang="el">It&apos;s nearing the end of Operation Firepower. The ghouls are working hard to complete the project and tries to fire up the &apos;Cuda for the first time.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622173700 GMT+3" stop="20260622183700 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ10</title>
+    <desc lang="el">An ultra rare 1957 Mercedes Benz 300 SL Roadster is resto-modded using a modern Mercedes Benz SLK 230 as a donor vehicle.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622183700 GMT+3" stop="20260622193800 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ1</title>
+    <desc lang="el">The team does a restoration modification of a 1964 Mercedes Benz 230 SL, adding custom made wheels and a modern engine.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622193800 GMT+3" stop="20260622202400 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ5</title>
+    <desc lang="el">Supercar Blondie arrives in ‘Motor City’ in the dead of winter but given access to a half million dollar new Ford GT raises her spirits. Her goal is to learn more about muscle cars, born in Detroit, and her journey takes her in different directions.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622202400 GMT+3" stop="20260622203700 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ5</title>
+    <desc lang="el">The Flying Kestrel takes on the final records attempts, and the shocking results leave everyone reeling.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622203700 GMT+3" stop="20260622205200 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ1</title>
+    <desc lang="el">After driver Jon Webster crashes the Flying Kestrel at 148 mph, the team must work out what went wrong and have to decide if the dream of a land speed record is worth risking it all?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260622205200 GMT+3" stop="20260622210600 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ2</title>
+    <desc lang="el">The Flying Kestrel team regroup at Jon’s workshop as he shows them his new groundbreaking ideas to rebuild the car to give them the best chance at breaking a land speed record.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260622210600 GMT+3" stop="20260622220600 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ3</title>
+    <desc lang="el">The 1 of a kind 1969 Hemi Roadrunner Convertible, is back on the lift. With the owner soon to arrive, the ghouls have to ramp up and get it finished.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622220600 GMT+3" stop="20260622230600 GMT+3" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ4</title>
+    <desc lang="el">Tony and Cindy D&apos;Agostino visit the Ghouls. Mark and Tony geek out over the 1970 Superbee 383 Magnum and the 1971 Plymouth Roadrunner.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622230600 GMT+3" stop="20260622233600 GMT+3" channel="9744258">
+    <title lang="el">Fast and Famous Κ1 ΕΠ1</title>
+    <desc lang="el">Racing Driver Arie Luyendyk Jr. challenges two celebrities, kickboxer Rico Verhoeven and footballer Sol Campbell, to see who is the fastest around the track.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260622233600 GMT+3" stop="20260623000600 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ3</title>
+    <desc lang="el">The team at Muscle Cars of Texas will add primer to the frame of a half million dollar 1963 Corvette Z06. This 65 Mustang had a tune up and its ready for a test drive. A new costumer has dropped off a 1968 Corvette for a restoration project.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260622000000 GMT+3" stop="20260622003000 GMT+3" channel="216382">
@@ -108047,6 +109025,114 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260623003000 GMT+3" stop="20260623020000 GMT+3" channel="54111184">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623020000 GMT+3" stop="20260623030000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623030000 GMT+3" stop="20260623040000 GMT+3" channel="54111184">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623040000 GMT+3" stop="20260623050000 GMT+3" channel="54111184">
+    <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ (E)</title>
+    <desc lang="el">Η ζωή μετά τα τριάντα είναι λίγο σαν τα φανάρια. Όταν είσαι ελεύθερος είσαι το πράσινο, όλοι οι δρόμοι είναι ανοιχτοί για σένα. Μπορείς να πας παντού και να κάνεις ό,τι θέλεις χωρίς να σε σταματήσει κανείς. Τα πάντα μπορούν να συμβούν. Όταν είσαι σε σχέση είσαι το πορτοκαλί.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623050000 GMT+3" stop="20260623060000 GMT+3" channel="54111184">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623060000 GMT+3" stop="20260623084500 GMT+3" channel="54111184">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623084500 GMT+3" stop="20260623114500 GMT+3" channel="54111184">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623114500 GMT+3" stop="20260623140000 GMT+3" channel="54111184">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623140000 GMT+3" stop="20260623150000 GMT+3" channel="54111184">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623150000 GMT+3" stop="20260623162000 GMT+3" channel="54111184">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623162000 GMT+3" stop="20260623174500 GMT+3" channel="54111184">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623174500 GMT+3" stop="20260623180000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623180000 GMT+3" stop="20260623180500 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623180500 GMT+3" stop="20260623185500 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623185500 GMT+3" stop="20260623201000 GMT+3" channel="54111184">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623201000 GMT+3" stop="20260623211000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623211000 GMT+3" stop="20260623233000 GMT+3" channel="54111184">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623233000 GMT+3" stop="20260624003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260623004500 GMT+3" stop="20260623014500 GMT+3" channel="54184415">
     <title lang="el">ΔΙΚΑΣΤΙΚΕΣ ΥΠΟΘΕΣΕΙΣ (E)</title>
     <desc lang="el">Η δικαστής Ηλέκτρα Ηροδότου, καλείται καθημερινά να αντιμετωπίσει άκρως ενδιαφέρουσες νομικές υποθέσεις, που φτάνουν ενώπιον του δικαστηρίου.</desc>
@@ -108172,6 +109258,126 @@
     <desc lang="el">11/02/26</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260623000000 GMT+3" stop="20260623020000 GMT+3" channel="289530">
+    <title lang="el">ΓΑΛΛΙΑ - ΙΡΑΚ</title>
+    <desc lang="el">ΓΑΛΛΙΑ - ΙΡΑΚ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623020000 GMT+3" stop="20260623030000 GMT+3" channel="289530">
+    <title lang="el">FIFA World Cup Preview Series</title>
+    <desc lang="el">FIFA World Cup Preview Series</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623030000 GMT+3" stop="20260623050000 GMT+3" channel="289530">
+    <title lang="el">ΝΟΡΒΗΓΙΑ - ΣΕΝΕΓΑΛΗ</title>
+    <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623050000 GMT+3" stop="20260623060000 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
+    <desc lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623060000 GMT+3" stop="20260623080000 GMT+3" channel="289530">
+    <title lang="el">ΙΟΡΔΑΝΙΑ - ΑΛΓΕΡΙΑ</title>
+    <desc lang="el">ΙΟΡΔΑΝΙΑ - ΑΛΓΕΡΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623080000 GMT+3" stop="20260623100000 GMT+3" channel="289530">
+    <title lang="el">ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
+    <desc lang="el">Ο Ανδρέας Δημητρόπουλος επιστρέφει, για 12η συνεχή χρονιά, για να ριχτεί στη μάχη της πρωινής ενημέρωσης, με σεβασμό στον Κύπριο τηλεθεατή, με εγκυρότητα και αντικειμενικότητα. Ό,τι συμβαίνει την ώρα που συμβαίνει σε Κύπρο και εξωτερικό γίνεται... ΠΡΩΤΟΣΕΛΙ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623100000 GMT+3" stop="20260623110000 GMT+3" channel="289530">
+    <title lang="el">Outdoor &amp; ΦΥΣΗ (E)</title>
+    <desc lang="el">Outdoor &amp; ΦΥΣΗ (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623110000 GMT+3" stop="20260623133000 GMT+3" channel="289530">
+    <title lang="el">ΜΕΣΗΜΕΡΙ ΚΑΙ ΚΑΤΙ ΜΕ ΤΟΝ ΧΡΗΣΤΟ ΜΙΧΑΛΑΡΟ</title>
+    <desc lang="el">Ο Χρήστος Μιχάλαρος και η ομάδα του συναντούν για 6η συνεχόμενη χρονιά το τηλεοπτικό κοινό, παρουσιάζοντας ένα ενημερωτικό πρόγραμμα γεμάτο ειδήσεις, συζητήσεις, ανταποκρίσεις, αναλύσεις, δυναμικές παρεμβάσεις και αποκαλύψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623133000 GMT+3" stop="20260623140000 GMT+3" channel="289530">
+    <title lang="el">Mundial Zone</title>
+    <desc lang="el">Mundial Zone</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623140000 GMT+3" stop="20260623150000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">01/04/2026</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623150000 GMT+3" stop="20260623170000 GMT+3" channel="289530">
+    <title lang="el">ΝΟΡΒΗΓΙΑ - ΣΕΝΕΓΑΛΗ</title>
+    <desc lang="el">Σε επανάληψη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623170000 GMT+3" stop="20260623175000 GMT+3" channel="289530">
+    <title lang="el">ΧΡΥΣΩΜΑΓΕΙΡΕΜΑΤΑ ΜΕ ΤΗ ΧΡΥΣΩ ΛΕΦΟΥ</title>
+    <desc lang="el">Η Χρύσω Λέφου επιστρέφει για δεύτερη χρονιά στην οθόνη του ΣΙΓΜΑ, γεμάτη αγάπη, ιστορίες και... μυρωδιές από τα παιδικά μας χρόνια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623175000 GMT+3" stop="20260623175500 GMT+3" channel="289530">
+    <title lang="el">Mundial Express</title>
+    <desc lang="el">Mundial Express</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623175500 GMT+3" stop="20260623183000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της τηλεόρασης ΣΙΓΜΑ στελεχώνεται με την πιο δυναμική ομάδα που σκοπό έχει την ενημέρωση του τηλεοπτικού κοινού. Καλεσμένοι στο στούντιο και σχόλια από έγκριτους δημοσιογράφους, έρευνες και αποκαλυπτικά ρεπορτάζ όλα με εγκυρότητα και διεισδυτικότητα. Η Πέτρα Αργυρού, ο Χρύσανθος Τσουρούλλης και η δημοσιογραφική ομάδα του ΣΙΓΜΑ, με δυναμισμό και πάθος αποκαλύπτουν την αλήθεια πίσω από την είδηση.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623183000 GMT+3" stop="20260623193000 GMT+3" channel="289530">
+    <title lang="el">Still Standing (E)</title>
+    <desc lang="el">Still Standing (E)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623193000 GMT+3" stop="20260623200000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623200000 GMT+3" stop="20260623220000 GMT+3" channel="289530">
+    <title lang="el">ΠΟΡΤΟΓΑΛΙΑ - ΟΥΖΜΠΕΚΙΣΤΑΝ</title>
+    <desc lang="el">ΠΟΡΤΟΓΑΛΙΑ - ΟΥΖΜΠΕΚΙΣΤΑΝ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623220000 GMT+3" stop="20260623222000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Postgame</title>
+    <desc lang="el">Mundial 2026 Postgame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623222000 GMT+3" stop="20260623230000 GMT+3" channel="289530">
+    <title lang="el">Mundial 2026 Pregame</title>
+    <desc lang="el">Mundial 2026 Pregame</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623230000 GMT+3" stop="20260624060000 GMT+3" channel="289530">
+    <title lang="el">ΑΓΓΛΙΑ - ΓΚΑΝΑ</title>
+    <desc lang="el">ΑΓΓΛΙΑ - ΓΚΑΝΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260623000000 GMT+3" stop="20260623010000 GMT+3" channel="39337317">
     <title lang="el">ΝΑ Μ&apos;ΑΓΑΠΑΣ (E)</title>
@@ -109090,6 +110296,114 @@
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260623003000 GMT+3" stop="20260623020000 GMT+3" channel="289555">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623020000 GMT+3" stop="20260623030000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623030000 GMT+3" stop="20260623040000 GMT+3" channel="289555">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623040000 GMT+3" stop="20260623050000 GMT+3" channel="289555">
+    <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ (E)</title>
+    <desc lang="el">Η ζωή μετά τα τριάντα είναι λίγο σαν τα φανάρια. Όταν είσαι ελεύθερος είσαι το πράσινο, όλοι οι δρόμοι είναι ανοιχτοί για σένα. Μπορείς να πας παντού και να κάνεις ό,τι θέλεις χωρίς να σε σταματήσει κανείς. Τα πάντα μπορούν να συμβούν. Όταν είσαι σε σχέση είσαι το πορτοκαλί.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623050000 GMT+3" stop="20260623060000 GMT+3" channel="289555">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623060000 GMT+3" stop="20260623084500 GMT+3" channel="289555">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623084500 GMT+3" stop="20260623114500 GMT+3" channel="289555">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623114500 GMT+3" stop="20260623140000 GMT+3" channel="289555">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623140000 GMT+3" stop="20260623150000 GMT+3" channel="289555">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623150000 GMT+3" stop="20260623162000 GMT+3" channel="289555">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623162000 GMT+3" stop="20260623174500 GMT+3" channel="289555">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623174500 GMT+3" stop="20260623180000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623180000 GMT+3" stop="20260623180500 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623180500 GMT+3" stop="20260623185500 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623185500 GMT+3" stop="20260623201000 GMT+3" channel="289555">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623201000 GMT+3" stop="20260623211000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623211000 GMT+3" stop="20260623233000 GMT+3" channel="289555">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623233000 GMT+3" stop="20260624003000 GMT+3" channel="289555">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260623004500 GMT+3" stop="20260623014500 GMT+3" channel="289542">
     <title lang="el">ΔΙΚΑΣΤΙΚΕΣ ΥΠΟΘΕΣΕΙΣ (E)</title>
@@ -115274,6 +116588,180 @@
     <title lang="el">24 In 24: Last Chef Standing Κ3 ΕΠ1</title>
     <desc lang="el">The chefs begin their first shift and learn that they&apos;ll be tested in unexpected ways. They must impress judge Jet Tila to continue to the next shift.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623000600 GMT+3" stop="20260623003700 GMT+3" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ4</title>
+    <desc lang="el">This time, on Muscle Cars of Texas, Vinnie and the team are working on a 63 Z06, 59 Ford Pickup and a 69 Chevy Malibu.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623003700 GMT+3" stop="20260623010000 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ4</title>
+    <desc lang="el">The transformation is complete and it&apos;s time for The Flying Kestrel to be put to the test.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623010000 GMT+3" stop="20260623020400 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ1</title>
+    <desc lang="el">From mountain passes to coral reefs, Turkey’s varied landscapes serve as a massive crossroads for diverse species.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623020400 GMT+3" stop="20260623031000 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ2</title>
+    <desc lang="el">Beyond the pyramids, giant reptiles, mystical birds, and unique mammals thrive in a landscape where life once seemed impossible.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623031000 GMT+3" stop="20260623041000 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ1</title>
+    <desc lang="el">Braving the spring chill, Andreas Kieling explores rugged slate mountains and forests, revealing the resilient creatures of this varied landscape.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623041000 GMT+3" stop="20260623051000 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ2</title>
+    <desc lang="el">Soaring above the Rhön, Andreas Kieling explores volcanic basalt rocks, Europe&apos;s largest raised bog, and the massive &quot;Monte Kali&quot; salt mountains.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623051000 GMT+3" stop="20260623061000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven&apos;s Wild Central America Κ1 ΕΠ1</title>
+    <desc lang="el">Nigel Marven explores Honduras’ vast biodiversity, from ancient Mayan ruins and the &quot;White City&quot; to rare emerald hummingbirds and scarlet macaws.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623061000 GMT+3" stop="20260623070000 GMT+3" channel="9744258">
+    <title lang="el">Foodwise Κ3 ΕΠ10</title>
+    <desc lang="el">Tianran and Hannah try tea grown on Danxia landforms and feast on mountain produce, before getting hands-on with making rice noodles in a Hakka walled village.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623070000 GMT+3" stop="20260623071500 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Sport Κ1 ΕΠ23</title>
+    <desc lang="el">Jyri is a young guy from Finland and the only professional in freestyle snowmobile in his country.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623071500 GMT+3" stop="20260623073000 GMT+3" channel="9744258">
+    <title lang="el">Power &amp; Sport Κ1 ΕΠ24</title>
+    <desc lang="el">Alex followed his parents to Finland, fell in love with dog-mushing and now lives with his girlfriend and 85 dogs near the polar circle.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623073000 GMT+3" stop="20260623080000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ2</title>
+    <desc lang="el">Terry and Larry will test 3 scenes from Denzel Washington’s Equalizer films. Can Terry be as cool as Denzel and use propane tanks and a microwave to create an explosion, use a staple gun to take out the bad guy, or create a scenario where a flash bang will ignite a room full of baking flour?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623080000 GMT+3" stop="20260623083000 GMT+3" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ3</title>
+    <desc lang="el">Terry wants to demonstrate how Hollywood has used different objects to silence a gunshot, and he and Larry will take to the range to see which one is the most qualified to act as a silencer. Terry also has a sit-down with Joey Zasa from Godfather 3 (Joe Mantegna) to discuss what he thinks of Hollywood’s adaptation of the silencer.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623083000 GMT+3" stop="20260623092900 GMT+3" channel="9744258">
+    <title lang="el">Rhino Orphanage Κ1 ΕΠ1</title>
+    <desc lang="el">The team at The Rhino Orphanage fights for survival, nurturing calves orphaned by poachers while racing against time to save young Thula’s eyesight.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623092900 GMT+3" stop="20260623102900 GMT+3" channel="9744258">
+    <title lang="el">Rhino Orphanage Κ1 ΕΠ2</title>
+    <desc lang="el">Release day arrives for the oldest rhinos, while three others go missing. A new volunteer watches as the high-stakes return to the wild risks disaster</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623102900 GMT+3" stop="20260623105900 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ6</title>
+    <desc lang="el">With lifted spirits, the Keefer brothers set out to spot and stalk a herd of caribou near by, but closing in proves more difficult than expected.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623105900 GMT+3" stop="20260623120000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven’s Wild Philippines Κ1 ΕΠ1</title>
+    <desc lang="el">Nigel tracks extraordinary wildlife across Luzon’s active volcanoes, Manila&apos;s urban sprawl, and some of the world’s most species-rich coral reefs.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623120000 GMT+3" stop="20260623130000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven’s Wild Philippines Κ1 ΕΠ2</title>
+    <desc lang="el">Known as the &quot;Last Frontier,&quot; Nigel ventures into Palawan’s ancient rainforests and underground treasures to find the island&apos;s unique coastal life.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623130000 GMT+3" stop="20260623140000 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ4</title>
+    <desc lang="el">The popularity of New Zealand&apos;s mascot, Pabu-chan, grows at the Sapporo Snow Festival, and then he gets a chance to hit the big time. Rhys also travels to the Okinawa Islands in search of the beautiful and fleeting cherry blossoms.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623140000 GMT+3" stop="20260623150000 GMT+3" channel="9744258">
+    <title lang="el">Rhys Darby in Japan Κ1 ΕΠ1</title>
+    <desc lang="el">Rhys learns the tricks of the trade from Japan&apos;s #1 mascot, battles a roboticist, experiences the relaxation of forest bathing, and trains with a samurai master.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623150000 GMT+3" stop="20260623160000 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ1</title>
+    <desc lang="el">Bboy Junior is going back where he was born, The Democratic Republic of Congo. World champion Shigekix will join him, visiting Africa for the first time. Together they will explore the dance culture in the city of Goma.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623160000 GMT+3" stop="20260623165900 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ2</title>
+    <desc lang="el">Russian Bgirl Kastet is visiting Sao Paulo, the home of Bboy Neguin. Together they will explore the dance, breaking and hip hop culture in the streets of Sao Paulo. Meeting up with legends and learning Capoeira, Jiu Jitsu and Passinho.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623165900 GMT+3" stop="20260623180000 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ5</title>
+    <desc lang="el">Jonathan Legg is from California and he thinks he knows Mexican cuisine. This notion gets shattered as he experiences the onslaught of food in Mexico city! Between trying scorpion tacos and dodging shady markets in San Juan, he learns the dark art of sacred drinks, like pulque and mezcal, now turned into social libations. His journey also takes him to Oaxaca where he gets the low down on the fabled Mole sauce, and a long haul to a village reveals a secret ceremony that has origins of dark arts!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623180000 GMT+3" stop="20260623191500 GMT+3" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ1</title>
+    <desc lang="el">The nation of 7,000 islands has no problems with beach, sun, or sea; but they suffer tremendously with cuisine image. Jonathan lands in Manila to discover the top chefs are well aware of the issue and, following their advice, he launches off on an expedition to find part of the solution. Driving from headhunting tribal villages, to step-back-in-time colonial towns, to restaurants in the shadow of the American military behemoth an intriguing story slowly pieces together.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260623191500 GMT+3" stop="20260623200000 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ2</title>
+    <desc lang="el">The Eastern port Kolkata has been the centre for international merchants and migrants. The closest entry-point from China, in 1778 Kolkota became home to India’s only Chinese community. They have left an indelible mark on Kolkata’s architecture, culture and cuisine.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623200000 GMT+3" stop="20260623204500 GMT+3" channel="9744258">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ3</title>
+    <desc lang="el">Kolkata’s extraordinary street-food scene has been influenced by its various conquerors and rulers. The most profound influence has been from the fabulously rich and powerful Mughals. Will reimagines classic dishes while also incorporating the unique street food flavours he encounters.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623204500 GMT+3" stop="20260623212900 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ3</title>
+    <desc lang="el">Jess sets off for Palakkad, exploring the region’s lush tea plantations and local tribal villages. As the crew heads into Karnataka, they visit a stunning waterfall and gain more riders along the way. As they continue toward Thirthahalli, Jess receives a phone call that could change everything for her and the group.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623212900 GMT+3" stop="20260623220900 GMT+3" channel="9744258">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ4</title>
+    <desc lang="el">The ride takes a dramatic turn when Bhaskar totals the support car. With Ridermania just days away, Jess and the team scramble to salvage their journey, redistributing luggage onto their bikes. They push on through Karnataka, reaching Gokarna’s beaches, only for another setback to hit when a rider is caught in a collision.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623220900 GMT+3" stop="20260623230900 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ4</title>
+    <desc lang="el">Japanese car culture holds a special place in Sung&apos;s heart. He&apos;s back exploring the home of drifting to see the coolest mods, and quirkiest characters. Sung finds that a quest for brilliance and excellence makes this the best place to get inspired.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260623230900 GMT+3" stop="20260624001000 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ5</title>
+    <desc lang="el">Sung braves the ice-cold winter and reputation as one of the US&apos;s crime capitals to uncover the best of Chicago&apos;s car culture. He finds there&apos;s much more to the windy city than the Blues Mobile. Car nuts are giving the big city a small town heart.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260623000000 GMT+3" stop="20260623003000 GMT+3" channel="216382">
@@ -124996,6 +126484,114 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260624003000 GMT+3" stop="20260624020000 GMT+3" channel="54111184">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624020000 GMT+3" stop="20260624030000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624030000 GMT+3" stop="20260624040000 GMT+3" channel="54111184">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624040000 GMT+3" stop="20260624050000 GMT+3" channel="54111184">
+    <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ (E)</title>
+    <desc lang="el">Η ζωή μετά τα τριάντα είναι λίγο σαν τα φανάρια. Όταν είσαι ελεύθερος είσαι το πράσινο, όλοι οι δρόμοι είναι ανοιχτοί για σένα. Μπορείς να πας παντού και να κάνεις ό,τι θέλεις χωρίς να σε σταματήσει κανείς. Τα πάντα μπορούν να συμβούν. Όταν είσαι σε σχέση είσαι το πορτοκαλί.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624050000 GMT+3" stop="20260624060000 GMT+3" channel="54111184">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624060000 GMT+3" stop="20260624084500 GMT+3" channel="54111184">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624084500 GMT+3" stop="20260624114500 GMT+3" channel="54111184">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624114500 GMT+3" stop="20260624140000 GMT+3" channel="54111184">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624140000 GMT+3" stop="20260624150000 GMT+3" channel="54111184">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624150000 GMT+3" stop="20260624162000 GMT+3" channel="54111184">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624162000 GMT+3" stop="20260624174500 GMT+3" channel="54111184">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624174500 GMT+3" stop="20260624180000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624180000 GMT+3" stop="20260624180500 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624180500 GMT+3" stop="20260624190000 GMT+3" channel="54111184">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624190000 GMT+3" stop="20260624201000 GMT+3" channel="54111184">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624201000 GMT+3" stop="20260624211000 GMT+3" channel="54111184">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624211000 GMT+3" stop="20260624233000 GMT+3" channel="54111184">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624233000 GMT+3" stop="20260625003000 GMT+3" channel="54111184">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260624014500 GMT+3" stop="20260624041000 GMT+3" channel="54184415">
     <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ ΜΕ ΤΟΝ ΠΕΤΡΟ ΚΟΥΣΟΥΛΟ</title>
     <desc lang="el">Σε κάθε υπόθεση, υπάρχει μία αλήθεια. Και μία σιωπή, που κάποιος πρέπει να σπάσει. Ο Πέτρος Κουσουλός, έρχεται για να ανοίξει στόματα και να ξεκλειδώσει κλειστές πόρτες, με τη μαχητικότητα και την έρευνά του. Χωρίς φόβο, αλλά με πολύ πάθος, θα βάλει στο μικροσκόπιό του συνταρακτικές υποθέσεις, θα αναδείξει πρωτογενείς ειδήσεις, θα φέρει στο προσκήνιο τους πρωταγωνιστές και θα ξεδιπλώσει όλες τις αθέατες πτυχές.</desc>
@@ -126063,6 +127659,114 @@
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260624003000 GMT+3" stop="20260624020000 GMT+3" channel="289555">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624020000 GMT+3" stop="20260624030000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624030000 GMT+3" stop="20260624040000 GMT+3" channel="289555">
+    <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
+    <desc lang="el">Ο Τάσος Δούσης ταξιδεύει σε πέντε ηπείρους και μοιράζεται εμπειρίες και «Εικόνες»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624040000 GMT+3" stop="20260624050000 GMT+3" channel="289555">
+    <title lang="el">ΓΙΑ ΠΑΝΤΑ ΠΑΙΔΙΑ (E)</title>
+    <desc lang="el">Η ζωή μετά τα τριάντα είναι λίγο σαν τα φανάρια. Όταν είσαι ελεύθερος είσαι το πράσινο, όλοι οι δρόμοι είναι ανοιχτοί για σένα. Μπορείς να πας παντού και να κάνεις ό,τι θέλεις χωρίς να σε σταματήσει κανείς. Τα πάντα μπορούν να συμβούν. Όταν είσαι σε σχέση είσαι το πορτοκαλί.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624050000 GMT+3" stop="20260624060000 GMT+3" channel="289555">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624060000 GMT+3" stop="20260624084500 GMT+3" channel="289555">
+    <title lang="el">ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
+    <desc lang="el">Κοινωνική εκπομπή με τη Ζήνα Κουτσελίνη. Θέματα επικαιρότητας, κοινωνικοί προβληματισμοί, ανθρώπινες ιστορίες.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624084500 GMT+3" stop="20260624114500 GMT+3" channel="289555">
+    <title lang="el">Breakfast at Star</title>
+    <desc lang="el">Η Ελένη Χατζίδου και ο Ετεοκλής Παύλου για 4η χρονιά, μας καλημερίζουν με την ανεβασμένη τους διάθεση και τον ακαταμάχητο αυθορμητισμό τους. Με την ειλικρινή τους χημεία, το χιούμορ, τη ζεστασιά και την αμεσότητά τους, καταφέρνουν πάντα να φτιάχνουν την ατμόσφαιρα και να προσφέρουν το πιο απολαυστικό και πλούσιο πρωινό!</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624114500 GMT+3" stop="20260624140000 GMT+3" channel="289555">
+    <title lang="el">ΕΝΗΜΕΡΩΣΗ ΤΩΡΑ</title>
+    <desc lang="el">Μεσημβρινή ενημερωτική εκπομπή με την Στέλλα Σάββα. Η καθημερινή κάλυψη των σημαντικότερων εξελίξεων σε Κύπρο και εξωτερικό. Μέσα από ρεπορτάζ, ζωντανές συνδέσεις, αναλύσεις και καλεσμένους, η εκπομπή φωτίζει όχι μόνο γεγονότα αλλά και τις αθέατες πτυχές τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624140000 GMT+3" stop="20260624150000 GMT+3" channel="289555">
+    <title lang="el">Cuisinovia</title>
+    <desc lang="el">Η μαγειρική μεταμορφώνεται σε καθημερινή απόλαυση και η Γαλάτεια Παμπορίδη ξέρει πως να μας καθοδηγήσει στη δημιουργία των πιο γευστικών πιάτων. Για άλλη μία χρονιά η αγαπημένη σεφ θα μας αποκαλύψει νέες ιδέες, ευφάνταστους συνδυασμούς και πρακτικές λύσεις, φέρνοντας τη μαγειρική πιο κοντά από ποτέ.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624150000 GMT+3" stop="20260624162000 GMT+3" channel="289555">
+    <title lang="el">ΑΙΧΜΕΣ</title>
+    <desc lang="el">Η εκπομπή που δίνει φωνή στους πολίτες και εστιάζει στα θέματα που απασχολούν την κοινωνία, με τον Σωτήρη Παρούτη. Με έντονο παρεμβατικό χαρακτήρα, αναδεικνύει προβλήματα της καθημερινότητας, θέτει καίρια ερωτήματα και απαιτεί απαντήσεις από τους αρμόδιους. Οι τηλεθεατές συμμετέχουν ενεργά, είτε μέσω παρεμβάσεων είτε με αποστολή σχολίων και ερωτήσεων, ενισχύοντας τον διάλογο και τη διαφάνεια.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624162000 GMT+3" stop="20260624174500 GMT+3" channel="289555">
+    <title lang="el">ΠΑΜΕ ΠΑΡΕΑ</title>
+    <desc lang="el">Η απόλυτη ψυχαγωγική εκπομπή με τη μοναδική Χριστιάνα Αρτεμίου και την ομάδα της! Θετική ενέργεια, ζεστασιά, ανθρώπινη επαφή και φυσικά άφθονο γέλιο είναι μόνο μερικά από τα στοιχεία που θα κάνουν τα απογεύματά μας πιο απολαυστικά. Αληθινές στιγμές, απρόβλεπτες εξελίξεις και φυσικά οι απίθανες σάτιρες της Χριστιάνας, που ήδη έχουν γράψει ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624174500 GMT+3" stop="20260624180000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624180000 GMT+3" stop="20260624180500 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624180500 GMT+3" stop="20260624190000 GMT+3" channel="289555">
+    <title lang="el">Cash Or Trash (ΣΥΝΈΧΕΙΑ)</title>
+    <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624190000 GMT+3" stop="20260624201000 GMT+3" channel="289555">
+    <title lang="el">Ο ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
+    <desc lang="el">Μαχητικό, ανθρώπινο, με άποψη, νεύρο και σεβασμό στην ενημέρωση του πολίτη, το ειδησεογραφικό δελτίο μεταφέρει τον παλμό των γεγονότων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624201000 GMT+3" stop="20260624211000 GMT+3" channel="289555">
+    <title lang="el">OMEGA NEWS</title>
+    <desc lang="el">Το ειδησεογραφικό δελτίο του OMEGA μεταφέρει τον παλμό των γεγονότων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624211000 GMT+3" stop="20260624233000 GMT+3" channel="289555">
+    <title lang="el">Master Chef 10</title>
+    <desc lang="el">Στη 10η επετειακή του χρονιά, ο μεγαλύτερος και πιο επιτυχημένος μαγειρικός τηλεοπτικός διαγωνισμός συνεχίζει να κυριαρχεί στο είδος του, συνδυάζοντας υψηλή γαστρονομία, έντονο ανταγωνισμό και αυθεντικά συναισθήματα. Με τους αξεπέραστους Σωτήρη Κοντιζά, Λεωνίδα Κουτσόπουλο και Πάνο Ιωαννίδη, ο πήχης ανεβαίνει ακόμα πιο ψηλά, δοκιμάζοντας τα όρια, το ταλέντο και τη δημιουργικότητα των διαγωνιζόμενων.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624233000 GMT+3" stop="20260625003000 GMT+3" channel="289555">
+    <title lang="el">Lingo</title>
+    <desc lang="el">Το LINGO είναι ένα γρήγορο, διασκεδαστικό και εθιστικό παιχνίδι λέξεων, που συνδυάζει δεξιότητα, ένταση και χιούμορ, προσφέροντας στους παίκτες τη δυνατότητα να κερδίσουν μεγάλα χρηματικά έπαθλα. Ομάδες αναμετρώνται σε μια συναρπαστική μάχη, προσπαθώντας να συμπληρώσουν τα κενά και να βρουν τις λέξεις, που σχηματίζονται. Με τον Νίκο Μουτσινά.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260624014500 GMT+3" stop="20260624041000 GMT+3" channel="289542">
     <title lang="el">ΑΠΟΚΑΛΥΨΕΙΣ ΜΕ ΤΟΝ ΠΕΤΡΟ ΚΟΥΣΟΥΛΟ</title>
@@ -132223,6 +133927,180 @@
     <title lang="el">Flavortown Food Fight Κ1 ΕΠ5</title>
     <desc lang="el">The competition&apos;s first $20,000 prize winner is back to battle Michelle Wallace and Adam Greenberg in making Flavortown&apos;s boldest over-the-top dishes.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624001000 GMT+3" stop="20260624004000 GMT+3" channel="9744258">
+    <title lang="el">Roads End Κ1 ΕΠ9</title>
+    <desc lang="el">A day of gruelling grape picking lies ahead and the duo discover a new love for the country&apos;s greatest export.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624004000 GMT+3" stop="20260624010000 GMT+3" channel="9744258">
+    <title lang="el">Born to Κ1 ΕΠ13</title>
+    <desc lang="el">Steve Peat is without a doubt a man with incredible talent and is looked up to by so many throughout the sport and biking world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624010000 GMT+3" stop="20260624015800 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Goal Κ1 ΕΠ1</title>
+    <desc lang="el">Players and coaches arrive at St George’s Park for an intense 10-day training period. Eni Aluko, Rachel Brown-Finnis, Rosie Kmita and Mollie Kmita get to grips with their squad.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624015800 GMT+3" stop="20260624025800 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Goal Κ1 ΕΠ2</title>
+    <desc lang="el">As the emotion of making it to the academy hits home within the squad, Fara Williams delivers a midfield masterclass.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624025800 GMT+3" stop="20260624035900 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Goal Κ1 ΕΠ3</title>
+    <desc lang="el">Competition for places in the final 16 heats up, with Eni Aluko, Rachel Brown-Finnis, Rosie Kmita and Mollie Kmita facing the task of sending players home.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624035900 GMT+3" stop="20260624045800 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Goal Κ1 ΕΠ4</title>
+    <desc lang="el">Our final selection faces emotional farewells to their teammates as well as masterclasses from midfielder Jill Scott and winger Freddie Ljungberg.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624045800 GMT+3" stop="20260624052900 GMT+3" channel="9744258">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ1</title>
+    <desc lang="el">In the first episode of the Photonis Ultimate Forces Challenge we will meet the 7 contesting teams.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624052900 GMT+3" stop="20260624055900 GMT+3" channel="9744258">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ2</title>
+    <desc lang="el">Our teams will face two specific challenge. One underwater challenge and an obstacle run with an extra challenge to carry with them.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624055900 GMT+3" stop="20260624062900 GMT+3" channel="9744258">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ3</title>
+    <desc lang="el">After the first assignment of episode 2 the second Dutch team decided to leave the competition.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624062900 GMT+3" stop="20260624070000 GMT+3" channel="9744258">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ4</title>
+    <desc lang="el">Today, the teams will be challenged to do 2 assignments. And one of the challenges will be even harder than we have seen till now.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624070000 GMT+3" stop="20260624080400 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ3</title>
+    <desc lang="el">In the heart of the Middle East, Jordan’s wildlife endures rising temperatures and advancing deserts in a landscape governed by the sun.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624080400 GMT+3" stop="20260624090900 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ1</title>
+    <desc lang="el">From mountain passes to coral reefs, Turkey’s varied landscapes serve as a massive crossroads for diverse species.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624090900 GMT+3" stop="20260624100900 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ3</title>
+    <desc lang="el">Deep in the unspoilt forests of the former border, Andreas Kieling tracks the shy lynx and elegant wood grouse across the Harz Mountains.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624100900 GMT+3" stop="20260624110900 GMT+3" channel="9744258">
+    <title lang="el">Wild Germany: Exploring No Man&apos;s Land Κ1 ΕΠ1</title>
+    <desc lang="el">Braving the spring chill, Andreas Kieling explores rugged slate mountains and forests, revealing the resilient creatures of this varied landscape.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624110900 GMT+3" stop="20260624121000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven&apos;s Wild Central America Κ1 ΕΠ2</title>
+    <desc lang="el">Experience Costa Rica&apos;s wild side with Nigel Marven as he tracks Scarlet Macaws, playful dolphins, and rare nesting leatherback turtles.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624121000 GMT+3" stop="20260624131000 GMT+3" channel="9744258">
+    <title lang="el">Nigel Marven&apos;s Wild Central America Κ1 ΕΠ3</title>
+    <desc lang="el">Exploring Guatemala&apos;s peaks and rivers, Nigel Marven tracks rare crocodiles, venomous lizards, and the ancient history of the Maya.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624131000 GMT+3" stop="20260624135400 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ3</title>
+    <desc lang="el">Ash has made it to Beijing, where he’s meeting Terry Townsend to learn more about wildlife conservation in the region around the Great Wall of China. He also meets two more Wall Protectors and samples local delicacies in Shi Xia Village.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624135400 GMT+3" stop="20260624142500 GMT+3" channel="9744258">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ4</title>
+    <desc lang="el">In his toughest challenge so far, Ash takes on Eagle’s Neck – a notoriously steep and dangerous section of the Great Wall of China. But first, he meets tech experts who’ve been helping to digitally map The Great Wall in an effort to protect it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624142500 GMT+3" stop="20260624152500 GMT+3" channel="9744258">
+    <title lang="el">Luxe Travels Κ1 ΕΠ8</title>
+    <desc lang="el">This Luxe Travels episode explores one of Philippines 7000+ islands, and this particular island is voted by most travel publications to be the most beautiful in the world. We are of course talking about the island of Palawan.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624152500 GMT+3" stop="20260624155500 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ7</title>
+    <desc lang="el">With red meat, the Keefer brothers are finally able to replenish their depleted energy, but they aren&apos;t the only ones looking to survive the winter in the Alaskan wilderness.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624155500 GMT+3" stop="20260624162500 GMT+3" channel="9744258">
+    <title lang="el">Dropped Κ5 ΕΠ8</title>
+    <desc lang="el">The harsh reality of winter sets in, and the Keefer brothers are forced to sleep with one eye open as a grizzly patrols the area around their camp.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624162500 GMT+3" stop="20260624172600 GMT+3" channel="9744258">
+    <title lang="el">Access All Areas Κ1 ΕΠ7</title>
+    <desc lang="el">Francesca Chiorando travels to New Orleans to explore Voodoo and learn about the aftermath of Hurricane Katrina.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624172600 GMT+3" stop="20260624182700 GMT+3" channel="9744258">
+    <title lang="el">Access All Areas Κ1 ΕΠ8</title>
+    <desc lang="el">Francesca is in the USA, in an area named The Bridgewater Triangle to discover if there’s any truth to its claim as the most paranormal area of the USA.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624182700 GMT+3" stop="20260624192700 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ3</title>
+    <desc lang="el">Brazilian Bboy Neguin is visiting his friend Bboy Ronnie in his hometown Las Vegas. Ronnie istaking Neguin to meet all the different artists and dancers who are able to make a living inVegas by doing what they love most: performing on stage.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624192700 GMT+3" stop="20260624202500 GMT+3" channel="9744258">
+    <title lang="el">Breaking Beyond Κ1 ΕΠ4</title>
+    <desc lang="el">Vegas Bboy Ronnie is traveling to Japan to visit Bboy Shigekix in his hometown Tokyo. Shigekix will take Ronnie on an exciting Journey to show the Japanese culture and it&apos;s unique style of breaking and hip-hop.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624202500 GMT+3" stop="20260624212400 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ2</title>
+    <desc lang="el">Mammoth mammals migrate from the Antarctic to South Africa&apos;s coast to mate and give birth, featuring aerial displays and massive feeding frenzies.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624212400 GMT+3" stop="20260624222500 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ3</title>
+    <desc lang="el">Willem Burger faces a career-defining mission to relocate the Ivory Coast’s last white rhino after a tragic encounter with a local village chief.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260624222500 GMT+3" stop="20260624233000 GMT+3" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ2</title>
+    <desc lang="el">Beyond the pyramids, giant reptiles, mystical birds, and unique mammals thrive in a landscape where life once seemed impossible.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260624233000 GMT+3" stop="20260625000000 GMT+3" channel="9744258">
+    <title lang="el">Capturing Winter Κ1 ΕΠ4</title>
+    <desc lang="el">Renowned winter photographer, Tristan Shu, attempts his dream project; a photograph that combines astrophotography with action sports. His aim is to capture ski and snowboard tricks at night, set against the Milky-way and the spectacular Mont-Blanc.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20260624000000 GMT+3" stop="20260624003000 GMT+3" channel="216382">
