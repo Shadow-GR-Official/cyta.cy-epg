@@ -9,7 +9,7 @@ http://127.0.0.1/608096
 http://127.0.0.1/54111184
 #EXTINF:-1 tvg-id="54184415" tvg-name="ANT1 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/61/202402260722162272cs.png",ANT1 HD
 http://127.0.0.1/54184415
-#EXTINF:-1 tvg-id="289530" tvg-name="SIGMA TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/40/202402260946513927c9.png",SIGMA TV
+#EXTINF:-1 tvg-id="289530" tvg-name="SIGMA TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260618/48/08543464384947a1e4f2.jpg",SIGMA TV
 http://127.0.0.1/289530
 #EXTINF:-1 tvg-id="39337317" tvg-name="Alpha Cyprus HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/42/20240226071850337gjl.png",Alpha Cyprus HD
 http://127.0.0.1/39337317
@@ -17,7 +17,7 @@ http://127.0.0.1/39337317
 http://127.0.0.1/289568
 #EXTINF:-1 tvg-id="561166" tvg-name="Capital TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202604/20260407/68/08372620644147a1e4f2.jpg",Capital TV
 http://127.0.0.1/561166
-#EXTINF:-1 tvg-id="561178" tvg-name="One Channel" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/16/20240226094246283fjh.png",One Channel
+#EXTINF:-1 tvg-id="561178" tvg-name="Extra" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260618/98/08532958984847a1e4f2.png",Extra
 http://127.0.0.1/561178
 #EXTINF:-1 tvg-id="574264" tvg-name="ERT Cosmos" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202605/20260507/78/09585120253547a1e4f2.jpg",ERT Cosmos
 http://127.0.0.1/574264
@@ -169,7 +169,7 @@ http://127.0.0.1/54111722
 http://127.0.0.1/94430673
 #EXTINF:-1 tvg-id="97085851" tvg-name="REAL MADRID TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202507/20250730/43/06135676064447a1e4f2.jpg",REAL MADRID TV
 http://127.0.0.1/97085851
-#EXTINF:-1 tvg-id="12254006" tvg-name="Manchester United TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202605/20260515/74/05235613616047a1e4f2.jpg",Manchester United TV
+#EXTINF:-1 tvg-id="12254006" tvg-name="Manchester United TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260612/28/07005455107347a134f0.jpg",Manchester United TV
 http://127.0.0.1/12254006
 #EXTINF:-1 tvg-id="2491" tvg-name="Motorvision" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/3/20240226083641273yfi.png",Motorvision
 http://127.0.0.1/2491
