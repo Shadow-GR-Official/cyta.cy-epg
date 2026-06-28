@@ -36179,7 +36179,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260628180000 GMT+3" stop="20260629060000 GMT+3" channel="77956035">
+  <programme start="20260628180000 GMT+3" stop="20260629000000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -63243,9 +63243,207 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260630033000 GMT+3" stop="20260630060000 GMT+3" channel="574035">
+  <programme start="20260630033000 GMT+3" stop="20260630040000 GMT+3" channel="574035">
     <title lang="el">MAD EVENTS</title>
     <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630040000 GMT+3" stop="20260630080000 GMT+3" channel="574035">
+    <title lang="el">NIGHT MUSIC ZONE</title>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630080000 GMT+3" stop="20260630083000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630083000 GMT+3" stop="20260630090000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630090000 GMT+3" stop="20260630093000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630093000 GMT+3" stop="20260630100000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630100000 GMT+3" stop="20260630103000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630103000 GMT+3" stop="20260630110000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630110000 GMT+3" stop="20260630113000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630113000 GMT+3" stop="20260630120000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630120000 GMT+3" stop="20260630123000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630123000 GMT+3" stop="20260630130000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630130000 GMT+3" stop="20260630133000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630133000 GMT+3" stop="20260630140000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630140000 GMT+3" stop="20260630143000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630143000 GMT+3" stop="20260630150000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630150000 GMT+3" stop="20260630153000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630153000 GMT+3" stop="20260630160000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630160000 GMT+3" stop="20260630163000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630163000 GMT+3" stop="20260630170000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630170000 GMT+3" stop="20260630173000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630173000 GMT+3" stop="20260630180000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630180000 GMT+3" stop="20260630183000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630183000 GMT+3" stop="20260630190000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630190000 GMT+3" stop="20260630193000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630193000 GMT+3" stop="20260630200000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630200000 GMT+3" stop="20260630203000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630203000 GMT+3" stop="20260630210000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630210000 GMT+3" stop="20260630213000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630213000 GMT+3" stop="20260630220000 GMT+3" channel="574035">
+    <title lang="el">LOL ZONE</title>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630220000 GMT+3" stop="20260630223000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630223000 GMT+3" stop="20260630230000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630230000 GMT+3" stop="20260630233000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260630233000 GMT+3" stop="20260701000000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
@@ -80532,6 +80730,252 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260701000000 GMT+3" stop="20260701003000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701003000 GMT+3" stop="20260701010000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701010000 GMT+3" stop="20260701013000 GMT+3" channel="574035">
+    <title lang="el">GAME MASTERS</title>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701013000 GMT+3" stop="20260701020000 GMT+3" channel="574035">
+    <title lang="el">GAME MASTERS</title>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701020000 GMT+3" stop="20260701023000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701023000 GMT+3" stop="20260701030000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701030000 GMT+3" stop="20260701033000 GMT+3" channel="574035">
+    <title lang="el">MAD EVENTS</title>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701033000 GMT+3" stop="20260701040000 GMT+3" channel="574035">
+    <title lang="el">MAD EVENTS</title>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701040000 GMT+3" stop="20260701080000 GMT+3" channel="574035">
+    <title lang="el">NIGHT MUSIC ZONE</title>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701080000 GMT+3" stop="20260701083000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701083000 GMT+3" stop="20260701090000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701090000 GMT+3" stop="20260701093000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701093000 GMT+3" stop="20260701100000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701100000 GMT+3" stop="20260701103000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701103000 GMT+3" stop="20260701110000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701110000 GMT+3" stop="20260701113000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701113000 GMT+3" stop="20260701120000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701120000 GMT+3" stop="20260701123000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701123000 GMT+3" stop="20260701130000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701130000 GMT+3" stop="20260701133000 GMT+3" channel="574035">
+    <title lang="el">BEAUTY WEEKEND</title>
+    <desc lang="el">Είναι Σαββατοκύριακο και αφιερώνουμε μια ώρα παραπάνω για την φροντίδα του εαυτού μας. Μάθε όλα τα μυστικά για την ομορφιά από τους ειδικούς.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701133000 GMT+3" stop="20260701140000 GMT+3" channel="574035">
+    <title lang="el">BEAUTY WEEKEND</title>
+    <desc lang="el">Είναι Σαββατοκύριακο και αφιερώνουμε μια ώρα παραπάνω για την φροντίδα του εαυτού μας. Μάθε όλα τα μυστικά για την ομορφιά από τους ειδικούς.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701140000 GMT+3" stop="20260701143000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701143000 GMT+3" stop="20260701150000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701150000 GMT+3" stop="20260701153000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701153000 GMT+3" stop="20260701160000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701160000 GMT+3" stop="20260701163000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701163000 GMT+3" stop="20260701170000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701170000 GMT+3" stop="20260701173000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701173000 GMT+3" stop="20260701180000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701180000 GMT+3" stop="20260701183000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701183000 GMT+3" stop="20260701190000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701190000 GMT+3" stop="20260701193000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701193000 GMT+3" stop="20260701200000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701200000 GMT+3" stop="20260701203000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701203000 GMT+3" stop="20260701210000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701210000 GMT+3" stop="20260701213000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701213000 GMT+3" stop="20260701220000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701220000 GMT+3" stop="20260701223000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701223000 GMT+3" stop="20260701230000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701230000 GMT+3" stop="20260701233000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260701233000 GMT+3" stop="20260702000000 GMT+3" channel="574035">
+    <title lang="el">STREAMgasm</title>
+    <desc lang="el">Ποια είναι τα πιο streamed τραγούδια σε όλες τις διαδικτυακές πλατφόρμες; Μάθε ποια είναι αυτά που αγαπάει να ακούει το Ελληνικό κοινό.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260701010000 GMT+3" stop="20260701030000 GMT+3" channel="574124">
     <title lang="el">MAD Greekz</title>
     <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
@@ -96090,6 +96534,252 @@
   <programme start="20260702233000 GMT+3" stop="20260703000000 GMT+3" channel="573950">
     <title lang="el">WHAT&apos;S STREAMING</title>
     <desc lang="el">Mαζέψαμε για σένα ό,τι στριμάρει στην κορυφή όλων των Music apps. Τurn the volume up!</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702000000 GMT+3" stop="20260702003000 GMT+3" channel="574035">
+    <title lang="el">STREAMgasm</title>
+    <desc lang="el">Ποια είναι τα πιο streamed τραγούδια σε όλες τις διαδικτυακές πλατφόρμες; Μάθε ποια είναι αυτά που αγαπάει να ακούει το Ελληνικό κοινό.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702003000 GMT+3" stop="20260702010000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND GAMES</title>
+    <desc lang="el">To Σαββατοκύριακο μας δίνει την ευκαιρία να χαλαρώσουμε περισσότερο και να ασχοληθούμε με αγαπημένα video games. Παρέα με τους κορυφαίους creators/gamers</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702010000 GMT+3" stop="20260702013000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND GAMES</title>
+    <desc lang="el">To Σαββατοκύριακο μας δίνει την ευκαιρία να χαλαρώσουμε περισσότερο και να ασχοληθούμε με αγαπημένα video games. Παρέα με τους κορυφαίους creators/gamers</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702013000 GMT+3" stop="20260702020000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702020000 GMT+3" stop="20260702023000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702023000 GMT+3" stop="20260702030000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702030000 GMT+3" stop="20260702033000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702033000 GMT+3" stop="20260702040000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702040000 GMT+3" stop="20260702080000 GMT+3" channel="574035">
+    <title lang="el">NIGHT MUSIC ZONE</title>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702080000 GMT+3" stop="20260702083000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702083000 GMT+3" stop="20260702090000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702090000 GMT+3" stop="20260702093000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702093000 GMT+3" stop="20260702100000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702100000 GMT+3" stop="20260702103000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702103000 GMT+3" stop="20260702110000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702110000 GMT+3" stop="20260702113000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702113000 GMT+3" stop="20260702120000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702120000 GMT+3" stop="20260702123000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702123000 GMT+3" stop="20260702130000 GMT+3" channel="574035">
+    <title lang="el">BEST OF THE WEEK</title>
+    <desc lang="el">Εδώ θα δείτε ότι καλύτερο υπάρχει. Μια συλλογή από κορυφαίους creators και εκπομπές μόνο για τα μάτια σας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702130000 GMT+3" stop="20260702133000 GMT+3" channel="574035">
+    <title lang="el">BEAUTY WEEKEND</title>
+    <desc lang="el">Είναι Σαββατοκύριακο και αφιερώνουμε μια ώρα παραπάνω για την φροντίδα του εαυτού μας. Μάθε όλα τα μυστικά για την ομορφιά από τους ειδικούς.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702133000 GMT+3" stop="20260702140000 GMT+3" channel="574035">
+    <title lang="el">BEAUTY WEEKEND</title>
+    <desc lang="el">Είναι Σαββατοκύριακο και αφιερώνουμε μια ώρα παραπάνω για την φροντίδα του εαυτού μας. Μάθε όλα τα μυστικά για την ομορφιά από τους ειδικούς.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702140000 GMT+3" stop="20260702143000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702143000 GMT+3" stop="20260702150000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702150000 GMT+3" stop="20260702153000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702153000 GMT+3" stop="20260702160000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702160000 GMT+3" stop="20260702163000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702163000 GMT+3" stop="20260702170000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702170000 GMT+3" stop="20260702173000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702173000 GMT+3" stop="20260702180000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702180000 GMT+3" stop="20260702183000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702183000 GMT+3" stop="20260702190000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND CRASH</title>
+    <desc lang="el">Το Σαββατοκύριακο σου ανήκει. Άραξε στον καναπέ σου και απόλαυσε τους αγαπημένους σου δημιουργούς non stop.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702190000 GMT+3" stop="20260702193000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702193000 GMT+3" stop="20260702200000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702200000 GMT+3" stop="20260702203000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702203000 GMT+3" stop="20260702210000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702210000 GMT+3" stop="20260702213000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702213000 GMT+3" stop="20260702220000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702220000 GMT+3" stop="20260702223000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702223000 GMT+3" stop="20260702230000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702230000 GMT+3" stop="20260702233000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260702233000 GMT+3" stop="20260703000000 GMT+3" channel="574035">
+    <title lang="el">STREAMgasm</title>
+    <desc lang="el">Ποια είναι τα πιο streamed τραγούδια σε όλες τις διαδικτυακές πλατφόρμες; Μάθε ποια είναι αυτά που αγαπάει να ακούει το Ελληνικό κοινό.</desc>
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
@@ -111668,6 +112358,252 @@
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260703000000 GMT+3" stop="20260703003000 GMT+3" channel="574035">
+    <title lang="el">STREAMgasm</title>
+    <desc lang="el">Ποια είναι τα πιο streamed τραγούδια σε όλες τις διαδικτυακές πλατφόρμες; Μάθε ποια είναι αυτά που αγαπάει να ακούει το Ελληνικό κοινό.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703003000 GMT+3" stop="20260703010000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND GAMES</title>
+    <desc lang="el">To Σαββατοκύριακο μας δίνει την ευκαιρία να χαλαρώσουμε περισσότερο και να ασχοληθούμε με αγαπημένα video games. Παρέα με τους κορυφαίους creators/gamers</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703010000 GMT+3" stop="20260703013000 GMT+3" channel="574035">
+    <title lang="el">WEEKEND GAMES</title>
+    <desc lang="el">To Σαββατοκύριακο μας δίνει την ευκαιρία να χαλαρώσουμε περισσότερο και να ασχοληθούμε με αγαπημένα video games. Παρέα με τους κορυφαίους creators/gamers</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703013000 GMT+3" stop="20260703020000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703020000 GMT+3" stop="20260703023000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703023000 GMT+3" stop="20260703030000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703030000 GMT+3" stop="20260703033000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703033000 GMT+3" stop="20260703040000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703040000 GMT+3" stop="20260703080000 GMT+3" channel="574035">
+    <title lang="el">NIGHT MUSIC ZONE</title>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703080000 GMT+3" stop="20260703083000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703083000 GMT+3" stop="20260703090000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703090000 GMT+3" stop="20260703093000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703093000 GMT+3" stop="20260703100000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703100000 GMT+3" stop="20260703103000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703103000 GMT+3" stop="20260703110000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703110000 GMT+3" stop="20260703113000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703113000 GMT+3" stop="20260703120000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703120000 GMT+3" stop="20260703123000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703123000 GMT+3" stop="20260703130000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703130000 GMT+3" stop="20260703133000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703133000 GMT+3" stop="20260703140000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703140000 GMT+3" stop="20260703143000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703143000 GMT+3" stop="20260703150000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703150000 GMT+3" stop="20260703153000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703153000 GMT+3" stop="20260703160000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703160000 GMT+3" stop="20260703163000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703163000 GMT+3" stop="20260703170000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703170000 GMT+3" stop="20260703173000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703173000 GMT+3" stop="20260703180000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703180000 GMT+3" stop="20260703183000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703183000 GMT+3" stop="20260703190000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703190000 GMT+3" stop="20260703193000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703193000 GMT+3" stop="20260703200000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703200000 GMT+3" stop="20260703203000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703203000 GMT+3" stop="20260703210000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703210000 GMT+3" stop="20260703213000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703213000 GMT+3" stop="20260703220000 GMT+3" channel="574035">
+    <title lang="el">LOL ZONE</title>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703220000 GMT+3" stop="20260703223000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703223000 GMT+3" stop="20260703230000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703230000 GMT+3" stop="20260703233000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260703233000 GMT+3" stop="20260704000000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260703010000 GMT+3" stop="20260703030000 GMT+3" channel="574124">
     <title lang="el">MAD Greekz</title>
     <desc lang="el">Μουσικό τηλεοπτικό κανάλι, το οποίο μεταδίδεται 24 ώρες το 24ωρο. Προβάλλει ελληνικές επιτυχίες και βίντεο κλιπ από όλους τους κορυφαίους καλλιτέχνες στην Ελλάδα. Περιλαμβάνει διάφορα διαδραστικά χαρακτηριστικά και διαγωνισμούς για τους τηλεθεατές.</desc>
@@ -125677,6 +126613,252 @@
   <programme start="20260704233000 GMT+3" stop="20260705000000 GMT+3" channel="573950">
     <title lang="el">MADWALK FLASHBACK</title>
     <desc lang="el">Τhe Fashion Music Project! 12 χρόνια η μουσική και η μόδα γίνονται ένα!</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704000000 GMT+3" stop="20260704003000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704003000 GMT+3" stop="20260704010000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704010000 GMT+3" stop="20260704013000 GMT+3" channel="574035">
+    <title lang="el">GAME MASTERS</title>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704013000 GMT+3" stop="20260704020000 GMT+3" channel="574035">
+    <title lang="el">GAME MASTERS</title>
+    <desc lang="el">Αν είσαι gamer, αυτή είναι η ζώνη είναι για σένα. Παίξε καθημερινά παρέα με τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704020000 GMT+3" stop="20260704023000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704023000 GMT+3" stop="20260704030000 GMT+3" channel="574035">
+    <title lang="el">LATE NIGHT</title>
+    <desc lang="el">Κωμωδία με ιδιαίτερο και πιπεράτο χαρακτήρα. Οι καλύτεροι youtube comedians αλλά και gamers μας προσφέρουν ότι καλύτερο για τις τελευταίες ώρες της ημέρας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704030000 GMT+3" stop="20260704033000 GMT+3" channel="574035">
+    <title lang="el">MAD EVENTS</title>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704033000 GMT+3" stop="20260704040000 GMT+3" channel="574035">
+    <title lang="el">MAD EVENTS</title>
+    <desc lang="el">Τα καλύτερα απόσπάσματα από τα κορυφαία Mad events κάθε βράδυ στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704040000 GMT+3" stop="20260704080000 GMT+3" channel="574035">
+    <title lang="el">NIGHT MUSIC ZONE</title>
+    <desc lang="el">Όλες οι μεγάλες Ελληνικές και International επιτυχίες σε ένα υπέροχο mixer που φτιάχνει τη νύχτα μας.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704080000 GMT+3" stop="20260704083000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704083000 GMT+3" stop="20260704090000 GMT+3" channel="574035">
+    <title lang="el">DOCU FILES</title>
+    <desc lang="el">Ξεκίνα τη μέρα σου μαθαίνοντας καθημερινά καινούργιες πληροφορίες για τα πιο σημαντικά εκπαιδευτικά θέματα.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704090000 GMT+3" stop="20260704093000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704093000 GMT+3" stop="20260704100000 GMT+3" channel="574035">
+    <title lang="el">ENJOY THE DAY</title>
+    <desc lang="el">Η καλή μέρα από το πρωί φαίνεται και εμείς σου δίνουμε τον καλύτερο τρόπο για να ξεκινήσεις το πρόγραμμα σου! Γυμναστική, μαγειρική, επιμόρφωση κάθε πρωί στη ζωή και στην οθόνη σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704100000 GMT+3" stop="20260704103000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704103000 GMT+3" stop="20260704110000 GMT+3" channel="574035">
+    <title lang="el">LIFE IN PIXELS</title>
+    <desc lang="el">Κάν&apos;το όπως οι αγαπημένοι σου Influencers. Τα καλύτερα tips για το σύγχρονο lifestyle από τους αγαπημένους σου creators.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704110000 GMT+3" stop="20260704113000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704113000 GMT+3" stop="20260704120000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS INTERNATIONAL</title>
+    <desc lang="el">Τα 20 κορυφαία International τραγούδια της εποχής σύμφωνα με τις μουσικές τάσεις στο Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704120000 GMT+3" stop="20260704123000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704123000 GMT+3" stop="20260704130000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704130000 GMT+3" stop="20260704133000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704133000 GMT+3" stop="20260704140000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704140000 GMT+3" stop="20260704143000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704143000 GMT+3" stop="20260704150000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704150000 GMT+3" stop="20260704153000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704153000 GMT+3" stop="20260704160000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704160000 GMT+3" stop="20260704163000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE TRENDS</title>
+    <desc lang="el">Ότι χρειάζεται να γνωρίζεις από τα σημερινά trends στο Ελληνικό lifestyle.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704163000 GMT+3" stop="20260704170000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704170000 GMT+3" stop="20260704173000 GMT+3" channel="574035">
+    <title lang="el">GET GLAM TIPS</title>
+    <desc lang="el">Για εσάς που θέλετε να φροντίζετε τον εαυτό σας, εδώ θα βρείτε τα κορυφαία beauty tips που κυκλοφορούν στο Ελληνικό Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704173000 GMT+3" stop="20260704180000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704180000 GMT+3" stop="20260704183000 GMT+3" channel="574035">
+    <title lang="el">VIRAL HITS GR</title>
+    <desc lang="el">Τα 20 κορυφαία Ελληνικά τραγούδια της εποχής σύμφωνα τις Ελληνικές τάσεις στο yotube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704183000 GMT+3" stop="20260704190000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704190000 GMT+3" stop="20260704193000 GMT+3" channel="574035">
+    <title lang="el">FOLLOW US</title>
+    <desc lang="el">Ακολουθούμε τους αγαπημένους μας Youtubers και βλέπουμε τι συμβαίνει στην καθημερινότητα τους αλλά και ιδιαίτερες στιγμές της ζωής τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704193000 GMT+3" stop="20260704200000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704200000 GMT+3" stop="20260704203000 GMT+3" channel="574035">
+    <title lang="el">LIFESTYLE FOR LAUGHS</title>
+    <desc lang="el">Ποιος είπε πως η ζωή έρχεται με οδηγίες χρήσεις; Οι αγαπημένοι youtubers σε fail καταστάσεις της καθημερινότητάς τους.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704203000 GMT+3" stop="20260704210000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704210000 GMT+3" stop="20260704213000 GMT+3" channel="574035">
+    <title lang="el">HITS OF THE MONTH</title>
+    <desc lang="el">Είναι οι καλύτερες επιτυχίες του μήνα. Όλα τα κορυφαία σε μία ώρα σύμφωνα με τα charts του Youtube.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704213000 GMT+3" stop="20260704220000 GMT+3" channel="574035">
+    <title lang="el">LOL ZONE</title>
+    <desc lang="el">H fun πλευρά του youtube. Μία ζώνη αποκλειστικά για τους comedy lovers.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704220000 GMT+3" stop="20260704223000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704223000 GMT+3" stop="20260704230000 GMT+3" channel="574035">
+    <title lang="el">TRAVEL TUBE</title>
+    <desc lang="el">Αν θέλεις να δεις τους καλύτερους προορισμούς όπως τους περιγράφουν οι κορυφαίοι youtube travelers, αυτή θα γίνει η αγαπημένη σου ζώνη κάθε Σαββατοκύριακο.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704230000 GMT+3" stop="20260704233000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
+    <category lang="el">Μουσικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260704233000 GMT+3" stop="20260705000000 GMT+3" channel="574035">
+    <title lang="el">#fyp</title>
+    <desc lang="el">Η εκπομπή που σου παρουσιάζει τα πιο hot τραγούδια. Αυτά που βρίσκονται πάντα στο #fyp του TikTok σου.</desc>
     <category lang="el">Μουσικά</category>
     <rating>K</rating>
   </programme>
