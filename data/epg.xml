@@ -35215,7 +35215,7 @@
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260629220000 GMT+3" stop="20260630020000 GMT+3" channel="46137467">
+  <programme start="20260629220000 GMT+3" stop="20260630000000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -37919,12 +37919,6 @@
   <programme start="20260630072000 GMT+3" stop="20260630073000 GMT+3" channel="206750">
     <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
     <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630073000 GMT+3" stop="20260630102500 GMT+3" channel="206750">
-    <title lang="el">Ορθρος - Πανηγ. Αρχιερατικη Θεια Λειτουργια</title>
-    <desc lang="el">Ιερός Ναός Αγίων Αποστόλων Θεσσαλονίκης</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -51642,114 +51636,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260630000000 GMT+3" stop="20260630010000 GMT+3" channel="75835625">
-    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.14</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630010000 GMT+3" stop="20260630030000 GMT+3" channel="75835625">
-    <title lang="el">2021-22 OMONOIA - ANTWERB</title>
-    <desc lang="el">RETRO</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630030000 GMT+3" stop="20260630050000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΓΙΑ ΝΑΠΑ (18/10/2025)</title>
-    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630050000 GMT+3" stop="20260630070000 GMT+3" channel="75835625">
-    <title lang="el">ΝΕΑ ΣΑΛΑΜΙΝΑ - ΟΜΟΝΟΙΑ (1/9/2024)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630070000 GMT+3" stop="20260630080000 GMT+3" channel="75835625">
-    <title lang="el">ΠΡΟΠΟΝΗΣΗ ΠΟΕΤΟΙΜΑΣΙΑΣ - ΚΥΠΕΡΟΥΝΤΑ</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630080000 GMT+3" stop="20260630090000 GMT+3" channel="75835625">
-    <title lang="el">ΑΠΟΝΟΜΗ ΠΡΩΤΑΘΛΗΜΑΤΟΣ</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630090000 GMT+3" stop="20260630100000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - TERMALICA NIECIECZA (11/07/2025)</title>
-    <desc lang="el">ΦΙΛΙΚΑ 2025 - ΠΟΛΩΝΙΑ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630100000 GMT+3" stop="20260630100500 GMT+3" channel="75835625">
-    <title lang="el">Δελτίο ειδήσεων</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630100500 GMT+3" stop="20260630110000 GMT+3" channel="75835625">
-    <title lang="el">...ΣΥΝΕΧΕΙΑ ΟΜΟΝΟΙΑ - TERMALICA NIECIECZA (11/07/2025)</title>
-    <desc lang="el">ΦΙΛΙΚΑ 2025 - ΠΟΛΩΝΙΑ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630110000 GMT+3" stop="20260630120000 GMT+3" channel="75835625">
-    <title lang="el">ΠΕΡΙΣΚΟΠΟΙΟ S2, EP.15 - ΧΡΙΣΤΟΦΟΡΟΣ ΧΡΙΣΤΟΦΟΡΟΥ</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630120000 GMT+3" stop="20260630130000 GMT+3" channel="75835625">
-    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.15</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630130000 GMT+3" stop="20260630150000 GMT+3" channel="75835625">
-    <title lang="el">2008- 09 AEK OMONOIA</title>
-    <desc lang="el">RETRO</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630150000 GMT+3" stop="20260630170000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΓΙΑ ΝΑΠΑ (18/10/2025)</title>
-    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630170000 GMT+3" stop="20260630190000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (16/9/2024)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630190000 GMT+3" stop="20260630190500 GMT+3" channel="75835625">
-    <title lang="el">Δελτίο ειδήσεων</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630190500 GMT+3" stop="20260630200000 GMT+3" channel="75835625">
-    <title lang="el">ΠΡΟΠΟΝΗΣΗ ΠΟΕΤΟΙΜΑΣΙΑΣ - ΠΟΛΩΝΙΑ</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630200000 GMT+3" stop="20260630220000 GMT+3" channel="75835625">
-    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (26/04/2026)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260630220000 GMT+3" stop="20260701000000 GMT+3" channel="75835625">
-    <title lang="el">OMONOIA - FC TORPEDO KUTAISI (24/07/2025)</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2025 - 2ος ΠΡΟΚΡΙΜΑΤΙΚΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260630000000 GMT+3" stop="20260630003000 GMT+3" channel="54111722">
     <title lang="el">PL Stories</title>
     <desc lang="el">We spend the day with Julian Dicks as he reflects on a career that made him one of the Premier League’s toughest and most uncompromising defenders. Best known for his time at West Ham United, Dicks looks back on the highs, rivalries and intensity of football in the 1990s, as well as the reputation that made him a cult hero with fans.</desc>
@@ -52992,7 +52878,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260630020000 GMT+3" stop="20260630060000 GMT+3" channel="46137467">
+  <programme start="20260630000000 GMT+3" stop="20260630060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -53012,15 +52898,14 @@
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260630164500 GMT+3" stop="20260630180000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Libema Open της σειράς WTA 250, που πραγματοποιείται στο Ντεν Μπος της Ολλανδίας το διάστημα 08-14 Ιουνίου. Τένις, 2024.</desc>
-    <category lang="el">Αθλητικά</category>
+  <programme start="20260630164500 GMT+3" stop="20260630200000 GMT+3" channel="46137467">
+    <title lang="el">Novasports6HD</title>
+    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260630180000 GMT+3" stop="20260630210000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 500 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών The HSBC Championships της σειράς WTA 500 που πραγματοποιείται στο Λονδίνο το διάστημα 8-14 Ιουνίου. Τένις</desc>
+  <programme start="20260630200000 GMT+3" stop="20260630210000 GMT+3" channel="46137467">
+    <title lang="el">Race Magazine</title>
+    <desc lang="el">Δείτε στιγμιότυπα αγώνων ποδηλασίας, κολύμβησης αντοχής, μηχανοκίνητων, ιστιοπλοϊας και μαραθωνίων. Περισσότερες από 50 κορυφαίες διεθνείς υπαίθριες διοργανώσεις σε 25 χώρες καθ&apos; όλη τη διάρκεια του έτους. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -55738,12 +55623,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260701004500 GMT+3" stop="20260701040000 GMT+3" channel="206750">
-    <title lang="el">Ορθρος - Πανηγ. Αρχιερατικη Θεια Λειτουργια</title>
-    <desc lang="el">Ιερός Ναός Αγίων Αποστόλων Θεσσαλονίκης</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260701040000 GMT+3" stop="20260701043000 GMT+3" channel="206750">
     <title lang="el">Εξ Ερημου Διατυπωσεις: Σπουδη Στον Ευεργετινο</title>
     <desc lang="el">Με τον π. Ανδρέα Γκατζέλη - Θέμα: Η νίκη της υπομονής</desc>
@@ -55867,18 +55746,6 @@
   <programme start="20260701190000 GMT+3" stop="20260701200000 GMT+3" channel="206750">
     <title lang="el">Ο Πολιτισμος Στις Γειτονιες Του Τοπου Μας</title>
     <desc lang="el">Πολιτιστικός Σύλλογος Ελατοχωριτών Θεσσαλονίκης &quot;Η Σκουτέρνα&quot;. Με τον Παύλο Κεσόγλου, Αντιδήμαρχο Πολιτισμού Δήμου Αμπελοκήπων Μενεμένης</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701200000 GMT+3" stop="20260701210000 GMT+3" channel="206750">
-    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
-    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701210000 GMT+3" stop="20260701220000 GMT+3" channel="206750">
-    <title lang="el">ΑΝΑΔΡΟΜΕΣ ΣΤΟ ΜΕΛΛΟΝ</title>
-    <desc lang="el">Με την Ελένη Κοκτσίδου. Θέμα: Τα κάστρα της βιομηχανίας (β΄ μέρος)</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -59110,7 +58977,7 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701003000 GMT+3" stop="20260701013000 GMT+3" channel="9745267">
+  <programme start="20260701003000 GMT+3" stop="20260701012900 GMT+3" channel="9745267">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο</desc>
     <category lang="el">Γενικά</category>
@@ -59661,37 +59528,37 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701060000 GMT+3" stop="20260701065000 GMT+3" channel="2755">
+  <programme start="20260701060000 GMT+3" stop="20260701064500 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ6 ΕΠ11</title>
     <desc lang="el">Καθώς η ζωή του Μπακ κρέμεται από μια κλωστή, εκείνος ονειρεύεται έναν κόσμο όπου δεν είχε γίνει ποτέ πυροσβέστης, κάτι που έχει θετικά και αρνητικά. Πρωταγωνιστούν: Angela Bassett,Peter Krause,Jennifer Love Hewitt,Aisha Hinds,Kenneth Choi. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260701065000 GMT+3" stop="20260701071500 GMT+3" channel="2755">
+  <programme start="20260701064500 GMT+3" stop="20260701070500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 1 Κ1 ΕΠ21</title>
     <desc lang="el">Όταν ο Τζέικ επιτέλους παίρνει ρεπό Σαββατοκύριακο λόγω μιας σειράς επιτυχιών στην επίλυση υποθέσεων, αποφασίζει να αναλάβει μια υπόθεση 8ετίας που όλοι πιστεύουν ότι δεν μπορεί να λυθεί. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701071500 GMT+3" stop="20260701080000 GMT+3" channel="2755">
+  <programme start="20260701070500 GMT+3" stop="20260701075500 GMT+3" channel="2755">
     <title lang="el">Will Trent 2 Κ2 ΕΠ4</title>
     <desc lang="el">Ο Γουίλ και η Φέιθ ερευνούν μια μικρή πόλη που είναι στοιχειωμένη από μια μάγισσα. Πρωταγωνιστούν: Ramón Rodríguez,Erika Christensen, Iantha Richardson, Jake McLaughlin, Sonja Sohn, Cora Lu Tran,Todd Allen Durkin, Kurt Yue.. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701080000 GMT+3" stop="20260701084500 GMT+3" channel="2755">
+  <programme start="20260701075500 GMT+3" stop="20260701084000 GMT+3" channel="2755">
     <title lang="el">Bones 7 Κ7 ΕΠ13</title>
     <desc lang="el">Ο σατανικός Christopher Pelant, ιδιοφυΐα στον τομέα της τεχνολογίας και ύποπτος σε προηγούμενη υπόθεση που είχαν αναλάβει η Brennan και ο Booth, επιστρέφει στο δικαστήριο όπου έχει ασκηθεί έφεση. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701084500 GMT+3" stop="20260701093000 GMT+3" channel="2755">
+  <programme start="20260701084000 GMT+3" stop="20260701092500 GMT+3" channel="2755">
     <title lang="el">The Resident 4 Κ4 ΕΠ3</title>
     <desc lang="el">Όταν ο Κέιν προσπαθεί να γίνει ήρωας σε μια σκηνή τροχαίου ατυχήματος, παρασύρεται από ένα αυτοκίνητο, γεγονός που κάνει τους γιατρούς του Τσάστεϊν να παραμερίσουν τα προσωπικά τους ζητήματα προκειμένου να προσπαθήσουν να του σώσουν τη ζωή. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Shaunette Renée Wilson,Glenn Morshower,Malcolm-Jamal Warner,Bruce Greenwood. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701093000 GMT+3" stop="20260701095000 GMT+3" channel="2755">
+  <programme start="20260701092500 GMT+3" stop="20260701095000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 5 Κ5 ΕΠ1</title>
     <desc lang="el">Οι Σίμπσον ανακαλύπτουν ένα παλιό άλμπουμ τετράφωνης χορωδίας με πρωταγωνιστή τον Χόμερ. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1993)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59703,13 +59570,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701101500 GMT+3" stop="20260701104000 GMT+3" channel="2755">
+  <programme start="20260701101500 GMT+3" stop="20260701103500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ16</title>
     <desc lang="el">Ο Γουόλοβιτς πρέπει να επιλέξει ανάμεσα στην κοπέλα του και τη μητέρα του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701104000 GMT+3" stop="20260701110000 GMT+3" channel="2755">
+  <programme start="20260701103500 GMT+3" stop="20260701110000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ17</title>
     <desc lang="el">Ο Σέλντον αποφασίζει να κάνει μια νέα παρέα φίλων. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59721,13 +59588,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701114500 GMT+3" stop="20260701121000 GMT+3" channel="2755">
+  <programme start="20260701114500 GMT+3" stop="20260701120500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 2 Κ2 ΕΠ1</title>
     <desc lang="el">Στο πρώτο επεισόδιο του 2ου κύκλου, ο Τζέικ μαθαίνει ότι ένας μαφιόζος γλίτωσε από μια επιχείρηση παγίδα, οπότε συνεργάζεται με τον Τσαρλς για να κυνηγήσουν τον γκάνγκστερ. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701121000 GMT+3" stop="20260701123000 GMT+3" channel="2755">
+  <programme start="20260701120500 GMT+3" stop="20260701123000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 2 Κ2 ΕΠ2</title>
     <desc lang="el">Ο παλιός αντίπαλος του αρχηγού Χολτ καταφτάνει στο τμήμα για να κάνει επιθεώρηση. Αλλού, ο Τζέικ και ο Τέρι ερευνούν ένα έγκλημα σε καφέ με σοκολατούχο γάλα. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59763,13 +59630,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701153500 GMT+3" stop="20260701155500 GMT+3" channel="2755">
+  <programme start="20260701153500 GMT+3" stop="20260701160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ18</title>
     <desc lang="el">Η κοπέλα του Λέοναρντ τού ζητά να σταματήσει να βλέπει την Πένι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701155500 GMT+3" stop="20260701162000 GMT+3" channel="2755">
+  <programme start="20260701160000 GMT+3" stop="20260701162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ19</title>
     <desc lang="el">Όταν κάποιος χακάρει τον λογαριασμό του Σέλντον, τα αγόρια ξεκινούν μια αναζήτηση για να βρουν τον ένοχο. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -59787,13 +59654,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701173000 GMT+3" stop="20260701175000 GMT+3" channel="2755">
+  <programme start="20260701173000 GMT+3" stop="20260701175500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 2 Κ2 ΕΠ4</title>
     <desc lang="el">Στα πλαίσια ενός ετήσιου στοιχήματος στη γιορτή του Χαλογουίν, ο Τζέικ σχεδιάζει να κλέψει το ρολόι του Χολτ πριν τα μεσάνυχτα. Αλλού, η διώχνουν την Τζίνα από τη χορευτική ομάδα. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260701175000 GMT+3" stop="20260701184000 GMT+3" channel="2755">
+  <programme start="20260701175500 GMT+3" stop="20260701184000 GMT+3" channel="2755">
     <title lang="el">9-1-1 Κ6 ΕΠ13</title>
     <desc lang="el">Η ομάδα 118 σπεύδει να σώσει την κατάσταση σε ένα μάθημα γυμναστικής και ένα κομμωτήριο, ενώ ταυτόχρονα καλείται να βοηθήσει ένα ζευγάρι που βρίσκεται σε κίνδυνο. Πρωταγωνιστούν: Angela Bassett,Peter Krause,Jennifer Love Hewitt,Aisha Hinds,Kenneth Choi. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -64707,7 +64574,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260701003000 GMT+3" stop="20260701060000 GMT+3" channel="349455">
+  <programme start="20260701003000 GMT+3" stop="20260701010000 GMT+3" channel="349455">
     <title lang="el">The European Debrief</title>
     <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe&apos;s News Centre.</desc>
     <category lang="el">Γενικά</category>
@@ -66477,7 +66344,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260701003000 GMT+3" stop="20260701060000 GMT+3" channel="574094">
+  <programme start="20260701003000 GMT+3" stop="20260701010000 GMT+3" channel="574094">
     <title lang="el">The European Debrief</title>
     <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe&apos;s News Centre.</desc>
     <category lang="el">Γενικά</category>
@@ -67884,102 +67751,6 @@
   <programme start="20260701223000 GMT+3" stop="20260702003000 GMT+3" channel="53005467">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Ρόντμαν: Στα Καλά Και Στα Άσχημα (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701000000 GMT+3" stop="20260701010000 GMT+3" channel="75835625">
-    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.15</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701010000 GMT+3" stop="20260701030000 GMT+3" channel="75835625">
-    <title lang="el">2008- 09 AEK OMONOIA</title>
-    <desc lang="el">RETRO</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701030000 GMT+3" stop="20260701050000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΓΙΑ ΝΑΠΑ (18/10/2025)</title>
-    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701050000 GMT+3" stop="20260701070000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ (16/9/2024)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701070000 GMT+3" stop="20260701080000 GMT+3" channel="75835625">
-    <title lang="el">ΠΡΟΠΟΝΗΣΗ ΠΟΕΤΟΙΜΑΣΙΑΣ - ΠΟΛΩΝΙΑ (30/06/2026)</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701080000 GMT+3" stop="20260701100000 GMT+3" channel="75835625">
-    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (26/04/2026)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701100000 GMT+3" stop="20260701100500 GMT+3" channel="75835625">
-    <title lang="el">Δελτίο ειδήσεων</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701100500 GMT+3" stop="20260701120000 GMT+3" channel="75835625">
-    <title lang="el">OMONOIA - FC TORPEDO KUTAISI (24/07/2025)</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2025 - 2ος ΠΡΟΚΡΙΜΑΤΙΚΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701120000 GMT+3" stop="20260701130000 GMT+3" channel="75835625">
-    <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.16</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701130000 GMT+3" stop="20260701150000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - FC Dinamo București (02/07/2025)</title>
-    <desc lang="el">ΦΙΛΙΚΑ 2025 - ΠΟΛΩΝΙΑ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701150000 GMT+3" stop="20260701170000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΕΛ (17/01/2026)</title>
-    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701170000 GMT+3" stop="20260701190000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΛ (27/9/2024)</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701190000 GMT+3" stop="20260701190500 GMT+3" channel="75835625">
-    <title lang="el">Δελτίο ειδήσεων</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701190500 GMT+3" stop="20260701210000 GMT+3" channel="75835625">
-    <title lang="el">ΟΜΟΝΟΙΑ - DINAMO BUCURESTI - OMTV (Z)</title>
-    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701210000 GMT+3" stop="20260701230000 GMT+3" channel="75835625">
-    <title lang="el">FC TORPEDO KUTAISI - OMONOIA (31/07/2025)</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2025 - 2ος ΠΡΟΚΡΙΜΑΤΙΚΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260701230000 GMT+3" stop="20260702000000 GMT+3" channel="75835625">
-    <title lang="el">ΠΡΟΠΟΝΗΣΗ ΠΟΕΤΟΙΜΑΣΙΑΣ - ΠΟΛΩΝΙΑ (30/06/2026)</title>
-    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -71876,27 +71647,9 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260702090500 GMT+3" stop="20260702094500 GMT+3" channel="206750">
-    <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
-    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260702094500 GMT+3" stop="20260702101000 GMT+3" channel="206750">
+  <programme start="20260702110000 GMT+3" stop="20260702113000 GMT+3" channel="206750">
     <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΗ ΤΡΑΠΕΖΑ</title>
     <desc lang="el">Με τον κ. Ηλία Κούτλα, μάγειρα. Θέμα: Ομελέτα φούρνου</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260702101000 GMT+3" stop="20260702105000 GMT+3" channel="206750">
-    <title lang="el">Λογος Οικοδομης</title>
-    <desc lang="el">Θέμα: Φιλοξενία, το αντίτιμο του Παραδείσου - Με τον Σεβ. Μητρ. Βεροίας, Ναούσης και Καμπανίας κ. Παντελεήμονα</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260702105000 GMT+3" stop="20260702113000 GMT+3" channel="206750">
-    <title lang="el">ΑΝΑΔΡΟΜΕΣ ΣΤΟ ΜΕΛΛΟΝ</title>
-    <desc lang="el">Με την Ελένη Κοκτσίδου. Θέμα: Τα κάστρα της βιομηχανίας (β΄ μέρος)</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -71987,12 +71740,6 @@
   <programme start="20260702200000 GMT+3" stop="20260702210000 GMT+3" channel="206750">
     <title lang="el">ΠΝΕΥΜΑΤΙΚΗ ΟΔΟΙΠΟΡΙΑ</title>
     <desc lang="el">Απαντήσεις σε θέματα της Ορθόδοξης πίστης, μέσα από τον φωτισμένο λόγο του Σεβασμιωτάτου Μητροπολίτου Εδέσσης, Πέλλης και Αλμωπίας κ. Ιωήλ. Θέμα: Αμαρτία και εξομολόγηση.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260702210000 GMT+3" stop="20260702220000 GMT+3" channel="206750">
-    <title lang="el">ΕΝΟΡΙΑ ΕΝ ΔΡΑΣΕΙ</title>
-    <desc lang="el">Αφιέρωμα στο Νέο Κύμα</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -75672,19 +75419,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260702020500 GMT+3" stop="20260702023000 GMT+3" channel="2755">
+  <programme start="20260702020500 GMT+3" stop="20260702022500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ21</title>
     <desc lang="el">Η κοπέλα του Λέοναρντ βάζει τον Σέλντον στη θέση του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260702023000 GMT+3" stop="20260702031500 GMT+3" channel="2755">
+  <programme start="20260702022500 GMT+3" stop="20260702031000 GMT+3" channel="2755">
     <title lang="el">Will Trent 2 Κ2 ΕΠ6</title>
     <desc lang="el">Ο Γουίλ συναντά μετά από πολύ καιρό έναν συγγενή του, ανακαλύπτοντας αναπάντεχες και τρομερές ομοιότητες. Στο μεταξύ, το Γραφείο Ερευνών της Τζόρτζια και η αστυνομία της Ατλάντα ερευνούν τη δολοφονία ενός δικαστή. Πρωταγωνιστούν: Ramón Rodríguez,Erika Christensen, Iantha Richardson, Jake McLaughlin, Sonja Sohn, Cora Lu Tran,Todd Allen Durkin, Kurt Yue. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260702031500 GMT+3" stop="20260702033500 GMT+3" channel="2755">
+  <programme start="20260702031000 GMT+3" stop="20260702033500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 2 Κ2 ΕΠ3</title>
     <desc lang="el">Τα μέλη του τμήματος παίζουν τους ετήσιους αγώνες &apos;Jimmy Jab&apos;, ενώ αναμένουν την άφιξη της αυτοκινητοπομπής του Σέρβου προέδρου. Αλλού, ο Τέρι και ο αρχηγός Χολτ αναλαμβάνουν μια ειδική ομάδα δίωξης ναρκωτικών. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -75702,19 +75449,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260702044500 GMT+3" stop="20260702050500 GMT+3" channel="2755">
+  <programme start="20260702044500 GMT+3" stop="20260702051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ20</title>
     <desc lang="el">Τα κουτσομπολιά εξαπλώνονται σαν πυρκαγιά - χάρη στον Σέλντον και την Έιμι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260702050500 GMT+3" stop="20260702053000 GMT+3" channel="2755">
+  <programme start="20260702051000 GMT+3" stop="20260702053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 4 Κ4 ΕΠ21</title>
     <desc lang="el">Η κοπέλα του Λέοναρντ βάζει τον Σέλντον στη θέση του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260702053000 GMT+3" stop="20260702060000 GMT+3" channel="2755">
+  <programme start="20260702053500 GMT+3" stop="20260702060000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 2 Κ2 ΕΠ3</title>
     <desc lang="el">Τα μέλη του τμήματος παίζουν τους ετήσιους αγώνες &apos;Jimmy Jab&apos;, ενώ αναμένουν την άφιξη της αυτοκινητοπομπής του Σέρβου προέδρου. Αλλού, ο Τέρι και ο αρχηγός Χολτ αναλαμβάνουν μια ειδική ομάδα δίωξης ναρκωτικών. Πρωταγωνιστούν: Andy Samberg,Jake Peralta,Stephanie Beatriz,Rosa Diaz,Terry Crews,Terry Jeffords,Melissa Fumero,Amy Santiago,Joe Lo Truglio. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -87795,12 +87542,6 @@
   <programme start="20260703093000 GMT+3" stop="20260703103000 GMT+3" channel="206750">
     <title lang="el">ΠΝΕΥΜΑΤΙΚΗ ΟΔΟΙΠΟΡΙΑ</title>
     <desc lang="el">Απαντήσεις σε θέματα της Ορθόδοξης πίστης, μέσα από τον φωτισμένο λόγο του Σεβασμιωτάτου Μητροπολίτου Εδέσσης, Πέλλης και Αλμωπίας κ. Ιωήλ. Θέμα: Αμαρτία και εξομολόγηση.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260703103000 GMT+3" stop="20260703113000 GMT+3" channel="206750">
-    <title lang="el">ΕΝΟΡΙΑ ΕΝ ΔΡΑΣΕΙ</title>
-    <desc lang="el">Αφιέρωμα στο Νέο Κύμα</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -127773,13 +127514,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705000000 GMT+3" stop="20260705010000 GMT+3" channel="211368">
+  <programme start="20260704210000 GMT+3" stop="20260704220000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705010000 GMT+3" stop="20260705020000 GMT+3" channel="211368">
+  <programme start="20260705000000 GMT+3" stop="20260705010000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127797,7 +127538,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705030000 GMT+3" stop="20260705040000 GMT+3" channel="211368">
+  <programme start="20260705010000 GMT+3" stop="20260705020000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127815,13 +127556,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705050000 GMT+3" stop="20260705060000 GMT+3" channel="211368">
+  <programme start="20260705030000 GMT+3" stop="20260705040000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705060000 GMT+3" stop="20260705070000 GMT+3" channel="211368">
+  <programme start="20260705050000 GMT+3" stop="20260705060000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127830,12 +127571,6 @@
   <programme start="20260705070000 GMT+3" stop="20260705073000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260705073000 GMT+3" stop="20260705080000 GMT+3" channel="211368">
-    <title lang="el">Fault Lines</title>
-    <desc lang="el">Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the role of the US in the world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -127863,7 +127598,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705100000 GMT+3" stop="20260705110000 GMT+3" channel="211368">
+  <programme start="20260705060000 GMT+3" stop="20260705070000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127889,11 +127624,11 @@
   </programme>
   <programme start="20260705123000 GMT+3" stop="20260705130000 GMT+3" channel="211368">
     <title lang="el">Counting the Cost ΕΠ44</title>
-    <desc lang="el">The show features the economical stories that shape our world and has an effect on the lives of the common human beings. (2026)</desc>
+    <desc lang="el">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705130000 GMT+3" stop="20260705140000 GMT+3" channel="211368">
+  <programme start="20260705100000 GMT+3" stop="20260705110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127911,13 +127646,13 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705150000 GMT+3" stop="20260705160000 GMT+3" channel="211368">
+  <programme start="20260705130000 GMT+3" stop="20260705140000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705160000 GMT+3" stop="20260705170000 GMT+3" channel="211368">
+  <programme start="20260705150000 GMT+3" stop="20260705160000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127935,7 +127670,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705180000 GMT+3" stop="20260705190000 GMT+3" channel="211368">
+  <programme start="20260705160000 GMT+3" stop="20260705170000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -127965,7 +127700,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260705210000 GMT+3" stop="20260705220000 GMT+3" channel="211368">
+  <programme start="20260705180000 GMT+3" stop="20260705190000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
     <category lang="el">Ειδήσεις</category>
