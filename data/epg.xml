@@ -19707,30 +19707,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260706010000 GMT+3" stop="20260706013000 GMT+3" channel="289530">
-    <title lang="el">Mundial 2026 Postgame</title>
-    <desc lang="el">Mundial 2026 Postgame</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706013000 GMT+3" stop="20260706030000 GMT+3" channel="289530">
-    <title lang="el">Weekend Live</title>
-    <desc lang="el">Κάθε Σάββατο και Κυριακή, οι δημοσιογράφοι Δημήτρης Πανόπουλος και Μάρτζυ Λαζάρου, με άποψη και χιούμορ, μπαίνουν στα σπίτια μας, δημιουργώντας ένα feelgood περιβάλλον που έχει τα πάντα: επικαιρότητα, πρόσωπα, lifestyle, ρεπορτάζ, συνδέσεις – και όχι μόνο.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706030000 GMT+3" stop="20260706050000 GMT+3" channel="289530">
-    <title lang="el">FIFA World Cup - ΑΓΩΝΑΣ ΠΟΔΟΣΦΑΙΡΟΥ</title>
-    <desc lang="el">Quarter Final 4</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706050000 GMT+3" stop="20260706060000 GMT+3" channel="289530">
-    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-    <desc lang="el">Αγάπη, πάθος, φόβος, πόνος, αίμα. Όλα συμβολίζονται με το πιο έντονο απ’ τα χρώματα, το κόκκινο, επειδή οι άνθρωποι που ζουν με πάθος, ζουν σε... φόντο κόκκινο.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260706060000 GMT+3" stop="20260706064500 GMT+3" channel="289530">
     <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
     <desc lang="el">Αγάπη, πάθος, φόβος, πόνος, αίμα. Όλα συμβολίζονται με το πιο έντονο απ’ τα χρώματα, το κόκκινο, επειδή οι άνθρωποι που ζουν με πάθος, ζουν σε... φόντο κόκκινο. Το 1967 ένας στρατιώτης της ελληνικής μεραρχίας φεύγει από την Κύπρο χάνοντας για πάντα την εφηβική του αγάπη</desc>
@@ -19822,7 +19798,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260706220000 GMT+3" stop="20260707000000 GMT+3" channel="289530">
-    <title lang="el">ΠΟΡΤΟΓΑΛΛΙΑ - ΙΣΠΑΝΙΑ</title>
+    <title lang="el">FIFA World Cup - ΠΟΡΤΟΓΑΛΛΙΑ - ΙΣΠΑΝΙΑ</title>
     <desc lang="el">Fifa World Cup 2026</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -21231,30 +21207,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260706010000 GMT+3" stop="20260706013000 GMT+3" channel="114064159">
-    <title lang="el">Mundial 2026 Postgame</title>
-    <desc lang="el">Mundial 2026 Postgame</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706013000 GMT+3" stop="20260706030000 GMT+3" channel="114064159">
-    <title lang="el">Weekend Live</title>
-    <desc lang="el">Κάθε Σάββατο και Κυριακή, οι δημοσιογράφοι Δημήτρης Πανόπουλος και Μάρτζυ Λαζάρου, με άποψη και χιούμορ, μπαίνουν στα σπίτια μας, δημιουργώντας ένα feelgood περιβάλλον που έχει τα πάντα: επικαιρότητα, πρόσωπα, lifestyle, ρεπορτάζ, συνδέσεις – και όχι μόνο.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706030000 GMT+3" stop="20260706050000 GMT+3" channel="114064159">
-    <title lang="el">FIFA World Cup - ΑΓΩΝΑΣ ΠΟΔΟΣΦΑΙΡΟΥ</title>
-    <desc lang="el">Quarter Final 4</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706050000 GMT+3" stop="20260706060000 GMT+3" channel="114064159">
-    <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ</title>
-    <desc lang="el">Αγάπη, πάθος, φόβος, πόνος, αίμα. Όλα συμβολίζονται με το πιο έντονο απ’ τα χρώματα, το κόκκινο, επειδή οι άνθρωποι που ζουν με πάθος, ζουν σε... φόντο κόκκινο.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260706060000 GMT+3" stop="20260706064500 GMT+3" channel="114064159">
     <title lang="el">ΣΕ ΦΟΝΤΟ ΚΟΚΚΙΝΟ (E)</title>
     <desc lang="el">Αγάπη, πάθος, φόβος, πόνος, αίμα. Όλα συμβολίζονται με το πιο έντονο απ’ τα χρώματα, το κόκκινο, επειδή οι άνθρωποι που ζουν με πάθος, ζουν σε... φόντο κόκκινο. Το 1967 ένας στρατιώτης της ελληνικής μεραρχίας φεύγει από την Κύπρο χάνοντας για πάντα την εφηβική του αγάπη</desc>
@@ -21346,7 +21298,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260706220000 GMT+3" stop="20260707000000 GMT+3" channel="114064159">
-    <title lang="el">ΠΟΡΤΟΓΑΛΛΙΑ - ΙΣΠΑΝΙΑ</title>
+    <title lang="el">FIFA World Cup - ΠΟΡΤΟΓΑΛΛΙΑ - ΙΣΠΑΝΙΑ</title>
     <desc lang="el">Fifa World Cup 2026</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -33434,12 +33386,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260706093000 GMT+3" stop="20260706100000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260706100000 GMT+3" stop="20260706110000 GMT+3" channel="211368">
     <title lang="el">Newshour</title>
     <desc lang="el">Latest news and in-depth analysis from around the world.</desc>
@@ -33503,12 +33449,6 @@
   <programme start="20260706170000 GMT+3" stop="20260706173000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260706173000 GMT+3" stop="20260706180000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera Κ2</title>
-    <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
