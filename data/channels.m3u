@@ -35,8 +35,6 @@ http://127.0.0.1/289542
 http://127.0.0.1/289607
 #EXTINF:-1 tvg-id="114064159" tvg-name="SIGMA HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260624/23/05580943609147a134f0.png",SIGMA HD
 http://127.0.0.1/114064159
-#EXTINF:-1 tvg-id="117799850" tvg-name="SIGMA2" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260626/95/09220951072047a134f0.jpg",SIGMA2
-http://127.0.0.1/117799850
 #EXTINF:-1 tvg-id="2743" tvg-name="Baby TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/79/20240226072416290fgl.png",Baby TV
 http://127.0.0.1/2743
 #EXTINF:-1 tvg-id="2266" tvg-name="Cartoonito" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/6/20240226074101283rwq.png",Cartoonito
