@@ -58960,13 +58960,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260715043000 GMT+3" stop="20260715044000 GMT+3" channel="2374">
+  <programme start="20260715043000 GMT+3" stop="20260715044500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ4 ΕΠ10</title>
     <desc lang="el">Normal just got weird! Σκηνοθεσία: Mic Graves,. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260715044000 GMT+3" stop="20260715050000 GMT+3" channel="2374">
+  <programme start="20260715044500 GMT+3" stop="20260715050000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ5 ΕΠ4</title>
     <desc lang="el">Normal just got weird! (2016)</desc>
     <category lang="el">Παιδικά</category>
@@ -87738,9 +87738,15 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260716090000 GMT+3" stop="20260716100000 GMT+3" channel="211368">
+  <programme start="20260716090000 GMT+3" stop="20260716093000 GMT+3" channel="211368">
     <title lang="el">News Live</title>
     <desc lang="el">Up-to-date news and analysis from around the world. (2019)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716093000 GMT+3" stop="20260716100000 GMT+3" channel="211368">
+    <title lang="el">Talk to Al Jazeera</title>
+    <desc lang="el">Speaker of Senegal&apos;s Parliament reveals what ended his political partnership with the President sparking a constitutional standoff. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -88917,6 +88923,114 @@
   <programme start="20260716233000 GMT+3" stop="20260717000000 GMT+3" channel="53005467">
     <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 03 Επιθετικοί (E)</title>
     <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716000000 GMT+3" stop="20260716010000 GMT+3" channel="75835625">
+    <title lang="el">FOCUS ON SPORTS S2, ΕΠ.5</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716010000 GMT+3" stop="20260716030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΝΟΡΘΩΣΗ 2-0 (15/10/2016)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α ΚΑΤΗΓΟΡΙΑ 2016-17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716030000 GMT+3" stop="20260716050000 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - ΟΛΥΜΠΙΑΚΟΣ (25/10/2025)</title>
+    <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΝΕΩΝ 2025-26 - Κ19</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716050000 GMT+3" stop="20260716070000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ (03/01/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716070000 GMT+3" stop="20260716073000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ 29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716073000 GMT+3" stop="20260716100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - KORONA KIELCE - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716100000 GMT+3" stop="20260716100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716100500 GMT+3" stop="20260716120000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ (01/12/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716120000 GMT+3" stop="20260716130000 GMT+3" channel="75835625">
+    <title lang="el">FOCUS ON SPORTS S2, ΕΠ.6</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716130000 GMT+3" stop="20260716150000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ 3-1 (29/10/2016)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α ΚΑΤΗΓΟΡΙΑ 2016-17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716150000 GMT+3" stop="20260716170000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΛ (22/11/2025)</title>
+    <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΝΕΩΝ 2025-26 - Κ19</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716170000 GMT+3" stop="20260716190000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ – ΑΝΟΡΘΩΣΗ (07/01/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716190000 GMT+3" stop="20260716190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716190500 GMT+3" stop="20260716193000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ 29</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716193000 GMT+3" stop="20260716200000 GMT+3" channel="75835625">
+    <title lang="el">PRE GAME (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716200000 GMT+3" stop="20260716220000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716220000 GMT+3" stop="20260716223000 GMT+3" channel="75835625">
+    <title lang="el">POST GAME (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260716223000 GMT+3" stop="20260717000000 GMT+3" channel="75835625">
+    <title lang="el">1975-1976: Η ΑΠΟΛΥΤΗ ΚΥΡΙΑΡΧΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -106676,6 +106790,102 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260717000000 GMT+3" stop="20260717010000 GMT+3" channel="75835625">
+    <title lang="el">FOCUS ON SPORTS S2, ΕΠ.6</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717010000 GMT+3" stop="20260717030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΡΗΣ 3-1 (29/10/2016)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α ΚΑΤΗΓΟΡΙΑ 2016-17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717030000 GMT+3" stop="20260717050000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΛ (22/11/2025)</title>
+    <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΝΕΩΝ 2025-26 - Κ19</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717050000 GMT+3" stop="20260717070000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ – ΑΝΟΡΘΩΣΗ (07/01/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717070000 GMT+3" stop="20260717080000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.1 - ΑΝΔΡΕΑΣ ΚΑΝΑΡΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717080000 GMT+3" stop="20260717100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (16/07/2026)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717100000 GMT+3" stop="20260717100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717100500 GMT+3" stop="20260717120000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (23/11/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717120000 GMT+3" stop="20260717130000 GMT+3" channel="75835625">
+    <title lang="el">FOCUS ON SPORTS S2, ΕΠ.7</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717130000 GMT+3" stop="20260717150000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ 2-1 (20/11/2016)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α ΚΑΤΗΓΟΡΙΑ 2016-17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717150000 GMT+3" stop="20260717170000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ15</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717170000 GMT+3" stop="20260717190000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΛ - OMONOIA (12/01/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717190000 GMT+3" stop="20260717190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717190500 GMT+3" stop="20260717200000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.2 - ΓΚΡΕΚΟΡΥ ΣΑΒΒΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717200000 GMT+3" stop="20260717220000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - HAPOEL BEER SHEVA - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260717220000 GMT+3" stop="20260718000000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (16/07/2026)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260717013000 GMT+3" stop="20260717020000 GMT+3" channel="54111722">
     <title lang="el">PL Stories</title>
     <desc lang="el">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
@@ -123876,6 +124086,90 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260718000000 GMT+3" stop="20260718010000 GMT+3" channel="75835625">
+    <title lang="el">FOCUS ON SPORTS S2, ΕΠ.7</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718010000 GMT+3" stop="20260718030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΕΚ 2-1 (20/11/2016)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ CYTA Α ΚΑΤΗΓΟΡΙΑ 2016-17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718030000 GMT+3" stop="20260718050000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ15</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718050000 GMT+3" stop="20260718070000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΛ - OMONOIA (12/01/2025)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2024-25</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718070000 GMT+3" stop="20260718080000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.2 - ΓΚΡΕΚΟΡΥ ΣΑΒΒΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718080000 GMT+3" stop="20260718100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - HAPOEL BEER SHEVA - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718100000 GMT+3" stop="20260718120000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (16/07/2026)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718120000 GMT+3" stop="20260718133000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ14</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718133000 GMT+3" stop="20260718153000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ15</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718153000 GMT+3" stop="20260718160000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.19</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718160000 GMT+3" stop="20260718173000 GMT+3" channel="75835625">
+    <title lang="el">1975-1976: Η ΑΠΟΛΥΤΗ ΚΥΡΙΑΡΧΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718173000 GMT+3" stop="20260718193000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (16/07/2026)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718193000 GMT+3" stop="20260718220000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - KORONA KIELCE - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260718220000 GMT+3" stop="20260719000000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΛ - ΟΜΟΝΟΙΑ (09/01/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260718000000 GMT+3" stop="20260718010000 GMT+3" channel="54111722">
     <title lang="el">Review</title>
     <desc lang="el">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
@@ -127194,6 +127488,12 @@
   <programme start="20260719230000 GMT+3" stop="20260719234000 GMT+3" channel="206750">
     <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719234000 GMT+3" stop="20260720023000 GMT+3" channel="206750">
+    <title lang="el">Ορθρος - Θεια Λειτουργια</title>
+    <desc lang="el">Ορθόδοξη Αδελφότητα &quot;Αγία Λυδία&quot; - Ασπροβάλτα Θεσσαλονίκης</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -141132,6 +141432,96 @@
   <programme start="20260719223000 GMT+3" stop="20260720003000 GMT+3" channel="53005467">
     <title lang="el">La Laguna Tenerife - Unicaja 25/10/25 (E)</title>
     <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719000000 GMT+3" stop="20260719013000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ14</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719013000 GMT+3" stop="20260719033000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΕΘΝΙΚΟΣ ΑΣΣΙΑΣ (13/12/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ15</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719033000 GMT+3" stop="20260719040000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.19</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719040000 GMT+3" stop="20260719053000 GMT+3" channel="75835625">
+    <title lang="el">1975-1976: Η ΑΠΟΛΥΤΗ ΚΥΡΙΑΡΧΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719053000 GMT+3" stop="20260719073000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΝAIΤΩΛΙΚΟΣ FC (16/07/2026)</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719073000 GMT+3" stop="20260719100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - KORONA KIELCE - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719100000 GMT+3" stop="20260719120000 GMT+3" channel="75835625">
+    <title lang="el">ΑΕΛ - ΟΜΟΝΟΙΑ (09/01/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719120000 GMT+3" stop="20260719140000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΝΕΑ ΣΑΛΑΜΙΝΑ (04/10/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719140000 GMT+3" stop="20260719160000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΝΕΑ ΣΑΛΑΜΙΝΑ (04/10/2025)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719160000 GMT+3" stop="20260719163000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.20</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719163000 GMT+3" stop="20260719170000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.21</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719170000 GMT+3" stop="20260719190000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - KORONA KIELCE - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719190000 GMT+3" stop="20260719213000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - HAPOEL BEER SHEVA - OMTV</title>
+    <desc lang="el">ΦΙΛΙΚΑ 2026 - ΠΟΛΩΝΙΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719213000 GMT+3" stop="20260719220000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ ΕΠ 30</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260719220000 GMT+3" stop="20260720000000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ – ΑΝΟΡΘΩΣΗ (18/01/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
