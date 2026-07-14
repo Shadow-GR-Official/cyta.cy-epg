@@ -9026,12 +9026,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260713235600 GMT+3" stop="20260714004200 GMT+3" channel="9744258">
-    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ5</title>
-    <desc lang="el">Supercar Blondie arrives in ‘Motor City’ in the dead of winter but given access to a half million dollar new Ford GT raises her spirits. Her goal is to learn more about muscle cars, born in Detroit, and her journey takes her in different directions.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260713000000 GMT+3" stop="20260713003000 GMT+3" channel="216382">
     <title lang="el">Designers</title>
     <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
@@ -70924,7 +70918,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260716071500 GMT+3" stop="20260717060000 GMT+3" channel="97085851">
+  <programme start="20260716071500 GMT+3" stop="20260716090000 GMT+3" channel="97085851">
     <title lang="el">Champions League 00/01: Bayer Leverkusen vs Real Madrid</title>
     <desc lang="el">We go back to 2000 to take a look at this classic against Bayer Leverkusen away in Germany</desc>
     <category lang="el">Αθλητικά</category>
