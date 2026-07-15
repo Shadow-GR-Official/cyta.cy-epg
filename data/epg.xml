@@ -60183,13 +60183,13 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260717004500 GMT+3" stop="20260717010000 GMT+3" channel="9745267">
+  <programme start="20260717004500 GMT+3" stop="20260717005900 GMT+3" channel="9745267">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema! Νέες κυκλοφορίες, παραγωγές που σημειώνουν επιτυχία, διάσημοι πρωταγωνιστές και σκηνοθέτες παρελαύνουν στην οθόνη σας... Μαγκαζίνο</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260717030000 GMT+3" stop="20260717060000 GMT+3" channel="9745267">
+  <programme start="20260717022900 GMT+3" stop="20260717060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -90428,8 +90428,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260718210000 GMT+3" stop="20260718230000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -108725,20 +108725,20 @@
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260719060000 GMT+3" stop="20260719113000 GMT+3" channel="46137467">
+  <programme start="20260719060000 GMT+3" stop="20260719120000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260719113000 GMT+3" stop="20260719133000 GMT+3" channel="46137467">
+  <programme start="20260719120000 GMT+3" stop="20260719143000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Eastbourne Open της σειράς WTA 250, που πραγματοποιείται στο Ίστμπουρν της Βρετανίας το διάστημα 22-27 Ιουνίου. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260719133000 GMT+3" stop="20260719153000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+  <programme start="20260719143000 GMT+3" stop="20260719153000 GMT+3" channel="46137467">
+    <title lang="el">Race Magazine</title>
+    <desc lang="el">Δείτε στιγμιότυπα αγώνων ποδηλασίας, κολύμβησης αντοχής, μηχανοκίνητων, ιστιοπλοϊας και μαραθωνίων. Περισσότερες από 50 κορυφαίες διεθνείς υπαίθριες διοργανώσεις σε 25 χώρες καθ&apos; όλη τη διάρκεια του έτους. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -108760,13 +108760,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260719213000 GMT+3" stop="20260719233000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+  <programme start="20260719213000 GMT+3" stop="20260719230000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260719233000 GMT+3" stop="20260720003000 GMT+3" channel="46137467">
+  <programme start="20260719230000 GMT+3" stop="20260720000000 GMT+3" channel="46137467">
     <title lang="el">Race Magazine</title>
     <desc lang="el">Δείτε στιγμιότυπα αγώνων ποδηλασίας, κολύμβησης αντοχής, μηχανοκίνητων, ιστιοπλοϊας και μαραθωνίων. Περισσότερες από 50 κορυφαίες διεθνείς υπαίθριες διοργανώσεις σε 25 χώρες καθ&apos; όλη τη διάρκεια του έτους. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
@@ -125747,9 +125747,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720110000 GMT+3" stop="20260720133000 GMT+3" channel="216415">
+  <programme start="20260720110000 GMT+3" stop="20260720130000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260720130000 GMT+3" stop="20260720133000 GMT+3" channel="216415">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260720133000 GMT+3" stop="20260720153000 GMT+3" channel="216415">
@@ -125758,13 +125764,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720153000 GMT+3" stop="20260720172000 GMT+3" channel="216415">
+  <programme start="20260720153000 GMT+3" stop="20260720171500 GMT+3" channel="216415">
     <title lang="el">Ολυμπιακός - Χάποελ Τελ Αβίβ</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720172000 GMT+3" stop="20260720193000 GMT+3" channel="216415">
+  <programme start="20260720171500 GMT+3" stop="20260720193000 GMT+3" channel="216415">
     <title lang="el">Νεπτούνας - Άρης</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
@@ -125776,7 +125782,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720213000 GMT+3" stop="20260721000000 GMT+3" channel="216415">
+  <programme start="20260720213000 GMT+3" stop="20260721014500 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -125951,7 +125957,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260720003000 GMT+3" stop="20260720060000 GMT+3" channel="46137467">
+  <programme start="20260720000000 GMT+3" stop="20260720060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -125985,15 +125991,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720200000 GMT+3" stop="20260720220000 GMT+3" channel="46137467">
+  <programme start="20260720200000 GMT+3" stop="20260720223000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260720220000 GMT+3" stop="20260721000000 GMT+3" channel="46137467">
+  <programme start="20260720223000 GMT+3" stop="20260721003000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Lexus Nottingham Open της σειράς WTA 250, που πραγματοποιείται στο Νότιγχαμ της Αγγλίας το διάστημα 15-21 Ιουνίου. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -142492,13 +142498,7 @@
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260721000000 GMT+3" stop="20260721020000 GMT+3" channel="216415">
-    <title lang="el">Μπάγερν Μονάχου - Βέρντερ Βρέμης</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260721020000 GMT+3" stop="20260721060000 GMT+3" channel="216415">
+  <programme start="20260721014500 GMT+3" stop="20260721060000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -142514,20 +142514,14 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721110000 GMT+3" stop="20260721133000 GMT+3" channel="216415">
+  <programme start="20260721110000 GMT+3" stop="20260721163000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260721133000 GMT+3" stop="20260721151500 GMT+3" channel="216415">
-    <title lang="el">Μπεσίκτας - Πανιώνιος</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2025/26, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260721151500 GMT+3" stop="20260721170000 GMT+3" channel="216415">
-    <title lang="el">Ερυθρός Αστέρας - Παναθηναϊκός</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
+  <programme start="20260721163000 GMT+3" stop="20260721170000 GMT+3" channel="216415">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -142543,9 +142537,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721213000 GMT+3" stop="20260722000000 GMT+3" channel="216415">
+  <programme start="20260721213000 GMT+3" stop="20260721233000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Αγώνες της Super League και της EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260721233000 GMT+3" stop="20260722000000 GMT+3" channel="216415">
+    <title lang="el">Πρωτάθλημα FIA Karting 2026</title>
+    <desc lang="el">Το Πρωτάθλημα Karting της FIA είναι η διασημότερη διοργάνωση καρτ στον κόσμο. Αρκετοί πρωταθλητές της, όπως ο Άιρτον Σένα, ο Αλέν Προστ και ο Μαξ Φερστάπεν, έχουν συμμετάσχει και έχουν κερδίσει το Παγκόσμιο Πρωτάθλημα Οδηγών F1. Μηχανοκίνητα</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260721000000 GMT+3" stop="20260721020000 GMT+3" channel="218883">
@@ -142730,7 +142730,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="46137467">
+  <programme start="20260721003000 GMT+3" stop="20260721060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -142758,22 +142758,27 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721180000 GMT+3" stop="20260721200000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+  <programme start="20260721180000 GMT+3" stop="20260721193000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721200000 GMT+3" stop="20260721220000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+  <programme start="20260721193000 GMT+3" stop="20260721210000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260721220000 GMT+3" stop="20260722000000 GMT+3" channel="46137467">
-    <title lang="el">Τένις: WTA 250 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών UniCredit Iasi Open της σειράς WTA 250, που πραγματοποιείται στη Ρουμανία το διάστημα 13-19 Ιουλίου. Τένις, 2024.</desc>
+  <programme start="20260721210000 GMT+3" stop="20260721233000 GMT+3" channel="46137467">
+    <title lang="el">Τένις: WTA 500 2026</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Vanda Pharmaceuticals Berlin Tennis Open της σειράς WTA 500, που διεξάγεται στο Βερολίνο το διάστημα 15-21 Ιουνίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260721233000 GMT+3" stop="20260722000000 GMT+3" channel="46137467">
+    <title lang="el">Novasports6HD</title>
+    <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
   <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="52027167">
