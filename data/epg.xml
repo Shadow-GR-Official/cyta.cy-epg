@@ -124742,8 +124742,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260723220000 GMT+3" stop="20260724060000 GMT+3" channel="8242848">
-    <title lang="el">PAFOS - SLOVAN BRATISLAVA 16/7/26</title>
-    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <title lang="el">HAJDUK SPLIT - PAFOS (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -124849,13 +124849,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723120000 GMT+3" stop="20260723180000 GMT+3" channel="8242862">
+  <programme start="20260723120000 GMT+3" stop="20260723190000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723180000 GMT+3" stop="20260724060000 GMT+3" channel="8242862">
+  <programme start="20260723190000 GMT+3" stop="20260723210000 GMT+3" channel="8242862">
+    <title lang="el">DILA GORI - APOLLON (Z)</title>
+    <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260723210000 GMT+3" stop="20260724060000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -126909,8 +126915,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260723220000 GMT+3" stop="20260724060000 GMT+3" channel="52098866">
-    <title lang="el">PAFOS - SLOVAN BRATISLAVA 16/7/26</title>
-    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <title lang="el">HAJDUK SPLIT - PAFOS (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -127016,13 +127022,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723120000 GMT+3" stop="20260723180000 GMT+3" channel="52103938">
+  <programme start="20260723120000 GMT+3" stop="20260723190000 GMT+3" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723180000 GMT+3" stop="20260724060000 GMT+3" channel="52103938">
+  <programme start="20260723190000 GMT+3" stop="20260723210000 GMT+3" channel="52103938">
+    <title lang="el">DILA GORI - APOLLON (Z)</title>
+    <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260723210000 GMT+3" stop="20260724060000 GMT+3" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
     <category lang="el">Αθλητικά</category>
