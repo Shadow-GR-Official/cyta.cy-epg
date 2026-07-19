@@ -71029,6 +71029,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="8242862">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260721060000 GMT+3" stop="20260721120000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
@@ -71044,6 +71050,12 @@
   <programme start="20260721180000 GMT+3" stop="20260722000000 GMT+3" channel="8242862">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -73212,6 +73224,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="52103938">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260721060000 GMT+3" stop="20260721120000 GMT+3" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
@@ -73227,6 +73245,12 @@
   <programme start="20260721180000 GMT+3" stop="20260722000000 GMT+3" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260721000000 GMT+3" stop="20260721060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
