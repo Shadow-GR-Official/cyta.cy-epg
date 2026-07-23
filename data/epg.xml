@@ -34960,43 +34960,55 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723071500 GMT+3" stop="20260723092000 GMT+3" channel="97085851">
+  <programme start="20260723071500 GMT+3" stop="20260723092300 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723092000 GMT+3" stop="20260723112000 GMT+3" channel="97085851">
+  <programme start="20260723092300 GMT+3" stop="20260723111500 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: Copa del Rey 1980:</title>
     <desc lang="el">A rare encounter in the Copa Del Rey. Real Madrid&apos;s first team faced the club&apos;s second team back in 1980.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723112000 GMT+3" stop="20260723113500 GMT+3" channel="97085851">
+  <programme start="20260723111500 GMT+3" stop="20260723112100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260723112100 GMT+3" stop="20260723113600 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723113500 GMT+3" stop="20260723120000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme start="20260723113600 GMT+3" stop="20260723115600 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 87/88 Real Madrid v Napoli</title>
+    <desc lang="el">In this European Cup encounter, Real Madrid hosted a Napoli team that was captained by Diego Maradona.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723120000 GMT+3" stop="20260723141000 GMT+3" channel="97085851">
+  <programme start="20260723115600 GMT+3" stop="20260723120100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260723120100 GMT+3" stop="20260723141400 GMT+3" channel="97085851">
     <title lang="el">Champions League 17/18</title>
     <desc lang="el">RM v Liverpool Final Champions League Final 17/18. Watch Los Blancos complete a unique hat-trick \n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723141000 GMT+3" stop="20260723163000 GMT+3" channel="97085851">
+  <programme start="20260723141400 GMT+3" stop="20260723163100 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22</title>
     <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723163000 GMT+3" stop="20260723185000 GMT+3" channel="97085851">
+  <programme start="20260723163100 GMT+3" stop="20260723185000 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
@@ -35008,19 +35020,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723210000 GMT+3" stop="20260723211500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260723210000 GMT+3" stop="20260723211400 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723211500 GMT+3" stop="20260723233000 GMT+3" channel="97085851">
+  <programme start="20260723211400 GMT+3" stop="20260723232200 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260723233000 GMT+3" stop="20260724020500 GMT+3" channel="97085851">
+  <programme start="20260723232200 GMT+3" stop="20260723232700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260723232700 GMT+3" stop="20260724020300 GMT+3" channel="97085851">
     <title lang="el">Champions League 23/24</title>
     <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
     <category lang="el">Αθλητικά</category>
@@ -38460,7 +38478,7 @@
     <rating>12</rating>
   </programme>
   <programme start="20260724133000 GMT+3" stop="20260724140000 GMT+3" channel="574264">
-    <title lang="el">VAN LIFE - Η ΖΩΗ ΕΞΩ (E) Κ2</title>
+    <title lang="el">VAN LIFE - Η ΖΩΗ ΕΞΩ (E)</title>
     <desc lang="el">Το VAN LIFE είναι μια πρωτότυπη σειρά 8 επεισοδίων που καταγράφει τις περιπέτειες μιας ομάδας νέων ανθρώπων, οι οποίοι αποφασίζουν να γυρίσουν την Ελλάδα με ένα βαν και να κάνουν τα αγαπημένα τους αθλήματα στη φύση.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
@@ -53049,15 +53067,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260724020500 GMT+3" stop="20260724042000 GMT+3" channel="97085851">
+  <programme start="20260724020300 GMT+3" stop="20260724042000 GMT+3" channel="97085851">
     <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
     <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260724042000 GMT+3" stop="20260724043500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -53067,19 +53085,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260724070500 GMT+3" stop="20260724072000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260724070500 GMT+3" stop="20260724071700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260724072000 GMT+3" stop="20260724090000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 15/16</title>
-    <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260724090000 GMT+3" stop="20260724110000 GMT+3" channel="97085851">
+  <programme start="20260724071700 GMT+3" stop="20260724110000 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
@@ -54897,7 +54909,43 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724180000 GMT+3" stop="20260725000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260724000000 GMT+3" stop="20260724060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724180000 GMT+3" stop="20260725000000 GMT+3" channel="52196745">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -54909,7 +54957,43 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724180000 GMT+3" stop="20260725000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260724000000 GMT+3" stop="20260724060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724180000 GMT+3" stop="20260725000000 GMT+3" channel="52196754">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -54921,7 +55005,49 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724180000 GMT+3" stop="20260725000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260724000000 GMT+3" stop="20260724060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724060000 GMT+3" stop="20260724120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724120000 GMT+3" stop="20260724150000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724150000 GMT+3" stop="20260724220000 GMT+3" channel="52196763">
+    <title lang="el">60η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260724220000 GMT+3" stop="20260725000000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -56325,11 +56451,89 @@
     <category lang="el">Ειδήσεις</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725040000 GMT+3" stop="20260725060000 GMT+3" channel="574264">
+  <programme start="20260725040000 GMT+3" stop="20260725050000 GMT+3" channel="574264">
     <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
     <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260725050000 GMT+3" stop="20260725090000 GMT+3" channel="574264">
+    <title lang="el">Σαββατοκύριακο από τις 5</title>
+    <desc lang="el">Ο Δημήτρης Κοτταρίδης και η Νίνα Κασιμάτη, κάθε Σαββατοκύριακο, από τις 05:00 έως τις 09:00, μέσα από την ενημερωτική εκπομπή «Σαββατοκύριακο από τις 5», που μεταδίδεται από την ERTWorld και από το EΡΤNEWS, παρουσιάζουν ειδήσεις, ιστορίες, πρόσωπα, εικόνες, πάντα με τον δικό τους ιδιαίτερο τρόπο και με πολύ χιούμορ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260725090000 GMT+3" stop="20260725100000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725100000 GMT+3" stop="20260725110000 GMT+3" channel="574264">
+    <title lang="el">Η ΖΩΗ ΑΛΛΙΩΣ (E)</title>
+    <desc lang="el">Προσωποκεντρικό, ταξιδιωτικό ντοκιμαντέρ με την Ίνα Ταράντου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725110000 GMT+3" stop="20260725120000 GMT+3" channel="574264">
+    <title lang="el">Κάτι Γλυκό (E) ΕΠ1</title>
+    <desc lang="el">Ο διακεκριμένος pastry chef Κρίτωνας Πουλής μοιράζεται μαζί μας τα μυστικά της ζαχαροπλαστικής του και παρουσιάζει βήμα - βήμα δύο γλυκά.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725130000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725130000 GMT+3" stop="20260725140000 GMT+3" channel="574264">
+    <title lang="el">Κάθε Τόπος και Τραγούδι (E) Κ1</title>
+    <desc lang="el">Χριστούγεννα στα Μαστοροχώρια των Γρεβενών (Καλλονή, Άγιος Κοσμάς, Κυπαρίσσι, Κυδωνιές).</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260725140000 GMT+3" stop="20260725150000 GMT+3" channel="574264">
+    <title lang="el">Εποχές και Συγγραφείς - ΕΡΤ Αρχείο</title>
+    <desc lang="el">(Αφιέρωμα στον Άγγελο Τερζάκη, που γεννήθηκε στις 16 Φεβρουαρίου 1907)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260725150000 GMT+3" stop="20260725160000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725160000 GMT+3" stop="20260725180000 GMT+3" channel="574264">
+    <title lang="el">Cosmos Cinema - Ο Μύθος της Λίμνης</title>
+    <desc lang="el">Οικογενειακή περιπέτεια φαντασίας, συμπαραγωγής Νέας Ζηλανδίας, Ηνωμένου Βασιλείου, ΗΠΑ 2007. Στην ακτή του Λοχ Νες, στη Σκωτία, ο Άνγκους βρίσκει ένα ασυνήθιστο αυγό. Όταν εκκολάπτεται, απελευθερώνει μια απροσδόκητη έκπληξη: ένα άλογο του νερού, το θρυλικό πλάσμα της σκωτσέζικης μυθολογίας. Ενώ το αγόρι προσπαθεί να κρατήσει την ύπαρξή του κρυφή από τη μητέρα του, αυτός και το νέο του κατοικίδιο, ο Κρούσος, γίνονται γρήγορα αχώριστοι.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260725190000 GMT+3" channel="574264">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725190000 GMT+3" stop="20260725210000 GMT+3" channel="574264">
+    <title lang="el">Πανελλήνιο Πρωτάθλημα Ανοιχτού Στίβου 2026 Βόλος (Ζ)</title>
+    <desc lang="el">Πανελλήνιο Πρωτάθλημα Ανοιχτού Στίβου 2026 Βόλος (Ζ)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725210000 GMT+3" stop="20260725220000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725220000 GMT+3" stop="20260726000000 GMT+3" channel="574264">
+    <title lang="el">Γιάννης Σπανός: Πίσω απ&apos; τη Μαρκίζα Cosmos Docs</title>
+    <desc lang="el">Βιογραφικό ντοκιμαντέρ ελληνικής παραγωγής, 2023, διάρκειας 120 λεπτών. Ένα ταξίδι στην τεράστια πορεία του Γιάννη Σπανού, από το παιδικό σπίτι στο Κιάτο ως τις μεγάλες συνεργασίες στο Παρίσι και την επιτυχία στην Ελλάδα, με σπάνια ντοκουμέντα και συνεντεύξεις. Μέσα από την προσωπική αναζήτηση ενός λάτρη της μουσικής του, διερευνούμε γιατί ο Σπανός επέλεξε να μένει πίσω από τα φώτα, αφήνοντας το έργο του να μιλήσει. Μια συμπαραγωγή της ΕΡΤ.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260725000000 GMT+3" stop="20260725010000 GMT+3" channel="216630">
     <title lang="el">ΜΙΚΡΟΚΥΜΑΤΑ</title>
@@ -59882,7 +60086,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725030000 GMT+3" stop="20260725050000 GMT+3" channel="9745267">
+  <programme start="20260725025800 GMT+3" stop="20260725050000 GMT+3" channel="9745267">
     <title lang="el">Ο Επικηρυγμένος</title>
     <desc lang="el">Ένας έμπειρος κακοποιός επιστρέφει από την εξορία για να ανακτήσει χρυσό που έχει κρυφτεί από τον Εμφύλιο, συγκεντρώνοντας μια ετερόκλητη ομάδα για να αντιμετωπίσει έναν αδίστακτο αντίπαλο. Δράμα, 2024. Σκηνοθεσία: Μάριο Βαν Πιμπλς. Πρωταγωνιστές: Γούπι Γκόλντμπεργκ, Νιλ ΜακΝτόνα, Τζέικ Μάνλι.</desc>
     <category lang="el">Ταινίες</category>
@@ -61462,31 +61666,31 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725060000 GMT+3" stop="20260725065500 GMT+3" channel="216459">
+  <programme start="20260725060000 GMT+3" stop="20260725065000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ7</title>
     <desc lang="el">Εξετάζοντας κρυμμένα ευρήματα μπορούμε να εξηγήσουμε τη ραγδαία εξέλιξη της Νέας Υόρκης στην πολύβουη μητρόπολη που είναι σήμερα. Μία πόλη που πάντα προχωρά μπροστά, με πραγματική τόλμη και αποφασιστικότητα. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725065500 GMT+3" stop="20260725074500 GMT+3" channel="216459">
+  <programme start="20260725065000 GMT+3" stop="20260725074000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ3</title>
     <desc lang="el">Τα υποβρύχιά U-Boat αντιμετώπισαν το παντοδύναμο βρετανικό ναυτικό και παραλίγο να κερδίσουν τον πόλεμο βυθίζοντας 12 εκ. τόνους. Στο επεισόδιο αποκαλύπτουμε την ιστορία του πρώτου σκάφους που δεν μπορούσε να εντοπιστεί. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725074500 GMT+3" stop="20260725083500 GMT+3" channel="216459">
+  <programme start="20260725074000 GMT+3" stop="20260725083000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ5</title>
     <desc lang="el">Εξερευνούμε τους δρόμους του Σαν Φραντσίσκο, τον ποταμό Σακραμέντο και τα παγωμένα απόβλητα του Κλοντάικ στον βόρειο Καναδά για να αφηγηθούμε την αληθινή ιστορία της εμμονής με τον χρυσό κατά τον 19ο αιώνα. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725083500 GMT+3" stop="20260725092500 GMT+3" channel="216459">
+  <programme start="20260725083000 GMT+3" stop="20260725092000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ4</title>
     <desc lang="el">Οι μάχες του αμερικανικού εμφυλίου στην ξηρά είναι γνωστές, αλλά ο πόλεμος στη θάλασσα ήταν εκείνος που διαμόρφωσε το αποτέλεσμα της σύγκρουσης. Θαλάσσιοι αρχαιολόγοι και ιστορικοί αναζητούν τα μυστικά του Εμφύλιου. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725092500 GMT+3" stop="20260725101500 GMT+3" channel="216459">
+  <programme start="20260725092000 GMT+3" stop="20260725101500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ6</title>
     <desc lang="el">Με πρόσβαση σε τολμηρές αποστολές, λεπτομερή στοιχεία και εμπιστευτικές πληροφορίες, αποκαλύπτουμε τα μυστικά της πυρηνικής πλευράς του Ψυχρού Πολέμου. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -61498,13 +61702,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725110000 GMT+3" stop="20260725115000 GMT+3" channel="216459">
+  <programme start="20260725110000 GMT+3" stop="20260725114500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ19 ΕΠ5</title>
     <desc lang="el">Μια αεροπορική εταιρεία από την Κολομβία συντρίβεται στον αεροδιάδρομο ενώ επιχειρεί να προσγειωθεί σε ένα νησί της Καραϊβικής εν μέσω δυνατής τροπικής θύελλας. Οι ερευνητές καλούνται να ανακαλύψουν την αιτία. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725115000 GMT+3" stop="20260725123500 GMT+3" channel="216459">
+  <programme start="20260725114500 GMT+3" stop="20260725123500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ20 ΕΠ5</title>
     <desc lang="el">Μια έκρηξη στον αέρα συγκλονίζει την πτήση 1380 της Southwest Airlines. Ενώ οι πιλότοι παλεύουν να επανακτήσουν τον έλεγχο, οι αεροσυνοδοί κάνουν μια φρικτή ανακάλυψη. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -61582,19 +61786,19 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725214500 GMT+3" stop="20260725223500 GMT+3" channel="216459">
+  <programme start="20260725214500 GMT+3" stop="20260725223000 GMT+3" channel="216459">
     <title lang="el">Μονομάχοι: Πολεμιστές του Αρχαίου Κόσμου Κ1 ΕΠ4</title>
     <desc lang="el">Το 80 μ.Χ., ο αυτοκράτορας Τίτος ανοίγει το Κολοσσαίο με 100 ημέρες θεαματικών αγώνων. Ανάμεσα στα αστέρια είναι ο Καρποφόρος, ένας επιδέξιος κυνηγός θηρίων αφρικανικής καταγωγής, ο οποίος κερδίζει θρυλική θέση σκοτώνοντας 20 θηρευτές σε μία μέρα. Αλλά πίσω από τη δόξα κρύβεται η καταστροφή - η υποδούλωση, η οικολογική καταστροφή και μια κληρονομιά βίας που παρουσιάζεται ως θέαμα. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725223500 GMT+3" stop="20260725232000 GMT+3" channel="216459">
+  <programme start="20260725223000 GMT+3" stop="20260725232000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ13 ΕΠ1</title>
     <desc lang="el">Ο Τιμ και ο Φαζ αναλαμβάνουν το Toyota Celica του 1992 του Μάικλ, μια σπάνια έκδοση δρόμου που κέρδισε το παγκόσμιο πρωτάθλημα ράλι της δεκαετίας του &apos;90 με οδηγό τον Κάρλος Σάινθ. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260725232000 GMT+3" stop="20260726001000 GMT+3" channel="216459">
+  <programme start="20260725232000 GMT+3" stop="20260726000500 GMT+3" channel="216459">
     <title lang="el">Βραχώδη Όρη: Σιδηρόδρομος Κ1 ΕΠ8</title>
     <desc lang="el">Μια επιδιόρθωση γέφυρας και μια επισκευή της τελευταίας στιγμής απειλούν το ιστορικό ταξίδι ενός βίντατζ τρένου που γιορτάζει την 150ή επέτειο του Καναδά. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -71386,9 +71590,69 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725071500 GMT+3" stop="20260726060000 GMT+3" channel="97085851">
+  <programme start="20260725071500 GMT+3" stop="20260725090000 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: Copa del Rey 1980:</title>
     <desc lang="el">A rare encounter in the Copa Del Rey. Real Madrid&apos;s first team faced the club&apos;s second team back in 1980.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725090000 GMT+3" stop="20260725092500 GMT+3" channel="97085851">
+    <title lang="el">Classic Matches: Copa del Rey 1980:</title>
+    <desc lang="el">A rare encounter in the Copa Del Rey. Real Madrid&apos;s first team faced the club&apos;s second team back in 1980.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725092500 GMT+3" stop="20260725114000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 17/18: Juventus vs Real Madrid</title>
+    <desc lang="el">A must-watch game for Madridistas as Zidane&apos;s side conquer Turin with a sensational performance.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725114000 GMT+3" stop="20260725143500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725143500 GMT+3" stop="20260725145500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725145500 GMT+3" stop="20260725180000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24: Manchester City vs Real Madrid</title>
+    <desc lang="el">Round of 8 (second leg). Real Madrid face Manchester City Etihad Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260725210500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 13/14</title>
+    <desc lang="el">The first ever cross-city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725210500 GMT+3" stop="20260725213000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725213000 GMT+3" stop="20260725214000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725214000 GMT+3" stop="20260725235000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup</title>
+    <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725235000 GMT+3" stop="20260726022000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 16/17</title>
+    <desc lang="el">Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales. \n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -73069,6 +73333,150 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725000000 GMT+3" stop="20260725060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725060000 GMT+3" stop="20260725120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725120000 GMT+3" stop="20260725180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260725180000 GMT+3" stop="20260726000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260726000000 GMT+3" stop="20260726003000 GMT+3" channel="561066">
     <title lang="el">Στο Νησί (E)</title>
     <desc lang="el">Στο Νησί (E)</desc>
@@ -74478,6 +74886,126 @@
     <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726010000 GMT+3" channel="574264">
+    <title lang="el">ΩΡΑ ΧΟΡΟΥ (E)</title>
+    <desc lang="el">Πάθος, ένταση, φλόγα. Τι είναι αυτό που κάνει το tango να είναι τόσο αγαπητό και δημοφιλές παγκοσμίως;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726010000 GMT+3" stop="20260726030000 GMT+3" channel="574264">
+    <title lang="el">ΜΟΥΣΙΚΟ ΚΟΥΤΙ (E)</title>
+    <desc lang="el">Το πιο μελωδικό «Μουσικό Κουτί» ανοίγουν στην ΕΡΤ1 ο Νίκος Πορτοκάλογλου και η Ρένα Μόρφη.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726030000 GMT+3" stop="20260726040000 GMT+3" channel="574264">
+    <title lang="el">Η ΖΩΗ ΑΛΛΙΩΣ (E)</title>
+    <desc lang="el">Προσωποκεντρικό, ταξιδιωτικό ντοκιμαντέρ με την Ίνα Ταράντου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726040000 GMT+3" stop="20260726050000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726050000 GMT+3" stop="20260726070000 GMT+3" channel="574264">
+    <title lang="el">Το Αλάτι της Γης (E) ΕΠ2</title>
+    <desc lang="el">...στα Τζουμέρκα: Η εκπομπή «Το Αλάτι της Γης» και ο Λάμπρος Λιάβας υποδέχονται το συγκρότημα «Ηπειρώτικο Τακίμι» από τα Γιάννενα. Αποτελείται από τους μουσικούς Κώστα Καραπάνο (βιολί), Αλέξανδρο Λιοκάτη (κλαρίνο-φλογέρα), Γιώργο Γκούβα (τραγούδι), Μάριο Τούμπα (λαούτο) και Τάσο Ντάφλο (ντέφι).</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726070000 GMT+3" stop="20260726073000 GMT+3" channel="574264">
+    <title lang="el">VAN LIFE - Η ΖΩΗ ΕΞΩ (E)</title>
+    <desc lang="el">Το VAN LIFE είναι μια πρωτότυπη σειρά 8 επεισοδίων που καταγράφει τις περιπέτειες μιας ομάδας νέων ανθρώπων, οι οποίοι αποφασίζουν να γυρίσουν την Ελλάδα με ένα βαν και να κάνουν τα αγαπημένα τους αθλήματα στη φύση.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726073000 GMT+3" stop="20260726080000 GMT+3" channel="574264">
+    <title lang="el">Από Πέτρα και Χρόνο (E)</title>
+    <desc lang="el">Το Κουκούλι είναι ένα από τα 46 χωριά του Ζαγορίου. Εδώ το μάτι μπορεί ακόμα να γεύεται την ομορφιά των ανθρώπινων έργων και της φύσης, κτίσματα παλιά, πέτρινα που παραμένουν αφτιασίδωτα στον χρόνο. Όσοι κάτοικοι απέμειναν, συνεχίζουν να χτίζουν τη ζωή τους πάνω στην «Πέτρα και στο χρόνο».</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726080000 GMT+3" stop="20260726103000 GMT+3" channel="574264">
+    <title lang="el">ΑΡΧΙΕΡΑΤΙΚΗ ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Απευθείας μετάδοση από τον Ιερό Ναό Αγίου Δημητρίου Θεσσαλονίκης</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726103000 GMT+3" stop="20260726110000 GMT+3" channel="574264">
+    <title lang="el">Μονόγραμμα - ΕΡΤ Αρχείο</title>
+    <desc lang="el">Η πορεία της ζωής του Γιώργου Κατσαρού είναι συνδεδεμένη με τη μουσική παράδοση του τόπου της γέννησής του: την Κέρκυρα. Μεγάλωσε δίπλα στην παλιά Φιλαρμονική και από τον καιρό που άρχισε να αισθάνεται - όπως λέει ο ίδιος- άκουγε συνέχεια όργανα, ορχήστρες, φιλαρμονικές και έτσι από πολύ μικρός ήταν φυσικό ν’ αρχίσει να ασχολείται με τη μουσική, παίζοντας βιολί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726110000 GMT+3" stop="20260726120000 GMT+3" channel="574264">
+    <title lang="el">Παρασκήνιο - ΕΡΤ Αρχείο</title>
+    <desc lang="el">Το επεισόδιο είναι αφιερωμένο στο διακεκριμένο ζωγράφο Νίκο Χατζηκυριάκο Γκίκα. Η συνέντευξη της πρώτης μέρας πραγματοποιείται στον ειδικά διαμορφωμένο χώρο της μόνιμης έκθεσης έργων του στην οικία του και ξεκινά με την αφήγηση των παιδικών και οικογενειακών χρόνων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726130000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726130000 GMT+3" stop="20260726143000 GMT+3" channel="574264">
+    <title lang="el">Κυριακή στο Χωριό Ξανά Κ5 ΕΠ1</title>
+    <desc lang="el">Η Νίσυρος δεν είναι ακριβώς νησί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726143000 GMT+3" stop="20260726150000 GMT+3" channel="574264">
+    <title lang="el">Βότανα Καρποί της Γης (E) Κ2 ΕΠ2</title>
+    <desc lang="el">Η Βάλια ανακαλύπτει τα πρώτα ανοιξιάτικα βότανα στο Πήλιο και επισκέπτεται μια από τις 3 σπηλιές που διεκδικούν τον τίτλο της κατοικίας του Χείρωνα, δάσκαλου του Ασκληπιού. Μαζί με την Μαρία περιδιαβαίνουν τα όμορφα καλντερίμια του Λαύκου και μαζεύουν μάραθο, άγρια λεβάντα και νεαρά βλαστάρια φτέρης. Στην πλατεία του χωριού, δίπλα στο παλαιότερο εν ενεργεία καφενείο της Ελλάδας, ο Γιώργος φτιάχνει φτεροκεφτέδες για το πλούσιο σε τσιπουρομεζέδες τραπέζι τους.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726150000 GMT+3" stop="20260726160000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726160000 GMT+3" stop="20260726173000 GMT+3" channel="574264">
+    <title lang="el">Όταν Λείπει η Γάτα Cosmos Greek Classics </title>
+    <desc lang="el">Κωμωδία, παραγωγής 1962 Η οικογένεια του εφοπλιστή Ζέμπερη αποφασίζει να φύγει για μια μικρή κρουαζιέρα. Τότε το υπηρετικό προσωπικό, η Μαριγώ, η Έλλη και ο Λουκάς, βρίσκει την ευκαιρία να ζήσει για μια βραδιά τη «μεγάλη ζωή», πηγαίνοντας στα μπουζούκια. Ένας πλούσιος θαμώνας του κέντρου γοητεύεται από την Έλλη και, πιστεύοντας πως είναι η κόρη του εφοπλιστή, παριστάνει τον τραγουδιστή του κέντρου για να την κατακτήσει.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726173000 GMT+3" stop="20260726180000 GMT+3" channel="574264">
+    <title lang="el">Λου και Λένα Cosmos Shorts</title>
+    <desc lang="el">Λου και Λένα, δύο φίλες... μια συμφωνία ανάμεσά τους για την κατάληξη αυτής της νύχτας.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260726190000 GMT+3" channel="574264">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726190000 GMT+3" stop="20260726210000 GMT+3" channel="574264">
+    <title lang="el">Πανελλήνιο Πρωτάθλημα Ανοιχτού Στίβου 2026 Βόλος (Ζ)</title>
+    <desc lang="el">Πανελλήνιο Πρωτάθλημα Ανοιχτού Στίβου 2026 Βόλος (Ζ)</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726210000 GMT+3" stop="20260726220000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726220000 GMT+3" stop="20260727000000 GMT+3" channel="574264">
+    <title lang="el">Cosmos Cinema - Οι Άγγελοι του Τσάρλι</title>
+    <desc lang="el">Κωμωδία δράσης παραγωγής ΗΠΑ, Κίνα, Γερμανία. Η Σαμπίνα Γουίλον, η Έλενα Χόγκλιν και η Τζέιν Κανό εργάζονται για τον μυστηριώδη Τσαρλς Τάουσεντ, του οποίου η υπηρεσία ασφαλείας και ερευνών έχει επεκταθεί διεθνώς. Με τις πιο έξυπνες, γενναίες και άρτια εκπαιδευμένες γυναίκες του κόσμου σε όλο τον πλανήτη, υπάρχουν πλέον ομάδες Αγγέλων που καθοδηγούνται από πολλαπλούς Μπόσλις και αναλαμβάνουν τις πιο δύσκολες δουλειές παντού.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260726010000 GMT+3" stop="20260726020000 GMT+3" channel="216630">
     <title lang="el">ΜΙΚΡΟΚΥΜΑΤΑ (E)</title>
@@ -78857,7 +79385,7 @@
   </programme>
   <programme start="20260726210000 GMT+3" stop="20260726225000 GMT+3" channel="607141">
     <title lang="el">No Ordinary Heist</title>
-    <desc lang="el">Δύο τραπεζικοί υπάλληλοι αναγκάζονται να εκτελέσουν τη μεγαλύτερη ληστεία στην ιστορία της Ιρλανδίας, αφού εγκληματίες απαγάγουν τις οικογένειές τους απειλώντας να τους σκοτώσουν. Αστυνομική ταινία παραγωγής 2026 σε σκηνοθεσία Κόλιν ΜακΆιβορ με τους: Έντι Μάρσαν, Ένα Χάρντγουικ, Ίβα Μπέρθισλ, Μισέλ Φέαρλι Σκηνοθεσία: Colin McIvor. Πρωταγωνιστούν: Eddie Marsan, Éanna Hardwicke, Eva Birthistle, Michelle Fairley. (2026)</desc>
+    <desc lang="el">Δύο τραπεζικοί υπάλληλοι αναγκάζονται να εκτελέσουν τη μεγαλύτερη ληστεία στην ιστορία της Ιρλανδίας, αφού εγκληματίες απαγάγουν τις οικογένειές τους απειλώντας να τις σκοτώσουν. Αστυνομική ταινία παραγωγής 2026 σε σκηνοθεσία Κόλιν ΜακΆιβορ με τους: Έντι Μάρσαν, Ένα Χάρντγουικ, Ίβα Μπέρθισλ, Μισέλ Φέαρλι Σκηνοθεσία: Colin McIvor. Πρωταγωνιστούν: Eddie Marsan, Éanna Hardwicke, Eva Birthistle, Michelle Fairley. (2026)</desc>
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
@@ -79527,13 +80055,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726001000 GMT+3" stop="20260726005500 GMT+3" channel="216459">
+  <programme start="20260726000500 GMT+3" stop="20260726005000 GMT+3" channel="216459">
     <title lang="el">Πομπηία: Εκτός Χρόνου με τον Τομ Χίντλστον Κ1 ΕΠ1</title>
     <desc lang="el">Καθώς αρχίζουν οι δονήσεις, ο Τομ αναρωτιέται: Θα αντιληφθεί κανείς τον κίνδυνο; Παρακολουθεί δύο Ρωμαίους που αγνοούν τα προειδοποιητικά σημάδια της καταστροφής. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726005500 GMT+3" stop="20260726014000 GMT+3" channel="216459">
+  <programme start="20260726005000 GMT+3" stop="20260726014000 GMT+3" channel="216459">
     <title lang="el">Μονομάχοι: Πολεμιστές του Αρχαίου Κόσμου Κ1 ΕΠ4</title>
     <desc lang="el">Το 80 μ.Χ., ο αυτοκράτορας Τίτος ανοίγει το Κολοσσαίο με 100 ημέρες θεαματικών αγώνων. Ανάμεσα στα αστέρια είναι ο Καρποφόρος, ένας επιδέξιος κυνηγός θηρίων αφρικανικής καταγωγής, ο οποίος κερδίζει θρυλική θέση σκοτώνοντας 20 θηρευτές σε μία μέρα. Αλλά πίσω από τη δόξα κρύβεται η καταστροφή - η υποδούλωση, η οικολογική καταστροφή και μια κληρονομιά βίας που παρουσιάζεται ως θέαμα. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -79545,25 +80073,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726022500 GMT+3" stop="20260726031500 GMT+3" channel="216459">
+  <programme start="20260726022500 GMT+3" stop="20260726031000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ20 ΕΠ10</title>
     <desc lang="el">Όταν ένα φορτηγό αεροπλάνο συντρίβεται στην Αλαμπάμα, οι ερευνητές πρέπει να εφαρμόσουν μια ασυνήθιστη προσέγγιση για να ανακαλύψουν τι συνέβη στην πτήση 1354 της UPS. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726031500 GMT+3" stop="20260726040000 GMT+3" channel="216459">
+  <programme start="20260726031000 GMT+3" stop="20260726035500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ5</title>
     <desc lang="el">Όταν η πτήση 261 της Alaska Airlines ξαφνικά πέφτει στον Ειρηνικό, οι ερευνητές ανακαλύπτουν ένα σοβαρό θέμα συντήρησης με μοιραίες συνέπειες. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726040000 GMT+3" stop="20260726044500 GMT+3" channel="216459">
+  <programme start="20260726035500 GMT+3" stop="20260726044000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ6</title>
     <desc lang="el">Μετά την παραλίγο μοιραία βουτιά του Boeing 727 πάνω από το Μίσιγκαν, οι ερευνητές ρισκάρουν τη δική τους ζωή για να καταλάβουν γιατί η πτήση 841 της TWA έπεσε από τον ουρανό. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726044500 GMT+3" stop="20260726053000 GMT+3" channel="216459">
+  <programme start="20260726044000 GMT+3" stop="20260726053000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ3</title>
     <desc lang="el">Όταν ένα Stealth Bomber δύο δις δολαρίων συντρίβεται στην Γκουάμ, η Αμερικανική Αεροπορία καλείται να ερευνήσει το πιο ακριβό εναέριο ατύχημα όλων των εποχών. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -79575,115 +80103,115 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726055500 GMT+3" stop="20260726064500 GMT+3" channel="216459">
+  <programme start="20260726055500 GMT+3" stop="20260726064000 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση Κ5 ΕΠ1</title>
     <desc lang="el">Ο Hazen ταξιδεύει στα βουνά του βόρειου Λάος για να συναντήσει τη φυλή Akha. Παίρνει μέρος σε ένα κυνήγι χρησιμοποιώντας παραδοσιακά χειροποίητα μουσκέτα με πυρίτιδα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726064500 GMT+3" stop="20260726073500 GMT+3" channel="216459">
+  <programme start="20260726064000 GMT+3" stop="20260726073000 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση Κ5 ΕΠ4</title>
     <desc lang="el">Ο Hazen ταξιδεύει στο Σουρινάμ για να συναντήσει τη φυλή Saramacca στη λεκάνη του Αμαζονίου. Καταγόμενοι από Αφρικανούς σκλάβους, μαθαίνει τις τακτικές που χρησιμοποιούν για να επιβιώσουν στο τροπικό δάσος. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726073500 GMT+3" stop="20260726082000 GMT+3" channel="216459">
+  <programme start="20260726073000 GMT+3" stop="20260726082000 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση: Απόδραση από τον Αμαζόνιο Κ1 ΕΠ1</title>
     <desc lang="el">Στο πρώτο κομμάτι της διαδρομής των 500 χιλιομέτρων μέσα στον Αμαζόνιο, ο Hazen πρέπει να αποφύγει τις πλημμύρες της περιόδου των βροχών πριν χρησιμοποιήσει τις παραδοσιακές μεθόδους των Wai Wai για να επιβιώσει από τους κινδύνους της ζούγκλας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726082000 GMT+3" stop="20260726090500 GMT+3" channel="216459">
+  <programme start="20260726082000 GMT+3" stop="20260726091000 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση: Απόδραση από τον Αμαζόνιο Κ1 ΕΠ2</title>
     <desc lang="el">Στο δεύτερο κομμάτι της πρόκλησης στον Αμαζόνιο, ο Hazen ακολουθεί τους καουμπόι Wapishana και τα κοπάδια τους πριν αντιμετωπίσει τεράστια ανακόντα, δηλητηριώδεις κροταλίες και ένα επικίνδυνο πέρασμα ποταμού για να αποφύγει πλημμύρες. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726090500 GMT+3" stop="20260726095500 GMT+3" channel="216459">
+  <programme start="20260726091000 GMT+3" stop="20260726095500 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση: Απόδραση από τον Αμαζόνιο Κ1 ΕΠ3</title>
     <desc lang="el">Στο τρίτο κομμάτι της πρόκλησης, ο Hazen αντιμετωπίζει το δάσος του όρους Kanuku, χρησιμοποιώντας δεξιότητες επιβίωσης των ντόπιων, πριν παγιδέψει ηλεκτροφόρα χέλια και διασχίσει ένα αδιαπέραστο δάσος από μπαμπού. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726095500 GMT+3" stop="20260726104000 GMT+3" channel="216459">
+  <programme start="20260726095500 GMT+3" stop="20260726104500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ7</title>
     <desc lang="el">Σε μια αφιλόξενη γη όπου το καλύτερο σενάριο είναι ο γρήγορος θάνατος και το χειρότερο ο θάνατος από ασιτία, οι κάτοικοι της Αλάσκα δίνουν μάχη με τις πιθανότητες απλώς για να επιβιώσουν. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726104000 GMT+3" stop="20260726112500 GMT+3" channel="216459">
+  <programme start="20260726104500 GMT+3" stop="20260726113000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ8</title>
     <desc lang="el">Οι σκληρές αρκτικές συνθήκες έχουν στοιχίσει αμέτρητες ζωές στην Αλάσκα και για την επόμενη γενιά είναι μια καθημερινή μάχη επιβίωσης. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726112500 GMT+3" stop="20260726121000 GMT+3" channel="216459">
+  <programme start="20260726113000 GMT+3" stop="20260726121500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ9</title>
     <desc lang="el">Καθώς ο χειμώνας συνεχίζει ανελέητος, είναι ζωτικής σημασίας οι κάτοικοι της απόμερης Αλάσκα να είναι αυτάρκεις αν θέλουν να επιβιώσουν. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726121000 GMT+3" stop="20260726125500 GMT+3" channel="216459">
+  <programme start="20260726121500 GMT+3" stop="20260726130000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ10</title>
     <desc lang="el">Ο αφιλόξενος χειμώνας της Αλάσκα δεν λέει να φύγει καθώς κάτοικοι όλων των ηλικιών καλούνται να επιβιώσουν στις δύσκολες συνθήκες του. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726125500 GMT+3" stop="20260726134000 GMT+3" channel="216459">
+  <programme start="20260726130000 GMT+3" stop="20260726134500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ11</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να συνεργαστούν με τη Μητέρα Φύση αν θέλουν να αντέξουν τις σκληρές αρκτικές συνθήκες. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726134000 GMT+3" stop="20260726143000 GMT+3" channel="216459">
+  <programme start="20260726134500 GMT+3" stop="20260726143500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ2</title>
     <desc lang="el">Η προσπάθεια κατάκτησης της Αγγλίας από τους Ισπανούς αποτυγχάνει όταν η Αρμάδα γνωρίζει την ήττα. Εισχωρώντας στη θάλασσα, αποκαλύπτουμε πώς μετά οι Άγγλοι έκλεψαν την τεχνολογία των πλοίων τους για να χτίσουν τη δική τους αυτοκρατορία. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726143000 GMT+3" stop="20260726152000 GMT+3" channel="216459">
+  <programme start="20260726143500 GMT+3" stop="20260726152500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ1</title>
     <desc lang="el">Χρησιμοποιώντας την πιο εξελιγμένη τεχνολογία, επιχειρούμε να χαρτογραφήσουμε βυθισμένα πλοία των Συμμαχικών Δυνάμεων στην ακτή της Νορμανδίας και αποκαλύπτουμε εκπληκτικές εικόνες από τα βάθη των ωκεανών. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726152000 GMT+3" stop="20260726161000 GMT+3" channel="216459">
+  <programme start="20260726152500 GMT+3" stop="20260726161500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ9</title>
     <desc lang="el">Μια αποστολή αναζητά τα διάσημα ναυάγια του Πολέμου του Ειρηνικού, συμπεριλαμβανομένου του πλοίου που μετέφερε τη βόμβα της Χιροσίμα, USS Indianapolis. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726161000 GMT+3" stop="20260726170000 GMT+3" channel="216459">
+  <programme start="20260726161500 GMT+3" stop="20260726170500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ8</title>
     <desc lang="el">Η σειρά διεξάγει την πρώτη ακριβή τρισδιάστατη έρευνα της διάσημης σπηλιάς στις Φιλιππίνες και αποκαλύπτει τις λεπτομέρειες πίσω από την επικίνδυνη αποστολή διάσωσης 12 αγοριών από το πλημμυρισμένο εσωτερικό της. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726170000 GMT+3" stop="20260726175000 GMT+3" channel="216459">
+  <programme start="20260726170500 GMT+3" stop="20260726175500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ10</title>
     <desc lang="el">Η ιστορία του οράματος του Χίτλερ να κατακτήσει τον κόσμο χρησιμοποιώντας υπερσύγχρονα πολεμικά πλοία. Η σειρά αποκαλύπτει την άνοδο και την πτώση του φονικού στόλου του Γ&apos; Ράιχ. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726175000 GMT+3" stop="20260726183500 GMT+3" channel="216459">
+  <programme start="20260726175500 GMT+3" stop="20260726184000 GMT+3" channel="216459">
     <title lang="el">Ταξιδιώτες: Εξερευνώντας τα Νερά του Ειρηνικού Κ1 ΕΠ1</title>
     <desc lang="el">Πριν από 4000 χρόνια, ατρόμητοι ταξιδιώτες πλέουν στον ανεξερεύνητο Ειρηνικό Ωκεανό αναζητώντας νησιά για να ξεκινήσουν μια νέα ζωή. Ξεπερνούν ανελέητες θάλασσες και εγκαθίστανται σε νησιά από το Γκουάμ μέχρι το Βανουάτου. Καθοδηγούμενοι από τις ιστορίες των προγόνων τους, γίνονται δεξιοτέχνες θαλασσοπόροι. Αλλά, μετά την άφιξή τους στα νησιά Φίτζι, Σαμόα και Τόνγκα, δυσκολεύονται να βρουν νέα νησιά. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726183500 GMT+3" stop="20260726192500 GMT+3" channel="216459">
+  <programme start="20260726184000 GMT+3" stop="20260726193000 GMT+3" channel="216459">
     <title lang="el">Χαμένοι Τάφοι στις Πυραμίδες ΕΠ1</title>
     <desc lang="el">Μια εκλεκτή ομάδα αρχαιολόγων κάνει ανασκαφές σε μια νέα τοποθεσία στη σκιά των Πυραμίδων. Μπορούν επιτέλους να λύσουν το αρχαίο μυστήριο των χαμένων Φαραώ; (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726192500 GMT+3" stop="20260726201000 GMT+3" channel="216459">
+  <programme start="20260726193000 GMT+3" stop="20260726201500 GMT+3" channel="216459">
     <title lang="el">Μυστικά Αρχαίων Κατασκευών Κ1 ΕΠ5</title>
     <desc lang="el">Πίσω από το μεγαλείο του φρουρίου Σακσαϊουαμάν στο Περού, του πηγαδιού Τσαντ Μπαόρι στην Ινδία και του Καθεδρικού Ναού της Παναγίας των Παρισίων, κρύβεται μια απίστευτη αρχιτεκτονική που αγγίζει τα όρια του ακατόρθωτου. Ανά τους αιώνες, αυτά τα αξιοθαύμαστα κτίρια ενέπνευσαν θρύλους για υπερφυσικές παρεμβάσεις και διαβολικές συμφωνίες. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726201000 GMT+3" stop="20260726210000 GMT+3" channel="216459">
+  <programme start="20260726201500 GMT+3" stop="20260726210000 GMT+3" channel="216459">
     <title lang="el">Πομπηία: Εκτός Χρόνου με τον Τομ Χίντλστον Κ1 ΕΠ1</title>
     <desc lang="el">Καθώς αρχίζουν οι δονήσεις, ο Τομ αναρωτιέται: Θα αντιληφθεί κανείς τον κίνδυνο; Παρακολουθεί δύο Ρωμαίους που αγνοούν τα προειδοποιητικά σημάδια της καταστροφής. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -79707,7 +80235,7 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260726232500 GMT+3" stop="20260727001000 GMT+3" channel="216459">
+  <programme start="20260726232500 GMT+3" stop="20260727001500 GMT+3" channel="216459">
     <title lang="el">Ακτοφυλακή στην Καραϊβική Ολλανδία Κ2 ΕΠ6</title>
     <desc lang="el">Η αναχαίτιση ενός σκάφους με ναρκωτικά από ελικόπτερο του Πολεμικού Ναυτικού οδηγεί σε μια επικίνδυνη κατάσταση. Εν τω μεταξύ, το DASH-8 προσπαθεί να διασώσει δύο ψαράδες. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -89535,6 +90063,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260726022000 GMT+3" stop="20260726032500 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726032500 GMT+3" stop="20260726034000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726034000 GMT+3" stop="20260726054500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 17/18: Juventus vs Real Madrid</title>
+    <desc lang="el">A must-watch game for Madridistas as Zidane&apos;s side conquer Turin with a sensational performance.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726054500 GMT+3" stop="20260726070000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726070000 GMT+3" stop="20260726071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726071500 GMT+3" stop="20260727060000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 15/16</title>
+    <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260726000000 GMT+3" stop="20260726003000 GMT+3" channel="12254006">
     <title lang="el">Pre-Season 2026</title>
     <desc lang="el">Highlights of United&apos;s pre-season match against Wrexham in Helsinki.</desc>
@@ -91128,6 +91692,150 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726000000 GMT+3" stop="20260726060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726060000 GMT+3" stop="20260726120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726120000 GMT+3" stop="20260726180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260726180000 GMT+3" stop="20260727000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260727002000 GMT+3" stop="20260727012000 GMT+3" channel="561066">
     <title lang="el">Ειδήσεις(E)</title>
     <desc lang="el">10/13/24</desc>
@@ -92579,6 +93287,138 @@
     <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727010000 GMT+3" channel="574264">
+    <title lang="el">Βίλατζ Γιουνάιτεντ (E) ΕΠ3</title>
+    <desc lang="el">Στο Κοντοπούλι Λήμνου είναι η έδρα του Αθλητικού Ομίλου Ηφαιστίας, της ομάδας που είναι μακράν της δεύτερης, η πρώτη σε... αποβολές.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727010000 GMT+3" stop="20260727030000 GMT+3" channel="574264">
+    <title lang="el">Cosmos Cinema - Ποιον από τους Δύο;</title>
+    <desc lang="el">Ρομαντική κομεντί παραγωγής ΗΠΑ. Όλη η ζωή της Λίζας έχει καθοριστεί από το σόφτμπολ, αλλά στα 31 της χρόνια θεωρείται πολύ μεγάλη για να παίξει και αποκόπτεται από την ομάδα. Αφού τη ρίχνουν στα αζήτητα, αρχίζει μια περιπέτεια με τον Μάτι, έναν γοητευτικό γυναικά που παίζει επαγγελματικά μπέιζμπολ. Περίπου την ίδια περίοδο, βγαίνει ραντεβού στα τυφλά με τον Τζορτζ, έναν επιχειρηματία που βρίσκεται στο στόχαστρο για απάτη με μετοχές.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727030000 GMT+3" stop="20260727033000 GMT+3" channel="574264">
+    <title lang="el">VAN LIFE - Η ΖΩΗ ΕΞΩ (E)</title>
+    <desc lang="el">Το VAN LIFE είναι μια πρωτότυπη σειρά 8 επεισοδίων που καταγράφει τις περιπέτειες μιας ομάδας νέων ανθρώπων, οι οποίοι αποφασίζουν να γυρίσουν την Ελλάδα με ένα βαν και να κάνουν τα αγαπημένα τους αθλήματα στη φύση.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727033000 GMT+3" stop="20260727040000 GMT+3" channel="574264">
+    <title lang="el">Βότανα Καρποί της Γης (E) Κ2 ΕΠ2</title>
+    <desc lang="el">Η Βάλια ανακαλύπτει τα πρώτα ανοιξιάτικα βότανα στο Πήλιο και επισκέπτεται μια από τις 3 σπηλιές που διεκδικούν τον τίτλο της κατοικίας του Χείρωνα, δάσκαλου του Ασκληπιού. Μαζί με την Μαρία περιδιαβαίνουν τα όμορφα καλντερίμια του Λαύκου και μαζεύουν μάραθο, άγρια λεβάντα και νεαρά βλαστάρια φτέρης. Στην πλατεία του χωριού, δίπλα στο παλαιότερο εν ενεργεία καφενείο της Ελλάδας, ο Γιώργος φτιάχνει φτεροκεφτέδες για το πλούσιο σε τσιπουρομεζέδες τραπέζι τους.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727040000 GMT+3" stop="20260727050000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727050000 GMT+3" stop="20260727090000 GMT+3" channel="574264">
+    <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
+    <desc lang="el">Ο Κώστας Παπαχλιμίντζος και η Χριστίνα Βίδου ανανεώνουν το ραντεβού τους με τους τηλεθεατές, σε νέα ώρα, 6 με 10 το πρωί, με το τετράωρο ενημερωτικό μαγκαζίνο «Συνδέσεις» που κάνει πρεμιέρα τη Δευτέρα 5 Σεπτεμβρίου 2022 στην ΕΡΤ1 και σε ταυτόχρονη μετάδοση στο ERTNEWS.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727090000 GMT+3" stop="20260727100000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727100000 GMT+3" stop="20260727110000 GMT+3" channel="574264">
+    <title lang="el">Επικίνδυνες (E) Κ1 ΕΠ1</title>
+    <desc lang="el">Το επεισόδιο θίγει ζητήματα αφύπνισης και συνεχίζει τη δημόσια συζήτηση γύρω από το ελληνικό #Metoo, συνδέοντας την ελληνική εμπειρία με την εξέλιξη του κινήματος σε άλλες χώρες: Τι συνέβη στην Αμερική το 2017;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727110000 GMT+3" stop="20260727120000 GMT+3" channel="574264">
+    <title lang="el">Ραντεβού... στην Ευρώπη, με την Επιστήμη Μπινάζη (E)</title>
+    <desc lang="el">Πρώτη στάση: Μασσαλία. Καλωσήρθατε σε ένα από τα σημαντικότερα λιμάνια της Μεσογείου, την πόλη των νουάρ και του Σεζάν, της μπουγιαμπέσας, της πολυπολιτισμικότητας και... του ρεμπέτικου. Kι όμως, ακολουθώντας τη μουσική στα πολυεθνικά σοκάκια της Cours Julien, η Επιστήμη, θα βρεθεί στις πρόβες της τραγουδίστριας Καλλιρόης Ραουζαίου, δημιουργού του Fado-Rebetiko Project, μιας «συνάντησης» των πιο πονεμένων ήχων της Μεσογείου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727130000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727130000 GMT+3" stop="20260727140000 GMT+3" channel="574264">
+    <title lang="el">Άγρια Ελλάδα (E) Κ1 ΕΠ2</title>
+    <desc lang="el">Σε αυτή την αποστολή της &quot;Άγριας Ελλάδας&quot;, ο Ηλίας κι ο Γρηγόρης συναντιούνται σε ένα ραντεβού δεκαετίας με σκοπό να ξαναπροσπαθήσουν να κατακτήσουν την κορυφή ενός από τα ψηλότερα βουνά της Βόρειας Ελλάδας, τον επιβλητικό Όρβηλο!</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727140000 GMT+3" stop="20260727150000 GMT+3" channel="574264">
+    <title lang="el">Τα Μυστικά της Μουσικής (E) ΕΠ1</title>
+    <desc lang="el">Τι είναι μουσική; Πώς απαντάει κανείς σε αυτό το ερώτημα χωρίς να ανατρέξει σε θεωρητικούς ορισμούς αλλά στην καθημερινή ζωή;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727150000 GMT+3" stop="20260727160000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727160000 GMT+3" stop="20260727170000 GMT+3" channel="574264">
+    <title lang="el">ΚΙ ΌΜΩΣ ΕΙΜΑΙ ΑΚΟΜΑ ΕΔΏ</title>
+    <desc lang="el">Ένα μεγάλο μαγειρικό πάρτι, το νέο συναρπαστικό παιχνίδι «Η μαμά μου μαγειρεύει καλύτερα από τη δική σου», έρχεται στην οθόνη του ΣΙΓΜΑ για καθημερινές, μαγειρικές αναμετρήσεις, γεμάτες νοστιμιά και γέλιο. Οικοδεσπότης ο Μάρκος Σεφερλής, με εργαλεία το χι</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727170000 GMT+3" stop="20260727180000 GMT+3" channel="574264">
+    <title lang="el">Τοπικές Κουζίνες (E) ΕΠ1</title>
+    <desc lang="el">Για πολλά χρόνια είχαμε ταυτίσει το βουβάλι με τους καουμπόιδες και την Άγρια Δύση. Μέχρι που στα ντελικατέσεν της πρωτεύουσας άρχισαν δειλά - δειλά να εμφανίζονται ο βουβαλίσιος καβουρμάς, το λουκάνικο, το βούτυρο, το γιαούρτι και το μαγικό παγωτό... μέχρι που τα ψαγμένα μπεργκεράδικα έκλεισαν το βουβαλίσιο μπιφτέκι σε δύο ψωμάκια.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260727190000 GMT+3" channel="574264">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727190000 GMT+3" stop="20260727200000 GMT+3" channel="574264">
+    <title lang="el">Μαμά και Γιος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Ο Περικλής Χανιώτης (Αλέξανδρος Αντωνόπουλος), ένας σαραντάρης διαζευγμένος δημοσιογράφος, μένει σε μια μονοκατοικία κάπου στου Παπάγου με την καλή μεν, πολύ κτητική δε, μητέρα του Ιουλία (Ντίνα Κώνστα), που του κάνει τη ζωή δύσκολη, χάνοντας τη μνήμη της ή υποκρινόμενη ότι τη χάνει, κανείς δεν ξέρει...</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727200000 GMT+3" stop="20260727203000 GMT+3" channel="574264">
+    <title lang="el">3ος Όροφος (E) ΕΠ1</title>
+    <desc lang="el">Ο Γιάννης έχει γενέθλια και κλείνει τα 70. Η Υβόννη προσπαθεί να του κάνει όσο πιο ευχάριστα γίνεται αυτά τα γενέθλια, όμως τα παιδιά τους δεν βοηθάνε σε αυτό. Τόσο ο Αντρέας με την οικογένειά του όσο και η Μαρία δεν έρχονται να τα γιορτάσουν μαζί τους, όπως κάνουν κάθε χρόνο. Πώς θα αισθανθεί ο Γιάννης, όταν δει ότι κανένα από τα παιδιά του δεν έρχεται στα γενέθλιά του;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727203000 GMT+3" stop="20260727210000 GMT+3" channel="574264">
+    <title lang="el">Διασπορά ΕΠ1</title>
+    <desc lang="el">Μ&apos; ένα οδοιπορικό αφιέρωμα στη Μεσήμβρια της Μαύρης Θάλασσας και μαρτυρίες των ελάχιστων κατοίκων ελληνικής καταγωγής που παρέμειναν να φυλάττουν Θερμοπύλες, όσο και εκείνων που παντί τρόπω, ταξίδεψαν απ΄ την Ελλάδα στο σημερινό Nessebar της Βουλγαρίας, εκκινεί για τη νέα σεζόν, η εκπομπή &quot;Διασπορά&quot;.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727210000 GMT+3" stop="20260727220000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727220000 GMT+3" stop="20260727230000 GMT+3" channel="574264">
+    <title lang="el">100 Χρόνια Ελληνική Δισκογραφία (E) ΕΠ1</title>
+    <desc lang="el">Η αγαπημένη Χάρις Αλεξίου, με σύμμαχο το πολύτιμο αρχείο της ΕΡΤ, μας ταξιδεύει στα πρώτα 40 χρόνια της ελληνικής δισκογραφίας. Από τις αρχές του 20ου αιώνα μέχρι την Κατοχή.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260727230000 GMT+3" stop="20260728000000 GMT+3" channel="574264">
+    <title lang="el">Έρωτας Όπως Έρημος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Κάπου στην Κηφισιά, τα τηλεοπτικά συνεργεία συνωστίζονται για να καλύψουν ένα κοσμικό γεγονός: τον γάμο του γνωστού δικηγόρου Αλέκου Καίσαρη με την, κατά πολύ νεότερή του, Λήδα Εσπιέρογλου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260727000000 GMT+3" stop="20260727020000 GMT+3" channel="216630">
     <title lang="el">ΑΠΟ ΤΟΠΟ ΣΕ ΤΟΠO</title>
@@ -96914,7 +97754,7 @@
   </programme>
   <programme start="20260727090000 GMT+3" stop="20260727105000 GMT+3" channel="607141">
     <title lang="el">No Ordinary Heist</title>
-    <desc lang="el">Δύο τραπεζικοί υπάλληλοι αναγκάζονται να εκτελέσουν τη μεγαλύτερη ληστεία στην ιστορία της Ιρλανδίας, αφού εγκληματίες απαγάγουν τις οικογένειές τους απειλώντας να τους σκοτώσουν. Αστυνομική ταινία παραγωγής 2026 σε σκηνοθεσία Κόλιν ΜακΆιβορ με τους: Έντι Μάρσαν, Ένα Χάρντγουικ, Ίβα Μπέρθισλ, Μισέλ Φέαρλι Σκηνοθεσία: Colin McIvor. Πρωταγωνιστούν: Eddie Marsan, Éanna Hardwicke, Eva Birthistle, Michelle Fairley. (2026)</desc>
+    <desc lang="el">Δύο τραπεζικοί υπάλληλοι αναγκάζονται να εκτελέσουν τη μεγαλύτερη ληστεία στην ιστορία της Ιρλανδίας, αφού εγκληματίες απαγάγουν τις οικογένειές τους απειλώντας να τις σκοτώσουν. Αστυνομική ταινία παραγωγής 2026 σε σκηνοθεσία Κόλιν ΜακΆιβορ με τους: Έντι Μάρσαν, Ένα Χάρντγουικ, Ίβα Μπέρθισλ, Μισέλ Φέαρλι Σκηνοθεσία: Colin McIvor. Πρωταγωνιστούν: Eddie Marsan, Éanna Hardwicke, Eva Birthistle, Michelle Fairley. (2026)</desc>
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
@@ -96972,19 +97812,19 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727045000 GMT+3" stop="20260727070000 GMT+3" channel="9821930">
+  <programme start="20260727045000 GMT+3" stop="20260727065000 GMT+3" channel="9821930">
     <title lang="el">Mars Attacks!</title>
     <desc lang="el">Mars Attacks! Σκηνοθεσία: Tim Burton,. Πρωταγωνιστούν: Jack Nicholson, Glenn Close, Pierce Brosnan, Sarah Jessica Parker, Annette Bening, Danny DeVito. (1996)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727070000 GMT+3" stop="20260727084000 GMT+3" channel="9821930">
+  <programme start="20260727065000 GMT+3" stop="20260727083500 GMT+3" channel="9821930">
     <title lang="el">Evolution</title>
     <desc lang="el">Evolution Σκηνοθεσία: Ivan Reitman,. Πρωταγωνιστούν: Joshua Ackerman, David Duchovny, Orlando Jones, Dan Aykroyd, Kristen Meadows, Julianne Moore. (2001)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727084000 GMT+3" stop="20260727101000 GMT+3" channel="9821930">
+  <programme start="20260727083500 GMT+3" stop="20260727101000 GMT+3" channel="9821930">
     <title lang="el">Blue Streak</title>
     <desc lang="el">Blue Streak Σκηνοθεσία: Les Mayfield. Πρωταγωνιστούν: Martin Lawrence, Luke Wilson, Dave Chappelle, William Forsythe, Peter Greene, Nicole Parker. (1999)</desc>
     <category lang="el">Ταινίες</category>
@@ -96996,19 +97836,19 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727114000 GMT+3" stop="20260727133000 GMT+3" channel="9821930">
+  <programme start="20260727114000 GMT+3" stop="20260727132500 GMT+3" channel="9821930">
     <title lang="el">Blast from the Past</title>
     <desc lang="el">Blast from the Past Σκηνοθεσία: Hugh Wilson,. Πρωταγωνιστούν: Todd Susman, Brendan Fraser, Alicia Silverstone, Christopher Walken, Sissy Spacek, Hayden Tank. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727133000 GMT+3" stop="20260727151500 GMT+3" channel="9821930">
+  <programme start="20260727132500 GMT+3" stop="20260727151000 GMT+3" channel="9821930">
     <title lang="el">Dear John</title>
     <desc lang="el">Dear John Σκηνοθεσία: Lasse Hallström. Πρωταγωνιστούν: Amanda Seyfried, Channing Tatum,. (2010)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727151500 GMT+3" stop="20260727170500 GMT+3" channel="9821930">
+  <programme start="20260727151000 GMT+3" stop="20260727170500 GMT+3" channel="9821930">
     <title lang="el">Entrapment</title>
     <desc lang="el">Entrapment Σκηνοθεσία: Jon Amiel,. Πρωταγωνιστούν: Sean Connery, Catherine Zeta-Jones, Ving Rhames, Will Patton, Maury Chaykin, Kevin McNally. (1999)</desc>
     <category lang="el">Ταινίες</category>
@@ -97020,19 +97860,19 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727191000 GMT+3" stop="20260727210000 GMT+3" channel="9821930">
+  <programme start="20260727191000 GMT+3" stop="20260727205500 GMT+3" channel="9821930">
     <title lang="el">The Devil&apos;s Own</title>
     <desc lang="el">Αφού ο ιρλανδικός Δημοκρατικός Στρατός έχει εξαγγείλει ειρηνευτικές συνομιλίες με τους Βρετανούς, ο αστυνομικός της Νέας Υόρκης Τομ Ο&apos;Μίρα παίρνει έναν φιλικό νεαρό ιρλανδό μετανάστη στο σπίτι του και του φέρεται ως μέλος της οικογένειας. (1997) Σκηνοθεσία: Alan J. Pakula,. Πρωταγωνιστούν: Harrison Ford, Brad Pitt, Margaret Colin, Ruben Blades, Treat Williams,. (1997)</desc>
     <category lang="el">Ταινίες</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260727210000 GMT+3" stop="20260727230500 GMT+3" channel="9821930">
+  <programme start="20260727205500 GMT+3" stop="20260727230500 GMT+3" channel="9821930">
     <title lang="el">The Fugitive</title>
     <desc lang="el">The Fugitive Σκηνοθεσία: Andrew Davis,. Πρωταγωνιστούν: Harrison Ford, Tommy Lee Jones, Julianne Moore, Jeroen Krabbe, Joe Pantoliano, Sela Ward. (1993)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727230500 GMT+3" stop="20260728010000 GMT+3" channel="9821930">
+  <programme start="20260727230500 GMT+3" stop="20260728005500 GMT+3" channel="9821930">
     <title lang="el">Blade Runner</title>
     <desc lang="el">Blade Runner Σκηνοθεσία: Ridley Scott,. Πρωταγωνιστούν: Harrison Ford, Rutger Hauer, Daryl Hannah, Sean Young, Edward James Olmos, M. Emmet Walsh. (1982)</desc>
     <category lang="el">Ταινίες</category>
@@ -97626,13 +98466,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727001000 GMT+3" stop="20260727005500 GMT+3" channel="216459">
+  <programme start="20260727001500 GMT+3" stop="20260727010000 GMT+3" channel="216459">
     <title lang="el">Χαμένοι Θησαυροί της Αρχαίας Ελλάδας Κ1 ΕΠ4</title>
     <desc lang="el">Χαμένοι Θησαυροί της Αρχαίας Ελλάδας (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727005500 GMT+3" stop="20260727014500 GMT+3" channel="216459">
+  <programme start="20260727010000 GMT+3" stop="20260727014500 GMT+3" channel="216459">
     <title lang="el">Κρυμμένα Κάτω από τις Πόλεις Κ1 ΕΠ6</title>
     <desc lang="el">Στην Ιταλία, οι εξερευνητές ανακαλύπτουν ένα τεράστιο σύστημα σηράγγων, αποκαλύπτοντας έναν τεράστιο υπόγειο κόσμο. Στη Γερμανία, εργάτες οικοδομών ανακαλύπτουν οκτώ ομαδικούς τάφους που περιέχουν σκελετούς. Στο Λονδίνο, αρχαιολόγοι ανακαλύπτουν τα θεμέλια της παλαιότερης ρωμαϊκής βασιλικής της πόλης. Στη Δανία, νεολιθικά σπίτια και ένας μυστηριώδης θάλαμος αποκαλύπτουν ίχνη πρώιμης γεωργικής ζωής. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -97644,13 +98484,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727023000 GMT+3" stop="20260727031500 GMT+3" channel="216459">
+  <programme start="20260727023000 GMT+3" stop="20260727032000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ3 ΕΠ1</title>
     <desc lang="el">Ο χειμώνας πέφτει βαρύς στην παγωμένη Νορβηγία. Ο Thord βάζει σε κίνδυνο τη ζωή του για να διατηρήσει τους δρόμους ανοιχτούς ενώ έρχεται μια χειμωνιάτικη θύελλα. Στον βορρά, ο Jo Roger και ο γιος του Ole Henrik αντιμετωπίζουν τεράστιες ποσότητες χιονιού. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727031500 GMT+3" stop="20260727040500 GMT+3" channel="216459">
+  <programme start="20260727032000 GMT+3" stop="20260727040500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ3 ΕΠ2</title>
     <desc lang="el">Ο Thord έχει επεκτείνει την περιοχή του και, με τα νέα εδάφη, έχει να αντιμετωπίσει και νέα εμπόδια. Στον βορρά, ο Ho Roger έχει αφήσει την ευθύνη της εταιρίας στον γιο του, τον Ole Henrik. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -103068,7 +103908,7 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727063000 GMT+3" stop="20260728060000 GMT+3" channel="71037999">
+  <programme start="20260727063000 GMT+3" stop="20260727070000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg Primer Κ1</title>
     <desc lang="el">Governments and entrepreneurs are racing to commercialize the moon. These efforts could unlock a new, deep-space economy. But to return and stay will require the highest levels of innovation.</desc>
     <category lang="el">Ειδήσεις</category>
@@ -108369,6 +109209,150 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727120000 GMT+3" stop="20260727180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260728003500 GMT+3" stop="20260728010000 GMT+3" channel="561066">
     <title lang="el">Spaghetti Conquest(επανάληψη)</title>
     <desc lang="el">Spaghetti Conquest(επανάληψη)</desc>
@@ -109634,6 +110618,138 @@
     <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728010000 GMT+3" channel="574264">
+    <title lang="el">Φάσμα Κ4 ΕΠ1</title>
+    <desc lang="el">«Το κρυμμένο ποτάμι»</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728010000 GMT+3" stop="20260728020000 GMT+3" channel="574264">
+    <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ (E)</title>
+    <desc lang="el">είναι μια εκπομπή που δημιουργεί ντοκιμαντέρ για ιστορικά γεγονότα και πρόσωπα. Επίσης παρουσιάζει αφιερώματα σε καλλιτέχνες και δημοσιογραφικές έρευνες για κοινωνικά ζητήματα που στο παρελθόν απασχόλησαν έντονα την ελληνική κοινωνία.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728020000 GMT+3" stop="20260728030000 GMT+3" channel="574264">
+    <title lang="el">Επικίνδυνες (E) Κ1 ΕΠ1</title>
+    <desc lang="el">Το επεισόδιο θίγει ζητήματα αφύπνισης και συνεχίζει τη δημόσια συζήτηση γύρω από το ελληνικό #Metoo, συνδέοντας την ελληνική εμπειρία με την εξέλιξη του κινήματος σε άλλες χώρες: Τι συνέβη στην Αμερική το 2017;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728030000 GMT+3" stop="20260728040000 GMT+3" channel="574264">
+    <title lang="el">Άγρια Ελλάδα (E) Κ1 ΕΠ2</title>
+    <desc lang="el">Σε αυτή την αποστολή της &quot;Άγριας Ελλάδας&quot;, ο Ηλίας κι ο Γρηγόρης συναντιούνται σε ένα ραντεβού δεκαετίας με σκοπό να ξαναπροσπαθήσουν να κατακτήσουν την κορυφή ενός από τα ψηλότερα βουνά της Βόρειας Ελλάδας, τον επιβλητικό Όρβηλο!</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728040000 GMT+3" stop="20260728050000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728050000 GMT+3" stop="20260728090000 GMT+3" channel="574264">
+    <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
+    <desc lang="el">Ο Κώστας Παπαχλιμίντζος και η Χριστίνα Βίδου ανανεώνουν το ραντεβού τους με τους τηλεθεατές, σε νέα ώρα, 6 με 10 το πρωί, με το τετράωρο ενημερωτικό μαγκαζίνο «Συνδέσεις» που κάνει πρεμιέρα τη Δευτέρα 5 Σεπτεμβρίου 2022 στην ΕΡΤ1 και σε ταυτόχρονη μετάδοση στο ERTNEWS.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728090000 GMT+3" stop="20260728100000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728100000 GMT+3" stop="20260728110000 GMT+3" channel="574264">
+    <title lang="el">Μα πώς φτιάχνεται; (E) ΕΠ1</title>
+    <desc lang="el">Στο επεισόδιο ο Γιώργος εξηγεί πώς είναι να κοιμάσαι σε τροχόσπιτο και τη σημασία που έχει το στρώμα για τον καλό ύπνο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728110000 GMT+3" stop="20260728120000 GMT+3" channel="574264">
+    <title lang="el">Οίνος ο Αγαπητός (E) Κ1 ΕΠ1</title>
+    <desc lang="el">Το ταξίδι αρχίζει από τη Νεμέα. Γνωρίζουμε το Αγιωργίτικο. Επισκεπτόμαστε την οινοποιία Σκούρα, τον αμπελοοινικό φιλόσοφο Θανάση Παπαϊωάννου και το κτήμα Παλυβού. Καταρρίπτουμε τον μύθο «χύμα ή εμφιαλωμένο». Μαθαίνουμε πώς να διαβάζουμε την ετικέτα ενός κρασιού. Ο αείμνηστος Ευγένιος Σπαθάρης παρουσιάζει τον «Καραγκιόζη Οινοποιό», σ’ ένα σπάνιο ντοκουμέντο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728130000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728130000 GMT+3" stop="20260728140000 GMT+3" channel="574264">
+    <title lang="el">Πράσινες Ιστορίες (E) Κ2</title>
+    <desc lang="el">Αγριόγιδο: Ποια η κατάσταση του πληθυσμού του σήμερα?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728140000 GMT+3" stop="20260728150000 GMT+3" channel="574264">
+    <title lang="el">100 Χρόνια Ελληνική Δισκογραφία (E) ΕΠ1</title>
+    <desc lang="el">Η αγαπημένη Χάρις Αλεξίου, με σύμμαχο το πολύτιμο αρχείο της ΕΡΤ, μας ταξιδεύει στα πρώτα 40 χρόνια της ελληνικής δισκογραφίας. Από τις αρχές του 20ου αιώνα μέχρι την Κατοχή.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728150000 GMT+3" stop="20260728160000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728160000 GMT+3" stop="20260728170000 GMT+3" channel="574264">
+    <title lang="el">ΚΙ ΌΜΩΣ ΕΙΜΑΙ ΑΚΟΜΑ ΕΔΏ</title>
+    <desc lang="el">Ένα μεγάλο μαγειρικό πάρτι, το νέο συναρπαστικό παιχνίδι «Η μαμά μου μαγειρεύει καλύτερα από τη δική σου», έρχεται στην οθόνη του ΣΙΓΜΑ για καθημερινές, μαγειρικές αναμετρήσεις, γεμάτες νοστιμιά και γέλιο. Οικοδεσπότης ο Μάρκος Σεφερλής, με εργαλεία το χι</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728170000 GMT+3" stop="20260728180000 GMT+3" channel="574264">
+    <title lang="el">Τοπικές Κουζίνες (E) ΕΠ1</title>
+    <desc lang="el">Για πολλά χρόνια είχαμε ταυτίσει το βουβάλι με τους καουμπόιδες και την Άγρια Δύση. Μέχρι που στα ντελικατέσεν της πρωτεύουσας άρχισαν δειλά - δειλά να εμφανίζονται ο βουβαλίσιος καβουρμάς, το λουκάνικο, το βούτυρο, το γιαούρτι και το μαγικό παγωτό... μέχρι που τα ψαγμένα μπεργκεράδικα έκλεισαν το βουβαλίσιο μπιφτέκι σε δύο ψωμάκια.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260728190000 GMT+3" channel="574264">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728190000 GMT+3" stop="20260728200000 GMT+3" channel="574264">
+    <title lang="el">Μαμά και Γιος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Ο Περικλής Χανιώτης (Αλέξανδρος Αντωνόπουλος), ένας σαραντάρης διαζευγμένος δημοσιογράφος, μένει σε μια μονοκατοικία κάπου στου Παπάγου με την καλή μεν, πολύ κτητική δε, μητέρα του Ιουλία (Ντίνα Κώνστα), που του κάνει τη ζωή δύσκολη, χάνοντας τη μνήμη της ή υποκρινόμενη ότι τη χάνει, κανείς δεν ξέρει...</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728200000 GMT+3" stop="20260728203000 GMT+3" channel="574264">
+    <title lang="el">3ος Όροφος (E) ΕΠ1</title>
+    <desc lang="el">Ο Γιάννης έχει γενέθλια και κλείνει τα 70. Η Υβόννη προσπαθεί να του κάνει όσο πιο ευχάριστα γίνεται αυτά τα γενέθλια, όμως τα παιδιά τους δεν βοηθάνε σε αυτό. Τόσο ο Αντρέας με την οικογένειά του όσο και η Μαρία δεν έρχονται να τα γιορτάσουν μαζί τους, όπως κάνουν κάθε χρόνο. Πώς θα αισθανθεί ο Γιάννης, όταν δει ότι κανένα από τα παιδιά του δεν έρχεται στα γενέθλιά του;</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728203000 GMT+3" stop="20260728210000 GMT+3" channel="574264">
+    <title lang="el">Εντός Κάδρου Κ4 ΕΠ1</title>
+    <desc lang="el">Αναζητούν ασφάλεια και προστασία σε μια ξένη χώρα. Αγωνίζονται για την επιβίωση και την αξιοπρέπεια τους και έχουν ανάγκη μια αγκαλιά αλλά κυρίως μια ευκαιρία να ονειρευτούν. Για να τα καταφέρουν όμως χρειάζεται σχέδιο και φροντίδα από πολλούς ανθρώπους και φορείς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728210000 GMT+3" stop="20260728220000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728220000 GMT+3" stop="20260728230000 GMT+3" channel="574264">
+    <title lang="el">Πόλεις</title>
+    <desc lang="el">Η Χαλκίδα, πόλη με μακραίωνη ιστορία και σημαντικό λιμάνι, παρουσιάζεται μέσα από την εξέλιξή της από τον 19ο αιώνα έως σήμερα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260728230000 GMT+3" stop="20260729000000 GMT+3" channel="574264">
+    <title lang="el">Έρωτας Όπως Έρημος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Κάπου στην Κηφισιά, τα τηλεοπτικά συνεργεία συνωστίζονται για να καλύψουν ένα κοσμικό γεγονός: τον γάμο του γνωστού δικηγόρου Αλέκου Καίσαρη με την, κατά πολύ νεότερή του, Λήδα Εσπιέρογλου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260728003000 GMT+3" stop="20260728010000 GMT+3" channel="216630">
     <title lang="el">ΜΑΓΙΚΟΣ ΦΑΝΟΣ</title>
@@ -114014,19 +115130,19 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260728010000 GMT+3" stop="20260728024000 GMT+3" channel="9821930">
+  <programme start="20260728005500 GMT+3" stop="20260728023500 GMT+3" channel="9821930">
     <title lang="el">Last Man Standing</title>
     <desc lang="el">Last Man Standing Σκηνοθεσία: Walter Hill,. Πρωταγωνιστούν: Bruce Willis, Christopher Walken, Patrick Kilpatrick, Alexandra Powers, David Patrick Kelly, William Sanderson. (1996)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260728024000 GMT+3" stop="20260728050000 GMT+3" channel="9821930">
+  <programme start="20260728023500 GMT+3" stop="20260728044000 GMT+3" channel="9821930">
     <title lang="el">The Ninth Gate</title>
     <desc lang="el">Θρίλερ μυστηρίου του Ρομάν Πολάνσκι, με πρωταγωνιστή τον Τζόνι Ντεπ ως έμπορο παλαιών βιβλίων που αναζητά τους δύο τελευταίους τόμους σατανιστικών κειμένων του 17ου αιώνα. (1999) Σκηνοθεσία: Roman Polanski. Πρωταγωνιστούν: Johnny Depp, Lena Olin, Frank Langella, James Russo, Jack Taylor, Emmanuelle Seigner. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728050000 GMT+3" stop="20260728065000 GMT+3" channel="9821930">
+  <programme start="20260728044000 GMT+3" stop="20260728065000 GMT+3" channel="9821930">
     <title lang="el">Lethal Weapon</title>
     <desc lang="el">Lethal Weapon Σκηνοθεσία: Richard Donner,. Πρωταγωνιστούν: Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan, Tom Atkins, Darlene Love. (1987)</desc>
     <category lang="el">Ταινίες</category>
@@ -125469,6 +126585,168 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260728193000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728193000 GMT+3" stop="20260729000000 GMT+3" channel="52196563">
+    <title lang="el">APOLLON - DILA GORI (Z)</title>
+    <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260729000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260729000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260729000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260729000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728000000 GMT+3" stop="20260728060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260728210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728210000 GMT+3" stop="20260728220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (61η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728220000 GMT+3" stop="20260729000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260729000000 GMT+3" stop="20260729004500 GMT+3" channel="561066">
     <title lang="el">My Greek Odyssey(E)</title>
     <desc lang="el">My Greek Odyssey(E)</desc>
@@ -126788,6 +128066,138 @@
     <desc lang="el">Τα πάντα για ένα μωρό – thriller – 15</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729010000 GMT+3" channel="574264">
+    <title lang="el">Συνθέσεις Κ2 ΕΠ1</title>
+    <desc lang="el">Στην πρώτη εκπομπή &quot;Συνθέσεις&quot;, ο Μάκης Προβατάς υποδέχεται τη συγγραφέα και ιστορικό Σώτη Τριανταφύλλου και τον σκηνοθέτη και ηθοποιό Σταμάτη Φασουλή, οι οποίοι συζητούν για το politically correct και τη λεγόμενη woke κουλτούρα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729010000 GMT+3" stop="20260729020000 GMT+3" channel="574264">
+    <title lang="el">Η ΜΗΧΑΝΗ ΤΟΥ ΧΡΟΝΟΥ (E)</title>
+    <desc lang="el">είναι μια εκπομπή που δημιουργεί ντοκιμαντέρ για ιστορικά γεγονότα και πρόσωπα. Επίσης παρουσιάζει αφιερώματα σε καλλιτέχνες και δημοσιογραφικές έρευνες για κοινωνικά ζητήματα που στο παρελθόν απασχόλησαν έντονα την ελληνική κοινωνία.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729020000 GMT+3" stop="20260729030000 GMT+3" channel="574264">
+    <title lang="el">Μα πώς φτιάχνεται; (E) ΕΠ1</title>
+    <desc lang="el">Στο επεισόδιο ο Γιώργος εξηγεί πώς είναι να κοιμάσαι σε τροχόσπιτο και τη σημασία που έχει το στρώμα για τον καλό ύπνο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729030000 GMT+3" stop="20260729040000 GMT+3" channel="574264">
+    <title lang="el">Πράσινες Ιστορίες (E) Κ2</title>
+    <desc lang="el">Αγριόγιδο: Ποια η κατάσταση του πληθυσμού του σήμερα?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729040000 GMT+3" stop="20260729050000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729050000 GMT+3" stop="20260729090000 GMT+3" channel="574264">
+    <title lang="el">ΣΥΝΔΕΣΕΙΣ</title>
+    <desc lang="el">Ο Κώστας Παπαχλιμίντζος και η Χριστίνα Βίδου ανανεώνουν το ραντεβού τους με τους τηλεθεατές, σε νέα ώρα, 6 με 10 το πρωί, με το τετράωρο ενημερωτικό μαγκαζίνο «Συνδέσεις» που κάνει πρεμιέρα τη Δευτέρα 5 Σεπτεμβρίου 2022 στην ΕΡΤ1 και σε ταυτόχρονη μετάδοση στο ERTNEWS.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729090000 GMT+3" stop="20260729100000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729100000 GMT+3" stop="20260729110000 GMT+3" channel="574264">
+    <title lang="el">ΚΛΕΙΝΟΝ ΑΣΤΥ - Ιστορίες της πόλης (E)</title>
+    <desc lang="el">Η παραγκούπουλη στο Δουργούτι - μετέπειτα Νέος Κόσμος- και ο λεγόμενος Ασύρματος ή Ατταλιώτικα στη δυτική πλαγιά του λόφου του Φιλοπάππου, είναι δύο από τους γνωστότερους συνοικισμούς της πόλης που δεν υπάρχουν πια.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729110000 GMT+3" stop="20260729120000 GMT+3" channel="574264">
+    <title lang="el">Άιντε Βαλκάνια (E) ΕΠ1</title>
+    <desc lang="el">Ταξιδεύουμε στην Κραϊόβα, την «αρχόντισσα της Ρουμανίας», που κάθε Αύγουστο μεταμορφώνεται σε ένα υπαίθριο εργαστήριο φαντασίας και δημιουργίας. Στους δρόμους και τις πλατείες της ζωντανεύουν μαριονέτες που χορεύουν, τραγουδούν, καλώντας παιδιά, νέους και επισκέπτες να γίνουν μέρος μιας φανταστικής κοσμογονίας.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729130000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729130000 GMT+3" stop="20260729140000 GMT+3" channel="574264">
+    <title lang="el">4 Εποχές Ελλάδα</title>
+    <desc lang="el">Ο ηθοποιός Γιάννης Σαρακατσάνης μιλά για την Πάτρα των φοιτητικών του χρόνων και το Κουφονήσι της νιότης του - Συνεδριακός Τουρισμός.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729140000 GMT+3" stop="20260729150000 GMT+3" channel="574264">
+    <title lang="el">Πόλεις (E)</title>
+    <desc lang="el">Η Χαλκίδα, πόλη με μακραίωνη ιστορία και σημαντικό λιμάνι, παρουσιάζεται μέσα από την εξέλιξή της από τον 19ο αιώνα έως σήμερα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729150000 GMT+3" stop="20260729160000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729160000 GMT+3" stop="20260729170000 GMT+3" channel="574264">
+    <title lang="el">ΚΙ ΌΜΩΣ ΕΙΜΑΙ ΑΚΟΜΑ ΕΔΏ</title>
+    <desc lang="el">Ένα μεγάλο μαγειρικό πάρτι, το νέο συναρπαστικό παιχνίδι «Η μαμά μου μαγειρεύει καλύτερα από τη δική σου», έρχεται στην οθόνη του ΣΙΓΜΑ για καθημερινές, μαγειρικές αναμετρήσεις, γεμάτες νοστιμιά και γέλιο. Οικοδεσπότης ο Μάρκος Σεφερλής, με εργαλεία το χι</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729170000 GMT+3" stop="20260729180000 GMT+3" channel="574264">
+    <title lang="el">Τοπικές Κουζίνες (E) ΕΠ1</title>
+    <desc lang="el">Για πολλά χρόνια είχαμε ταυτίσει το βουβάλι με τους καουμπόιδες και την Άγρια Δύση. Μέχρι που στα ντελικατέσεν της πρωτεύουσας άρχισαν δειλά - δειλά να εμφανίζονται ο βουβαλίσιος καβουρμάς, το λουκάνικο, το βούτυρο, το γιαούρτι και το μαγικό παγωτό... μέχρι που τα ψαγμένα μπεργκεράδικα έκλεισαν το βουβαλίσιο μπιφτέκι σε δύο ψωμάκια.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260729190000 GMT+3" channel="574264">
+    <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων της ΕΡΤ με συνέπεια στη μάχη της ενημέρωσης έγκυρα, έγκαιρα, ψύχραιμα και αντικειμενικά. Σε μια περίοδο με πολλά και σημαντικά γεγονότα, το δημοσιογραφικό και τεχνικό επιτελείο της ΕΡΤ, κάθε βράδυ, στις 21:00, με αναλυτικά ρεπορτάζ, απευθείας συνδέσεις, έρευνες, συνεντεύξεις και καλεσμένους από τον χώρο της πολιτικής, της οικονομίας, του πολιτισμού, παρουσιάζει την επικαιρότητα και τις τελευταίες εξελίξεις από την Ελλάδα και όλο τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729190000 GMT+3" stop="20260729200000 GMT+3" channel="574264">
+    <title lang="el">Μαμά και Γιος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Ο Περικλής Χανιώτης (Αλέξανδρος Αντωνόπουλος), ένας σαραντάρης διαζευγμένος δημοσιογράφος, μένει σε μια μονοκατοικία κάπου στου Παπάγου με την καλή μεν, πολύ κτητική δε, μητέρα του Ιουλία (Ντίνα Κώνστα), που του κάνει τη ζωή δύσκολη, χάνοντας τη μνήμη της ή υποκρινόμενη ότι τη χάνει, κανείς δεν ξέρει...</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729200000 GMT+3" stop="20260729203000 GMT+3" channel="574264">
+    <title lang="el">Τόποι των Μύθων (E)</title>
+    <desc lang="el">Χθόνιες και καταχθόνιες θεότητες που θα αφομοιωθούν με τους Ολύμπιους Θεούς. Οι αρχαιότεροι ιεροί τόποι και τα λίκνα της μυθολογίας. Η κοσμογονία και ο θρίαμβος του Δία.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729203000 GMT+3" stop="20260729210000 GMT+3" channel="574264">
+    <title lang="el">Με Αποφασιστικότητα ΕΠ1</title>
+    <desc lang="el">Η εκπομπή κάνει πρεμιέρα με τη Δώρα Πασχαλίδου, τη «χρυσή» Ελληνίδα του τζούντο, που κατέκτησε για δεύτερη συνεχή χρονιά το χρυσό στο Πανευρωπαϊκό Πρωτάθλημα της Τιφλίδας.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729210000 GMT+3" stop="20260729220000 GMT+3" channel="574264">
+    <title lang="el">ΕΙΔΗΣΕΙΣ - ΑΘΛΗΤΙΚΑ - ΚΑΙΡΟΣ</title>
+    <desc lang="el">Παρουσίαση: Με τον Αντώνη Αλαφογιώργο</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729220000 GMT+3" stop="20260729230000 GMT+3" channel="574264">
+    <title lang="el">Greek Town - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Στη μεγαλύτερη μητρόπολη του κόσμου συναντάμε κάποιους από τους διασημότερους Ελληνοαμερικανούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260729230000 GMT+3" stop="20260730000000 GMT+3" channel="574264">
+    <title lang="el">Έρωτας Όπως Έρημος - ΕΡΤ Αρχείο ΕΠ1</title>
+    <desc lang="el">Κάπου στην Κηφισιά, τα τηλεοπτικά συνεργεία συνωστίζονται για να καλύψουν ένα κοσμικό γεγονός: τον γάμο του γνωστού δικηγόρου Αλέκου Καίσαρη με την, κατά πολύ νεότερή του, Λήδα Εσπιέρογλου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260729000000 GMT+3" stop="20260729010000 GMT+3" channel="216630">
     <title lang="el">ΕΣΤΙΝ ΟΥΝ</title>
@@ -131107,67 +132517,67 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729025500 GMT+3" stop="20260729040500 GMT+3" channel="9821930">
+  <programme start="20260729025500 GMT+3" stop="20260729042500 GMT+3" channel="9821930">
     <title lang="el">Last Man Standing</title>
     <desc lang="el">Last Man Standing Σκηνοθεσία: Walter Hill,. Πρωταγωνιστούν: Bruce Willis, Christopher Walken, Patrick Kilpatrick, Alexandra Powers, David Patrick Kelly, William Sanderson. (1996)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729040500 GMT+3" stop="20260729054000 GMT+3" channel="9821930">
+  <programme start="20260729042500 GMT+3" stop="20260729060000 GMT+3" channel="9821930">
     <title lang="el">Dirty Dancing</title>
     <desc lang="el">Ο Πάτρικ Σουέιζι και η Τζένιφερ Γκρέι ζουν τις καλύτερες στιγμές της ζωής τους σε αυτό το γεμάτο ένταση μελόδραμα με θέμα δύο αταίριαστους παρτενέρ χορού που τελικά ερωτεύονται. (1987) Σκηνοθεσία: Emile Ardolino. Πρωταγωνιστούν: Patrick Swayze, Jennifer Grey, Heather Lea Gerdes, Jerry Orbach, Karen Getz. (1987)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729054000 GMT+3" stop="20260729073500 GMT+3" channel="9821930">
+  <programme start="20260729060000 GMT+3" stop="20260729075000 GMT+3" channel="9821930">
     <title lang="el">The Man Without a Face</title>
     <desc lang="el">Ένα νεαρό αγόρι που ονειρεύεται να πάει στο Γουέστ Πόιντ πιάνει φιλίες με έναν πρώην δάσκαλο που ζει σε απομόνωση μετά από ένα τροχαίο ατύχημα που του προκάλεσε παραμόρφωση στη δεξιά πλευρά του προσώπου και του στέρνου του. Σκηνοθεσία: Mel Gibson,. Πρωταγωνιστούν: Mel Gibson,. (1993)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729073500 GMT+3" stop="20260729093000 GMT+3" channel="9821930">
+  <programme start="20260729075000 GMT+3" stop="20260729094500 GMT+3" channel="9821930">
     <title lang="el">August: Osage County</title>
     <desc lang="el">August: Osage County Σκηνοθεσία: John Wells,. Πρωταγωνιστούν: Meryl Streep, Julia Roberts, Ewan McGregor, Chris Cooper, Abigail Breslin, Benedict Cumberbatch. (2013)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729093000 GMT+3" stop="20260729111000 GMT+3" channel="9821930">
+  <programme start="20260729094500 GMT+3" stop="20260729112000 GMT+3" channel="9821930">
     <title lang="el">Evolution</title>
     <desc lang="el">Evolution Σκηνοθεσία: Ivan Reitman,. Πρωταγωνιστούν: Joshua Ackerman, David Duchovny, Orlando Jones, Dan Aykroyd, Kristen Meadows, Julianne Moore. (2001)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729111000 GMT+3" stop="20260729124500 GMT+3" channel="9821930">
+  <programme start="20260729112000 GMT+3" stop="20260729125000 GMT+3" channel="9821930">
     <title lang="el">Blue Streak</title>
     <desc lang="el">Blue Streak Σκηνοθεσία: Les Mayfield. Πρωταγωνιστούν: Martin Lawrence, Luke Wilson, Dave Chappelle, William Forsythe, Peter Greene, Nicole Parker. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729124500 GMT+3" stop="20260729143500 GMT+3" channel="9821930">
+  <programme start="20260729125000 GMT+3" stop="20260729144500 GMT+3" channel="9821930">
     <title lang="el">Joe</title>
     <desc lang="el">Joe Σκηνοθεσία: David Gordon Green,. Πρωταγωνιστούν: Gary Poulter, Milton Fountain, John Daws, Lynette Walden, Heather Kafka, Brian D. Mays. (2014)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729143500 GMT+3" stop="20260729160500 GMT+3" channel="9821930">
+  <programme start="20260729144500 GMT+3" stop="20260729161000 GMT+3" channel="9821930">
     <title lang="el">Bride Wars</title>
     <desc lang="el">Bride Wars Σκηνοθεσία: Gary Winick,. Πρωταγωνιστούν: Kate Hudson, Anne Hathaway, Candice Bergen, Kristen Johnston, Bryan Greenberg, Chris Pratt. (2009)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729160500 GMT+3" stop="20260729180000 GMT+3" channel="9821930">
+  <programme start="20260729161000 GMT+3" stop="20260729180000 GMT+3" channel="9821930">
     <title lang="el">Runaway Bride</title>
     <desc lang="el">Ένας δημοσιογράφος που απολύθηκε επειδή ήταν πολύ σοβινιστής προσπαθεί να αποκαταστήσει το όνομά του κυνηγώντας μια είδηση για μια γυναίκα που συνηθίζει να εγκαταλείπει τους αρραβωνιαστικούς της. Σκηνοθεσία: Scott Marshall,Garry Marshall,. Πρωταγωνιστούν: James Richardson, Julia Roberts,. (1999)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729180000 GMT+3" stop="20260729193000 GMT+3" channel="9821930">
+  <programme start="20260729180000 GMT+3" stop="20260729192500 GMT+3" channel="9821930">
     <title lang="el">The Dead Pool</title>
     <desc lang="el">The Dead Pool Σκηνοθεσία: Buddy Van Horn,. Πρωταγωνιστούν: Clint Eastwood, Patricia Clarkson, Liam Neeson, David Hunt, Jim Carrey, Michael Currie. (1988)</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260729193000 GMT+3" stop="20260729210000 GMT+3" channel="9821930">
+  <programme start="20260729192500 GMT+3" stop="20260729210000 GMT+3" channel="9821930">
     <title lang="el">Blazing Saddles</title>
     <desc lang="el">Blazing Saddles Σκηνοθεσία: Mel Brooks,. Πρωταγωνιστούν: Cleavon Little, Gene Wilder, Liam Dunn, Claude Starrett, Slim Pickens, Dom DeLuise. (1974)</desc>
     <category lang="el">Ταινίες</category>
@@ -142404,6 +143814,162 @@
   <programme start="20260729233000 GMT+3" stop="20260730000000 GMT+3" channel="52187749">
     <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 05 3/11/25 (E)</title>
     <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729175000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729175000 GMT+3" stop="20260729220000 GMT+3" channel="52196563">
+    <title lang="el">KAIRAT ALMATY - OMONOIA (Z)</title>
+    <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729220000 GMT+3" stop="20260730000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260730000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260730000000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260730000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260730000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729150000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729150000 GMT+3" stop="20260729220000 GMT+3" channel="52196763">
+    <title lang="el">61η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729220000 GMT+3" stop="20260730000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
