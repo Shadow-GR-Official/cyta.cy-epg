@@ -34049,13 +34049,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260724133000 GMT+3" stop="20260724153000 GMT+3" channel="74516237">
-    <title lang="el">ATP 250 - KITZBUHEL (SF 1) (Z)</title>
+    <title lang="el">Yannick HANFMANN - Quentin HALYS (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - KITZBUHEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260724153000 GMT+3" stop="20260724173000 GMT+3" channel="74516237">
-    <title lang="el">ATP 250 - KITZBUHEL (SF 2) (Z)</title>
+    <title lang="el">Alexander BUBLIK - Tomas Martin ETCHEVERRY (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 250 - KITZBUHEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -36407,13 +36407,13 @@
     <rating>K</rating>
   </programme>
   <programme start="20260724133000 GMT+3" stop="20260724153000 GMT+3" channel="77956035">
-    <title lang="el">ATP 250 - KITZBUHEL (SF 1) (Z)</title>
+    <title lang="el">Yannick HANFMANN - Quentin HALYS (SF 1) (Z)</title>
     <desc lang="el">2026 ATP 250 - KITZBUHEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260724153000 GMT+3" stop="20260724173000 GMT+3" channel="77956035">
-    <title lang="el">ATP 250 - KITZBUHEL (SF 2) (Z)</title>
+    <title lang="el">Alexander BUBLIK - Tomas Martin ETCHEVERRY (SF 2) (Z)</title>
     <desc lang="el">2026 ATP 250 - KITZBUHEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -38584,12 +38584,6 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725130000 GMT+3" stop="20260725140000 GMT+3" channel="206750">
-    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
-    <desc lang="el">Ημερίδα: Όσιος Αμφιλόχιος Μακρής της Πάτμου - Διοργάνωση: Ιερός Ναός Αγίου Γεωργίου Πανοράματος Θεσσαλονίκης. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260725140000 GMT+3" stop="20260725141500 GMT+3" channel="206750">
     <title lang="el">Ταξιδια</title>
     <desc lang="el">Νομός Έβρου. Ταξιδιωτικές περιηγήσεις σε γωνιές της Ελλάδας.</desc>
@@ -38608,57 +38602,33 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725150000 GMT+3" stop="20260725152000 GMT+3" channel="206750">
-    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
-    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260725152000 GMT+3" stop="20260725154000 GMT+3" channel="206750">
-    <title lang="el">ΑΓΙΟΓΡΑΦΙΚΑ ΑΝΑΓΝΩΣΜΑΤΑ</title>
-    <desc lang="el">Το Ευαγγελικό - Αποστολικό Ανάγνωσμα και το Συναξάρι της ημέρας</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260725154000 GMT+3" stop="20260725155000 GMT+3" channel="206750">
-    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
-    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260725155000 GMT+3" stop="20260725160000 GMT+3" channel="206750">
+  <programme start="20260725150000 GMT+3" stop="20260725151500 GMT+3" channel="206750">
     <title lang="el">ΛΕΞΕΙΣ ΚΑΙ ΕΝΝΟΙΕΣ</title>
     <desc lang="el">Γεγονός. Εκπομπή για την ελληνική γλώσσα. Παρουσιάζει τη σωστή χρήση λέξεων και παροιμιωδών εκφράσεων.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725160000 GMT+3" stop="20260725165000 GMT+3" channel="206750">
+  <programme start="20260725151500 GMT+3" stop="20260725154500 GMT+3" channel="206750">
     <title lang="el">ΤΗΛΕΣΧΟΛΕΙΟ ΨΑΛΤΙΚΗΣ</title>
     <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725165000 GMT+3" stop="20260725171000 GMT+3" channel="206750">
+  <programme start="20260725154500 GMT+3" stop="20260725160000 GMT+3" channel="206750">
     <title lang="el">ΜΙΚΡΟ ΣΥΝΑΞΑΡΙ</title>
     <desc lang="el">Αγία Μάρτυς Ιουλιανή. Ευχάριστοι και διδακτικοί βίοι Αγίων με εικονογράφηση και διαλόγους για τους μικρούς μας φίλους.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725171000 GMT+3" stop="20260725180000 GMT+3" channel="206750">
+  <programme start="20260725180000 GMT+3" stop="20260725190000 GMT+3" channel="206750">
     <title lang="el">ΠΑΙΧΝΙΔΟΠΑΓΙΔΕΣ</title>
     <desc lang="el">Τηλεπαιχνίδι γνώσεων για παιδιά</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725180000 GMT+3" stop="20260725200000 GMT+3" channel="206750">
+  <programme start="20260725160000 GMT+3" stop="20260725180000 GMT+3" channel="206750">
     <title lang="el">Υποδοχη Ι. Λειψανου-Πανηγυρικος Αρχιερατικος Εσπερινος</title>
     <desc lang="el">Ιερός Ναός Αγίων Βασιλείου και Παντελεήμονος - Νέο Αγιονέρι Κιλκίς</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260725200000 GMT+3" stop="20260725210000 GMT+3" channel="206750">
-    <title lang="el">ΤΟ ΜΕΓΑΛΕΙΟ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ</title>
-    <desc lang="el">Με τον κ. Κυριάκο Χρυσοστομίδη, Φιλόλογο</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -40414,25 +40384,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725101500 GMT+3" stop="20260725110500 GMT+3" channel="2374">
+  <programme start="20260725101500 GMT+3" stop="20260725110000 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4</title>
     <desc lang="el">The Ninja converge outside Ninjago to halt the Loyalist assault and stop their army of Elemental Monsters. / The Ninja must draw upon new powers to fight the Elemental Monsters and quell the Loyalist threat. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725110500 GMT+3" stop="20260725122000 GMT+3" channel="2374">
+  <programme start="20260725110000 GMT+3" stop="20260725122000 GMT+3" channel="2374">
     <title lang="el">Tom and Jerry: Back to Oz</title>
     <desc lang="el">The cantankerous cat and mischievous mouse go on yet another adventure and this time, they will save the magical land of Oz from an evil monarch. Σκηνοθεσία: Spike Brandt,Tony Cervone,. (2016)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725122000 GMT+3" stop="20260725123500 GMT+3" channel="2374">
+  <programme start="20260725122000 GMT+3" stop="20260725124000 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ2</title>
     <desc lang="el">Jerry Tom and Spike need rescuing on their snowy vacation. / When Tom finds Butch having a bath he gives him the boot. Σκηνοθεσία: Darrell Van Citters,. (2017)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725123500 GMT+3" stop="20260725131000 GMT+3" channel="2374">
+  <programme start="20260725124000 GMT+3" stop="20260725131000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana and Junk Imp lose their memories, turning into accidental grifters hunted by their own crew. / Lana joins the Guild against her dad’s wishes, starting a life of adventure and finding allies, rivals, and herself. / The crew stop to stock up on croconuts, but Lana gets enticed by a plant that causes Boreas to react strangely. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -40444,25 +40414,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725140000 GMT+3" stop="20260725142000 GMT+3" channel="2374">
+  <programme start="20260725140000 GMT+3" stop="20260725141500 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ3</title>
     <desc lang="el">Beast Boy gets a stack of cash from the Tooth Fairy. So, against Raven&apos;s advice, the other Titans start knocking out their own teeth to get some of that sweet Tooth Fairy money. / Trigon makes Raven attend her prom and she brings along the other Titans to upset him. Πρωταγωνιστούν: Scott Menville, Khary Payton, Tara Strong, Greg Cipes. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725142000 GMT+3" stop="20260725144000 GMT+3" channel="2374">
+  <programme start="20260725141500 GMT+3" stop="20260725144000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ5</title>
     <desc lang="el">Anais arrives in the bedroom to find a messy crime-scene and her Daisy doll missing. She realises Gumball and Darwin are the chief suspects. / When an unknown figure shows up and insults their Mom the kids are expecting a massive showdown but are surprised when Mom chooses the path of peace. Mom explains Yuki Masami&apos;s mother is an old school friend and repeatedly refuses to fight her despite further provocation. Σκηνοθεσία: Mic Graves,. (2016)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725144000 GMT+3" stop="20260725150500 GMT+3" channel="2374">
+  <programme start="20260725144000 GMT+3" stop="20260725150000 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ4</title>
     <desc lang="el">When the male Titans are injured, Raven and Starfire must become bros to stop the Bropocalypse. / The Titans have Raven give them new super powers. Σκηνοθεσία: Peter Rida Michael. Πρωταγωνιστούν: Scott Menville, Khary Payton, Tara Strong, Greg Cipes,. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725150500 GMT+3" stop="20260725152500 GMT+3" channel="2374">
+  <programme start="20260725150000 GMT+3" stop="20260725152500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ6</title>
     <desc lang="el">Gumball and Darwin realize that the adult residents of Elmore are dangerously naive when it comes to being safe online. / The Fridge: When Mom discovers Gumball has no ambition she is determined to turn him into a winner. Σκηνοθεσία: Mic Graves. (2018)</desc>
     <category lang="el">Παιδικά</category>
@@ -40492,19 +40462,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725182500 GMT+3" stop="20260725191500 GMT+3" channel="2374">
+  <programme start="20260725182500 GMT+3" stop="20260725191000 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">A rival coffee shop moves into town. / Mordecai and Rigby have to unload a lot of boba. / Some flowers smell really bad. / Benson gets booted out of Heir to the Throne. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725191500 GMT+3" stop="20260725200000 GMT+3" channel="2374">
+  <programme start="20260725191000 GMT+3" stop="20260725195500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. / The Wattersons must get Anais to Daisyland before the park closes for good. / Gumball and Darwin use Molly’s time-halting power (because she’s so boring) to avoid an after school beatdown by Tina. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725200000 GMT+3" stop="20260725204500 GMT+3" channel="2374">
+  <programme start="20260725195500 GMT+3" stop="20260725204500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana scrambles to complete a quest to save her Guild membership, but Horatius sabotages her efforts. Can she finish in time? / Lana&apos;s first cake offering is ruined by Sprog. Now she must bake another to calm a whirlpool and save the Mighty Windbreaker. / Lana clashes with her dad over a boomerang and hammer until teamwork saves them from the Arachno Queen&apos;s web of doom. / Lana dons a magical beard to steer the ship, but it causes chaos. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -40540,7 +40510,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260725234500 GMT+3" stop="20260726003000 GMT+3" channel="2374">
+  <programme start="20260725234500 GMT+3" stop="20260726002500 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ2</title>
     <desc lang="el">Can there exist such a thing as drone shoes? It sounds like they would need a huge power capacity. / Apple &amp; Onion know exactly what gifts they want this Christmas but all their money has been squandered. Luckily they find a suitably festive way to make back that money. / Apple&apos;s curiosity of what it would be like to walk upside down like a spider should be ignored and given no further thought. It is not. Πρωταγωνιστούν: George Gendi. (2020)</desc>
     <category lang="el">Παιδικά</category>
@@ -46728,7 +46698,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725003000 GMT+3" stop="20260725010000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ408</title>
+    <title lang="el">World Sport ΕΠ147</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -46746,14 +46716,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725030000 GMT+3" stop="20260725040000 GMT+3" channel="1945">
-    <title lang="el">Anderson Cooper 360 ΕΠ147</title>
-    <desc lang="el">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations. (2026)</desc>
+    <title lang="el">White House Correspondents&apos; Dinner ΕΠ2</title>
+    <desc lang="el">John Berman and Laura Coates anchor CNN&apos;s live coverage of the 2026 White House Correspondents&apos; Dinner. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
   <programme start="20260725040000 GMT+3" stop="20260725050000 GMT+3" channel="1945">
-    <title lang="el">The Source with Kaitlan Collins ΕΠ147</title>
-    <desc lang="el">Kaitlan Collins goes straight to the source for the best reporting on the day&apos;s biggest stories. (2026)</desc>
+    <title lang="el">White House Correspondents&apos; Dinner ΕΠ3</title>
+    <desc lang="el">John Berman and Laura Coates anchor CNN&apos;s live coverage of the 2026 White House Correspondents&apos; Dinner. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46764,8 +46734,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725060000 GMT+3" stop="20260725070000 GMT+3" channel="1945">
-    <title lang="el">Laura Coates Live ΕΠ147</title>
-    <desc lang="el">Laura Coates goes inside the story with a relentless pursuit of the facts. (2026)</desc>
+    <title lang="el">CNN Newsnight ΕΠ265</title>
+    <desc lang="el">Abby Phillip leads a roundtable discussion on the day&apos;s biggest stories and issues shaping our world. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46836,8 +46806,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725133000 GMT+3" stop="20260725140000 GMT+3" channel="1945">
-    <title lang="el">Cnni Placeholder ΕΠ2</title>
-    <desc lang="el">Cnni Placeholder (2026)</desc>
+    <title lang="el">Inside Africa ΕΠ730</title>
+    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46890,8 +46860,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725200000 GMT+3" stop="20260725210000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom Saturday ΕΠ234</title>
-    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <title lang="el">Smerconish ΕΠ30</title>
+    <desc lang="el">Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -46908,8 +46878,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260725230000 GMT+3" stop="20260726000000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom Saturday ΕΠ237</title>
-    <desc lang="el">The latest news and information from around the world. (2026)</desc>
+    <title lang="el">The Arena: Saturday ΕΠ30</title>
+    <desc lang="el">The Arena: Saturday (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -56936,39 +56906,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726004000 GMT+3" stop="20260726011500 GMT+3" channel="206750">
-    <title lang="el">Εν Χορδαις</title>
-    <desc lang="el">Πιάνο από την Νίκη Ελληνίδου (ΩΒΕ). Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726011500 GMT+3" stop="20260726013500 GMT+3" channel="206750">
+  <programme start="20260726024000 GMT+3" stop="20260726030000 GMT+3" channel="206750">
     <title lang="el">ΛΕΞΕΙΣ ΚΑΙ ΕΝΝΟΙΕΣ</title>
     <desc lang="el">Γεγονός. Εκπομπή για την ελληνική γλώσσα. Παρουσιάζει τη σωστή χρήση λέξεων και παροιμιωδών εκφράσεων.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726013500 GMT+3" stop="20260726022000 GMT+3" channel="206750">
-    <title lang="el">ΠΑΙΧΝΙΔΟΠΑΓΙΔΕΣ</title>
-    <desc lang="el">Τηλεπαιχνίδι γνώσεων για παιδιά</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726022000 GMT+3" stop="20260726041000 GMT+3" channel="206750">
+  <programme start="20260726004000 GMT+3" stop="20260726024000 GMT+3" channel="206750">
     <title lang="el">Υποδοχη Ι. Λειψανου-Πανηγυρικος Αρχιερατικος Εσπερινος</title>
     <desc lang="el">Ιερός Ναός Αγίων Βασιλείου και Παντελεήμονος - Νέο Αγιονέρι Κιλκίς</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726041000 GMT+3" stop="20260726042000 GMT+3" channel="206750">
+  <programme start="20260726030000 GMT+3" stop="20260726031000 GMT+3" channel="206750">
     <title lang="el">Ταξιδια</title>
     <desc lang="el">Νομός Έβρου. Ταξιδιωτικές περιηγήσεις σε γωνιές της Ελλάδας.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726042000 GMT+3" stop="20260726051000 GMT+3" channel="206750">
-    <title lang="el">ΤΟ ΜΕΓΑΛΕΙΟ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ</title>
-    <desc lang="el">Με τον κ. Κυριάκο Χρυσοστομίδη, Φιλόλογο</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -56993,12 +56945,6 @@
   <programme start="20260726072000 GMT+3" stop="20260726073000 GMT+3" channel="206750">
     <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
     <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726073000 GMT+3" stop="20260726101500 GMT+3" channel="206750">
-    <title lang="el">Ορθρος - Θεια Λειτουργια</title>
-    <desc lang="el">Απευθείας σύνδεση με τον Ιερό Ναό Αγίου Προκοπίου, Μετόχι Μονής Κύκκου - Λευκωσία, Κύπρος</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -57083,18 +57029,6 @@
   <programme start="20260726173000 GMT+3" stop="20260726180000 GMT+3" channel="206750">
     <title lang="el">ΜΙΑ ΑΛΛΙΩΤΙΚΗ ΠΑΡΕΑ</title>
     <desc lang="el">Πάντα την αλήθεια. Διδακτική παιδική σειρά που σκοπό έχει την καλλιέργεια της παιδικής ψυχής μέσα από τα διδάγματα που παίρνουν οι ίδιοι οι πρωταγωνιστές σε κάθε επεισόδιο.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726180000 GMT+3" stop="20260726183000 GMT+3" channel="206750">
-    <title lang="el">Στους Δρομους Της Παραδοσης</title>
-    <desc lang="el">Ελλάδα, χορός και ιστορία (α΄ μέρος). Χοροί, τραγούδια και δρώμενα από όλες τις περιοχές της Ελλάδας. Προβάλλονται οι προσπάθειες όλων των φορέων που υπηρετούν την παράδοση.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726183000 GMT+3" stop="20260727013000 GMT+3" channel="206750">
-    <title lang="el">Πανηγυρικη Αγρυπνια</title>
-    <desc lang="el">Ιερά Μονή Αγίου Παντελεήμονος - Χρυσόκαστρο Καβάλας</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -58754,7 +58688,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726003000 GMT+3" stop="20260726050000 GMT+3" channel="2374">
+  <programme start="20260726002500 GMT+3" stop="20260726050000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ4</title>
     <desc lang="el">When Alan ditches Gumball to do something more fun, Gumball is desperate to track him down and make him pay for his betrayal. / Mr Small feels that he hasn&apos;t inspired the children of Elmore Junior High, so Gumball and Darwin try to lift his spirits. / Gumball develops a strange stutter and it makes him accidentally offend Darwin. / Anais has made a new friend, but Gumball and Darwin aren&apos;t sure their relationship is equal. Σκηνοθεσία: Mic Graves,. (2016)</desc>
     <category lang="el">Παιδικά</category>
@@ -58790,13 +58724,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726093000 GMT+3" stop="20260726101500 GMT+3" channel="2374">
+  <programme start="20260726093000 GMT+3" stop="20260726102000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ2</title>
     <desc lang="el">After Gumball’s smack talking embarrasses him in front of the entire town, he vows to curb his smug ways. / Gumball and Darwin seek healthy food for their family, but an evil food consortium controls the industry. / Nicole befriends a sympathetic AI, but as their bond grows, it tries to isolate her from the rest of the Wattersons. / Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726101500 GMT+3" stop="20260726110500 GMT+3" channel="2374">
+  <programme start="20260726102000 GMT+3" stop="20260726110500 GMT+3" channel="2374">
     <title lang="el">- / The Whispering Wood</title>
     <desc lang="el">- / The Ninja find themselves scattered across the Merged Lands and encounter new threats in their search for a way home. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -58844,37 +58778,37 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726150500 GMT+3" stop="20260726152500 GMT+3" channel="2374">
+  <programme start="20260726150500 GMT+3" stop="20260726153000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ6</title>
     <desc lang="el">Gumball and Darwin realize that the adult residents of Elmore are dangerously naive when it comes to being safe online. / Darwin is sent away to a government institute for geniuses. Yes. Really. Σκηνοθεσία: Mic Graves. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726152500 GMT+3" stop="20260726161000 GMT+3" channel="2374">
+  <programme start="20260726153000 GMT+3" stop="20260726161500 GMT+3" channel="2374">
     <title lang="el">- / The Whispering Wood</title>
     <desc lang="el">- / The Ninja find themselves scattered across the Merged Lands and encounter new threats in their search for a way home. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726161000 GMT+3" stop="20260726165500 GMT+3" channel="2374">
+  <programme start="20260726161500 GMT+3" stop="20260726170000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">Gigi invites Saige and Sully to celebrate Grass Day with her family but Billy has trouble being flexible on his favourite goat holiday. / A homesick Gigi invites Fern for a visit, leaving Saige to work with Kallista on their group science project. / Gigi is home for a nice relaxing long weekend... but Bo has other ideas. / When Gigi and Kallista get detention, they work together on a covert mission to obtain their favorite lunch - potato waffles! (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726165500 GMT+3" stop="20260726172000 GMT+3" channel="2374">
+  <programme start="20260726170000 GMT+3" stop="20260726172500 GMT+3" channel="2374">
     <title lang="el">We Baby Bears Κ1</title>
     <desc lang="el">In an endless junkyard the Bears meet Teddi, a sentient teddy bear. / The Bears help Unica return an endangered alien worm to its home. Σκηνοθεσία: Manny Hernandez,. Πρωταγωνιστούν: Connor Andrade, Max Mitchell, Amari Mccoy,. (2022)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726172000 GMT+3" stop="20260726182500 GMT+3" channel="2374">
+  <programme start="20260726172500 GMT+3" stop="20260726183000 GMT+3" channel="2374">
     <title lang="el">Be Cool, Scooby-Doo! Κ1</title>
     <desc lang="el">Daphne brings the Gang to a Victorian murder mystery party so they can dress up and solve a fake mystery for once. / The Scooby gang try to stop a shape-shifting alien from stopping the launch of the Space Shuttle. / Scooby-Doo and the gang travel to a battlefield near Gettysburg to investigate the mysterious appearance of ghost zombie Civil War soldiers. Σκηνοθεσία: Andy Thom,. (2015)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726182500 GMT+3" stop="20260726185000 GMT+3" channel="2374">
+  <programme start="20260726183000 GMT+3" stop="20260726185000 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Rigby want this photo to be taken, seriously. / A broken VHS tape needs to be fixed. (2026)</desc>
     <category lang="el">Παιδικά</category>
@@ -58886,13 +58820,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726190000 GMT+3" stop="20260726191000 GMT+3" channel="2374">
+  <programme start="20260726190000 GMT+3" stop="20260726191500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Benson learns a better way to motivate. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726191000 GMT+3" stop="20260726200000 GMT+3" channel="2374">
+  <programme start="20260726191500 GMT+3" stop="20260726200000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball wants to take down Miss Simian after she punishes him for not respecting his school-provided calculator. / Gumball and Darwin must stop an evil social media app from turning every kid in Elmore into mindless internet-trend-following drone. / Anais’s science project creates a genius version of Richard’s gut, forcing her to choose between it and her real dad. / Anais starts aging prematurely due to the stress and pressure of looking out for the rest of her stupid family. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -58922,19 +58856,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726223500 GMT+3" stop="20260726225500 GMT+3" channel="2374">
+  <programme start="20260726223500 GMT+3" stop="20260726230000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ1</title>
     <desc lang="el">While everyone prepares for the park&apos;s annual barbecue things go awry when Rigby accidentally burns Benson&apos;s premium hot dogs. Mordecai and Rigby search for more hot dogs in the freezer but Rigby accidentally traps them inside and breaks the thermostat causing Mordecai to go unconscious. Rigby carries Mordecai&apos;s body and finds living hot dogs and they help them escape from the freezer. / ...and much more! Σκηνοθεσία: J.G Qunitel,J.G. Quintel,John Davis Infantino,. Πρωταγωνιστούν: J. G. Quintel, William Salyers, Sam Marin, Mark Hamill, Tim Curry, Janie Haddad Tompkins. (2010)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726225500 GMT+3" stop="20260726234000 GMT+3" channel="2374">
+  <programme start="20260726230000 GMT+3" stop="20260726234000 GMT+3" channel="2374">
     <title lang="el">Clarence Κ1</title>
     <desc lang="el">Clarence must somehow navigate the mind-numbing boredom of a doctor&apos;s office waiting room to earn the ultimate prize - candy from the reception desk candy jar. / Clarence and Sumo look to throw together some quick cash so they can invest in Chad and Sumo&apos;s dad&apos;s new &quot;Business venture&quot; a boutique sculpture shop. / Clarence buys a goldfish, but when the goldfish bag breaks before he can get home, Clarence must keep his new friend out of harms way! Σκηνοθεσία: Martin Ansolabehere,Nelson Boles,. Πρωταγωνιστούν: Spencer Rothbell, Tom Kenny, Skyler Page, Sean Giambrone. (2014)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726234000 GMT+3" stop="20260727003000 GMT+3" channel="2374">
+  <programme start="20260726234000 GMT+3" stop="20260727002500 GMT+3" channel="2374">
     <title lang="el">Apple &amp; Onion Κ2</title>
     <desc lang="el">Apple and Onion must adopt unorthodox measures if they are to see this special animal at the zoo. / Pizza&apos;s Diner needs a makeover. Apple and Onion better get this right or Pizza is ruined. / It&apos;s Cousin&apos;s Day- another holiday the corporations made up to make more money and Apple and Onion are going to capitalise on it. / Stuck with a problematic pet, Apple and Onion need to somehow find a way to get their lives back. Σκηνοθεσία: George Gendi,Benton Connor,Nick Edwards,. Πρωταγωνιστούν: Richard Ayoade, George Gendi,. (2021)</desc>
     <category lang="el">Παιδικά</category>
@@ -65171,8 +65105,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260726060000 GMT+3" stop="20260726063000 GMT+3" channel="1945">
-    <title lang="el">Cnni Placeholder ΕΠ2</title>
-    <desc lang="el">Cnni Placeholder (2026)</desc>
+    <title lang="el">Quest&apos;s World of Wonder ΕΠ6</title>
+    <desc lang="el">Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can’t. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65248,15 +65182,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260726130000 GMT+3" stop="20260726133000 GMT+3" channel="1945">
-    <title lang="el">Innovate ΕΠ1</title>
-    <desc lang="el">Innovators seek sustainable solutions by working with nature, not against it. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260726133000 GMT+3" stop="20260726140000 GMT+3" channel="1945">
-    <title lang="el">Inside Africa ΕΠ730</title>
-    <desc lang="el">Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions. (2026)</desc>
+  <programme start="20260726130000 GMT+3" stop="20260726140000 GMT+3" channel="1945">
+    <title lang="el">Dr. Sanjay Gupta Reports: Weed 8: Women &amp; Weed ΕΠ1</title>
+    <desc lang="el">Dr. Gupta explores how women are leading a &quot;green rush&quot; and breaking the &quot;grass ceiling&quot; in Oklahoma since it legalized marijuana in 2018. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -77167,7 +77095,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727003000 GMT+3" stop="20260727043500 GMT+3" channel="2374">
+  <programme start="20260727002500 GMT+3" stop="20260727043500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ5</title>
     <desc lang="el">When the kids find out that Mom&apos;s life hasn&apos;t panned out exactly as she&apos;d hoped they try to make her day a bit easier by taking on her chores. / Richard decides that his work around the house is underappreciated by Nicole and goes on strike to prove it. / The Wattersons will do whatever it takes to get into the first screening of the latest Stellar Odyssey sequel. / The town of Elmore becomes an all-singing, all-dancing mash up. (2017)</desc>
     <category lang="el">Παιδικά</category>
@@ -77185,73 +77113,73 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727050000 GMT+3" stop="20260727075500 GMT+3" channel="2374">
+  <programme start="20260727050000 GMT+3" stop="20260727080000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball: The Gumball Chronicles Κ1</title>
     <desc lang="el">When Gumball’s schoolfriend Leslie finds an old video tape, the creepy mystery of Elmore’s ghostly past unfolds. / Gumball is running for School President and is looking for a running mate. When he asks his girlfriend Penny, he does not get the answer he expects. / Gumball is running for School President and is looking for a running mate. He hopes Leslie’s new-found cheer-team fame will elevate his campaign. / Gumball is running for School President and is looking for a worthy running mate. Σκηνοθεσία: Richard Overall. Πρωταγωνιστούν: Duke Cutler, Christian J Simon,. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727075500 GMT+3" stop="20260727081500 GMT+3" channel="2374">
+  <programme start="20260727080000 GMT+3" stop="20260727082500 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ3</title>
     <desc lang="el">Tom and Jerry and the gang is stuck at home with Ginger&apos;s mom Rosemary, who makes the gang eat super healthy, much to everyone&apos;s dismay. / Tom and Jerry detectives work on a case where they must transport a precious egg on a train, and protect it from several people who want to steal it for their own. / Tom is framed for a crime he did not commit and is sent to prison. Jerry works to clear his name. Σκηνοθεσία: Darrell Van Citters,. (2019)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727081500 GMT+3" stop="20260727084000 GMT+3" channel="2374">
+  <programme start="20260727082500 GMT+3" stop="20260727085000 GMT+3" channel="2374">
     <title lang="el">Looney Tunes Cartoons Κ5</title>
     <desc lang="el">Ralph Phillips has wild daydreams. Elmer falls victim to a high-tech hoax. Petunia cooks up trouble. / Elmer tries his hand as an artist. Daffy’s business is full of hot air. Porky adopts the wrong kitten. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727084000 GMT+3" stop="20260727092500 GMT+3" channel="2374">
+  <programme start="20260727085000 GMT+3" stop="20260727093000 GMT+3" channel="2374">
     <title lang="el">What&apos;s New Scooby-Doo? Κ2</title>
     <desc lang="el">The gang travels to New Mexico and finds a giant, ancient legendary bird that carries the locals off to its mysterious lair. / Scooby and our mystery solving gang are on set with famous singer, dancer, comedian and actress Sandy Duncan. Σκηνοθεσία: Tim Maltby,. (2004)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727092500 GMT+3" stop="20260727095000 GMT+3" channel="2374">
+  <programme start="20260727093000 GMT+3" stop="20260727100000 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4 ΕΠ4</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727095000 GMT+3" stop="20260727101500 GMT+3" channel="2374">
+  <programme start="20260727100000 GMT+3" stop="20260727102000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">A solo quest with Bo devolves into snowball warfare as Lana learns teamwork is key to resolving feuds. / Lana seeks a cure for Andar’s illness while Saltybeard’s beard secretly plots to find a new host. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727101500 GMT+3" stop="20260727105500 GMT+3" channel="2374">
+  <programme start="20260727102000 GMT+3" stop="20260727110500 GMT+3" channel="2374">
     <title lang="el">Clarence Κ1</title>
     <desc lang="el">Clarence, Sumo and Jeff&apos;s nature hike veers off course courtesy of their under-qualified, overwhelmed guide Josh, prompting Clarence to take the lead. / Clarence and Sumo chase a lizard to unexpected rewards as Jeff jockeys for playing time on Belson&apos;s spectacular new gaming system. / Sumo devotes himself to the Sisyphean task of building a boat, defying the expectations of everyone in his life, including himself. Σκηνοθεσία: Martin Ansolabehere,Nelson Boles. Πρωταγωνιστούν: Spencer Rothbell, Tom Kenny, Skyler Page, Sean Giambrone,. (2014)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727105500 GMT+3" stop="20260727112000 GMT+3" channel="2374">
+  <programme start="20260727110500 GMT+3" stop="20260727113000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ2</title>
     <desc lang="el">After Gumball’s smack talking embarrasses him in front of the entire town, he vows to curb his smug ways. / Gumball and Darwin seek healthy food for their family, but an evil food consortium controls the industry. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727112000 GMT+3" stop="20260727114500 GMT+3" channel="2374">
+  <programme start="20260727113000 GMT+3" stop="20260727115000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ1</title>
     <desc lang="el">Clayton shapeshifts into people to take their detentions for money. He starts framing people for misdemeanors so GB and DW must track him down to stop him. / Gumball finds Penny&apos;s laugh annoying but can&apos;t think of a way to tell her without offending her. When he discovers that Principal Brown has the same problem with Miss Simian&apos;s morning breath they decide to swap problems to save themselves from getting dumped. Σκηνοθεσία: Mic Graves. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727114500 GMT+3" stop="20260727123000 GMT+3" channel="2374">
+  <programme start="20260727115000 GMT+3" stop="20260727123500 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ6</title>
     <desc lang="el">Batman pretends to be sick to avoid work so he and Commissioner Gordon can run around town watching their favorite shows. / The Titans throw a Halloween party and invite the Justice League but the witches brew Robin creates has side effects. / Santa Claus forces Beast Boy to become a spy and report on the Titans&apos; naughty behaviour. / Cyborg comes to visit Beast Boy, but once Cyborg realises how much he and Robotman have in common, they become inseparable. Σκηνοθεσία: Ken McIntyre,Dave Stone,. Πρωταγωνιστούν: Scott Menville, Khary Payton, Tara Strong, Greg Cipes. (2019)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727123000 GMT+3" stop="20260727125000 GMT+3" channel="2374">
+  <programme start="20260727123500 GMT+3" stop="20260727125500 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4 ΕΠ4</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727125000 GMT+3" stop="20260727134000 GMT+3" channel="2374">
+  <programme start="20260727125500 GMT+3" stop="20260727134000 GMT+3" channel="2374">
     <title lang="el">Totally Spies! Κ7</title>
     <desc lang="el">Paris is in chaos as the city turns to cheese! / Woolly mammoths rampage and Alex tries to upcycle Clover’s wardrobe. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -77287,31 +77215,31 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727161000 GMT+3" stop="20260727163500 GMT+3" channel="2374">
+  <programme start="20260727161000 GMT+3" stop="20260727163000 GMT+3" channel="2374">
     <title lang="el">We Baby Bears Κ2</title>
     <desc lang="el">Everything is perfect for the bears in the town of Flumenblurgen, until a certain pair of villainous foxes make their return. / Grizz finds himself alone on an island. Σκηνοθεσία: Manny Hernandez. Πρωταγωνιστούν: Connor Andrade, Max Mitchell, Amari Mccoy,. (2022)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727163500 GMT+3" stop="20260727170000 GMT+3" channel="2374">
+  <programme start="20260727163000 GMT+3" stop="20260727170000 GMT+3" channel="2374">
     <title lang="el">Craig of the Creek Κ1</title>
     <desc lang="el">Bernard is left in charge for the evening so Craig sets out to find his own dinner at the creek. / Craig discovers a bunch of bugs under a rock. Σκηνοθεσία: Eddy Houchins,Martin Ansolabehere,Stu Livingston,. Πρωταγωνιστούν: Philip Solomon, Phillip Solomon,. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727170000 GMT+3" stop="20260727172000 GMT+3" channel="2374">
+  <programme start="20260727170000 GMT+3" stop="20260727172500 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4 ΕΠ5</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727172000 GMT+3" stop="20260727185000 GMT+3" channel="2374">
+  <programme start="20260727172500 GMT+3" stop="20260727185500 GMT+3" channel="2374">
     <title lang="el">Be Cool, Scooby-Doo! Κ2</title>
     <desc lang="el">When the ghost of a small town&apos;s founder returns to scare off mayoral candidates the gang decides to run Velma as mayor to bait the ghost. / Scooby Doo and the gang investigate ghost sightings. / The gang are lead to an asteroid mining base in outer space. / Scooby-Doo and the gang accompany a penguin back to its home in Antarctica and find a finned creature from the sea dragging victims to an icy fate. Σκηνοθεσία: Andy Thom,. (2016)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727185000 GMT+3" stop="20260727191500 GMT+3" channel="2374">
+  <programme start="20260727185500 GMT+3" stop="20260727191500 GMT+3" channel="2374">
     <title lang="el">We Baby Bears Κ2</title>
     <desc lang="el">After a dastardly mishap with Malin&apos;s teleportation cannon, Panda finds himself transported to a cowboy world inhabited by cacti folk. / Ice Bear must traverse a dangerous city alongside a sworn enemy to reunite with his bros. Σκηνοθεσία: Manny Hernandez. Πρωταγωνιστούν: Connor Andrade, Max Mitchell, Amari Mccoy,. (2022)</desc>
     <category lang="el">Παιδικά</category>
@@ -77323,49 +77251,49 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727194000 GMT+3" stop="20260727200000 GMT+3" channel="2374">
+  <programme start="20260727194000 GMT+3" stop="20260727200500 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">It&apos;s Adventure Time! With Finn and Jake, the fun never ends! (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727200000 GMT+3" stop="20260727204000 GMT+3" channel="2374">
+  <programme start="20260727200500 GMT+3" stop="20260727204500 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ6</title>
     <desc lang="el">In a quest to become a magic man, Beast Boy accidentally destroys Raven&apos;s spell book, so they must go find another one. / During an awards ceremony, Robin is swept up by a tornado and arrives in a magical land. / While facing off with The Brain, Robin tries to teach the other Titans the proper definition of irony. / Robin still regrets not being able to find an Easter egg when he was a kid, so the Titans head to Gotham to solve this mystery. Σκηνοθεσία: Careen Ingle,. Πρωταγωνιστούν: Scott Menville, Khary Payton, Tara Strong, Greg Cipes. (2020)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727204000 GMT+3" stop="20260727212500 GMT+3" channel="2374">
+  <programme start="20260727204500 GMT+3" stop="20260727213000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">A book has gone missing from the library and Sully will stop at nothing until the mystery is solved. / A homesick Gigi invites Fern for a visit, leaving Saige to work with Kallista on their group science project. / Gigi is home for a nice relaxing long weekend... but Bo has other ideas. / When Gigi and Kallista get detention, they work together on a covert mission to obtain their favorite lunch - potato waffles! (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727212500 GMT+3" stop="20260727215000 GMT+3" channel="2374">
+  <programme start="20260727213000 GMT+3" stop="20260727215500 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4 ΕΠ5</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727215000 GMT+3" stop="20260727221500 GMT+3" channel="2374">
+  <programme start="20260727215500 GMT+3" stop="20260727222000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">The ship goes overland in a race, teaching Lana and Andar that embracing uniqueness is their strength. / Lana and Junk Imp lose their memories, turning into accidental grifters hunted by their own crew. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727221500 GMT+3" stop="20260727223500 GMT+3" channel="2374">
+  <programme start="20260727222000 GMT+3" stop="20260727224000 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">A secret nap spot causes major problems. / A rival coffee shop moves into town. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727223500 GMT+3" stop="20260727230000 GMT+3" channel="2374">
+  <programme start="20260727224000 GMT+3" stop="20260727230500 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ4</title>
     <desc lang="el">Mordecai and Rigby have to get rid of some geese that are causing problems at the park. / Mordecai and Rigby have to find a cure for the Death Sandwich before Benson dies. Σκηνοθεσία: J.G. Quintel,John Davis Infantino. Πρωταγωνιστούν: J.G. Quintel, William Salyers,. (2012)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260727230000 GMT+3" stop="20260727234500 GMT+3" channel="2374">
+  <programme start="20260727230500 GMT+3" stop="20260727234500 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ3</title>
     <desc lang="el">- / - / - / - (1990)</desc>
     <category lang="el">Παιδικά</category>
@@ -80329,19 +80257,19 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727062500 GMT+3" stop="20260727070500 GMT+3" channel="216459">
+  <programme start="20260727062500 GMT+3" stop="20260727071000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ3 ΕΠ4</title>
     <desc lang="el">Στη Νορβηγία, κοντά στον Αρκτικό Κύκλο, οι χειμωνιάτικες μέρες είναι πολύ μικρές. Αλλά οι διασώστες στους δρόμους δεν φοβούνται το σκοτάδι. Μόνο αυτοί μπορούν να διατηρήσουν τους δρόμους ανοιχτούς, όλες τις ώρες της ημέρας. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727070500 GMT+3" stop="20260727075000 GMT+3" channel="216459">
+  <programme start="20260727071000 GMT+3" stop="20260727075500 GMT+3" channel="216459">
     <title lang="el">Οι Τελευταίοι Γίγαντες Κ1 ΕΠ2</title>
     <desc lang="el">Μια τρομερή ανεμοθύελλα αναγκάζει τον Cyril και την ομάδα του να προχωρήσει βαθιά στην άγρια φύση του βορρά για να συλλέξουν δείγματα σολομών. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727075000 GMT+3" stop="20260727083500 GMT+3" channel="216459">
+  <programme start="20260727075500 GMT+3" stop="20260727083500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ11</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να συνεργαστούν με τη Μητέρα Φύση αν θέλουν να αντέξουν τις σκληρές αρκτικές συνθήκες. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -80419,55 +80347,55 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727175500 GMT+3" stop="20260727181500 GMT+3" channel="216459">
+  <programme start="20260727175500 GMT+3" stop="20260727182000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ21</title>
     <desc lang="el">Βλέπουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε ενώ χοροπηδάμε πάνω σε μπάλες γυμναστηρίου και παίζοντας πινγκ πονγκ με μπύρα. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727181500 GMT+3" stop="20260727184000 GMT+3" channel="216459">
+  <programme start="20260727182000 GMT+3" stop="20260727184500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ22</title>
     <desc lang="el">Η μετακίνηση μέσα και πάνω σε πλοία μπορεί να αποδειχθεί δύσκολη υπόθεση. Οι παίχτες του πινγκ πονγκ πρέπει να προετοιμάζονται πριν τα παιχνίδια αλλά πολλά μπορούν να πάνε στραβά. Εάν θέλετε να κάνετε αποτρίχωση, ίσως να πρέπει να στραφείτε στην επιστήμη για συμβουλές. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727184000 GMT+3" stop="20260727192500 GMT+3" channel="216459">
+  <programme start="20260727184500 GMT+3" stop="20260727193000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ4</title>
     <desc lang="el">Μετά την έκρηξη που ξηλώνει και τις δύο μηχανές από το δεξί φτερό, οι πιλότοι της Transair 671 καταφέρνουν μια απίστευτη προσγείωση σε έναν γαλλικό στρατιωτικό αεροδιάδρομο. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727192500 GMT+3" stop="20260727201000 GMT+3" channel="216459">
+  <programme start="20260727193000 GMT+3" stop="20260727201500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ1</title>
     <desc lang="el">Η πτήση 981 της Flydubai βουτά στον αεροδιάδρομο του αεροδρομίου του Ροστόφ στη Ρωσία. Οι ερευνητές ανακαλύπτουν μια από τις πιο φονικές παγίδες της αεροπλοΐας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727201000 GMT+3" stop="20260727210000 GMT+3" channel="216459">
+  <programme start="20260727201500 GMT+3" stop="20260727210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ2</title>
     <desc lang="el">Μια πτήση της Martinair πέφτει στην Πορτογαλία λόγω θύελλας και ισχυρής βροχής και όταν οι ερευνητές συγκεντρώνουν όλα τα στοιχεία, το μυστήριο απλώς γίνεται πιο βαθύ. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727210000 GMT+3" stop="20260727214500 GMT+3" channel="216459">
+  <programme start="20260727210000 GMT+3" stop="20260727215000 GMT+3" channel="216459">
     <title lang="el">Μυστικά Αρχαίων Κατασκευών Κ1 ΕΠ6</title>
     <desc lang="el">Η αναζήτηση της ανθρωπότητας για αθανασία έχει δημιουργήσει μνημεία που δείχνουν να υπερβαίνουν τον θάνατο. Από το φωτεινό μάρμαρο του Ταζ Μαχάλ που ενσαρκώνει την αιώνια αγάπη, μέχρι την κρύπτη των αυτοκρατόρων της Δυναστείας των Σαλίων στον Καθεδρικό Ναό του Σπάιερ της Γερμανίας και τους μεγαλοπρεπείς λαξευτούς Λυκιακούς Τάφους στην Τουρκία, αυτά τα κτίσματα κρύβουν στοιχεία για το πώς οι πρόγονοί μας αντιμετώπιζαν τον θάνατο και γιόρταζαν τη ζωή. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727214500 GMT+3" stop="20260727223500 GMT+3" channel="216459">
+  <programme start="20260727215000 GMT+3" stop="20260727224000 GMT+3" channel="216459">
     <title lang="el">Ταξιδιώτες: Εξερευνώντας τα Νερά του Ειρηνικού Κ1 ΕΠ2</title>
     <desc lang="el">Πριν από 4000 χρόνια, ατρόμητοι ταξιδιώτες πλέουν στον ανεξερεύνητο Ειρηνικό Ωκεανό αναζητώντας νησιά για να ξεκινήσουν μια νέα ζωή. Ξεπερνούν ανελέητες θάλασσες και εγκαθίστανται σε νησιά από το Γκουάμ μέχρι το Βανουάτου. Καθοδηγούμενοι από τις ιστορίες των προγόνων τους, γίνονται δεξιοτέχνες θαλασσοπόροι. Αλλά, μετά την άφιξή τους στα νησιά Φίτζι, Σαμόα και Τόνγκα, δυσκολεύονται να βρουν νέα νησιά. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727223500 GMT+3" stop="20260727232000 GMT+3" channel="216459">
+  <programme start="20260727224000 GMT+3" stop="20260727233000 GMT+3" channel="216459">
     <title lang="el">Υπερκατασκευές των Ναζί Κ4 ΕΠ2</title>
     <desc lang="el">Από το Μόντε Κασίνο μέχρι το Σαν Πιέτρο και τελικά την προστασία της Ρώμης, δείτε την απίστευτη ιστορία μιας από τις πιο ισχυρές αμυντικές κατασκευές που δημιούργησαν οι Ναζί. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260727232000 GMT+3" stop="20260728001000 GMT+3" channel="216459">
+  <programme start="20260727233000 GMT+3" stop="20260728001500 GMT+3" channel="216459">
     <title lang="el">Υπερκατασκευές των Ναζί Κ4 ΕΠ3</title>
     <desc lang="el">Η Luftwaffe, μια επαναστατική γερμανική αεροπορική δύναμη, δημιουργήθηκε από το μηδέν από τον Χίτλερ για να αναχαιτίσει τον εχθρό στους ουρανούς. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -83642,8 +83570,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260727030000 GMT+3" stop="20260727040000 GMT+3" channel="1945">
-    <title lang="el">The Whole Story with Anderson Cooper ΕΠ15</title>
-    <desc lang="el">The Whole Story with Anderson Cooper (2026)</desc>
+    <title lang="el">The Whole Story with Anderson Cooper ΕΠ13</title>
+    <desc lang="el">Anderson Cooper hosts a deeply reported series that goes behind the headlines and into the heart of the most important stories of our time. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -97683,109 +97611,109 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260728001000 GMT+3" stop="20260728005500 GMT+3" channel="216459">
+  <programme start="20260728001500 GMT+3" stop="20260728010000 GMT+3" channel="216459">
     <title lang="el">Μυστικά Αρχαίων Κατασκευών Κ1 ΕΠ6</title>
     <desc lang="el">Η αναζήτηση της ανθρωπότητας για αθανασία έχει δημιουργήσει μνημεία που δείχνουν να υπερβαίνουν τον θάνατο. Από το φωτεινό μάρμαρο του Ταζ Μαχάλ που ενσαρκώνει την αιώνια αγάπη, μέχρι την κρύπτη των αυτοκρατόρων της Δυναστείας των Σαλίων στον Καθεδρικό Ναό του Σπάιερ της Γερμανίας και τους μεγαλοπρεπείς λαξευτούς Λυκιακούς Τάφους στην Τουρκία, αυτά τα κτίσματα κρύβουν στοιχεία για το πώς οι πρόγονοί μας αντιμετώπιζαν τον θάνατο και γιόρταζαν τη ζωή. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728005500 GMT+3" stop="20260728014000 GMT+3" channel="216459">
+  <programme start="20260728010000 GMT+3" stop="20260728015000 GMT+3" channel="216459">
     <title lang="el">Ταξιδιώτες: Εξερευνώντας τα Νερά του Ειρηνικού Κ1 ΕΠ2</title>
     <desc lang="el">Πριν από 4000 χρόνια, ατρόμητοι ταξιδιώτες πλέουν στον ανεξερεύνητο Ειρηνικό Ωκεανό αναζητώντας νησιά για να ξεκινήσουν μια νέα ζωή. Ξεπερνούν ανελέητες θάλασσες και εγκαθίστανται σε νησιά από το Γκουάμ μέχρι το Βανουάτου. Καθοδηγούμενοι από τις ιστορίες των προγόνων τους, γίνονται δεξιοτέχνες θαλασσοπόροι. Αλλά, μετά την άφιξή τους στα νησιά Φίτζι, Σαμόα και Τόνγκα, δυσκολεύονται να βρουν νέα νησιά. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728014000 GMT+3" stop="20260728022500 GMT+3" channel="216459">
+  <programme start="20260728015000 GMT+3" stop="20260728023500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ4</title>
     <desc lang="el">Μετά την έκρηξη που ξηλώνει και τις δύο μηχανές από το δεξί φτερό, οι πιλότοι της Transair 671 καταφέρνουν μια απίστευτη προσγείωση σε έναν γαλλικό στρατιωτικό αεροδιάδρομο. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728022500 GMT+3" stop="20260728031500 GMT+3" channel="216459">
+  <programme start="20260728023500 GMT+3" stop="20260728032000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ1</title>
     <desc lang="el">Η πτήση 981 της Flydubai βουτά στον αεροδιάδρομο του αεροδρομίου του Ροστόφ στη Ρωσία. Οι ερευνητές ανακαλύπτουν μια από τις πιο φονικές παγίδες της αεροπλοΐας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728031500 GMT+3" stop="20260728040000 GMT+3" channel="216459">
+  <programme start="20260728032000 GMT+3" stop="20260728040500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ2</title>
     <desc lang="el">Μια πτήση της Martinair πέφτει στην Πορτογαλία λόγω θύελλας και ισχυρής βροχής και όταν οι ερευνητές συγκεντρώνουν όλα τα στοιχεία, το μυστήριο απλώς γίνεται πιο βαθύ. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728040000 GMT+3" stop="20260728044500 GMT+3" channel="216459">
+  <programme start="20260728040500 GMT+3" stop="20260728045500 GMT+3" channel="216459">
     <title lang="el">Μυστικά Αρχαίων Κατασκευών Κ1 ΕΠ6</title>
     <desc lang="el">Η αναζήτηση της ανθρωπότητας για αθανασία έχει δημιουργήσει μνημεία που δείχνουν να υπερβαίνουν τον θάνατο. Από το φωτεινό μάρμαρο του Ταζ Μαχάλ που ενσαρκώνει την αιώνια αγάπη, μέχρι την κρύπτη των αυτοκρατόρων της Δυναστείας των Σαλίων στον Καθεδρικό Ναό του Σπάιερ της Γερμανίας και τους μεγαλοπρεπείς λαξευτούς Λυκιακούς Τάφους στην Τουρκία, αυτά τα κτίσματα κρύβουν στοιχεία για το πώς οι πρόγονοί μας αντιμετώπιζαν τον θάνατο και γιόρταζαν τη ζωή. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728044500 GMT+3" stop="20260728053000 GMT+3" channel="216459">
+  <programme start="20260728045500 GMT+3" stop="20260728054000 GMT+3" channel="216459">
     <title lang="el">Ταξιδιώτες: Εξερευνώντας τα Νερά του Ειρηνικού Κ1 ΕΠ2</title>
     <desc lang="el">Πριν από 4000 χρόνια, ατρόμητοι ταξιδιώτες πλέουν στον ανεξερεύνητο Ειρηνικό Ωκεανό αναζητώντας νησιά για να ξεκινήσουν μια νέα ζωή. Ξεπερνούν ανελέητες θάλασσες και εγκαθίστανται σε νησιά από το Γκουάμ μέχρι το Βανουάτου. Καθοδηγούμενοι από τις ιστορίες των προγόνων τους, γίνονται δεξιοτέχνες θαλασσοπόροι. Αλλά, μετά την άφιξή τους στα νησιά Φίτζι, Σαμόα και Τόνγκα, δυσκολεύονται να βρουν νέα νησιά. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728053000 GMT+3" stop="20260728055500 GMT+3" channel="216459">
+  <programme start="20260728054000 GMT+3" stop="20260728060500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ21</title>
     <desc lang="el">Βλέπουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε ενώ χοροπηδάμε πάνω σε μπάλες γυμναστηρίου και παίζοντας πινγκ πονγκ με μπύρα. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728055500 GMT+3" stop="20260728062000 GMT+3" channel="216459">
+  <programme start="20260728060500 GMT+3" stop="20260728063000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ22</title>
     <desc lang="el">Η μετακίνηση μέσα και πάνω σε πλοία μπορεί να αποδειχθεί δύσκολη υπόθεση. Οι παίχτες του πινγκ πονγκ πρέπει να προετοιμάζονται πριν τα παιχνίδια αλλά πολλά μπορούν να πάνε στραβά. Εάν θέλετε να κάνετε αποτρίχωση, ίσως να πρέπει να στραφείτε στην επιστήμη για συμβουλές. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728062000 GMT+3" stop="20260728070500 GMT+3" channel="216459">
+  <programme start="20260728063000 GMT+3" stop="20260728071500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ3 ΕΠ5</title>
     <desc lang="el">Στον μακρινό βορρά της Νορβηγίας, οι διασώστες με τα δύο φορτηγά έχουν μια απλά δουλειά που δεν σταματά ποτέ: πρέπει να διατηρήσουν ένα οδικό δίκτυο χιλιάδων χιλιομέτρων ανοιχτό, 365 μέρες τον χρόνο. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728070500 GMT+3" stop="20260728075000 GMT+3" channel="216459">
+  <programme start="20260728071500 GMT+3" stop="20260728080000 GMT+3" channel="216459">
     <title lang="el">Οι Τελευταίοι Γίγαντες Κ1 ΕΠ3</title>
     <desc lang="el">Ο Cyril και η ομάδα του από κινηματογραφιστές δράσης συνεχίζουν την επικίνδυνη αναζήτησή τους για τη συλλογή περισσότερων δειγμάτων σολομού στον βόρειο Ειρηνικό. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728075000 GMT+3" stop="20260728083500 GMT+3" channel="216459">
+  <programme start="20260728080000 GMT+3" stop="20260728084000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά - Μέρος B’ Κ2 ΕΠ12</title>
     <desc lang="el">Καθώς οι θερμοκρασίες πέφτουν σε επίπεδα χωρίς προηγούμενο, η επόμενη γενιά κατοίκων της Αλάσκα πρέπει να προσαρμοστούν και να ξεπεράσουν τις δυσκολίες αν θέλουν εξασφαλίσουν τους απαραίτητους πόρους για να επιβιώσουν άλλη μια μέρα. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728083500 GMT+3" stop="20260728092000 GMT+3" channel="216459">
+  <programme start="20260728084000 GMT+3" stop="20260728092500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ4</title>
     <desc lang="el">Μετά την έκρηξη που ξηλώνει και τις δύο μηχανές από το δεξί φτερό, οι πιλότοι της Transair 671 καταφέρνουν μια απίστευτη προσγείωση σε έναν γαλλικό στρατιωτικό αεροδιάδρομο. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728092000 GMT+3" stop="20260728100500 GMT+3" channel="216459">
+  <programme start="20260728092500 GMT+3" stop="20260728101000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ1</title>
     <desc lang="el">Η πτήση 981 της Flydubai βουτά στον αεροδιάδρομο του αεροδρομίου του Ροστόφ στη Ρωσία. Οι ερευνητές ανακαλύπτουν μια από τις πιο φονικές παγίδες της αεροπλοΐας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728100500 GMT+3" stop="20260728105000 GMT+3" channel="216459">
+  <programme start="20260728101000 GMT+3" stop="20260728105500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ2</title>
     <desc lang="el">Μια πτήση της Martinair πέφτει στην Πορτογαλία λόγω θύελλας και ισχυρής βροχής και όταν οι ερευνητές συγκεντρώνουν όλα τα στοιχεία, το μυστήριο απλώς γίνεται πιο βαθύ. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728105000 GMT+3" stop="20260728114000 GMT+3" channel="216459">
+  <programme start="20260728105500 GMT+3" stop="20260728114500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ13</title>
     <desc lang="el">Τον τελευταίο αιώνα, έχει ανακαλυφθεί ένα νέο είδος θαλάσσιων γιγάντων. Θαλάσσιοι αρχαιολόγοι και ιστορικοί αναζητούν τα μεγαλύτερα ναυάγια που έχουν βυθιστεί στις θάλασσες του κόσμου. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728114000 GMT+3" stop="20260728123000 GMT+3" channel="216459">
+  <programme start="20260728114500 GMT+3" stop="20260728123500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ2 ΕΠ14</title>
     <desc lang="el">Το 1942, μια χώρα, η Ιαπωνία, κυριάρχησε στην περιοχή του Ειρηνικού και κατάφερε μεγάλο πλήγμα στους Συμμάχους. Το μυστικό για το πώς τα κατάφερε περιμένει ακόμα να ανακαλυφθεί. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728123000 GMT+3" stop="20260728132000 GMT+3" channel="216459">
+  <programme start="20260728123500 GMT+3" stop="20260728132000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ3 ΕΠ6</title>
     <desc lang="el">Οι διασώστες των παγωμένων δρόμων δουλεύουν όλο το 24ωρο. Ο μόνος τρόπος για να περάσουν χρόνο με την οικογένειά τους είναι να μετατρέψουν τον χώρο εργασίας σε σπίτι και σε ένα μέρος που θα υποδέχεται οικογένεια και φίλους. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -97815,67 +97743,67 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728162000 GMT+3" stop="20260728170500 GMT+3" channel="216459">
+  <programme start="20260728162000 GMT+3" stop="20260728171000 GMT+3" channel="216459">
     <title lang="el">Νησί Χωρίς Κανόνες Κ5 ΕΠ8</title>
     <desc lang="el">Οι κάτοικοι του Port Protection σπεύδουν να φτιάξουν καταφύγιο για τον πιο πρόσφατο κάτοικο της περιοχής πριν ο σκληρός και αδυσώπητος χειμώνας χτυπήσει την πόλη. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728170500 GMT+3" stop="20260728175500 GMT+3" channel="216459">
+  <programme start="20260728171000 GMT+3" stop="20260728175500 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ12 ΕΠ8</title>
     <desc lang="el">Τα παιδιά αναλαμβάνουν ένα VW Golf GTi Mk2, ένα κλασικό αμάξι της δεκαετίας του &apos;80 που ανήκει στον πρώην οδηγό λεωφορείου Ντάρεν, ο οποίος τραυματίστηκε σοβαρά σε αυτοκινητιστικό. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728175500 GMT+3" stop="20260728181500 GMT+3" channel="216459">
+  <programme start="20260728175500 GMT+3" stop="20260728182000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ23</title>
     <desc lang="el">Μια εκπομπή που συνδυάζει την επιστήμη και τα βίντεο των τηλεθεατών για να σας αποκαλύψει πώς μπορείτε να ντροπιαστείτε κάνοντας τζετ σκι ή απλά πηγαίνοντας σε έναν γάμο. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728181500 GMT+3" stop="20260728184000 GMT+3" channel="216459">
+  <programme start="20260728182000 GMT+3" stop="20260728184500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ2 ΕΠ24</title>
     <desc lang="el">Η επιστήμη σας δείχνει πώς μπορείτε να τραυματιστείτε και να ντροπιαστείτε ενώ παίζετε ρακέτες, χορεύετε πάνω σε καρέκλα ή κάνοντας ποδήλατο. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728184000 GMT+3" stop="20260728192500 GMT+3" channel="216459">
+  <programme start="20260728184500 GMT+3" stop="20260728193000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ10</title>
     <desc lang="el">Όταν ο θρύλος του μπάσκετ Κόμπε Μπράιαντ σκοτώνεται σε συντριβή ελικοπτέρου στο Λος Άντζελες, οι ερευνητές αναζητούν στοιχεία εν μέσω της παγκόσμιας θλίψης. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728192500 GMT+3" stop="20260728201000 GMT+3" channel="216459">
+  <programme start="20260728193000 GMT+3" stop="20260728201500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ9</title>
     <desc lang="el">Όταν ένα αεροσκάφος με στροβιλοκινητήρες πέφτει στη Βόρεια Καρολίνα, οι ερευνητές καταφεύγουν σε μια ριψοκίνδυνη δοκιμαστική πτήση - και ανακαλύπτουν ένα πρόβλημα ασφαλείας που εκτείνεται σε όλον τον χώρο της αεροπλοΐας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728201000 GMT+3" stop="20260728210000 GMT+3" channel="216459">
+  <programme start="20260728201500 GMT+3" stop="20260728210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ7</title>
     <desc lang="el">Αντιμετωπίζοντας μια τρομερή θύελλα και την κατάρρευση του πύργου ελέγχου, η πτήση 1572 της American Airlines χάνει και τις δύο μηχανές της πλησιάζοντας στο αεροδρόμιο Windsor Locks του Κονέκτικατ. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728210000 GMT+3" stop="20260728214500 GMT+3" channel="216459">
+  <programme start="20260728210000 GMT+3" stop="20260728215000 GMT+3" channel="216459">
     <title lang="el">Θαλάσσιες Υπερ-Μηχανές Κ3 ΕΠ7</title>
     <desc lang="el">Με κίνητρο το όραμα ενός ανθρώπου, ο Σίγκουρντ Ας ξεκινά να ανακατασκευάσει το μεγαλύτερο πλοίο των Βίκινγκ και να το διασχίσει τον Ατλαντικό χρησιμοποιώντας μόνο αρχαία σχέδια. Δίνοντας μάχη με καταιγίδες, κόπωση και αδυσώπητες θάλασσες, το πλήρωμα πρέπει να αποδείξει ότι το πλοίο μπορεί να επιβιώσει στην ανοιχτή θάλασσα και να φτάσει στη Βόρεια Αμερική χωρίς κινητήρες ή σύγχρονη τεχνολογία. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728214500 GMT+3" stop="20260728223500 GMT+3" channel="216459">
+  <programme start="20260728215000 GMT+3" stop="20260728224000 GMT+3" channel="216459">
     <title lang="el">Αποκάλυψη: Η Πτώση του Χίτλερ Κ1 ΕΠ1</title>
     <desc lang="el">Καλοκαίρι 1943. Η προσπάθεια του Χίτλερ να καταστρέψει τις σοβιετικές δυνάμεις στα ουκρανικά σύνορα είναι μια πλήρης αποτυχία. Η οπισθοχώρηση έρχεται καθώς οι Σύμμαχοι ανοίγουν μια δεύτερη γραμμή μετώπου στη Σικελία, αναγκάζοντας τον Χίτλερ να διαιρέσει τα στρατεύματά του. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260728223500 GMT+3" stop="20260728232000 GMT+3" channel="216459">
+  <programme start="20260728224000 GMT+3" stop="20260728232500 GMT+3" channel="216459">
     <title lang="el">Υπερκατασκευές των Ναζί Κ4 ΕΠ4</title>
     <desc lang="el">Κατά τη διάρκεια της σκληρής μάχης του Βερολίνου το 1945, 100.000 Γερμανοί πολίτες πολέμησαν μέχρι θανάτου και 6.000 αυτοκτόνησαν. Πώς κατάφεραν οι Ναζί να τους πείσουν να πολεμήσουν ενώ ήξεραν ότι η ήττα ήταν αναπόφευκτη; (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260728232000 GMT+3" stop="20260729001000 GMT+3" channel="216459">
+  <programme start="20260728232500 GMT+3" stop="20260729001500 GMT+3" channel="216459">
     <title lang="el">Υπερκατασκευές των Ναζί Κ4 ΕΠ5</title>
     <desc lang="el">Πρόκειται για μια από τις πιο τολμηρές επιχειρήσεις του Β&apos; ΠΠ: Η κατοχή και οχύρωση της Νορβηγίας. Ο Χίτλερ απαιτεί ακραίες άμυνες κατά μήκος των 1500 μιλίων ακτογραμμής για να εμποδίσει την εισβολή των Συμμάχων, όπως μερικά από τα μεγαλύτερα κανόνια ολόκληρου του πολέμου. (2017)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -101068,7 +100996,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260728003000 GMT+3" stop="20260728010000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ409</title>
+    <title lang="el">World Sport ΕΠ148</title>
     <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -115232,25 +115160,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260729001000 GMT+3" stop="20260729005500 GMT+3" channel="216459">
+  <programme start="20260729001500 GMT+3" stop="20260729010000 GMT+3" channel="216459">
     <title lang="el">Θαλάσσιες Υπερ-Μηχανές Κ3 ΕΠ7</title>
     <desc lang="el">Με κίνητρο το όραμα ενός ανθρώπου, ο Σίγκουρντ Ας ξεκινά να ανακατασκευάσει το μεγαλύτερο πλοίο των Βίκινγκ και να το διασχίσει τον Ατλαντικό χρησιμοποιώντας μόνο αρχαία σχέδια. Δίνοντας μάχη με καταιγίδες, κόπωση και αδυσώπητες θάλασσες, το πλήρωμα πρέπει να αποδείξει ότι το πλοίο μπορεί να επιβιώσει στην ανοιχτή θάλασσα και να φτάσει στη Βόρεια Αμερική χωρίς κινητήρες ή σύγχρονη τεχνολογία. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260729005500 GMT+3" stop="20260729014000 GMT+3" channel="216459">
+  <programme start="20260729010000 GMT+3" stop="20260729014500 GMT+3" channel="216459">
     <title lang="el">Αποκάλυψη: Η Πτώση του Χίτλερ Κ1 ΕΠ1</title>
     <desc lang="el">Καλοκαίρι 1943. Η προσπάθεια του Χίτλερ να καταστρέψει τις σοβιετικές δυνάμεις στα ουκρανικά σύνορα είναι μια πλήρης αποτυχία. Η οπισθοχώρηση έρχεται καθώς οι Σύμμαχοι ανοίγουν μια δεύτερη γραμμή μετώπου στη Σικελία, αναγκάζοντας τον Χίτλερ να διαιρέσει τα στρατεύματά του. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260729014000 GMT+3" stop="20260729022500 GMT+3" channel="216459">
+  <programme start="20260729014500 GMT+3" stop="20260729023000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ10</title>
     <desc lang="el">Όταν ο θρύλος του μπάσκετ Κόμπε Μπράιαντ σκοτώνεται σε συντριβή ελικοπτέρου στο Λος Άντζελες, οι ερευνητές αναζητούν στοιχεία εν μέσω της παγκόσμιας θλίψης. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260729022500 GMT+3" stop="20260729031500 GMT+3" channel="216459">
+  <programme start="20260729023000 GMT+3" stop="20260729031500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ21 ΕΠ9</title>
     <desc lang="el">Όταν ένα αεροσκάφος με στροβιλοκινητήρες πέφτει στη Βόρεια Καρολίνα, οι ερευνητές καταφεύγουν σε μια ριψοκίνδυνη δοκιμαστική πτήση - και ανακαλύπτουν ένα πρόβλημα ασφαλείας που εκτείνεται σε όλον τον χώρο της αεροπλοΐας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
