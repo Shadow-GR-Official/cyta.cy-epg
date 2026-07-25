@@ -70587,6 +70587,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="8242886">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -70650,6 +70656,12 @@
   <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -71142,6 +71154,30 @@
   <programme start="20260727023000 GMT+3" stop="20260727030000 GMT+3" channel="54111722">
     <title lang="el">PL Stories</title>
     <desc lang="el">‘A Family United’, tells the story of the Singh brothers; lifelong Manchester United fans who have followed the club through every twist of its Premier League journey. From the glory years under Sir Alex Fergsuson to the highs and lows that followed, the brothers relive the moments, memories and matches that shaped both their lives and their bond as a family.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727030000 GMT+3" stop="20260727090000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727090000 GMT+3" stop="20260727150000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727150000 GMT+3" stop="20260727210000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727210000 GMT+3" stop="20260728030000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -72510,6 +72546,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="52105043">
+    <title lang="el">MAN UTD TV</title>
+    <desc lang="el">MAN UTD TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260727060000 GMT+3" stop="20260727120000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -72573,6 +72615,12 @@
   <programme start="20260727180000 GMT+3" stop="20260728000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260727000000 GMT+3" stop="20260727060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -74291,6 +74339,24 @@
     <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260728060000 GMT+3" stop="20260728120000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728120000 GMT+3" stop="20260728180000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728180000 GMT+3" stop="20260729000000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260728000000 GMT+3" stop="20260728010000 GMT+3" channel="574264">
     <title lang="el">Φάσμα Κ4 ΕΠ1</title>
@@ -88559,6 +88625,30 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260728030000 GMT+3" stop="20260728090000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728090000 GMT+3" stop="20260728150000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728150000 GMT+3" stop="20260728210000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260728210000 GMT+3" stop="20260729030000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260728000000 GMT+3" stop="20260728013000 GMT+3" channel="94430673">
     <title lang="el">Robbo: My Liverpool</title>
     <desc lang="el">A brand-new exclusive LFC Original documentary paying tribute to Andy Robertson and his remarkable nine-year journey at Liverpool.</desc>
@@ -91907,6 +91997,30 @@
     <desc lang="el">Τα πάντα για ένα μωρό – thriller – 15</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260729000000 GMT+3" stop="20260729060000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729060000 GMT+3" stop="20260729120000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729120000 GMT+3" stop="20260729180000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729180000 GMT+3" stop="20260730000000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260729000000 GMT+3" stop="20260729010000 GMT+3" channel="574264">
     <title lang="el">Συνθέσεις Κ2 ΕΠ1</title>
@@ -106012,6 +106126,30 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260729030000 GMT+3" stop="20260729090000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729090000 GMT+3" stop="20260729150000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729150000 GMT+3" stop="20260729210000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260729210000 GMT+3" stop="20260730030000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260729000000 GMT+3" stop="20260729010000 GMT+3" channel="94430673">
     <title lang="el">Salah: Farewell to The King</title>
     <desc lang="el">An exclusive LFC Original documentary celebrating Mohamed Salah’s extraordinary legacy at Liverpool.</desc>
@@ -109307,6 +109445,30 @@
     <desc lang="el">Αμάνικο παθός – thriller</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260730000000 GMT+3" stop="20260730060000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730060000 GMT+3" stop="20260730120000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730120000 GMT+3" stop="20260730180000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730180000 GMT+3" stop="20260731000000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260730000000 GMT+3" stop="20260730010000 GMT+3" channel="574264">
     <title lang="el">ΠΡΟΣΩΠΙΚΑ (E)</title>
@@ -123285,6 +123447,30 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260730030000 GMT+3" stop="20260730090000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730090000 GMT+3" stop="20260730150000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730150000 GMT+3" stop="20260730210000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260730210000 GMT+3" stop="20260731030000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260730010000 GMT+3" stop="20260730011500 GMT+3" channel="94430673">
     <title lang="el">Goal Rush: Dominik Szoboszlai</title>
     <desc lang="el">Enjoy a selection of memorable goals scored by Dominik Szoboszlai.</desc>
@@ -126660,6 +126846,30 @@
   <programme start="20260731231500 GMT+3" stop="20260801021000 GMT+3" channel="561166">
     <title lang="el">Ξένη ταινία – 12</title>
     <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731000000 GMT+3" stop="20260731060000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731060000 GMT+3" stop="20260731120000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731120000 GMT+3" stop="20260731180000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731180000 GMT+3" stop="20260801000000 GMT+3" channel="561178">
+    <title lang="el">This is One Channel CY</title>
+    <desc lang="el">This is One Channel CY</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -139913,6 +140123,30 @@
   <programme start="20260731040000 GMT+3" stop="20260731060000 GMT+3" channel="53005467">
     <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
     <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731030000 GMT+3" stop="20260731090000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731090000 GMT+3" stop="20260731150000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731150000 GMT+3" stop="20260731210000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260731210000 GMT+3" stop="20260801030000 GMT+3" channel="54111722">
+    <title lang="el">This is Premiere League TV</title>
+    <desc lang="el">This is Premiere League TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
