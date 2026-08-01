@@ -75718,6 +75718,24 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260803110000 GMT+3" stop="20260803123000 GMT+3" channel="604956">
+    <title lang="el">RALLY ESTONIA 2026 - Live Stage 5 (90)   19/7/26</title>
+    <desc lang="el">WORLD RALLY CHAMPIONSHIP 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260803123000 GMT+3" stop="20260803143000 GMT+3" channel="604956">
+    <title lang="el">AEL - LEGIA (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260803143000 GMT+3" stop="20260803150000 GMT+3" channel="604956">
+    <title lang="el">SAILING TO THE GAMES 2025 LA EDITION 2025 EP.6</title>
+    <desc lang="el">SAILING TO THE GAMES 2025</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260803150000 GMT+3" stop="20260803170000 GMT+3" channel="604956">
     <title lang="el">ΕΘΝΙΚΟΣ ΑΧΝΑΣ - ΠΑΦΟΣ 31/1/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
@@ -77743,6 +77761,24 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260803110000 GMT+3" stop="20260803123000 GMT+3" channel="52101919">
+    <title lang="el">RALLY ESTONIA 2026 - Live Stage 5 (90)   19/7/26</title>
+    <desc lang="el">WORLD RALLY CHAMPIONSHIP 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260803123000 GMT+3" stop="20260803143000 GMT+3" channel="52101919">
+    <title lang="el">AEL - LEGIA (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260803143000 GMT+3" stop="20260803150000 GMT+3" channel="52101919">
+    <title lang="el">SAILING TO THE GAMES 2025 LA EDITION 2025 EP.6</title>
+    <desc lang="el">SAILING TO THE GAMES 2025</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260803150000 GMT+3" stop="20260803170000 GMT+3" channel="52101919">
     <title lang="el">ΕΘΝΙΚΟΣ ΑΧΝΑΣ - ΠΑΦΟΣ 31/1/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
@@ -78026,12 +78062,6 @@
     <rating>K</rating>
   </programme>
   <programme start="20260803120000 GMT+3" stop="20260803180000 GMT+3" channel="77956035">
-    <title lang="el">REAL MADRID TV</title>
-    <desc lang="el">REAL MADRID TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260803180000 GMT+3" stop="20260804060000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -95513,6 +95543,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260804000000 GMT+3" stop="20260804060000 GMT+3" channel="74516237">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260804060000 GMT+3" stop="20260804120000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -97511,6 +97547,12 @@
   <programme start="20260804214500 GMT+3" stop="20260805000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260804000000 GMT+3" stop="20260804060000 GMT+3" channel="77956035">
+    <title lang="el">REAL MADRID TV</title>
+    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -134205,6 +134247,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260806200000 GMT+3" stop="20260806220000 GMT+3" channel="8242848">
+    <title lang="el">LINCOLN RED IMPS - OMONOIA (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260806220000 GMT+3" stop="20260807060000 GMT+3" channel="8242848">
     <title lang="el">KAIRAT ALMATY - OMONOIA 29/7/26</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
@@ -134319,6 +134367,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260806180000 GMT+3" stop="20260806200000 GMT+3" channel="8242862">
+    <title lang="el">AEL - ATROMITOS (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806200000 GMT+3" stop="20260807060000 GMT+3" channel="8242862">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260806000000 GMT+3" stop="20260806060000 GMT+3" channel="8242886">
     <title lang="el">ATP 1000 - MONTREAL (MD 4) (Z)</title>
     <desc lang="el">2026 ATP 1000 - MONTREAL</desc>
@@ -134368,6 +134428,18 @@
     <rating>K</rating>
   </programme>
   <programme start="20260806120000 GMT+3" stop="20260806190000 GMT+3" channel="8243873">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806190000 GMT+3" stop="20260806210000 GMT+3" channel="8243873">
+    <title lang="el">ARIS - AL SADD (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806210000 GMT+3" stop="20260807060000 GMT+3" channel="8243873">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
@@ -136269,6 +136341,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260806200000 GMT+3" stop="20260806220000 GMT+3" channel="52098866">
+    <title lang="el">LINCOLN RED IMPS - OMONOIA (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260806220000 GMT+3" stop="20260807060000 GMT+3" channel="52098866">
     <title lang="el">KAIRAT ALMATY - OMONOIA 29/7/26</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
@@ -136383,6 +136461,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260806180000 GMT+3" stop="20260806200000 GMT+3" channel="52103938">
+    <title lang="el">AEL - ATROMITOS (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806200000 GMT+3" stop="20260807060000 GMT+3" channel="52103938">
+    <title lang="el">LIVERPOOL TV</title>
+    <desc lang="el">LIVERPOOL TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260806000000 GMT+3" stop="20260806060000 GMT+3" channel="52105043">
     <title lang="el">ATP 1000 - MONTREAL (MD 4) (Z)</title>
     <desc lang="el">2026 ATP 1000 - MONTREAL</desc>
@@ -136432,6 +136522,18 @@
     <rating>K</rating>
   </programme>
   <programme start="20260806120000 GMT+3" stop="20260806190000 GMT+3" channel="52103947">
+    <title lang="el">MOTORVISION</title>
+    <desc lang="el">MOTORVISION</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806190000 GMT+3" stop="20260806210000 GMT+3" channel="52103947">
+    <title lang="el">ARIS - AL SADD (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260806210000 GMT+3" stop="20260807060000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
