@@ -56250,7 +56250,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260802060000 GMT+3" stop="20260802083000 GMT+3" channel="74516237">
-    <title lang="el">ATP 250 - LOS CABOS (FINAL) (Z)</title>
+    <title lang="el">Arthur GEA - Denis SHAPOVALOV (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - LOS CABOS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -58356,7 +58356,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260802060000 GMT+3" stop="20260802083000 GMT+3" channel="77956035">
-    <title lang="el">ATP 250 - LOS CABOS (FINAL) (Z)</title>
+    <title lang="el">Arthur GEA - Denis SHAPOVALOV (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - LOS CABOS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -75718,18 +75718,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260803110000 GMT+3" stop="20260803130000 GMT+3" channel="604956">
-    <title lang="el">BARCELONA - ATLETICO MADRID 2/12/25</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260803130000 GMT+3" stop="20260803150000 GMT+3" channel="604956">
-    <title lang="el">LEEDS - ASTON VILLA 23/11/25</title>
-    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260803150000 GMT+3" stop="20260803170000 GMT+3" channel="604956">
     <title lang="el">ΕΘΝΙΚΟΣ ΑΧΝΑΣ - ΠΑΦΟΣ 31/1/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
@@ -77755,18 +77743,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260803110000 GMT+3" stop="20260803130000 GMT+3" channel="52101919">
-    <title lang="el">BARCELONA - ATLETICO MADRID 2/12/25</title>
-    <desc lang="el">LA LIGA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260803130000 GMT+3" stop="20260803150000 GMT+3" channel="52101919">
-    <title lang="el">LEEDS - ASTON VILLA 23/11/25</title>
-    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260803150000 GMT+3" stop="20260803170000 GMT+3" channel="52101919">
     <title lang="el">ΕΘΝΙΚΟΣ ΑΧΝΑΣ - ΠΑΦΟΣ 31/1/26</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2025-26</desc>
@@ -78055,7 +78031,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260803180000 GMT+3" stop="20260804000000 GMT+3" channel="77956035">
+  <programme start="20260803180000 GMT+3" stop="20260804060000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -95537,12 +95513,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260804000000 GMT+3" stop="20260804060000 GMT+3" channel="74516237">
-    <title lang="el">REAL MADRID TV</title>
-    <desc lang="el">REAL MADRID TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260804060000 GMT+3" stop="20260804120000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -97292,7 +97262,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260804210000 GMT+3" stop="20260805000000 GMT+3" channel="52101919">
+  <programme start="20260804210000 GMT+3" stop="20260805060000 GMT+3" channel="52101919">
     <title lang="el">KAIRAT ALMATY - OMONOIA 29/7/26</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
@@ -97541,12 +97511,6 @@
   <programme start="20260804214500 GMT+3" stop="20260805000000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260804000000 GMT+3" stop="20260804060000 GMT+3" channel="77956035">
-    <title lang="el">REAL MADRID TV</title>
-    <desc lang="el">REAL MADRID TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -114709,30 +114673,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260805000000 GMT+3" stop="20260805010000 GMT+3" channel="604956">
-    <title lang="el">AUTONOMOUS RACING LEAGUE - DELAYED LIVE FEED EP.1 (59)</title>
-    <desc lang="el">AUTONOMOUS RACING LEAGUE - DELAYED LIVE FEED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805010000 GMT+3" stop="20260805030000 GMT+3" channel="604956">
-    <title lang="el">L.A. LAKERS - GOLDEN STATE 8/2/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805030000 GMT+3" stop="20260805050000 GMT+3" channel="604956">
-    <title lang="el">ΝΕΑ ΣΑΛΑΜΙΝΑ - ΑΓΙΑ ΝΑΠΑ 4/4/26</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ Β’ ΚΑΤΗΓΟΡΙΑΣ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805050000 GMT+3" stop="20260805074500 GMT+3" channel="604956">
-    <title lang="el">Jannik SINNER - Nuno BORGES 1/7/26</title>
-    <desc lang="el">WIMBLEDON CHAMPIONSHIPS 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260805074500 GMT+3" stop="20260805080000 GMT+3" channel="604956">
     <title lang="el">Made in Italy clips : INTER (15) 19/6/26</title>
     <desc lang="el">ITALIAN SERIE A 2025-26</desc>
@@ -114776,7 +114716,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260805200000 GMT+3" stop="20260805220000 GMT+3" channel="604956">
-    <title lang="el">DILA GORI - APOLLON 23/7/26</title>
+    <title lang="el">BRANN  - APOLLON (Z)</title>
     <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -116744,30 +116684,6 @@
   <programme start="20260805233000 GMT+3" stop="20260806001500 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Ινσμπρουκ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Ινσμπρουκ - BOULDER - Τελικός (ΓΥΝΑΙΚΕΣ)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805000000 GMT+3" stop="20260805010000 GMT+3" channel="52101919">
-    <title lang="el">AUTONOMOUS RACING LEAGUE - DELAYED LIVE FEED EP.1 (59)</title>
-    <desc lang="el">AUTONOMOUS RACING LEAGUE - DELAYED LIVE FEED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805010000 GMT+3" stop="20260805030000 GMT+3" channel="52101919">
-    <title lang="el">L.A. LAKERS - GOLDEN STATE 8/2/26</title>
-    <desc lang="el">NBA 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805030000 GMT+3" stop="20260805050000 GMT+3" channel="52101919">
-    <title lang="el">ΝΕΑ ΣΑΛΑΜΙΝΑ - ΑΓΙΑ ΝΑΠΑ 4/4/26</title>
-    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ Β’ ΚΑΤΗΓΟΡΙΑΣ 2025-26</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260805050000 GMT+3" stop="20260805074500 GMT+3" channel="52101919">
-    <title lang="el">Jannik SINNER - Nuno BORGES 1/7/26</title>
-    <desc lang="el">WIMBLEDON CHAMPIONSHIPS 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -134230,8 +134146,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260806200000 GMT+3" stop="20260806220000 GMT+3" channel="604956">
-    <title lang="el">BRENTFORD - BURNLEY 29/11/25</title>
-    <desc lang="el">PREMIER LEAGUE 2025-26</desc>
+    <title lang="el">SALZBURG  - PAFOS (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -134283,15 +134199,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806183000 GMT+3" stop="20260806213000 GMT+3" channel="8242848">
+  <programme start="20260806183000 GMT+3" stop="20260806200000 GMT+3" channel="8242848">
     <title lang="el">MILAN TV</title>
     <desc lang="el">MILAN TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260806213000 GMT+3" stop="20260806220000 GMT+3" channel="8242848">
-    <title lang="el">INSIDE SAILING 2026 EP.5</title>
-    <desc lang="el">INSIDE SAILING 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -134409,12 +134319,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806180000 GMT+3" stop="20260807060000 GMT+3" channel="8242862">
-    <title lang="el">LIVERPOOL TV</title>
-    <desc lang="el">LIVERPOOL TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260806000000 GMT+3" stop="20260806060000 GMT+3" channel="8242886">
     <title lang="el">ATP 1000 - MONTREAL (MD 4) (Z)</title>
     <desc lang="el">2026 ATP 1000 - MONTREAL</desc>
@@ -134463,13 +134367,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806120000 GMT+3" stop="20260806180000 GMT+3" channel="8243873">
-    <title lang="el">MOTORVISION</title>
-    <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260806180000 GMT+3" stop="20260807060000 GMT+3" channel="8243873">
+  <programme start="20260806120000 GMT+3" stop="20260806190000 GMT+3" channel="8243873">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
@@ -136365,15 +136263,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806183000 GMT+3" stop="20260806213000 GMT+3" channel="52098866">
+  <programme start="20260806183000 GMT+3" stop="20260806200000 GMT+3" channel="52098866">
     <title lang="el">MILAN TV</title>
     <desc lang="el">MILAN TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260806213000 GMT+3" stop="20260806220000 GMT+3" channel="52098866">
-    <title lang="el">INSIDE SAILING 2026 EP.5</title>
-    <desc lang="el">INSIDE SAILING 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -136491,12 +136383,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806180000 GMT+3" stop="20260807060000 GMT+3" channel="52103938">
-    <title lang="el">LIVERPOOL TV</title>
-    <desc lang="el">LIVERPOOL TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260806000000 GMT+3" stop="20260806060000 GMT+3" channel="52105043">
     <title lang="el">ATP 1000 - MONTREAL (MD 4) (Z)</title>
     <desc lang="el">2026 ATP 1000 - MONTREAL</desc>
@@ -136545,13 +136431,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260806120000 GMT+3" stop="20260806180000 GMT+3" channel="52103947">
-    <title lang="el">MOTORVISION</title>
-    <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260806180000 GMT+3" stop="20260807060000 GMT+3" channel="52103947">
+  <programme start="20260806120000 GMT+3" stop="20260806190000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
     <category lang="el">Αθλητικά</category>
