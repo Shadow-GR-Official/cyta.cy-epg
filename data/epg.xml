@@ -21242,8 +21242,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260811170000 GMT+3" stop="20260811180000 GMT+3" channel="54184415">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ26</title>
+    <desc lang="el">Ο Πέτρος μαθαίνει για τις μηχανορραφίες της Κατερίνας με τα εισιτήρια για το Περού και δε θέλει να την ξαναδεί μπροστά του, την ίδια στιγμή που ο Χριστόφορος, τρελαμένος απ’ τη ζήλια για τη Βιολέτα, ακολουθεί τον Ορφέα για να μάθει όσο καλύτερα μπορεί τον αντίζηλό του. Ο Γρηγόρης βιάζεται για το γάμο με τη Μάρθα κι εκείνη αισθάνεται ότι πιέζεται, ενώ τα παιδιά συνεχίζουν να είναι αρνητικά και ο Ευτύχης απαρηγόρητος.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -22345,21 +22345,21 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811180000 GMT+3" stop="20260811185000 GMT+3" channel="206750">
-    <title lang="el">ΜΕΓΑΣ ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΩΝ ΣΤΗΝ ΥΠΕΡΑΓΙΑ ΘΕΟΤΟΚΟ</title>
-    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης. Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία.</desc>
+  <programme start="20260811180000 GMT+3" stop="20260811184000 GMT+3" channel="206750">
+    <title lang="el">Λογος Οικοδομης</title>
+    <desc lang="el">Θέμα: Άγιος Γρηγόριος ο Παλαμάς - Με τον Σεβ. Μητρ. Βεροίας, Ναούσης και Καμπανίας κ. Παντελεήμονα</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811185000 GMT+3" stop="20260811191500 GMT+3" channel="206750">
+  <programme start="20260811184000 GMT+3" stop="20260811190500 GMT+3" channel="206750">
     <title lang="el">ΕΠΙ ΤΑΣ ΠΗΓΑΣ ΤΩΝ ΥΔΑΤΩΝ</title>
     <desc lang="el">Από τον άμβωνα του Ι. Ναού Αγ. Λυδίας στην Ασπροβάλτα Θεσσαλονίκης. Η εκπομπή αναλύει το Ευαγγελικό-Αποστολικό Ανάγνωσμα της Κυριακής και των μεγάλων εορτών, δίνοντας μηνύματα στον αγχωμένο και προβληματισμένο άνθρωπο της εποχής μας.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811191500 GMT+3" stop="20260811200000 GMT+3" channel="206750">
-    <title lang="el">Λογος Οικοδομης</title>
-    <desc lang="el">Θέμα: Άγιος Γρηγόριος ο Παλαμάς - Με τον Σεβ. Μητρ. Βεροίας, Ναούσης και Καμπανίας κ. Παντελεήμονα</desc>
+  <programme start="20260811190500 GMT+3" stop="20260811200000 GMT+3" channel="206750">
+    <title lang="el">ΜΕΓΑΣ ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΩΝ ΣΤΗΝ ΥΠΕΡΑΓΙΑ ΘΕΟΤΟΚΟ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης. Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -22766,8 +22766,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260811170000 GMT+3" stop="20260811180000 GMT+3" channel="289542">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ26</title>
+    <desc lang="el">Ο Πέτρος μαθαίνει για τις μηχανορραφίες της Κατερίνας με τα εισιτήρια για το Περού και δε θέλει να την ξαναδεί μπροστά του, την ίδια στιγμή που ο Χριστόφορος, τρελαμένος απ’ τη ζήλια για τη Βιολέτα, ακολουθεί τον Ορφέα για να μάθει όσο καλύτερα μπορεί τον αντίζηλό του. Ο Γρηγόρης βιάζεται για το γάμο με τη Μάρθα κι εκείνη αισθάνεται ότι πιέζεται, ενώ τα παιδιά συνεχίζουν να είναι αρνητικά και ο Ευτύχης απαρηγόρητος.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -39062,25 +39062,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811160000 GMT+3" stop="20260811180000 GMT+3" channel="46137467">
+  <programme start="20260811160000 GMT+3" stop="20260811190000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811180000 GMT+3" stop="20260811200000 GMT+3" channel="46137467">
+  <programme start="20260811190000 GMT+3" stop="20260811203000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811200000 GMT+3" stop="20260811220000 GMT+3" channel="46137467">
+  <programme start="20260811203000 GMT+3" stop="20260811223000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260811220000 GMT+3" stop="20260812000000 GMT+3" channel="46137467">
+  <programme start="20260811223000 GMT+3" stop="20260812003000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -40979,8 +40979,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260812044000 GMT+3" stop="20260812053000 GMT+3" channel="54184415">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -41057,8 +41057,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260812170000 GMT+3" stop="20260812180000 GMT+3" channel="54184415">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ27</title>
+    <desc lang="el">Η σχέση της Βιολέτας και του Ορφέα προχωράει, ενώ ο Χριστόφορος προσποιείται με μεγάλη επιτυχία τον ζακυνθινό ταξιτζή, νέο κολλητό του Ορφέα...!!! Η Πηνελόπη προσπαθεί να συμπαρασταθεί στον Αντώνη που είναι ακόμη στο στρατό, ενώ η Ιουλία προσπαθεί να βρει τρόπους να τον φέρει πίσω. Ο Ευτύχης μεταφέρει όλη του τη δημιουργικότητα στο ριάλιτι των συγκατοίκων...</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -42160,21 +42160,21 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812180000 GMT+3" stop="20260812185500 GMT+3" channel="206750">
+  <programme start="20260812180000 GMT+3" stop="20260812191000 GMT+3" channel="206750">
+    <title lang="el">ΜΟΥΣΙΚΗ ΕΚΔΗΛΩΣΗ</title>
+    <desc lang="el">Η Πηγή της Ζωής (ύμνοι προς την Παναγία-Πέτρος Γαϊτάνος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260812191000 GMT+3" stop="20260812200000 GMT+3" channel="206750">
     <title lang="el">ΜΙΚΡΟΣ ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΩΝ ΣΤΗΝ ΥΠΕΡΑΓΙΑ ΘΕΟΤΟΚΟ</title>
     <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης. Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812185500 GMT+3" stop="20260812191500 GMT+3" channel="206750">
+  <programme start="20260812200000 GMT+3" stop="20260812202500 GMT+3" channel="206750">
     <title lang="el">ΕΠΙ ΤΑΣ ΠΗΓΑΣ ΤΩΝ ΥΔΑΤΩΝ</title>
     <desc lang="el">Από τον άμβωνα του Ι. Ναού Αγ. Λυδίας στην Ασπροβάλτα Θεσσαλονίκης. Η εκπομπή αναλύει το Ευαγγελικό-Αποστολικό Ανάγνωσμα της Κυριακής και των μεγάλων εορτών, δίνοντας μηνύματα στον αγχωμένο και προβληματισμένο άνθρωπο της εποχής μας.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260812191500 GMT+3" stop="20260812202500 GMT+3" channel="206750">
-    <title lang="el">ΜΟΥΣΙΚΗ ΕΚΔΗΛΩΣΗ</title>
-    <desc lang="el">Η Πηγή της Ζωής (ύμνοι προς την Παναγία-Πέτρος Γαϊτάνος)</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -42491,8 +42491,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260812044000 GMT+3" stop="20260812053000 GMT+3" channel="289542">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -42569,8 +42569,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260812170000 GMT+3" stop="20260812180000 GMT+3" channel="289542">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ27</title>
+    <desc lang="el">Η σχέση της Βιολέτας και του Ορφέα προχωράει, ενώ ο Χριστόφορος προσποιείται με μεγάλη επιτυχία τον ζακυνθινό ταξιτζή, νέο κολλητό του Ορφέα...!!! Η Πηνελόπη προσπαθεί να συμπαρασταθεί στον Αντώνη που είναι ακόμη στο στρατό, ενώ η Ιουλία προσπαθεί να βρει τρόπους να τον φέρει πίσω. Ο Ευτύχης μεταφέρει όλη του τη δημιουργικότητα στο ριάλιτι των συγκατοίκων...</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -45586,25 +45586,25 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812050000 GMT+3" stop="20260812075500 GMT+3" channel="2374">
+  <programme start="20260812050000 GMT+3" stop="20260812080000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ4</title>
     <desc lang="el">The Parent Teacher Association of Elmore Junior High bans video games, so the kids try and prove that games aren&apos;t a bad influence. / Anais arrives in the bedroom to find a messy crime-scene and her Daisy doll missing. She realises Gumball and Darwin are the chief suspects. / A mysterious figure from Nicole&apos;s past shows up and challenges her to a fight, but the kids are surprised when she refuses. Σκηνοθεσία: Mic Graves,. (2016)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812075500 GMT+3" stop="20260812082000 GMT+3" channel="2374">
+  <programme start="20260812080000 GMT+3" stop="20260812082000 GMT+3" channel="2374">
     <title lang="el">The Tom and Jerry Show Κ2</title>
     <desc lang="el">When a little cat and mouse ends poorly for Tom he ends up having to wear the cone of shame. / Tom’s tried everything to get rid of his hiccups. / Rick&apos;s installed a state-of-the-art home automation system. Σκηνοθεσία: Darrell Van Citters,. (2018)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812082000 GMT+3" stop="20260812084000 GMT+3" channel="2374">
+  <programme start="20260812082000 GMT+3" stop="20260812084500 GMT+3" channel="2374">
     <title lang="el">Looney Tunes Cartoons Κ1</title>
     <desc lang="el">Detective Daffy investigates Porky&apos;s missing pants./Sylvester attempts to catch Tweety at the vet. / Bugs outsmart a foe/Marvin Martian tries to plant his flag/Daffy interferes with bedtime. Σκηνοθεσία: David Gemmill,Kenny Pittenger,. (2021)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812084000 GMT+3" stop="20260812092500 GMT+3" channel="2374">
+  <programme start="20260812084500 GMT+3" stop="20260812092500 GMT+3" channel="2374">
     <title lang="el">Be Cool, Scooby-Doo! Κ1</title>
     <desc lang="el">Snowy fun revenge snowballs and an evil Snowman Monster. / Shaggy wins a tour of the Scooby Snacks factory, and the gang must battle a monster oozing in Scooby Snack stuff. Σκηνοθεσία: Jeff Mednikow,. (2016)</desc>
     <category lang="el">Παιδικά</category>
@@ -45634,31 +45634,31 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812112000 GMT+3" stop="20260812114500 GMT+3" channel="2374">
+  <programme start="20260812112000 GMT+3" stop="20260812114000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ2</title>
     <desc lang="el">Gumball and Darwin get caught in the middle of a trash can war between Richard and Mr. Robinson. / Gumball and Darwin cheat on their maths test get detention and have to escape. (2013)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812114500 GMT+3" stop="20260812122500 GMT+3" channel="2374">
+  <programme start="20260812114000 GMT+3" stop="20260812123000 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ9</title>
     <desc lang="el">Will a trip to the Eastory Factory be a magical time for the Titans or is it another one of the Easter Bunny&apos;s tricks? / The Titans decide to not produce a Halloween special this year but soon discover they may not have a choice. / The Titans are in Boston, and with the help of Deadman, search for a legendary bowl of clam chowder. / A behind the scenes look at the history of Teen Titans Go! (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812122500 GMT+3" stop="20260812125000 GMT+3" channel="2374">
+  <programme start="20260812123000 GMT+3" stop="20260812125000 GMT+3" channel="2374">
     <title lang="el">LEGO City: No Limits MAX Κ1</title>
     <desc lang="el">Mech-Max and Wanda About go from gorilla doctors and fire fighting parrots to a prison escape with robot guards. / Just Jason escapes prison using dumb stunts only while Mech.Max confronts a new villain. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812125000 GMT+3" stop="20260812134000 GMT+3" channel="2374">
+  <programme start="20260812125000 GMT+3" stop="20260812133500 GMT+3" channel="2374">
     <title lang="el">Totally Spies! Κ7</title>
     <desc lang="el">Woolly mammoths rampage and Alex tries to upcycle Clover’s wardrobe. / Champion snowboarders go missing and Alex’s competitive edge is tested. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812134000 GMT+3" stop="20260812142500 GMT+3" channel="2374">
+  <programme start="20260812133500 GMT+3" stop="20260812142500 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">Fern is less than welcoming when Saige comes to spend a weekend with Gigi in her mountain home. / Gigi gets her first zit and doesn&apos;t understand why everyone thinks it&apos;s such a big deal. / It&apos;s Family Weekend at Goodenough and Gigi&apos;s mother worries that Gigi is fitting in a bit too well and forgetting her goaty life. / Gigi becomes obsessed with mastering skateboarding - and so does Overblown Academy&apos;s wolf boy, Ren. They decide to work together and it... does not go well. (2023)</desc>
     <category lang="el">Παιδικά</category>
@@ -45688,37 +45688,37 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812153000 GMT+3" stop="20260812155500 GMT+3" channel="2374">
+  <programme start="20260812153000 GMT+3" stop="20260812155000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana&apos;s first cake offering is ruined by Sprog. Now she must bake another to calm a whirlpool and save the Mighty Windbreaker. / Lana clashes with her dad over a boomerang and hammer until teamwork saves them from the Arachno Queen&apos;s web of doom. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812155500 GMT+3" stop="20260812162000 GMT+3" channel="2374">
+  <programme start="20260812155000 GMT+3" stop="20260812161500 GMT+3" channel="2374">
     <title lang="el">The Heroic Quest of the Valiant Prince Ivandoe Κ3</title>
     <desc lang="el">A Hooded Stranger from Prince Ivandoe’s past seeks revenge, by attempting to ruin Ivandoe’s perfect princely appearance. / Prince Ivandoe receives instructions from his father, The Mighty Stag. He is to escort his spoilt cousin Dudley to a correctional school. (2022)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812162000 GMT+3" stop="20260812164000 GMT+3" channel="2374">
+  <programme start="20260812161500 GMT+3" stop="20260812163500 GMT+3" channel="2374">
     <title lang="el">We Baby Bears Κ2</title>
     <desc lang="el">Unica and the bears prepare to rock out in order to help the Grand Magnolia Tree bloom. Σκηνοθεσία: Manny Hernandez. Πρωταγωνιστούν: Connor Andrade, Max Mitchell, Amari Mccoy,. (2022)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812164000 GMT+3" stop="20260812170000 GMT+3" channel="2374">
+  <programme start="20260812163500 GMT+3" stop="20260812170000 GMT+3" channel="2374">
     <title lang="el">Craig of the Creek Κ2</title>
     <desc lang="el">Craig, Kelsey and JP discover an ancient fort that belonged to the first kids in the Creek. / When Craig, Kelsey and JP get stranded in murky water, it&apos;s up to Mortimor to save the day! Σκηνοθεσία: Eddy Houchins,Martin Ansolabehere,Stu Livingston,. Πρωταγωνιστούν: Philip Solomon, Phillip Solomon,. (2019)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812170000 GMT+3" stop="20260812172500 GMT+3" channel="2374">
+  <programme start="20260812170000 GMT+3" stop="20260812172000 GMT+3" channel="2374">
     <title lang="el">LEGO City: No Limits MAX Κ1</title>
     <desc lang="el">The Collector steals all the police vehicles. Bytz’s backstory is revealed. / Planet X special: Bytz plays Battle Royale while Wanda About hunts aliens. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812172500 GMT+3" stop="20260812183000 GMT+3" channel="2374">
+  <programme start="20260812172000 GMT+3" stop="20260812183000 GMT+3" channel="2374">
     <title lang="el">Scooby-Doo and the Cyber Chase</title>
     <desc lang="el">Scooby-Doo and the gang encounter their most electrifying adventure after they get zapped into a high-tech computer game! Σκηνοθεσία: Jim Stenstrum,. (2001)</desc>
     <category lang="el">Παιδικά</category>
@@ -45736,67 +45736,67 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812191500 GMT+3" stop="20260812194000 GMT+3" channel="2374">
+  <programme start="20260812191500 GMT+3" stop="20260812193500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana dons a magical beard to steer the ship, but it causes chaos. Can she and Andar reclaim control of the Mighty Windbreaker? / Lana and Boreas wreck the ship during inspection. They must repair it fast before Andar returns and spots the mess! (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812194000 GMT+3" stop="20260812200000 GMT+3" channel="2374">
+  <programme start="20260812193500 GMT+3" stop="20260812200000 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">It&apos;s Adventure Time! With Finn and Jake, the fun never ends! (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812200000 GMT+3" stop="20260812202500 GMT+3" channel="2374">
+  <programme start="20260812200000 GMT+3" stop="20260812202000 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Mordecai and Rigby have to unload a lot of boba. / Some flowers smell really bad. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812202500 GMT+3" stop="20260812204500 GMT+3" channel="2374">
+  <programme start="20260812202000 GMT+3" stop="20260812204500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ2</title>
     <desc lang="el">The boys are on the verge of discovering the truth about Elmore but their old nemesis decides to rewrite the story. / When Gumball and Darwin realize that Sarah is no longer their number one fan, they try to get her attention back by whatever means possible. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812204500 GMT+3" stop="20260812213500 GMT+3" channel="2374">
+  <programme start="20260812204500 GMT+3" stop="20260812213000 GMT+3" channel="2374">
     <title lang="el">Goat Girl Κ1</title>
     <desc lang="el">A book has gone missing from the library and Sully will stop at nothing until the mystery is solved. / A homesick Gigi invites Fern for a visit, leaving Saige to work with Kallista on their group science project. / Gigi is home for a nice relaxing long weekend... but Bo has other ideas. / When Gigi and Kallista get detention, they work together on a covert mission to obtain their favorite lunch - potato waffles! (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812213500 GMT+3" stop="20260812215500 GMT+3" channel="2374">
+  <programme start="20260812213000 GMT+3" stop="20260812215000 GMT+3" channel="2374">
     <title lang="el">LEGO City: No Limits MAX Κ1</title>
     <desc lang="el">The Collector steals all the police vehicles. Bytz’s backstory is revealed. / Planet X special: Bytz plays Battle Royale while Wanda About hunts aliens. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812215500 GMT+3" stop="20260812222000 GMT+3" channel="2374">
+  <programme start="20260812215000 GMT+3" stop="20260812221500 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana helps her dad reclaim his heroic status while learning that even legendary monsters can change. / Lana idolizes Durango but misses her treasure-stealing scheme. Can Lana stop her hero before it’s too late? (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812222000 GMT+3" stop="20260812224000 GMT+3" channel="2374">
+  <programme start="20260812221500 GMT+3" stop="20260812223500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Benson gets booted out of Heir to the Throne. / Rigby want this photo to be taken, seriously. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812224000 GMT+3" stop="20260812230500 GMT+3" channel="2374">
+  <programme start="20260812223500 GMT+3" stop="20260812230000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ5</title>
     <desc lang="el">The guys need to get the park video camera at the bottom of the crash pit. / Mordecai and Rigby have to help Benson replace an electric guitar signed by a rock star, or Benson&apos;s fired. Σκηνοθεσία: John Davis Infantino,Sean Szeles,. Πρωταγωνιστούν: J.G. Quintel, William Salyers,. (2014)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812230500 GMT+3" stop="20260812234500 GMT+3" channel="2374">
+  <programme start="20260812230000 GMT+3" stop="20260812234500 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">While trying to rescue a helpless stranger Finn becomes Marceline’s slave. / Finn tries to conquer a dungeon without Jake’s help. / Finn and Jake chase a mysterious villain who&apos;s been stealing gold from helpless villages. / Finn meets his adventuring role model only to learn he&apos;s become a wuss in his old age. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812234500 GMT+3" stop="20260813001000 GMT+3" channel="2374">
+  <programme start="20260812234500 GMT+3" stop="20260813000500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ2</title>
     <desc lang="el">After Gumball’s smack talking embarrasses him in front of the entire town, he vows to curb his smug ways. / Gumball and Darwin seek healthy food for their family, but an evil food consortium controls the industry. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -58775,7 +58775,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260812000000 GMT+3" stop="20260812020000 GMT+3" channel="46137467">
+  <programme start="20260812003000 GMT+3" stop="20260812020000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -58809,9 +58809,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260812160000 GMT+3" stop="20260812180000 GMT+3" channel="46137467">
+  <programme start="20260812160000 GMT+3" stop="20260812172500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες τένις γυναικών του Καναδικού Όπεν, γνωστού ως National Bank Open presented by Rogers, της σειράς WTA 1000, που διεξάγεται το διάστημα 2-13 Αυγούστου στο Τορόντο του Καναδά. Τένις</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260812172500 GMT+3" stop="20260812180000 GMT+3" channel="46137467">
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -60714,8 +60720,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260813044000 GMT+3" stop="20260813053000 GMT+3" channel="54184415">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -60792,8 +60798,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260813170000 GMT+3" stop="20260813180000 GMT+3" channel="54184415">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ28</title>
+    <desc lang="el">Ο Μηνάς έχει τρελαθεί στην ιδέα ότι μπορεί να είναι πατέρας του Νικόλα, αλλά η Στέλλα έχει εξαφανιστεί και δεν μπορεί να μάθει την αλήθεια. Ο Αντώνης, λόγω της εμφάνισής του, κρύβει την επιστροφή του από την Πηνελόπη, πράγμα το οποίο η Ιουλία εκμεταλλεύεται δεόντως...Η Κατερίνα ρίχνει τα μούτρα της και ζητάει συγνώμη για όλα από τον Πέτρο. Ο Χριστόφορος συνεχίζει να παριστάνει τον ζακυνθινό ταξιτζή στον Ορφέα και προσπαθεί να μάθει τα μυστικά του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -62118,8 +62124,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260813044000 GMT+3" stop="20260813053000 GMT+3" channel="289542">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -62196,8 +62202,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260813170000 GMT+3" stop="20260813180000 GMT+3" channel="289542">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ28</title>
+    <desc lang="el">Ο Μηνάς έχει τρελαθεί στην ιδέα ότι μπορεί να είναι πατέρας του Νικόλα, αλλά η Στέλλα έχει εξαφανιστεί και δεν μπορεί να μάθει την αλήθεια. Ο Αντώνης, λόγω της εμφάνισής του, κρύβει την επιστροφή του από την Πηνελόπη, πράγμα το οποίο η Ιουλία εκμεταλλεύεται δεόντως...Η Κατερίνα ρίχνει τα μούτρα της και ζητάει συγνώμη για όλα από τον Πέτρο. Ο Χριστόφορος συνεχίζει να παριστάνει τον ζακυνθινό ταξιτζή στον Ορφέα και προσπαθεί να μάθει τα μυστικά του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -65165,13 +65171,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813001000 GMT+3" stop="20260813002000 GMT+3" channel="2374">
+  <programme start="20260813000500 GMT+3" stop="20260813001500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1 ΕΠ2</title>
     <desc lang="el">Welcome back to Elmore, where the laws of reality are a joke, and family life is anything but ordinary. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813002000 GMT+3" stop="20260813003000 GMT+3" channel="2374">
+  <programme start="20260813001500 GMT+3" stop="20260813003000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -67090,13 +67096,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813083500 GMT+3" stop="20260813085500 GMT+3" channel="216595">
+  <programme start="20260813083500 GMT+3" stop="20260813090000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 2 Κ2 ΕΠ2</title>
     <desc lang="el">Η Νελ συνειδητοποιεί ότι ίσως δεν αφήνει τον εαυτό της να δεχθεί την αγάπη. Πρωταγωνιστούν: Gina Rodriguez,Hannah Simone,Lauren Ash. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813085500 GMT+3" stop="20260813092000 GMT+3" channel="216595">
+  <programme start="20260813090000 GMT+3" stop="20260813092000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 2 Κ2 ΕΠ3</title>
     <desc lang="el">Η Λέξι, ο Ντάνκαν, η Σαμ και ο Ντένις πηγαίνουν σε μια τελετή βραβείων. Πρωταγωνιστούν: Gina Rodriguez,Hannah Simone,Lauren Ash. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -67120,13 +67126,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813114500 GMT+3" stop="20260813123000 GMT+3" channel="216595">
+  <programme start="20260813114500 GMT+3" stop="20260813122500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ12</title>
     <desc lang="el">Όταν ο Πάτρικ Τζέιν και η Υπηρεσία πρέπει να συνεργαστούν με έναν επιστημονικό εγκληματολόγο, τον δρα Μόνταγκιου, για να λύσουν έναν διπλό φόνο, ο Τζέιν γίνεται ανταγωνιστικός για να αποδείξει ότι οι μέθοδοί του είναι ανώτερες. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813123000 GMT+3" stop="20260813125000 GMT+3" channel="216595">
+  <programme start="20260813122500 GMT+3" stop="20260813125000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 10 Κ10 ΕΠ13</title>
     <desc lang="el">Ενώ ετοιμάζει μια παρουσίαση για τους μαθητές του σχετικά με τους μελλοντικούς στόχους τους, ο Cam πρέπει να αντιμετωπίσει κι έναν νταή του σχολείου. Ο Jay αντιμετωπίζει μικρές τεχνικές δυσκολίες κατά τη διάρκεια της τηλεδιάσκεψής του. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell,Jesse Tyler Ferguson,Eric Stonestreet. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -67162,31 +67168,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813153500 GMT+3" stop="20260813162000 GMT+3" channel="216595">
+  <programme start="20260813153500 GMT+3" stop="20260813161500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ2</title>
     <desc lang="el">Η Andy παίρνει μια μέρα άδεια για να ασχοληθεί με την οικογενειακή της ζωή και οι Maya και Carina κάνουν τα πάντα για να διατηρήσουν τη σχέση τους αφού δεν μπορούν να συναντηθούν λόγω κορονοϊού. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813162000 GMT+3" stop="20260813170500 GMT+3" channel="216595">
+  <programme start="20260813161500 GMT+3" stop="20260813170000 GMT+3" channel="216595">
     <title lang="el">Transplant 3 Κ3 ΕΠ7</title>
     <desc lang="el">Ο Bash κλονίζεται από την τολμηρή απόφαση της Amira και οι εντάσεις φουντώνουν σε ένα δείπνο μετά τη δουλειά. Πρωταγωνιστούν: Hamza Haq, Laurence Leboeuf, Ayisha Issa, Jim Watson, Torri Higginson. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813170500 GMT+3" stop="20260813180000 GMT+3" channel="216595">
+  <programme start="20260813170000 GMT+3" stop="20260813180000 GMT+3" channel="216595">
     <title lang="el">Top Chef 21 Κ21 ΕΠ14</title>
     <desc lang="el">Για την τελευταία δοκιμασία του κύκλου, οι τρεις εναπομείναντες σεφ πρέπει να δημιουργήσουν το καλύτερο προοδευτικό γεύμα τεσσάρων πιάτων της καριέρας τους. Πρωταγωνιστούν: Kristen Kish,Gail Simmons,Tom Colicchio. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813180000 GMT+3" stop="20260813184500 GMT+3" channel="216595">
+  <programme start="20260813180000 GMT+3" stop="20260813184000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ13</title>
     <desc lang="el">Ένας άντρας που κατηγορείται για φόνο κρατάει τον Πάτρικ Τζέιν και άλλους υπό την απειλή όπλου σε μια προσπάθεια να καθαρίσει το όνομά του. Τώρα, ο Τζέιν πρέπει να σκεφτεί γρήγορα για να εκτονώσει την κατάσταση με τους ομήρους. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813184500 GMT+3" stop="20260813192500 GMT+3" channel="216595">
+  <programme start="20260813184000 GMT+3" stop="20260813192500 GMT+3" channel="216595">
     <title lang="el">Wild Cards 1 Κ1 ΕΠ8</title>
     <desc lang="el">Όταν μια διάσημη ψυχολόγος και συγγραφέας μπεστ σέλερ δολοφονείται, η Μαξ και ο Έλις ξεκινούν μια μυστική αποστολή ως παντρεμένο ζευγάρι στο θέρετρο ευεξίας της και ανακαλύπτουν κάτι περισσότερο από τα τσάκρα τους. Πρωταγωνιστούν: Vanessa Morgan,Giacomo Gianniotti,Jason Priestley,Noelle Carbone,. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -67318,139 +67324,139 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813060000 GMT+3" stop="20260813064000 GMT+3" channel="2755">
+  <programme start="20260813060000 GMT+3" stop="20260813065000 GMT+3" channel="2755">
     <title lang="el">9-1-1 8 Κ8 ΕΠ15</title>
     <desc lang="el">Η Αθίνα κι ο Μπακ σπεύδουν να σώσουν την υπόλοιπη ομάδα 118. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause,Jennifer Love Hewitt, Kenneth Choi. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260813064000 GMT+3" stop="20260813070500 GMT+3" channel="2755">
+  <programme start="20260813065000 GMT+3" stop="20260813071000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ15</title>
     <desc lang="el">Στην τελευταία τους υπόθεση ως συνεργάτες, ο Τζέικ και ο Τσαρλς φτάνουν στα άκρα για να πιάσουν έναν κλέφτη ποδηλάτων της περιοχής. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813070500 GMT+3" stop="20260813072500 GMT+3" channel="2755">
+  <programme start="20260813071000 GMT+3" stop="20260813073500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ7</title>
     <desc lang="el">H Jan πηγαίνει στο Chili&apos;s με τον Michael και νιώθει άβολα με τις στρατηγικές του για να κερδίσει έναν νέο πελάτη. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813072500 GMT+3" stop="20260813075000 GMT+3" channel="2755">
+  <programme start="20260813073500 GMT+3" stop="20260813075500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ8</title>
     <desc lang="el">Ο Michael σκαλίζει το κουτί προτάσεων του γραφείου αναζητώντας ιδέες που μπορεί να κλέψει και να παρουσιάσει στην Jan για την ετήσια αξιολόγησή του. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813075000 GMT+3" stop="20260813083500 GMT+3" channel="2755">
+  <programme start="20260813075500 GMT+3" stop="20260813084500 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ7</title>
     <desc lang="el">Ο Booth και η Brennan επιλέγουν το μυστήριο αντί ενός παραδοσιακού μήνα του μέλιτος όταν βοηθούν έναν ντετέκτιβ στο Μπουένος Άιρες - και θαυμαστή της Brennan - σε μια έρευνα ανθρωποκτονίας. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813083500 GMT+3" stop="20260813092000 GMT+3" channel="2755">
+  <programme start="20260813084500 GMT+3" stop="20260813093000 GMT+3" channel="2755">
     <title lang="el">The Resident 5 Κ5 ΕΠ20</title>
     <desc lang="el">Ο Κόνραντ και η Κέιντ συνεργάζονται με έναν ασθενή τού Medicare, ο οποίος ρίχνει φως στα μυστικά της υπόθεσης της απάτης με τα φάρμακα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Jane Leeves,Jessica Lucas,Anuja Joshi,Malcolm-Jamal Warner,Bruce Greenwood. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813092000 GMT+3" stop="20260813094500 GMT+3" channel="2755">
+  <programme start="20260813093000 GMT+3" stop="20260813095000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ16</title>
     <desc lang="el">Η Λίζα ανακαλύπτει ότι ο Τζεμπεντάια Σπρίνγκφιλντ, ο ιδρυτής της πόλης, ήταν ένας απαίσιος άνθρωπος. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813094500 GMT+3" stop="20260813101000 GMT+3" channel="2755">
+  <programme start="20260813095000 GMT+3" stop="20260813101500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ17</title>
     <desc lang="el">Όταν ο κύριος Μπερνς απολύει τον Σμίδερς, πέφτει από ένα παράθυρο και εξαρτάται πάλι από αυτόν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813101000 GMT+3" stop="20260813103000 GMT+3" channel="2755">
+  <programme start="20260813101500 GMT+3" stop="20260813104000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ6</title>
     <desc lang="el">Η τελευταία ανακάλυψη του Σέλντον τον κάνει να νιώθει σαν απατεώνας. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813103000 GMT+3" stop="20260813105500 GMT+3" channel="2755">
+  <programme start="20260813104000 GMT+3" stop="20260813110000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ7</title>
     <desc lang="el">Ο Μπομπ Νιούχαρτ επιστρέφει ως καθηγητής Πρωτόνιος. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813105500 GMT+3" stop="20260813114000 GMT+3" channel="2755">
+  <programme start="20260813110000 GMT+3" stop="20260813114500 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ8</title>
     <desc lang="el">Ο Booth και η Brennan ερευνούν τον φόνο ενός δωρητή σπέρματος, αλλά τα ψέμματα που έλεγε το θύμα, μεγαλώνουν κατά πολύ τη λίστα με τους υπόπτους. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813114000 GMT+3" stop="20260813120500 GMT+3" channel="2755">
+  <programme start="20260813114500 GMT+3" stop="20260813121000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ17</title>
     <desc lang="el">Το Τμήμα τα μαζεύει και ταξιδεύει στην ετήσια συγκέντρωση αστυνομικών της Τριπολιτείας, που μεταφράζεται ως η δικαιολογία του 99ου για ένα μεγάλο ετήσιο πάρτι. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813120500 GMT+3" stop="20260813122500 GMT+3" channel="2755">
+  <programme start="20260813121000 GMT+3" stop="20260813123000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ18</title>
     <desc lang="el">Η Έιμι ξαφνικά εξαφανίζεται λίγες ώρες πριν τις εξετάσεις για τον βαθμό του αρχιφύλακα και είναι στο χέρι του Τζέικ και της Ρόζα να τη βρουν πριν να είναι πολύ αργά. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813122500 GMT+3" stop="20260813131000 GMT+3" channel="2755">
+  <programme start="20260813123000 GMT+3" stop="20260813131500 GMT+3" channel="2755">
     <title lang="el">9-1-1 8 Κ8 ΕΠ15</title>
     <desc lang="el">Η Αθίνα κι ο Μπακ σπεύδουν να σώσουν την υπόλοιπη ομάδα 118. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause,Jennifer Love Hewitt, Kenneth Choi. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260813131000 GMT+3" stop="20260813133500 GMT+3" channel="2755">
+  <programme start="20260813131500 GMT+3" stop="20260813134000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ9</title>
     <desc lang="el">Ο Μάικλ αρχίζει να παρακολουθεί τα email του προσωπικού του και ανακαλύπτει ότι δεν τον είχαν καλέσει στο μπάρμπεκιου του Jim. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813133500 GMT+3" stop="20260813140000 GMT+3" channel="2755">
+  <programme start="20260813134000 GMT+3" stop="20260813140500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ10</title>
     <desc lang="el">Το χριστουγεννιάτικο πάρτι του γραφείου μετατρέπεται σε καταστροφή όταν ο Michael δίνει στους υπαλλήλους τη δυνατότητα να κλέψουν ο ένας τα δώρα Secret Santa του άλλου. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813140000 GMT+3" stop="20260813144500 GMT+3" channel="2755">
+  <programme start="20260813140500 GMT+3" stop="20260813145000 GMT+3" channel="2755">
     <title lang="el">The Resident 5 Κ5 ΕΠ21</title>
     <desc lang="el">Όταν ένας από τους γιατρούς πυροβολείται έξω από το νοσοκομείο, τα Επείγοντα μπαίνουν σε αποκλεισμό και η ομάδα πασχίζει να σώσει έναν δικό της. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Jane Leeves,Jessica Lucas,Anuja Joshi,Malcolm-Jamal Warner,Bruce Greenwood. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813144500 GMT+3" stop="20260813151000 GMT+3" channel="2755">
+  <programme start="20260813145000 GMT+3" stop="20260813151500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ18</title>
     <desc lang="el">Ο Μπαρτ συναντά τον δημιουργό των Ίτσι και Σκράτσι και τον βοηθά να μηνύσει τα στούντιό τους. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813151000 GMT+3" stop="20260813153000 GMT+3" channel="2755">
+  <programme start="20260813151500 GMT+3" stop="20260813154000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ19</title>
     <desc lang="el">Ο ηθοποιός Τρόι ΜακΚλουρ παντρεύεται την αδερφή της Μαρτζ για να κρύψει ένα σεξουαλικό φετίχ του. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813153000 GMT+3" stop="20260813155500 GMT+3" channel="2755">
+  <programme start="20260813154000 GMT+3" stop="20260813160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ8</title>
     <desc lang="el">Ο Σέλντον τιμωρεί τον Λέοναρντ για ένα λάθος του παρελθόντος. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813155500 GMT+3" stop="20260813162000 GMT+3" channel="2755">
+  <programme start="20260813160000 GMT+3" stop="20260813162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ9</title>
     <desc lang="el">Η παρέα αποφασίζει να περάσει την Ημέρα των Ευχαριστιών με την κυρία Γουόλοβιτς. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813162000 GMT+3" stop="20260813170500 GMT+3" channel="2755">
+  <programme start="20260813162000 GMT+3" stop="20260813171000 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ9</title>
     <desc lang="el">Η Brennan βασίζεται στην απόλυτη λογική και εσφαλμένα πείθει τους ενόρκους της υπόθεσης να αθωώσουν τον κατηγορούμενο. Όταν ο πιο κοντινός φίλος του κατηγορουμένου δολοφονείται, η Brennan αναθέτει στην ομάδα να βρει τον πραγματικό θύτη. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813170500 GMT+3" stop="20260813173000 GMT+3" channel="2755">
+  <programme start="20260813171000 GMT+3" stop="20260813173000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ19</title>
     <desc lang="el">Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Στο μεταξύ, ο Τέρι, η Ρόζα και ο Μπόιλ ανακαινίζουν την αίθουσα προσωπικού και η Έιμι μαθαίνει στην Τζίνα να αλλάζει λάστιχο στο αυτοκίνητο.Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -68326,37 +68332,37 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813060000 GMT+3" stop="20260813070000 GMT+3" channel="216459">
+  <programme start="20260813060000 GMT+3" stop="20260813065000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ4 ΕΠ8</title>
     <desc lang="el">Οι ήρωες των διασώσεων έδωσαν μάχες όλον τον χειμώνα με ακραίες και απρόβλεπτες καιρικές συνθήκες και τώρα κοιτούν προς το μέλλον. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813070000 GMT+3" stop="20260813074000 GMT+3" channel="216459">
+  <programme start="20260813065000 GMT+3" stop="20260813073500 GMT+3" channel="216459">
     <title lang="el">Οι Τελευταίοι Γίγαντες Κ2 ΕΠ7</title>
     <desc lang="el">Ο Σίριλ και η ομάδα του ταξιδεύουν σε απομακρυσμένα νησιά στον Νότιο Ειρηνικό σε μια αποστολή να βοηθήσουν τους επιστήμονες να σώσουν το γιγάντιο ασπρόψαρο της Γαλλικής Πολυνησίας. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813074000 GMT+3" stop="20260813082500 GMT+3" channel="216459">
+  <programme start="20260813073500 GMT+3" stop="20260813082000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ3 ΕΠ10</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα υπομένουν τον αρκτικό χειμώνα για να δουν τον ήλιο να επιστρέφει, να νιώσουν τη θέρμη του και να απολαύσουν τη ζωή που φέρνει αναπόφευκτα η άνοιξη. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813082500 GMT+3" stop="20260813091500 GMT+3" channel="216459">
+  <programme start="20260813082000 GMT+3" stop="20260813091000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ2</title>
     <desc lang="el">Ένα φορτηγό αεροπλάνο της Air Tahoma βρίσκεται σε κοντινή απόσταση από έναν αεροδιάδρομο του Σινσινάτι, όταν και οι δύο κινητήρες σβήνουν και το στροβιλοελικοφόρο συντρίβεται σε ένα γήπεδο γκολφ. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813091500 GMT+3" stop="20260813100000 GMT+3" channel="216459">
+  <programme start="20260813091000 GMT+3" stop="20260813095500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ1</title>
     <desc lang="el">Μετά από μια καταστροφική σύγκρουση σε αεροδιάδρομο του αεροδρομίου του Λος Άντζελες, οι επιβάτες της πτήσης 1493 της USAIR παλεύουν να ξεφύγουν από το φλεγόμενο αεροπλάνο. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813100000 GMT+3" stop="20260813105000 GMT+3" channel="216459">
+  <programme start="20260813095500 GMT+3" stop="20260813105000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Ειδική Έρευνα Κ1 ΕΠ11</title>
     <desc lang="el">Οι αεροπορικές συντριβές που προκαλούνται από προβλήματα στην επικοινωνία αποκαλύπτουν τις αλλαγές που πρέπει να γίνουν στο υπερφορτωμένο σύστημα ελέγχου εναέριας κυκλοφορίας. (2008)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68368,13 +68374,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813113500 GMT+3" stop="20260813122000 GMT+3" channel="216459">
+  <programme start="20260813113500 GMT+3" stop="20260813122500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ4 ΕΠ5</title>
     <desc lang="el">Η μυστηριώδης βύθιση του &apos;Τιτανικού&apos; της Αυστραλίας, ενός πολεμικού πλοίου σε επικίνδυνη αποστολή, και μια τηλεκατευθυνόμενη αποστολή που αναζητά στοιχεία στα βάθη του υφάλου. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813122000 GMT+3" stop="20260813131000 GMT+3" channel="216459">
+  <programme start="20260813122500 GMT+3" stop="20260813131000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ5 ΕΠ1</title>
     <desc lang="el">Όταν ένα πλήρως φορτωμένο φορτηγό πέφτει σε χαντάκι, ο Bjoern καλεί τον Thord για βοήθεια. Αλλά, δεν είναι εύκολο για τα δύο αφεντικά να συνεργαστούν. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68392,13 +68398,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813144000 GMT+3" stop="20260813152500 GMT+3" channel="216459">
+  <programme start="20260813144000 GMT+3" stop="20260813153000 GMT+3" channel="216459">
     <title lang="el">Πρωτόγονη Επιβίωση: Πέρα από τις Άνδεις Κ1 ΕΠ5</title>
     <desc lang="el">Σε αυτό το κομμάτι της περιπέτειάς του στη Νότια Αμερική, ο Χέιζεν Όντελ αντιμετωπίζει την άνυδρη αγριάδα της ερήμου Ατακάμα για να φτάσει σε μια τελετή με λάμα που κάποτε γινόταν κάθε χρόνο. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813152500 GMT+3" stop="20260813161500 GMT+3" channel="216459">
+  <programme start="20260813153000 GMT+3" stop="20260813161500 GMT+3" channel="216459">
     <title lang="el">Φυλές του Κόσμου: Μαθήματα Επιβίωσης Κ1 ΕΠ1</title>
     <desc lang="el">Ο Hazen Audel μαθαίνει πώς να επιβιώνει όπως οι Huaorani στα τροπικά δάση του Αμαζονίου και κατακτά την τέχνη του κυνηγιού και της συλλογής τροφής για να παραμείνει ζωντανός. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68410,19 +68416,19 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813170000 GMT+3" stop="20260813174500 GMT+3" channel="216459">
+  <programme start="20260813170000 GMT+3" stop="20260813175000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ13 ΕΠ9</title>
     <desc lang="el">Η σειρά αναλαμβάνει ένα Suzuki Jimny 4x4. Αυτό το μικρό αμάξι ανήκει στη συνταξιούχο νοσοκόμα και αφοσιωμένη μαμά, Τζοάνα, κι έχει βλάβη στο κιβώτιο ταχυτήτων που ακόμη και η Suzuki δεν μπορεί να επισκευάσει. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813174500 GMT+3" stop="20260813181000 GMT+3" channel="216459">
+  <programme start="20260813175000 GMT+3" stop="20260813181500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ3 ΕΠ16</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε σε ένα τελεφερίκ για σκιέρ, με χαρτί περιτυλίγματος και σπάζοντας πόρτες. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813181000 GMT+3" stop="20260813183500 GMT+3" channel="216459">
+  <programme start="20260813181500 GMT+3" stop="20260813183500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ3 ΕΠ17</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε πόσοι τρόποι υπάρχουν για να τραυματιστούμε και να ντροπιαστούμε με ένα τόξο και το βέλος του ή επιχειρώντας body-slam. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68434,13 +68440,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813192500 GMT+3" stop="20260813201000 GMT+3" channel="216459">
+  <programme start="20260813192500 GMT+3" stop="20260813201500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Ειδική Έρευνα Κ1 ΕΠ1</title>
     <desc lang="el">Μερικά από τα πιο θανατηφόρα αεροπορικά δυστυχήματα της ιστορίας προκλήθηκαν από απλή έλλειψη επικοινωνίας. Ένα μηδαμινό λάθος στο πιλοτήριο ήταν εκείνο που προκάλεσε την τραγωδία στο αεροδρόμιο Quincy του Ιλινόις. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260813201000 GMT+3" stop="20260813210000 GMT+3" channel="216459">
+  <programme start="20260813201500 GMT+3" stop="20260813210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Ειδική Έρευνα Κ1 ΕΠ2</title>
     <desc lang="el">Όταν η πτήση 548 της BEA πέφτει λίγο μετά την απογείωση, οι ερευνητές ανακαλύπτουν έναν τραγικό συνδυασμό ανθρώπινων παραγόντων που σχετίζονται με τον πιλότο. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -80473,8 +80479,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260814044000 GMT+3" stop="20260814053000 GMT+3" channel="54184415">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -80551,8 +80557,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260814170000 GMT+3" stop="20260814180000 GMT+3" channel="54184415">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ29</title>
+    <desc lang="el">Το βίντεο του Ευτύχη γίνεται viral και στιγμιότυπα από την προσωπική ζωή των αντρών βγαίνουν στη φόρα. Όλοι είναι έξαλλοι μαζί του. Έπειτα από καυγά με την Ιουλία, ο Αντώνης γυρίζει πάλι στο σπίτι των αντρών. Η Μάρθα έχει αποφασίσει να χαρεί τις ετοιμασίες του γάμου της, αλλά ο Ευτύχης της αποκαλύπτει ότι ο Γρηγόρης τον δωροδόκησε για να επηρεάσει τα παιδιά τους. Η Βιολέτα βγαίνει με τον Ορφέα και περνάει πολύ καλά μαζί του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -81666,39 +81672,21 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814174500 GMT+3" stop="20260814180000 GMT+3" channel="206750">
-    <title lang="el">ΑΠΟ ΤΗΝ ΣΟΦΙΑ ΤΟΥ ΑΙΣΩΠΟΥ</title>
-    <desc lang="el">Ο κόκορας, ο σκύλος και η αλεπού</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260814180000 GMT+3" stop="20260814184000 GMT+3" channel="206750">
-    <title lang="el">ΕΝ ΧΟΡΔΑΙΣ</title>
-    <desc lang="el">Ύμνοι στην Παναγία Μαχαιριώτισσα-Βυζαντινή Χορωδία Ιεράς Μητροπόλεως Λεμεσού &quot;Ρωμανός ο Μελωδός&quot;. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260814184000 GMT+3" stop="20260814193000 GMT+3" channel="206750">
+  <programme start="20260814174500 GMT+3" stop="20260814183000 GMT+3" channel="206750">
     <title lang="el">ΜΟΝΑΣΤΗΡΙΑ ΤΟΥ ΤΟΠΟΥ ΜΑΣ</title>
     <desc lang="el">Ο ναός της Μεγαλόχαρης στην Τήνο. Τα μοναστήρια της Πατρίδας μας επισκέπτεται αυτή η εκπομπή, για να κάνει κάθε τηλεθεατή συμμέτοχο στην ευλογία του προσκυνήματος.</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814193000 GMT+3" stop="20260814200000 GMT+3" channel="206750">
-    <title lang="el">ΝΤΟΚΥΜΑΝΤΕΡ</title>
-    <desc lang="el">Χαίρε των Αγγέλων Χαρμονή</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260814200000 GMT+3" stop="20260814203000 GMT+3" channel="206750">
-    <title lang="el">ΟΜΟΡΦΗ ΖΩΗ</title>
-    <desc lang="el">Θέμα: Επανένταξη ευάλωτων κοινωνικών ομάδων (β΄ μέρος) - Καλεσμένη: Ελένη Β. Γρομπανοπούλου, Υποψήφια Διδάκτορας Τμήματος Κοινωνιολογίας Πανεπιστημίου Αιγαίου</desc>
+  <programme start="20260814183000 GMT+3" stop="20260814203000 GMT+3" channel="206750">
+    <title lang="el">Μεγας Πανηγυρικος Αρχιερατικος Εσπερινος</title>
+    <desc lang="el">Απευθείας σύνδεση με το Πανελλήνιο Ιερό Προσκύνημα Παναγίας Σουμελά - Βέρμιον όρος - Βέροια</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260814203000 GMT+3" stop="20260814210000 GMT+3" channel="206750">
-    <title lang="el">ΘΕΜΑΤΑ ΘΕΟΛΟΓΙΑΣ</title>
-    <desc lang="el">Θέμα: Γιατί η μη χειροτονία γυναικών. Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
+    <title lang="el">ΝΤΟΚΥΜΑΝΤΕΡ</title>
+    <desc lang="el">Χαίρε των Αγγέλων Χαρμονή</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -81726,7 +81714,7 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814234500 GMT+3" stop="20260815004500 GMT+3" channel="206750">
+  <programme start="20260814234500 GMT+3" stop="20260815003500 GMT+3" channel="206750">
     <title lang="el">ΠΡΟΣΑΝΑΤΟΛΙΣΜΟΙ</title>
     <desc lang="el">Θέμα: Η Παναγιά του τόπου μου. Ομιλήτρια: Γαλάτεια Γρηγοριάδου - Σουρέλη, Συγγραφέας. Ομιλίες εθνικού, κοινωνικού, ιστορικού, θρησκευτικού και παιδαγωγικού περιεχομένου από διακεκριμένους επιστήμονες και ανθρώπους του πνεύματος.</desc>
     <category lang="el">Γενικά</category>
@@ -81955,8 +81943,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260814044000 GMT+3" stop="20260814053000 GMT+3" channel="289542">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ</title>
+    <desc lang="el">Ο Σπύρος, λογιστής στο επάγγελμα, χάνει την δουλειά του και την γυναίκα του Μαίρη, μια θερμόαιμη κομμώτρια. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται κεραυνοβόλα τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -82033,8 +82021,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260814170000 GMT+3" stop="20260814180000 GMT+3" channel="289542">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ29</title>
+    <desc lang="el">Το βίντεο του Ευτύχη γίνεται viral και στιγμιότυπα από την προσωπική ζωή των αντρών βγαίνουν στη φόρα. Όλοι είναι έξαλλοι μαζί του. Έπειτα από καυγά με την Ιουλία, ο Αντώνης γυρίζει πάλι στο σπίτι των αντρών. Η Μάρθα έχει αποφασίσει να χαρεί τις ετοιμασίες του γάμου της, αλλά ο Ευτύχης της αποκαλύπτει ότι ο Γρηγόρης τον δωροδόκησε για να επηρεάσει τα παιδιά τους. Η Βιολέτα βγαίνει με τον Ορφέα και περνάει πολύ καλά μαζί του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -86973,19 +86961,19 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814043500 GMT+3" stop="20260814052000 GMT+3" channel="216595">
+  <programme start="20260814043500 GMT+3" stop="20260814051500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ2</title>
     <desc lang="el">Η Andy παίρνει μια μέρα άδεια για να ασχοληθεί με την οικογενειακή της ζωή και οι Maya και Carina κάνουν τα πάντα για να διατηρήσουν τη σχέση τους αφού δεν μπορούν να συναντηθούν λόγω κορονοϊού. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814052000 GMT+3" stop="20260814054000 GMT+3" channel="216595">
+  <programme start="20260814051500 GMT+3" stop="20260814053500 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 2 Κ2 ΕΠ4</title>
     <desc lang="el">Η Λέξι ενώνει τους πρώτους δύο ορόφους της αίθουσας σύνταξης. Πρωταγωνιστούν: Gina Rodriguez,Hannah Simone,Lauren Ash. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814054000 GMT+3" stop="20260814060000 GMT+3" channel="216595">
+  <programme start="20260814053500 GMT+3" stop="20260814060000 GMT+3" channel="216595">
     <title lang="el">Not Dead Yet 2 Κ2 ΕΠ5</title>
     <desc lang="el">Η Νελ ερευνά τον θάνατο του τελευταίου φαντάσματός της. Πρωταγωνιστούν: Gina Rodriguez,Hannah Simone,Lauren Ash. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -87201,43 +87189,43 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814025000 GMT+3" stop="20260814031000 GMT+3" channel="2755">
+  <programme start="20260814025000 GMT+3" stop="20260814031500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ12</title>
     <desc lang="el">Ο Michael απαιτεί την προσοχή όλου του γραφείου όταν κατά λάθος μαγειρεύει το πόδι του σε μια ψησταριά George Foreman. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814031000 GMT+3" stop="20260814033500 GMT+3" channel="2755">
+  <programme start="20260814031500 GMT+3" stop="20260814034000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ19</title>
     <desc lang="el">Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Στο μεταξύ, ο Τέρι, η Ρόζα και ο Μπόιλ ανακαινίζουν την αίθουσα προσωπικού και η Έιμι μαθαίνει στην Τζίνα να αλλάζει λάστιχο στο αυτοκίνητο.Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814033500 GMT+3" stop="20260814035500 GMT+3" channel="2755">
+  <programme start="20260814034000 GMT+3" stop="20260814040500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ20</title>
     <desc lang="el">Ο Τζέικ και η Ρόζα κερδίζουν τον σεβασμό του ειδώλου τους, της υπαστυνόμου Μέλανι Χόκινς, ενώ ο Τσαρλς και η Τζίνα δοκιμάζουν διαφορετικές μεθόδους ανατροφής παιδιών για λύσουν τη διένεξη ανάμεσα σε Σκάλι και Χίτσκοκ. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814035500 GMT+3" stop="20260814044000 GMT+3" channel="2755">
+  <programme start="20260814040500 GMT+3" stop="20260814045000 GMT+3" channel="2755">
     <title lang="el">9-1-1 8 Κ8 ΕΠ16</title>
     <desc lang="el">Η Αθίνα επανεξετάζει τον θάνατο ενός παιδιού. Πρωταγωνιστούν: Angela Bassett,Oliver Stark,Peter Krause,Jennifer Love Hewitt, Kenneth Choi. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260814044000 GMT+3" stop="20260814050500 GMT+3" channel="2755">
+  <programme start="20260814045000 GMT+3" stop="20260814051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ10</title>
     <desc lang="el">Ο Σέλντον αντιμετωπίζει μια κρίση λόγω της τυχαίας ανακάλυψής του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814050500 GMT+3" stop="20260814053000 GMT+3" channel="2755">
+  <programme start="20260814051000 GMT+3" stop="20260814053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ11</title>
     <desc lang="el">Όλοι φαντάζονται πώς θα ήταν η ζωή χωρίς τον Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260814053000 GMT+3" stop="20260814060000 GMT+3" channel="2755">
+  <programme start="20260814053500 GMT+3" stop="20260814060000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ19</title>
     <desc lang="el">Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Στο μεταξύ, ο Τέρι, η Ρόζα και ο Μπόιλ ανακαινίζουν την αίθουσα προσωπικού και η Έιμι μαθαίνει στην Τζίνα να αλλάζει λάστιχο στο αυτοκίνητο.Η μαμά του αρχηγού Χολτ ζητά βοήθεια από το Τμήμα όταν γίνεται διάρρηξη στο σπίτι της. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -100206,8 +100194,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260815044000 GMT+3" stop="20260815053000 GMT+3" channel="54184415">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ (E)</title>
+    <desc lang="el">Ο Σπύρος, χάνει την δουλειά του και η γυναίκα του τον απειλεί με χωρισμό. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του. Έτσι ο Σπύρος βρίσκεται συνεχώς κοντά στη Νατάσα και το μοιραίο δεν αργεί να προκύψει.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -100265,13 +100253,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815142000 GMT+3" stop="20260815151000 GMT+3" channel="54184415">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ (E)</title>
-    <desc lang="el">Σε κάθε επεισόδιο μια διαφορετική εργαζόμενη γυναίκα μας αποκαλύπτει το δράμα που ζει και η Ελένη Ράντου το μετατρέπει σε απόλυτη κωμωδία!</desc>
+  <programme start="20260815142000 GMT+3" stop="20260815144500 GMT+3" channel="54184415">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ ΙΙ (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ελένη Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815151000 GMT+3" stop="20260815180000 GMT+3" channel="54184415">
+  <programme start="20260815144500 GMT+3" stop="20260815180000 GMT+3" channel="54184415">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -100283,7 +100271,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815181500 GMT+3" stop="20260815201500 GMT+3" channel="54184415">
+  <programme start="20260815181500 GMT+3" stop="20260815183000 GMT+3" channel="54184415">
+    <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
+    <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815183000 GMT+3" stop="20260815201500 GMT+3" channel="54184415">
     <title lang="el">Don&apos;t Forget the Lyrics (E)</title>
     <desc lang="el">29/03/26</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -101087,6 +101081,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260815003500 GMT+3" stop="20260815024000 GMT+3" channel="206750">
+    <title lang="el">ΜΕΓΑΣ ΠΑΝΗΓΥΡΙΚΟΣ ΑΡΧΙΕΡΑΤΙΚΟΣ ΕΣΠΕΡΙΝΟΣ</title>
+    <desc lang="el">Πανελλήνιο Ιερό Προσκύνημα Παναγίας Σουμελά - Βέρμιον όρος - Βέροια</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260815024000 GMT+3" stop="20260815034000 GMT+3" channel="206750">
     <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
     <desc lang="el">66ο Παιδαγωγικό Συνέδριο Συλλόγου &quot;Ο Μ. Βασίλειος&quot;: Ελληνική γλώσσα και τεχνητή νοημοσύνη. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
@@ -101123,9 +101123,21 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260815064000 GMT+3" stop="20260815072000 GMT+3" channel="206750">
+    <title lang="el">Ακολουθια Της Λιτης</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260815072000 GMT+3" stop="20260815073000 GMT+3" channel="206750">
     <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
     <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815073000 GMT+3" stop="20260815113000 GMT+3" channel="206750">
+    <title lang="el">Πανηγυρικη Αρχιερατικη Θεια Λειτουργια</title>
+    <desc lang="el">Απευθείας σύνδεση με το Πανελλήνιο Ιερό Προσκύνημα Παναγίας Σουμελά - Βέρμιον όρος - Βέροια</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -101141,15 +101153,15 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815122000 GMT+3" stop="20260815124500 GMT+3" channel="206750">
-    <title lang="el">ΕΠΙΚΑΙΡΑ ΜΗΝΥΜΑΤΑ</title>
-    <desc lang="el">κ. Νίκος Νικολαΐδης, Ομ. Καθηγητής Πανεπιστημίου Αθηνών</desc>
-    <category lang="el">Γενικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260815120000 GMT+3" stop="20260815122000 GMT+3" channel="206750">
     <title lang="el">ΕΝ ΧΟΡΔΑΙΣ</title>
     <desc lang="el">Παρακαλώ Σε Παρθένε. Παρουσιάζονται καλλιτέχνες, μουσικά σύνολα και χορωδίες με ποικίλο ρεπερτόριο.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815122000 GMT+3" stop="20260815124500 GMT+3" channel="206750">
+    <title lang="el">ΕΠΙΚΑΙΡΑ ΜΗΝΥΜΑΤΑ</title>
+    <desc lang="el">κ. Νίκος Νικολαΐδης, Ομ. Καθηγητής Πανεπιστημίου Αθηνών</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -101204,6 +101216,12 @@
   <programme start="20260815230000 GMT+3" stop="20260815234500 GMT+3" channel="206750">
     <title lang="el">ΛΟΓΟΣ ΛΕΙΤΟΥΡΓΙΚΟΣ</title>
     <desc lang="el">Με τον κ. Παναγιώτη Σκαλτσή, Καθηγητή Λειτουργικής Θεολογικής Σχολής ΑΠΘ - Θέμα: Η Κοίμηση της Θεοτόκου: Το Πάσχα του καλοκαιριού.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815234500 GMT+3" stop="20260816024500 GMT+3" channel="206750">
+    <title lang="el">ΠΑΝΗΓΥΡΙΚΗ ΑΡΧΙΕΡΑΤΙΚΗ ΘΕΙΑ ΛΕΙΤΟΥΡΓΙΑ</title>
+    <desc lang="el">Πανελλήνιο Ιερό Προσκύνημα Παναγίας Σουμελά - Βέρμιον όρος - Βέροια</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -101478,8 +101496,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260815044000 GMT+3" stop="20260815053000 GMT+3" channel="289542">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
+    <title lang="el">ΒΟΤΚΑ ΠΟΡΤΟΚΑΛΙ (E)</title>
+    <desc lang="el">Ο Σπύρος, χάνει την δουλειά του και η γυναίκα του τον απειλεί με χωρισμό. Ο Σπύρος καταλήγει σε ένα μπαράκι, μεθάει με βότκα και ερωτεύεται τη Νατάσα, την Ουκρανή μπαργούμαν, που είναι κορίτσι του ιδιοκτήτη του μπαρ Βαγγέλη. Το ίδιο βράδυ, ο Σπύρος σώζει την ζωή του Βαγγέλη από τις σφαίρες μιας συμμορίας και εκείνος του προτείνει να δουλέψει για αυτόν θεωρώντας τον &quot;αδελφό&quot; του. Έτσι ο Σπύρος βρίσκεται συνεχώς κοντά στη Νατάσα και το μοιραίο δεν αργεί να προκύψει.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -101537,13 +101555,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815142000 GMT+3" stop="20260815151000 GMT+3" channel="289542">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ (E)</title>
-    <desc lang="el">Σε κάθε επεισόδιο μια διαφορετική εργαζόμενη γυναίκα μας αποκαλύπτει το δράμα που ζει και η Ελένη Ράντου το μετατρέπει σε απόλυτη κωμωδία!</desc>
+  <programme start="20260815142000 GMT+3" stop="20260815144500 GMT+3" channel="289542">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ ΙΙ (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ελένη Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815151000 GMT+3" stop="20260815180000 GMT+3" channel="289542">
+  <programme start="20260815144500 GMT+3" stop="20260815180000 GMT+3" channel="289542">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -101555,7 +101573,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815181500 GMT+3" stop="20260815201500 GMT+3" channel="289542">
+  <programme start="20260815181500 GMT+3" stop="20260815183000 GMT+3" channel="289542">
+    <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
+    <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815183000 GMT+3" stop="20260815201500 GMT+3" channel="289542">
     <title lang="el">Don&apos;t Forget the Lyrics (E)</title>
     <desc lang="el">29/03/26</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -120263,13 +120287,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816142000 GMT+3" stop="20260816151000 GMT+3" channel="54184415">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ (E)</title>
-    <desc lang="el">Σε κάθε επεισόδιο μια διαφορετική εργαζόμενη γυναίκα μας αποκαλύπτει το δράμα που ζει και η Ελένη Ράντου το μετατρέπει σε απόλυτη κωμωδία!</desc>
+  <programme start="20260816142000 GMT+3" stop="20260816144500 GMT+3" channel="54184415">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816151000 GMT+3" stop="20260816180000 GMT+3" channel="54184415">
+  <programme start="20260816144500 GMT+3" stop="20260816180000 GMT+3" channel="54184415">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -120281,7 +120305,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816181500 GMT+3" stop="20260816201500 GMT+3" channel="54184415">
+  <programme start="20260816181500 GMT+3" stop="20260816183000 GMT+3" channel="54184415">
+    <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
+    <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816183000 GMT+3" stop="20260816201500 GMT+3" channel="54184415">
     <title lang="el">Don&apos;t Forget the Lyrics</title>
     <desc lang="el">Don&apos;t Forget the Lyrics</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -121067,6 +121097,12 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260816073000 GMT+3" stop="20260816104500 GMT+3" channel="206750">
+    <title lang="el">Αρχιερατικη Θεια Λειτουργια</title>
+    <desc lang="el">Απευθείας σύνδεση με τον Ι. Μητρ. Ν. Κοιμήσεως της Θεοτόκου - Καστοριά (Κυριακή των Αποδήμων Καστοριανών)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260816104500 GMT+3" stop="20260816110000 GMT+3" channel="206750">
     <title lang="el">ΕΥΧΑΡΙΣΤΙΑ ΜΕΤΑ ΤΗΝ ΘΕΙΑ ΜΕΤΑΛΗΨΗ</title>
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
@@ -121202,6 +121238,12 @@
   <programme start="20260816230000 GMT+3" stop="20260816234500 GMT+3" channel="206750">
     <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816234500 GMT+3" stop="20260817024500 GMT+3" channel="206750">
+    <title lang="el">Αρχιερατικη Θεια Λειτουργια</title>
+    <desc lang="el">Ιερός Μητροπολιτικός Ναός Κοιμήσεως της Θεοτόκου - Καστοριά</desc>
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
@@ -121529,13 +121571,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816142000 GMT+3" stop="20260816151000 GMT+3" channel="289542">
-    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ (E)</title>
-    <desc lang="el">Σε κάθε επεισόδιο μια διαφορετική εργαζόμενη γυναίκα μας αποκαλύπτει το δράμα που ζει και η Ελένη Ράντου το μετατρέπει σε απόλυτη κωμωδία!</desc>
+  <programme start="20260816142000 GMT+3" stop="20260816144500 GMT+3" channel="289542">
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816151000 GMT+3" stop="20260816180000 GMT+3" channel="289542">
+  <programme start="20260816144500 GMT+3" stop="20260816180000 GMT+3" channel="289542">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -121547,7 +121589,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816181500 GMT+3" stop="20260816201500 GMT+3" channel="289542">
+  <programme start="20260816181500 GMT+3" stop="20260816183000 GMT+3" channel="289542">
+    <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
+    <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816183000 GMT+3" stop="20260816201500 GMT+3" channel="289542">
     <title lang="el">Don&apos;t Forget the Lyrics</title>
     <desc lang="el">Don&apos;t Forget the Lyrics</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -140372,8 +140420,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817090000 GMT+3" stop="20260817101000 GMT+3" channel="54184415">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
+    <title lang="el">Flat Hunters (E)</title>
+    <desc lang="el">Σε κάθε επεισόδιο παρακολουθούμε την προσπάθεια κάθε μεσίτη να καταφέρει να βρει το ακίνητο που ανταποκρίνεται καλύτερα στις προσδοκίες του πελάτη. Κάθε επίσκεψη είναι γεμάτη εκπλήξεις, ευχάριστες, συγκινητικές, αλλά και αμήχανες στιγμές, καθώς οι 3 μεσίτες χρησιμοποιούν όλα τα μέσα που έχουν για να διαλέξει ο πελάτης το δικό τους σπίτι και να κερδίσουν. Στο τέλος κάθε ημέρας ο πελάτης επιλέγει το αγαπημένο του ακίνητο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -140396,8 +140444,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817123000 GMT+3" stop="20260817140000 GMT+3" channel="54184415">
-    <title lang="el">Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ (E)</title>
-    <desc lang="el">Τα ζώδια ζωντανεύουν και πρωταγωνιστούν στη μοναδική, αστρολογική κωμωδία της ελληνικής τηλεόρασης. Φλερτάρουν μεταξύ τους, κάνουν σεξ, ερωτεύονται, εκνευρίζονται, παρεξηγούνται, καβγαδίζουν, κάνουν απιστίες, εκδικούνται. Παράλληλα ο αστρολόγος Γιώργος Πανόπουλος, με εγκυρότητα αλλά και χιούμορ, σχολιάζει, εξηγεί και προβλέπει τις εξελίξεις. Κι εμείς μαθαίνουμε τι λένε τα άστρα για τη σχέση μας και τι μπορεί να πάθουμε στα καλά καθούμενα αν μπλέξουμε με λάθος ζώδιο.</desc>
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -140420,8 +140468,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817170000 GMT+3" stop="20260817180000 GMT+3" channel="54184415">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ30</title>
+    <desc lang="el">Η Βιολέτα έχει πάθει σοκ μαθαίνοντας ότι ο Ορφέας είναι παντρεμένος με παιδί. Η Μάρθα είναι πολύ απογοητευμένη με την τροπή που πήρε η σχέση της με τον Γρηγόρη. Η Ιουλία θεωρεί υπεύθυνη την Πηνελόπη για το ότι ο Αντώνης της πηγαίνει κόντρα και τσακώνεται μαζί της. Ο Ευτύχης έχει – περιέργως - ενδιαφέρουσες ιδέες για το πώς να βοηθήσει τους φίλους του στα αισθηματικά τους. Ο Πέτρος αποφασίζει να διεκδικήσει την Δανάη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -141259,6 +141307,192 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260817024500 GMT+3" stop="20260817034500 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">66ο Παιδαγωγικό Συνέδριο Συλλόγου &quot;Ο Μ. Βασίλειος&quot;: Ελληνική γλώσσα και τεχνητή νοημοσύνη. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817034500 GMT+3" stop="20260817041500 GMT+3" channel="206750">
+    <title lang="el">Ορθοδοξη Λατρεια Στην Πραξη</title>
+    <desc lang="el">Μία προσέγγιση στα τελούμενα της Ορθοδόξου Εκκλησίας μας. Με τον Πρωτοπρεσβύτερο Θεμιστοκλή Χριστοδούλου, Δρ Θεολογίας. Λειτουργικά θέματα με απλό τρόπο δοσμένα για καλύτερη κατανόηση από τους τηλεθεατές. Θέμα: Απαντήσεις σε ερωτήματα που αφορούν τα Μνημόσυνα</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817041500 GMT+3" stop="20260817044500 GMT+3" channel="206750">
+    <title lang="el">Στον Παιδιατρο</title>
+    <desc lang="el">Με την παιδίατρο Ευαγγελία Μπουρλή - Θέμα: Μαθησιακές δυσκολίες</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817044500 GMT+3" stop="20260817050000 GMT+3" channel="206750">
+    <title lang="el">Λιχουδιες Με Τη Σοφια</title>
+    <desc lang="el">Παιδική εκπομπή μαγειρικής-ζαχαροπλαστικής - Θέμα: Μπισκότα βρώμης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817050000 GMT+3" stop="20260817051500 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΜΥΘΙΟΥ ΑΡΧΗ</title>
+    <desc lang="el">Οι τρεις τσάντες</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817051500 GMT+3" stop="20260817053500 GMT+3" channel="206750">
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΗ ΤΡΑΠΕΖΑ</title>
+    <desc lang="el">Με τον κ. Ηλία Κούτλα, μάγειρα. Θέμα: Σφουγγάτο</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817053500 GMT+3" stop="20260817070500 GMT+3" channel="206750">
+    <title lang="el">Ο Τοπος Μου, Η Ζωη Μου</title>
+    <desc lang="el">Νέα Καρβάλη, α΄ μέρος. Oδοιπορικό σε χωριά της Ελλάδας και γνωριμία με την ιστορία, τα έθιμα και τις παραδόσεις τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817070500 GMT+3" stop="20260817075500 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817075500 GMT+3" stop="20260817080000 GMT+3" channel="206750">
+    <title lang="el">ΕΘΝΙΚΟΣ ΥΜΝΟΣ</title>
+    <desc lang="el">Λευκός Πύργος - Θεσσαλονίκη</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817080000 GMT+3" stop="20260817090000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΟΡΘΡΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817090000 GMT+3" stop="20260817100000 GMT+3" channel="206750">
+    <title lang="el">Οδοιπορικο Στην Ιμβρο Και Την Τενεδο</title>
+    <desc lang="el">(Ε΄ μέρος, Αγρίδια) - Επιμέλεια-παρουσίαση: Αρχιμ. π. Νικάνωρ Παπανικολάου.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817100000 GMT+3" stop="20260817104500 GMT+3" channel="206750">
+    <title lang="el">Αιχμη Του Δορατος</title>
+    <desc lang="el">Κρατικό Εργοστάσιο Αεροσκαφών. Ενημερωτική Εκπομπή του Υπουργείου Εθνικής Άμυνας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817104500 GMT+3" stop="20260817113000 GMT+3" channel="206750">
+    <title lang="el">ΜΟΝΑΣΤΗΡΙΑ ΤΟΥ ΤΟΠΟΥ ΜΑΣ</title>
+    <desc lang="el">Ο ναός της Μεγαλόχαρης στην Τήνο. Τα μοναστήρια της Πατρίδας μας επισκέπτεται αυτή η εκπομπή, για να κάνει κάθε τηλεθεατή συμμέτοχο στην ευλογία του προσκυνήματος.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817113000 GMT+3" stop="20260817120000 GMT+3" channel="206750">
+    <title lang="el">ΕΠΙ ΤΑΣ ΠΗΓΑΣ ΤΩΝ ΥΔΑΤΩΝ</title>
+    <desc lang="el">Από τον άμβωνα του Ι. Ναού Αγ. Λυδίας στην Ασπροβάλτα Θεσσαλονίκης. Η εκπομπή αναλύει το Ευαγγελικό-Αποστολικό Ανάγνωσμα της Κυριακής και των μεγάλων εορτών, δίνοντας μηνύματα στον αγχωμένο και προβληματισμένο άνθρωπο της εποχής μας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817120000 GMT+3" stop="20260817123000 GMT+3" channel="206750">
+    <title lang="el">Κοιτωντας Γυρω Μας</title>
+    <desc lang="el">Με τον δημοσιογράφο Θανάση Κληματσίδα. Θέμα: Παιδικός Σταθμός ΑΝΑΠΝΟΗ Αμπελοκήπων</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817123000 GMT+3" stop="20260817132500 GMT+3" channel="206750">
+    <title lang="el">Μνημες</title>
+    <desc lang="el">Από τον τόπο προέλευσης στον τόπο εγκατάστασης (ι΄ μέρος). Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817132500 GMT+3" stop="20260817141500 GMT+3" channel="206750">
+    <title lang="el">Βυζαντινα Μελωδηματα</title>
+    <desc lang="el">Με τον πρωτοψάλτη Πάρη Γκούνα, Θεολόγο-Μουσικοδιδάσκαλο. Καλεσμένος: Εν Αθήναις Σύλλογος Μουσικοφίλων Κωνσταντινουπόλεως. Η εκπομπή παρουσιάζει ανθρώπους που διακονούν την ιερή τέχνη της ψαλτικής και που κοσμούν τα αναλόγια των Εκκλησιών μας.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817141500 GMT+3" stop="20260817143000 GMT+3" channel="206750">
+    <title lang="el">ΕΝΑΤΗ ΩΡΑ</title>
+    <desc lang="el">Η μεσημβρινή προσευχή της Εκκλησίας μας</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817143000 GMT+3" stop="20260817144000 GMT+3" channel="206750">
+    <title lang="el">ΗΜΕΡΟΛΟΓΙΟ</title>
+    <desc lang="el">ΗΜΕΡΟΛΟΓΙΟ</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817144000 GMT+3" stop="20260817163000 GMT+3" channel="206750">
+    <title lang="el">Επικαιροτητες</title>
+    <desc lang="el">Εκδήλωση για την 20ή Ποιμαντορία του Μητροπολίτη Κισάμου κ. Αμφιλοχίου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817163000 GMT+3" stop="20260817171500 GMT+3" channel="206750">
+    <title lang="el">ΠΑΡΑΚΛΗΤΙΚΟΣ ΚΑΝΟΝΑΣ ΣΤΟΝ ΑΓΙΟ ΝΙΚΑΝΟΡΑ</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817171500 GMT+3" stop="20260817180000 GMT+3" channel="206750">
+    <title lang="el">Σκεψεις, Κρισεις, Σχολια</title>
+    <desc lang="el">66ο Παιδαγωγικό Συνέδριο Συλλόγου &quot;Ο Μ. Βασίλειος&quot;: Ελληνική γλώσσα και τεχνητή νοημοσύνη. Καταγραφή και προβολή των εργασιών επιστημονικών, θεολογικών, παιδαγωγικών, εκπαιδευτικών συνεδρίων.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817180000 GMT+3" stop="20260817184000 GMT+3" channel="206750">
+    <title lang="el">ΑΚΟΛΟΥΘΙΑ ΤΟΥ ΕΣΠΕΡΙΝΟΥ</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817184000 GMT+3" stop="20260817191000 GMT+3" channel="206750">
+    <title lang="el">ΕΠΙΣΚΕΨΗ ΣΤΟ ΑΡΧΟΝΤΑΡΙΚΙ ΤΟΥ ΑΘΩ</title>
+    <desc lang="el">Γέρων Ιωσήφ Βατοπαιδινός</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817191000 GMT+3" stop="20260817193000 GMT+3" channel="206750">
+    <title lang="el">ΞΕΡΟΥΜΕ ΝΑ ΤΡΩΜΕ;</title>
+    <desc lang="el">Με την διατροφολόγο-διαιτολόγο Σεβαστή Ζουμή. Θέμα: Το πλιγούρι</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817193000 GMT+3" stop="20260817200000 GMT+3" channel="206750">
+    <title lang="el">Νεανικο Αρχονταρικι</title>
+    <desc lang="el">Θέμα: Υπάρχουν σήμερα Άγιοι;. Με τον Αρχιμ. π. Νικάνορα Παπανικολάου. Υποδεχόμαστε στο αρχονταρίκι μας νέους ανθρώπους, για να ακούσουμε τις σκέψεις και τις ανησυχίες τους.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817200000 GMT+3" stop="20260817210000 GMT+3" channel="206750">
+    <title lang="el">Λογια Της Πλωρης</title>
+    <desc lang="el">Με τον κ. Μιχάλη Πετρόπουλο, δικηγόρο. Θέμα: Στα πέλαγα του κόσμου. Μια εκπομπή πολιτισμού, για την παράδοση, την ιστορία, τη θάλασσα.</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817210000 GMT+3" stop="20260817224500 GMT+3" channel="206750">
+    <title lang="el">ΣΗΜΕΙΑ ΤΩΝ ΚΑΙΡΩΝ</title>
+    <desc lang="el">Ο δικηγόρος κ. Κωνσταντίνος Λογοθέτης συνεχίζει, επί μακρά σειρά ετών, την παρουσίαση θεμάτων που απασχολούν το κοινωνικό σύνολο. Θέμα: Ο μαγικός κήπος της μνήμης στην Ελλάδα που αγαπήσαμε (ζ΄ μέρος)</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817224500 GMT+3" stop="20260817230000 GMT+3" channel="206750">
+    <title lang="el">ΠΡΟΣΕΥΧΟΜΑΣΤΕ ΜΑΖΙ</title>
+    <desc lang="el">Κοινή προσευχή</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817230000 GMT+3" stop="20260817234500 GMT+3" channel="206750">
+    <title lang="el">ΜΙΚΡΟ ΑΠΟΔΕΙΠΝΟ</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου - Ιερό Παρεκκλήσιο Αγίου Χαραλάμπους</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817234500 GMT+3" stop="20260818014500 GMT+3" channel="206750">
+    <title lang="el">Επικαιροτητες</title>
+    <desc lang="el">Εκδήλωση για την 20ή Ποιμαντορία του Μητροπολίτη Κισάμου κ. Αμφιλοχίου</desc>
+    <category lang="el">Γενικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260817000000 GMT+3" stop="20260817010000 GMT+3" channel="2221">
     <title lang="el">TAINIA</title>
     <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
@@ -141566,8 +141800,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817090000 GMT+3" stop="20260817101000 GMT+3" channel="289542">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
+    <title lang="el">Flat Hunters (E)</title>
+    <desc lang="el">Σε κάθε επεισόδιο παρακολουθούμε την προσπάθεια κάθε μεσίτη να καταφέρει να βρει το ακίνητο που ανταποκρίνεται καλύτερα στις προσδοκίες του πελάτη. Κάθε επίσκεψη είναι γεμάτη εκπλήξεις, ευχάριστες, συγκινητικές, αλλά και αμήχανες στιγμές, καθώς οι 3 μεσίτες χρησιμοποιούν όλα τα μέσα που έχουν για να διαλέξει ο πελάτης το δικό τους σπίτι και να κερδίσουν. Στο τέλος κάθε ημέρας ο πελάτης επιλέγει το αγαπημένο του ακίνητο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -141590,8 +141824,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817123000 GMT+3" stop="20260817140000 GMT+3" channel="289542">
-    <title lang="el">Ο ΠΟΛΕΜΟΣ ΤΩΝ ΑΣΤΡΩΝ (E)</title>
-    <desc lang="el">Τα ζώδια ζωντανεύουν και πρωταγωνιστούν στη μοναδική, αστρολογική κωμωδία της ελληνικής τηλεόρασης. Φλερτάρουν μεταξύ τους, κάνουν σεξ, ερωτεύονται, εκνευρίζονται, παρεξηγούνται, καβγαδίζουν, κάνουν απιστίες, εκδικούνται. Παράλληλα ο αστρολόγος Γιώργος Πανόπουλος, με εγκυρότητα αλλά και χιούμορ, σχολιάζει, εξηγεί και προβλέπει τις εξελίξεις. Κι εμείς μαθαίνουμε τι λένε τα άστρα για τη σχέση μας και τι μπορεί να πάθουμε στα καλά καθούμενα αν μπλέξουμε με λάθος ζώδιο.</desc>
+    <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
+    <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -141614,8 +141848,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260817170000 GMT+3" stop="20260817180000 GMT+3" channel="289542">
-    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E)</title>
-    <desc lang="el">Πέντε άντρες αποφασίζουν να αλλάξουν τα πάντα στη ζωή τους. Ο Πέτρος ζητά διαζύγιο από την καταπιεστική γυναίκα του και εγκαθίσταται στη βίλα της θείας του ως εργένης. Ακολουθεί ο φίλος του Χριστόφορος, που η γυναίκα του τον έδιωξε από το σπίτι. Ο Μηνάς αποφασίζει να χωρίσει από τη σχέση του, ενώ ο Ευτύχης ακολουθεί για να καταφέρει να γλιτώσει από τις απατεωνιές του. Τέλος, ο Αντώνης εγκαταλείπει τη φορτική μητέρα του και συγκατοικεί με τους τέσσερις φίλους του.</desc>
+    <title lang="el">ΚΑΤΙ ΧΩΡΙΣΜΕΝΑ ΠΑΛΙΚΑΡΙΑ (E) ΕΠ30</title>
+    <desc lang="el">Η Βιολέτα έχει πάθει σοκ μαθαίνοντας ότι ο Ορφέας είναι παντρεμένος με παιδί. Η Μάρθα είναι πολύ απογοητευμένη με την τροπή που πήρε η σχέση της με τον Γρηγόρη. Η Ιουλία θεωρεί υπεύθυνη την Πηνελόπη για το ότι ο Αντώνης της πηγαίνει κόντρα και τσακώνεται μαζί της. Ο Ευτύχης έχει – περιέργως - ενδιαφέρουσες ιδέες για το πώς να βοηθήσει τους φίλους του στα αισθηματικά τους. Ο Πέτρος αποφασίζει να διεκδικήσει την Δανάη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -153249,9 +153483,123 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260817063000 GMT+3" stop="20260818060000 GMT+3" channel="71037999">
+  <programme start="20260817063000 GMT+3" stop="20260817070000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg Primer Κ1</title>
     <desc lang="el">Governments and entrepreneurs are racing to commercialize the moon. These efforts could unlock a new, deep-space economy. But to return and stay will require the highest levels of innovation.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817070000 GMT+3" stop="20260817072000 GMT+3" channel="71037999">
+    <title lang="el">Tesla&apos;s Dangerous Doors</title>
+    <desc lang="el">A number of fatal car crashes involving Tesla vehicles has prompted increased scrutiny of its electric doors, triggering lawsuits over whether the design can leave passengers trapped.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817072000 GMT+3" stop="20260817073500 GMT+3" channel="71037999">
+    <title lang="el">Inside Trump&apos;s Deal to Reshape Alaska</title>
+    <desc lang="el">A mining deal by the Trump administration and a 211-mile road have pitted Wall Street against Alaska residents fearful of the environmental impact. But not everyone is against the Ambler Road project.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817073500 GMT+3" stop="20260817075000 GMT+3" channel="71037999">
+    <title lang="el">Why Space Companies Are Betting Big on Texas</title>
+    <desc lang="el">Already home to SpaceX, Blue Origin and recent moon-landers Firefly Aerospace and Intuitive Machines, Texas is quickly becoming the center of the commercial space universe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817075000 GMT+3" stop="20260817083500 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">A police raid in a small town in the Philippines revealed a young mayor&apos;s alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817083500 GMT+3" stop="20260817092000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates Κ5</title>
+    <desc lang="el">A police raid in a small town in the Philippines revealed a young mayor&apos;s alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817092000 GMT+3" stop="20260817094000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">The award-winning series that sets out to uncover the truth behind some of the most powerful stories from around the world.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817094000 GMT+3" stop="20260817100000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817100000 GMT+3" stop="20260817103000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates Κ6</title>
+    <desc lang="el">Bloomberg Investigates spends a year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump&apos;s immigration policies.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817103000 GMT+3" stop="20260817110000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Last year alone, an estimated $1 trillion was lost globally to fraud. With law enforcement struggling to cope, scambaiter vigilantes are filling the gaps.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817110000 GMT+3" stop="20260817113000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Fake permits, undercover informants and millions of dollars. How a US government agency set out to prove suppliers to research labs were importing wild monkeys from Cambodia with false paperwork.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817113000 GMT+3" stop="20260817120000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Ji Chaoqun was a promising young engineer from Beijing heading to the US to study. Then China’s spy agency came calling with bags of cash, the promise of glory and an offer that would change his life forever.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817120000 GMT+3" stop="20260817123000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">The Malaysian Anti-Corruption Commission is supposed to root out graft. Instead, some of its members have been accused of perpetuating the very wrongdoing they were meant to stop.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817123000 GMT+3" stop="20260817131000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817131000 GMT+3" stop="20260817133000 GMT+3" channel="71037999">
+    <title lang="el">Inside Jeffrey Epstein&apos;s Network of Power</title>
+    <desc lang="el">Jeffrey Epstein built a network of elites across finance, politics and academia. By analyzing thousands of documents, Bloomberg mapped its reach and how it widened even as allegations against him accumulated.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817133000 GMT+3" stop="20260817140000 GMT+3" channel="71037999">
+    <title lang="el">A Dangerous Corner of the Global Shipping Industry</title>
+    <desc lang="el">The sinking of the Gulf Livestock 1 was the worst disaster in the history of the live-export trade, an industry made up of about 150 ships with a market value totaling $20 billion to $30 billion.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817140000 GMT+3" stop="20260817170000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Surveillance Radio</title>
+    <desc lang="el">The economy and the markets are &quot;under surveillance&quot; as we cover the latest in finance, economics and investment. Join Tom Keene, Paul Sweeney, Lisa Mateo, Michael Barr and other guests.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817170000 GMT+3" stop="20260817190000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg Intelligence</title>
+    <desc lang="el">Bloomberg&apos;s Alix Steel and Paul Sweeney harness the power of Bloomberg Intelligence to provide in-depth research and data on more than 2,000 companies and 130 industries.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817190000 GMT+3" stop="20260817210000 GMT+3" channel="71037999">
+    <title lang="el">Balance of Power</title>
+    <desc lang="el">Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump&apos;s administration, the federal agencies and the courts.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817210000 GMT+3" stop="20260818000000 GMT+3" channel="71037999">
+    <title lang="el">Bloomberg BusinessWeek</title>
+    <desc lang="el">Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -157161,6 +157509,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260817191500 GMT+3" stop="20260817193000 GMT+3" channel="94430673">
+    <title lang="el">Manchester City v Liverpool U18: Shortcut</title>
+    <desc lang="el">The best of the action as Liverpool U18 take on Manchester City.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260817193000 GMT+3" stop="20260817194500 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Como 1907: Shortcut</title>
     <desc lang="el">The best of the action as Liverpool take on Como 1907 at Anfield.</desc>
@@ -157182,6 +157536,12 @@
   <programme start="20260817203000 GMT+3" stop="20260817214500 GMT+3" channel="94430673">
     <title lang="el">Flags and Banners: The Art of LFC</title>
     <desc lang="el">An exclusive documentary which delves into the history and culture of the club&apos;s flags and banners.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817214500 GMT+3" stop="20260817220000 GMT+3" channel="94430673">
+    <title lang="el">Manchester City v Liverpool U18: Shortcut</title>
+    <desc lang="el">The best of the action as Liverpool U18 take on Manchester City.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
