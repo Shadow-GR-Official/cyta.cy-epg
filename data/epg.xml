@@ -36769,15 +36769,9 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813220000 GMT+3" stop="20260813223000 GMT+3" channel="211368">
+  <programme start="20260813220000 GMT+3" stop="20260813230000 GMT+3" channel="211368">
     <title lang="el">Al Jazeera World Κ13</title>
     <desc lang="el">An exclusive Al Jazeera interview with the man who took over as President of Syria in January 2025 about his vision for the long-term future of his country. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260813223000 GMT+3" stop="20260813230000 GMT+3" channel="211368">
-    <title lang="el">Boycott</title>
-    <desc lang="el">A 3-part series about US anti-boycott laws and the implications for freedom of speech. Part One introduces three landmark cases that challenge the legislation. (2023)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -39153,69 +39147,69 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813023000 GMT+3" stop="20260813050000 GMT+3" channel="4185119">
+  <programme start="20260813023000 GMT+3" stop="20260813050100 GMT+3" channel="4185119">
     <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813050000 GMT+3" stop="20260813070000 GMT+3" channel="4185119">
+  <programme start="20260813050100 GMT+3" stop="20260813070100 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813070000 GMT+3" stop="20260813083000 GMT+3" channel="4185119">
+  <programme start="20260813070100 GMT+3" stop="20260813083100 GMT+3" channel="4185119">
     <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813083000 GMT+3" stop="20260813090000 GMT+3" channel="4185119">
+  <programme start="20260813083100 GMT+3" stop="20260813090000 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813090000 GMT+3" stop="20260813123000 GMT+3" channel="4185119">
+  <programme start="20260813090000 GMT+3" stop="20260813123200 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813123000 GMT+3" stop="20260813173000 GMT+3" channel="4185119">
+  <programme start="20260813123200 GMT+3" stop="20260813173300 GMT+3" channel="4185119">
     <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
     <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813173000 GMT+3" stop="20260813180000 GMT+3" channel="4185119">
-    <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260813180000 GMT+3" stop="20260813190000 GMT+3" channel="4185119">
+  <programme start="20260813173300 GMT+3" stop="20260813184200 GMT+3" channel="4185119">
     <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
     <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813190000 GMT+3" stop="20260813200000 GMT+3" channel="4185119">
+  <programme start="20260813184200 GMT+3" stop="20260813194100 GMT+3" channel="4185119">
     <title lang="el">PRO SERIES - Γύρος Τσεχίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813200000 GMT+3" stop="20260813203000 GMT+3" channel="4185119">
+  <programme start="20260813194100 GMT+3" stop="20260813201000 GMT+3" channel="4185119">
     <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
     <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813203000 GMT+3" stop="20260814000000 GMT+3" channel="4185119">
+  <programme start="20260813201000 GMT+3" stop="20260813234000 GMT+3" channel="4185119">
     <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
     <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260813234000 GMT+3" stop="20260814003900 GMT+3" channel="4185119">
+    <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
+    <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -39225,49 +39219,49 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813023000 GMT+3" stop="20260813050000 GMT+3" channel="5183085">
+  <programme start="20260813023000 GMT+3" stop="20260813045900 GMT+3" channel="5183085">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813050000 GMT+3" stop="20260813070000 GMT+3" channel="5183085">
+  <programme start="20260813045900 GMT+3" stop="20260813065600 GMT+3" channel="5183085">
     <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813070000 GMT+3" stop="20260813083000 GMT+3" channel="5183085">
+  <programme start="20260813065600 GMT+3" stop="20260813083000 GMT+3" channel="5183085">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813083000 GMT+3" stop="20260813103000 GMT+3" channel="5183085">
+  <programme start="20260813083000 GMT+3" stop="20260813102900 GMT+3" channel="5183085">
     <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - 20ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813103000 GMT+3" stop="20260813123000 GMT+3" channel="5183085">
+  <programme start="20260813102900 GMT+3" stop="20260813123000 GMT+3" channel="5183085">
     <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
     <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813123000 GMT+3" stop="20260813130000 GMT+3" channel="5183085">
+  <programme start="20260813123000 GMT+3" stop="20260813130500 GMT+3" channel="5183085">
     <title lang="el">Σαγκάη - 2ος ΑΓΩΝΑΣ</title>
     <desc lang="el">Σαγκάη - 2ος ΑΓΩΝΑΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813130000 GMT+3" stop="20260813143000 GMT+3" channel="5183085">
+  <programme start="20260813130500 GMT+3" stop="20260813142900 GMT+3" channel="5183085">
     <title lang="el">PTO Τουρ -</title>
     <desc lang="el">PTO Τουρ -</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813143000 GMT+3" stop="20260813150000 GMT+3" channel="5183085">
+  <programme start="20260813142900 GMT+3" stop="20260813150000 GMT+3" channel="5183085">
     <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
     <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
     <category lang="el">Αθλητικά</category>
@@ -39285,25 +39279,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813173000 GMT+3" stop="20260813190000 GMT+3" channel="5183085">
+  <programme start="20260813173000 GMT+3" stop="20260813191500 GMT+3" channel="5183085">
     <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813190000 GMT+3" stop="20260813200000 GMT+3" channel="5183085">
+  <programme start="20260813191500 GMT+3" stop="20260813195600 GMT+3" channel="5183085">
     <title lang="el">Τόκιο - 1ος ΑΓΩΝΑΣ</title>
     <desc lang="el">Τόκιο - 1ος ΑΓΩΝΑΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813200000 GMT+3" stop="20260813210000 GMT+3" channel="5183085">
+  <programme start="20260813195600 GMT+3" stop="20260813210100 GMT+3" channel="5183085">
     <title lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</title>
     <desc lang="el">- Οπεν Κίνας - 2ος ΓΥΡΟΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260813210000 GMT+3" stop="20260814010000 GMT+3" channel="5183085">
+  <programme start="20260813210100 GMT+3" stop="20260814010100 GMT+3" channel="5183085">
     <title lang="el">Πρωτάθλημα St. Jude - 1Η ΗΜΕΡΑ</title>
     <desc lang="el">Πρωτάθλημα St. Jude - 1Η ΗΜΕΡΑ</desc>
     <category lang="el">Αθλητικά</category>
@@ -59001,13 +58995,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260814000000 GMT+3" stop="20260814010000 GMT+3" channel="4185119">
-    <title lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">World Tour - ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ - ΑΝΑΣΚΟΠΗΣΗ - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260814010000 GMT+3" stop="20260814020000 GMT+3" channel="4185119">
+  <programme start="20260814003900 GMT+3" stop="20260814020000 GMT+3" channel="4185119">
     <title lang="el">Πόκερ World Series</title>
     <desc lang="el">Πόκερ World Series</desc>
     <category lang="el">Αθλητικά</category>
@@ -59073,7 +59061,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814143000 GMT+3" stop="20260814180000 GMT+3" channel="4185119">
+  <programme start="20260814143000 GMT+3" stop="20260814151500 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας -</title>
+    <desc lang="el">- Οπεν Κίνας -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260814151500 GMT+3" stop="20260814180000 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - Προημιτελικός</title>
     <desc lang="el">- Οπεν Κίνας - Προημιτελικός</desc>
     <category lang="el">Αθλητικά</category>
@@ -59103,7 +59097,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814010000 GMT+3" stop="20260814020000 GMT+3" channel="5183085">
+  <programme start="20260814010100 GMT+3" stop="20260814020000 GMT+3" channel="5183085">
     <title lang="el">PRO SERIES - Γύρος Τσεχίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -59187,13 +59181,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814180000 GMT+3" stop="20260814190000 GMT+3" channel="5183085">
+  <programme start="20260814180000 GMT+3" stop="20260814191500 GMT+3" channel="5183085">
     <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260814190000 GMT+3" stop="20260814200000 GMT+3" channel="5183085">
+  <programme start="20260814191500 GMT+3" stop="20260814200000 GMT+3" channel="5183085">
     <title lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</title>
     <desc lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -67026,115 +67020,115 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815060000 GMT+3" stop="20260815065500 GMT+3" channel="216595">
+  <programme start="20260815060000 GMT+3" stop="20260815064500 GMT+3" channel="216595">
     <title lang="el">Castle 8 Κ8 ΕΠ21</title>
     <desc lang="el">Όταν ένας τρόφιμος ψυχιατρείου που έχει δραπετεύσει οπλισμένος με ένα τσεκούρι βρίσκεται νεκρός στο γραφείο του Castle, η έρευνα του Castle και της Beckett οδηγεί τον Castle να υποψιαστεί ότι ο θάνατος του θύματος μπορεί να είναι δουλειά του Αντίχριστου. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815065500 GMT+3" stop="20260815074000 GMT+3" channel="216595">
+  <programme start="20260815064500 GMT+3" stop="20260815073000 GMT+3" channel="216595">
     <title lang="el">Castle 8 Κ8 ΕΠ22</title>
     <desc lang="el">Διαθέτοντας το καλύτερο στοιχείο μέχρι τώρα, ο Castle και η Beckett ετοιμάζονται να πιάσουν τον LokSat. Όμως, μια απρόβλεπτη λεπτομέρεια βάζει την υπόθεση - και τις ζωές τους - σε κίνδυνο. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815074000 GMT+3" stop="20260815082500 GMT+3" channel="216595">
+  <programme start="20260815073000 GMT+3" stop="20260815081500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ1</title>
     <desc lang="el">Όταν η πανδημία του κορονοϊού χτυπά το Σιάτλ, η ομάδα του Station 19 αλληλοστηρίζεται. Η Andy προσπαθεί να καταλάβει γιατί επέστρεψε η μητέρα της, ενώ ο Sullivan προσαρμόζεται σε μια νέα ρουτίνα. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815082500 GMT+3" stop="20260815091000 GMT+3" channel="216595">
+  <programme start="20260815081500 GMT+3" stop="20260815090000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ2</title>
     <desc lang="el">Η Andy παίρνει μια μέρα άδεια για να ασχοληθεί με την οικογενειακή της ζωή και οι Maya και Carina κάνουν τα πάντα για να διατηρήσουν τη σχέση τους αφού δεν μπορούν να συναντηθούν λόγω κορονοϊού. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815091000 GMT+3" stop="20260815095500 GMT+3" channel="216595">
+  <programme start="20260815090000 GMT+3" stop="20260815094500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ4 ΕΠ3</title>
     <desc lang="el">Το μέλλον του Sullivan κρέμεται από μια κλωστή καθώς βρίσκεται σε εξέλιξη το πειθαρχικό συμβούλιο, και οι Ben, Dr. Richard Webber και Emmett Dixon καθώς και ο πρώην αρχηγός της Πυροσβεστικής Dixon καλούνται να καταθέσουν. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2018)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815095500 GMT+3" stop="20260815104000 GMT+3" channel="216595">
+  <programme start="20260815094500 GMT+3" stop="20260815103000 GMT+3" channel="216595">
     <title lang="el">Transplant 3 Κ3 ΕΠ5</title>
     <desc lang="el">Ο Bash γνωρίζει έναν καινούργιο ψυχίατρο ενώ φροντίζει έναν ασθενή με μετατραυματικό στρες και η Μαγκς αντιμετωπίζει τη μεγαλύτερη πρόκλησή της μέχρι σήμερα. Πρωταγωνιστούν: Hamza Haq, Laurence Leboeuf, Ayisha Issa, Jim Watson, Torri Higginson. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815104000 GMT+3" stop="20260815112000 GMT+3" channel="216595">
+  <programme start="20260815103000 GMT+3" stop="20260815111500 GMT+3" channel="216595">
     <title lang="el">Transplant 3 Κ3 ΕΠ6</title>
     <desc lang="el">Μετά από ένα φρικτό ατύχημα, η ζωή ενός νεαρού άνδρα αφήνεται στα χέρια του Bash. Πρωταγωνιστούν: Hamza Haq, Laurence Leboeuf, Ayisha Issa, Jim Watson, Torri Higginson. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815112000 GMT+3" stop="20260815120500 GMT+3" channel="216595">
+  <programme start="20260815111500 GMT+3" stop="20260815120000 GMT+3" channel="216595">
     <title lang="el">Transplant 3 Κ3 ΕΠ7</title>
     <desc lang="el">Ο Bash κλονίζεται από την τολμηρή απόφαση της Amira και οι εντάσεις φουντώνουν σε ένα δείπνο μετά τη δουλειά. Πρωταγωνιστούν: Hamza Haq, Laurence Leboeuf, Ayisha Issa, Jim Watson, Torri Higginson. (2022)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815120500 GMT+3" stop="20260815125000 GMT+3" channel="216595">
+  <programme start="20260815120000 GMT+3" stop="20260815124500 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 14 Κ14 ΕΠ18</title>
     <desc lang="el">Ενώ βρίσκονται στο πεδίο, η Violet και η Novak έρχονται αντιμέτωπες με μια επικίνδυνη και κλιμακούμενη κατάσταση. Πρωταγωνιστούν: Taylor Kinney, Miranda Rae Mayo, David Eigenberg, Christian Stolte. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815125000 GMT+3" stop="20260815133500 GMT+3" channel="216595">
+  <programme start="20260815124500 GMT+3" stop="20260815132500 GMT+3" channel="216595">
     <title lang="el">Chicago Med 11 Κ11 ΕΠ18</title>
     <desc lang="el">Η μοίρα μιας οικογένειας αφήνεται στα χέρια του προσωπικού του Γκάφνεϊ. Πρωταγωνιστούν: S. Epatha Merkerson, Oliver Platt, Jessy Schram, Luke Mitchell. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815133500 GMT+3" stop="20260815141500 GMT+3" channel="216595">
+  <programme start="20260815132500 GMT+3" stop="20260815141000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ11</title>
     <desc lang="el">Ο Πάτρικ Τζέιν και η ομάδα εισχωρούν στον κόσμο της επαγγελματικής πάλης όταν το πτώμα μιας γυναίκας ανακαλύπτεται σε έναν αγώνα μικτών πολεμικών τεχνών - με δεσμούς με έναν από τους μαχητές. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815141500 GMT+3" stop="20260815150000 GMT+3" channel="216595">
+  <programme start="20260815141000 GMT+3" stop="20260815145500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ12</title>
     <desc lang="el">Όταν ο Πάτρικ Τζέιν και η Υπηρεσία πρέπει να συνεργαστούν με έναν επιστημονικό εγκληματολόγο, τον δρα Μόνταγκιου, για να λύσουν έναν διπλό φόνο, ο Τζέιν γίνεται ανταγωνιστικός για να αποδείξει ότι οι μέθοδοί του είναι ανώτερες. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815150000 GMT+3" stop="20260815154500 GMT+3" channel="216595">
+  <programme start="20260815145500 GMT+3" stop="20260815154000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ13</title>
     <desc lang="el">Ένας άντρας που κατηγορείται για φόνο κρατάει τον Πάτρικ Τζέιν και άλλους υπό την απειλή όπλου σε μια προσπάθεια να καθαρίσει το όνομά του. Τώρα, ο Τζέιν πρέπει να σκεφτεί γρήγορα για να εκτονώσει την κατάσταση με τους ομήρους. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815154500 GMT+3" stop="20260815163000 GMT+3" channel="216595">
+  <programme start="20260815154000 GMT+3" stop="20260815162500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ14</title>
     <desc lang="el">Οι ενέργειες της Βαν Πελτ αμφισβητούνται και η θέση της εντός της Υπηρεσίας τίθεται σε κίνδυνο όταν ένας μάρτυρας δολοφονείται ενώ βρίσκεται υπό την προστασία της. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815163000 GMT+3" stop="20260815171500 GMT+3" channel="216595">
+  <programme start="20260815162500 GMT+3" stop="20260815171000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 3 Κ3 ΕΠ15</title>
     <desc lang="el">Όταν ένας σύγχρονος χρυσωρύχος βρίσκεται νεκρός κοντά σε ένα ορυχείο και η Λίζμπον τραυματίζεται κατά τα αρχικά στάδια της έρευνας, η πράκτορας Χάιταουερ συναντά τον Πάτρικ Τζέιν στο πεδίο για πρώτη φορά. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815171500 GMT+3" stop="20260815180000 GMT+3" channel="216595">
+  <programme start="20260815171000 GMT+3" stop="20260815175500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ3</title>
     <desc lang="el">Οι γιατροί του Grey Sloan συνεχίζουν να αντιμετωπίζουν τη νέα τους πραγματικότητα με τον κορονοϊό και καλούνται να φροντίσουν έναν γνώριμο και πεισματάρη ασθενή. Ο Koracick τοποθετείται επικεφαλής των εκπαιδευόμενων και ο Link εγχειρίζει έναν σεξολόγο. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815180000 GMT+3" stop="20260815184500 GMT+3" channel="216595">
+  <programme start="20260815175500 GMT+3" stop="20260815184000 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ4</title>
     <desc lang="el">Ο Owen αντιμετωπίζει μια ιατρική διάγνωση που τον δυσκολεύει περισσότερο απ&apos; όσο φανταζόταν. Στο μεταξύ, ο Koracick αρχίζει να τρελαίνεται με τη ρουτίνα και η Maggie ρίχνει μια όχι και τόσο διακριτική ματιά στο παρελθόν του Winston. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815184500 GMT+3" stop="20260815193000 GMT+3" channel="216595">
+  <programme start="20260815184000 GMT+3" stop="20260815192500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ5</title>
     <desc lang="el">H Bailey πανικοβάλλεται όταν μαθαίνει ότι τα κρούσματα κορονοϊού έχουν αυξηθεί, επειδή έχει αγαπημένους ανθρώπους που ζουν σε γηροκομεία. Ο Jackson και ο Richard συνεργάζονται ενάντια στην Catherine για να της δώσουν ένα μάθημα. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815193000 GMT+3" stop="20260815201500 GMT+3" channel="216595">
+  <programme start="20260815192500 GMT+3" stop="20260815201500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ6</title>
     <desc lang="el">Το Grey Sloan Memorial αντιμετωπίζει νέες πιέσεις και πλέον βρίσκεται στα όρια της χωρητικότητάς του, καθώς το Seattle Pres έχει γεμίσει. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -67146,13 +67140,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815210000 GMT+3" stop="20260815214500 GMT+3" channel="216595">
+  <programme start="20260815210000 GMT+3" stop="20260815214000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 14 Κ14 ΕΠ18</title>
     <desc lang="el">Ενώ βρίσκονται στο πεδίο, η Violet και η Novak έρχονται αντιμέτωπες με μια επικίνδυνη και κλιμακούμενη κατάσταση. Πρωταγωνιστούν: Taylor Kinney, Miranda Rae Mayo, David Eigenberg, Christian Stolte. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815214500 GMT+3" stop="20260815222500 GMT+3" channel="216595">
+  <programme start="20260815214000 GMT+3" stop="20260815222500 GMT+3" channel="216595">
     <title lang="el">Chicago Med 11 Κ11 ΕΠ18</title>
     <desc lang="el">Η μοίρα μιας οικογένειας αφήνεται στα χέρια του προσωπικού του Γκάφνεϊ. Πρωταγωνιστούν: S. Epatha Merkerson, Oliver Platt, Jessy Schram, Luke Mitchell. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -67266,163 +67260,163 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815073000 GMT+3" stop="20260815081500 GMT+3" channel="2755">
+  <programme start="20260815073000 GMT+3" stop="20260815082000 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ8</title>
     <desc lang="el">Ο Booth και η Brennan ερευνούν τον φόνο ενός δωρητή σπέρματος, αλλά τα ψέμματα που έλεγε το θύμα, μεγαλώνουν κατά πολύ τη λίστα με τους υπόπτους. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815081500 GMT+3" stop="20260815090000 GMT+3" channel="2755">
+  <programme start="20260815082000 GMT+3" stop="20260815090500 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ9</title>
     <desc lang="el">Η Brennan βασίζεται στην απόλυτη λογική και εσφαλμένα πείθει τους ενόρκους της υπόθεσης να αθωώσουν τον κατηγορούμενο. Όταν ο πιο κοντινός φίλος του κατηγορουμένου δολοφονείται, η Brennan αναθέτει στην ομάδα να βρει τον πραγματικό θύτη. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815090000 GMT+3" stop="20260815094500 GMT+3" channel="2755">
+  <programme start="20260815090500 GMT+3" stop="20260815095000 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ10</title>
     <desc lang="el">Ανθρώπινα λείψανα βρίσκονται στο φαγητό μιας σχολικής καφετέριας. Για να αναγνωρίσει το θύμα και να βρει τον δολοφόνο, η ομάδα εισχωρεί στη βιομηχανία του φαγητού και τις βίαιες πρακτικές της. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815094500 GMT+3" stop="20260815100500 GMT+3" channel="2755">
+  <programme start="20260815095000 GMT+3" stop="20260815101000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ5</title>
     <desc lang="el">Καθώς το προσωπικό ετοιμάζεται για ένα πάρτι Halloween, ο Michael δεν μπορεί να αποφασίσει ποιον να απολύσει, βάζοντας φρένο στις εορταστικές εκδηλώσεις. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815100500 GMT+3" stop="20260815103000 GMT+3" channel="2755">
+  <programme start="20260815101000 GMT+3" stop="20260815103500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ6</title>
     <desc lang="el">Ο Dwight προσπαθεί να αποδείξει τη μοβ ζώνη του χτυπώντας τον Michael. Ο Jim οργανώνει μια μεσημεριανή ρεβάνς στο ντότζο του Dwight. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815103000 GMT+3" stop="20260815105500 GMT+3" channel="2755">
+  <programme start="20260815103500 GMT+3" stop="20260815110000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ7</title>
     <desc lang="el">H Jan πηγαίνει στο Chili&apos;s με τον Michael και νιώθει άβολα με τις στρατηγικές του για να κερδίσει έναν νέο πελάτη. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815105500 GMT+3" stop="20260815111500 GMT+3" channel="2755">
+  <programme start="20260815110000 GMT+3" stop="20260815112000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ8</title>
     <desc lang="el">Ο Michael σκαλίζει το κουτί προτάσεων του γραφείου αναζητώντας ιδέες που μπορεί να κλέψει και να παρουσιάσει στην Jan για την ετήσια αξιολόγησή του. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815111500 GMT+3" stop="20260815114000 GMT+3" channel="2755">
+  <programme start="20260815112000 GMT+3" stop="20260815114500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ9</title>
     <desc lang="el">Ο Μάικλ αρχίζει να παρακολουθεί τα email του προσωπικού του και ανακαλύπτει ότι δεν τον είχαν καλέσει στο μπάρμπεκιου του Jim. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815114000 GMT+3" stop="20260815120000 GMT+3" channel="2755">
+  <programme start="20260815114500 GMT+3" stop="20260815121000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ10</title>
     <desc lang="el">Το χριστουγεννιάτικο πάρτι του γραφείου μετατρέπεται σε καταστροφή όταν ο Michael δίνει στους υπαλλήλους τη δυνατότητα να κλέψουν ο ένας τα δώρα Secret Santa του άλλου. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815120000 GMT+3" stop="20260815122500 GMT+3" channel="2755">
+  <programme start="20260815121000 GMT+3" stop="20260815123000 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ11</title>
     <desc lang="el">Ο Michael προσπαθεί να δώσει κίνητρο στο προσωπικό της Dunder Mifflin με μια ξαφνική κρουαζιέρα στο λιμάνι. Ο ενθουσιασμένος Jim κάνει μια εξομολόγηση. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815122500 GMT+3" stop="20260815124500 GMT+3" channel="2755">
+  <programme start="20260815123000 GMT+3" stop="20260815125500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ12</title>
     <desc lang="el">Ο Michael απαιτεί την προσοχή όλου του γραφείου όταν κατά λάθος μαγειρεύει το πόδι του σε μια ψησταριά George Foreman. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815124500 GMT+3" stop="20260815131000 GMT+3" channel="2755">
+  <programme start="20260815125500 GMT+3" stop="20260815131500 GMT+3" channel="2755">
     <title lang="el">The Office 2 Κ2 ΕΠ13</title>
     <desc lang="el">Μέσα στην απελπισία του να αποτρέψει τον Michael από το να πει όσα ξέρει για την Pam, ο Jim ανέχεται να πάει μαζί του στο Hooters. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2006)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815131000 GMT+3" stop="20260815135500 GMT+3" channel="2755">
+  <programme start="20260815131500 GMT+3" stop="20260815140000 GMT+3" channel="2755">
     <title lang="el">Chicago P.D. 13 Κ13 ΕΠ18</title>
     <desc lang="el">Η Μονάδα Πληροφοριών αποκαλύπτει το ανησυχητικό μυστικό μιας οικογένειας. Πρωταγωνιστούν: Jason Beghe,Marina Squerciati,Patrick John Flueger,LaRoyce Hawkins,Benjamin Levy Aguilar,Amy Morton. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260815135500 GMT+3" stop="20260815143500 GMT+3" channel="2755">
+  <programme start="20260815140000 GMT+3" stop="20260815144500 GMT+3" channel="2755">
     <title lang="el">9-1-1: Nashville 1 Κ1 ΕΠ15</title>
     <desc lang="el">Ο Ράιαν υποψιάζεται ότι η Σαμ κρύβει ένα μεγάλο μυστικό. Πρωταγωνιστούν: Chris O&apos;Donnell,Jessica Capshaw,Kimberly Williams-Paisley,LeAnn Rimes,Michael Provost. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260815143500 GMT+3" stop="20260815150000 GMT+3" channel="2755">
+  <programme start="20260815144500 GMT+3" stop="20260815150500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 37 Κ37 ΕΠ7</title>
     <desc lang="el">Ο Μπαρτ κατεβαίνει υποψήφιος για πρόεδρος του μαθητικού συμβουλίου απέναντι στον γιο του δημάρχου Κουίμπι, ενώ η Λίζα ανακαλύπτει ανησυχητικά μυστικά για την οικογένεια Κουίμπι... αλλά και για την ίδια την οικογένεια Σίμσον. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815150000 GMT+3" stop="20260815152500 GMT+3" channel="2755">
+  <programme start="20260815150500 GMT+3" stop="20260815153000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 37 Κ37 ΕΠ8</title>
     <desc lang="el">Ένας μυστηριώδης αγοραστής αγοράζει όλα τα εισιτήρια για τη συναυλία KPOP που θέλει να δει η Λίζα. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815152500 GMT+3" stop="20260815161000 GMT+3" channel="2755">
+  <programme start="20260815153000 GMT+3" stop="20260815161500 GMT+3" channel="2755">
     <title lang="el">The Resident 5 Κ5 ΕΠ19</title>
     <desc lang="el">Με τον Ράπτορ σε άδεια για να φροντίσει τη μητέρα του, το νοσοκομείο πασχίζει να παραμείνει οργανωμένο χωρίς αυτόν. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Jane Leeves,Jessica Lucas,Anuja Joshi,Malcolm-Jamal Warner,Bruce Greenwood. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815161000 GMT+3" stop="20260815165500 GMT+3" channel="2755">
+  <programme start="20260815161500 GMT+3" stop="20260815170500 GMT+3" channel="2755">
     <title lang="el">The Resident 5 Κ5 ΕΠ20</title>
     <desc lang="el">Ο Κόνραντ και η Κέιντ συνεργάζονται με έναν ασθενή τού Medicare, ο οποίος ρίχνει φως στα μυστικά της υπόθεσης της απάτης με τα φάρμακα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Jane Leeves,Jessica Lucas,Anuja Joshi,Malcolm-Jamal Warner,Bruce Greenwood. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815165500 GMT+3" stop="20260815172000 GMT+3" channel="2755">
+  <programme start="20260815170500 GMT+3" stop="20260815172500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ14</title>
     <desc lang="el">Ο Χόμερ ανακαλύπτει ότι ο Μπερνς κλέβει στο γκολφ, ενώ η Μαρτζ ότι δεν της ταιριάζει η καλή ζωή. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815172000 GMT+3" stop="20260815174000 GMT+3" channel="2755">
+  <programme start="20260815172500 GMT+3" stop="20260815175000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ15</title>
     <desc lang="el">Όταν ο Κράστι σκηνοθετεί τον θάνατό του, ο Μπαρτ θέλει να τον πείσει να επιστρέψει στην κοινωνία. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815174000 GMT+3" stop="20260815180500 GMT+3" channel="2755">
+  <programme start="20260815175000 GMT+3" stop="20260815181500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ16</title>
     <desc lang="el">Η Λίζα ανακαλύπτει ότι ο Τζεμπεντάια Σπρίνγκφιλντ, ο ιδρυτής της πόλης, ήταν ένας απαίσιος άνθρωπος. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815180500 GMT+3" stop="20260815183000 GMT+3" channel="2755">
+  <programme start="20260815181500 GMT+3" stop="20260815184000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ17</title>
     <desc lang="el">Όταν ο κύριος Μπερνς απολύει τον Σμίδερς, πέφτει από ένα παράθυρο και εξαρτάται πάλι από αυτόν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815183000 GMT+3" stop="20260815185500 GMT+3" channel="2755">
+  <programme start="20260815184000 GMT+3" stop="20260815190500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 7 Κ7 ΕΠ18</title>
     <desc lang="el">Ο Μπαρτ συναντά τον δημιουργό των Ίτσι και Σκράτσι και τον βοηθά να μηνύσει τα στούντιό τους. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1995)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815185500 GMT+3" stop="20260815192000 GMT+3" channel="2755">
+  <programme start="20260815190500 GMT+3" stop="20260815193000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ4</title>
     <desc lang="el">Η Έιμι καταστρέφει μια από τις αγαπημένες ταινίες του Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815192000 GMT+3" stop="20260815194500 GMT+3" channel="2755">
+  <programme start="20260815193000 GMT+3" stop="20260815195000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ5</title>
     <desc lang="el">Η Έιμι πιάνει δουλειά στο πανεπιστήμιο με τον Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815194500 GMT+3" stop="20260815201000 GMT+3" channel="2755">
+  <programme start="20260815195000 GMT+3" stop="20260815201500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ6</title>
     <desc lang="el">Η τελευταία ανακάλυψη του Σέλντον τον κάνει να νιώθει σαν απατεώνας. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815201000 GMT+3" stop="20260815203500 GMT+3" channel="2755">
+  <programme start="20260815201500 GMT+3" stop="20260815203500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ7</title>
     <desc lang="el">Ο Μπομπ Νιούχαρτ επιστρέφει ως καθηγητής Πρωτόνιος. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -68256,25 +68250,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815061000 GMT+3" stop="20260815070000 GMT+3" channel="216459">
+  <programme start="20260815061000 GMT+3" stop="20260815065500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ3 ΕΠ4</title>
     <desc lang="el">Βαθιά κάτω από τους ωκεανούς του κόσμου βρίσκονται διασκορπισμένα απομεινάρια αρχαίων ναυαγίων. Καθώς απομακρύνουμε το νερό, αποκαλύπτεται μια παμπάλαια ιστορία επικών μαχών ανάμεσα σε αυτοκρατορίες που θέλησαν να κυριαρχήσουν στους ωκεανούς. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815070000 GMT+3" stop="20260815074500 GMT+3" channel="216459">
+  <programme start="20260815065500 GMT+3" stop="20260815074500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ3 ΕΠ5</title>
     <desc lang="el">Οι θαλάσσιες νάρκες είναι ένα από τα πιο αξιόπιστα βυθισμένα όπλα των ναυτικών εχθροπραξιών, ικανά να διαλύσουν οτιδήποτε βρίσκεται στον δρόμο τους. Ενώ πολλές νάρκες έχουν εξαφανιστεί, κάποιες από αυτές τις εκρηκτικές συσκευές βρίσκονται εγκαταλειμμένες στα βάθη των ωκεανών. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815074500 GMT+3" stop="20260815083500 GMT+3" channel="216459">
+  <programme start="20260815074500 GMT+3" stop="20260815083000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ4 ΕΠ3</title>
     <desc lang="el">Άγνωστα στοιχεία από ένα διάσημο πεδίο μάχης στη Μοντάνα, ένα ατμόπλοιο του 19ου αιώνα και μια συνοριακή εγκαταλειμμένη πόλη αποκαλύπτουν απρόσμενες αλήθειες για την Άγρια Δύση. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815083500 GMT+3" stop="20260815092000 GMT+3" channel="216459">
+  <programme start="20260815083000 GMT+3" stop="20260815092000 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών Κ4 ΕΠ7</title>
     <desc lang="el">Αρχαιολόγοι και κυνηγοί θησαυρών ανταγωνίζονται για χρυσό και ασήμι αξίας μισού δις δολαρίων. Ποιος θα κερδίσει τη Μάχη του Μαύρου Κύκνου; (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68286,61 +68280,61 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815100500 GMT+3" stop="20260815105500 GMT+3" channel="216459">
+  <programme start="20260815100500 GMT+3" stop="20260815105000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ5</title>
     <desc lang="el">Μόλις λίγα λεπτά μετά την απογείωση, μια εμπορευματική πτήση της Loganair από το Εδιμβούργο χάνει και τις δύο μηχανές και πέφτει στην παγωμένη Βόρεια Θάλασσα. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815105500 GMT+3" stop="20260815114000 GMT+3" channel="216459">
+  <programme start="20260815105000 GMT+3" stop="20260815113500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ4</title>
     <desc lang="el">Εν μέσω πυκνής ομίχλης και βεβιασμένης προσπάθειας προσγείωσης, η πτήση 50 της Luxair πέφτει από τον ουρανό μόλις λίγα χιλιόμετρα μακριά από το αεροδρόμιο του Λουξεμβούργου. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815114000 GMT+3" stop="20260815122500 GMT+3" channel="216459">
+  <programme start="20260815113500 GMT+3" stop="20260815122000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ7</title>
     <desc lang="el">Βρισκόμαστε στο 1985 - το πιο θανατηφόρο έτος στην πολιτική αεροπορία - και ένα επιβατικό αεροπλάνο DC-9 συντρίβεται λίγα δευτερόλεπτα μετά την απογείωσή του από το Μιλγουόκι. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815122500 GMT+3" stop="20260815131000 GMT+3" channel="216459">
+  <programme start="20260815122000 GMT+3" stop="20260815130500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ1</title>
     <desc lang="el">Οι πιλότοι ενός αεροσκάφους που συνετρίβη πιστεύουν ότι έχασαν και τους δύο κινητήρες. Αλλά όταν τα συντρίμμια αναδύονται από τον Ειρηνικό, τα στοιχεία λένε μια άλλη ιστορία. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815131000 GMT+3" stop="20260815135500 GMT+3" channel="216459">
+  <programme start="20260815130500 GMT+3" stop="20260815135000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ9</title>
     <desc lang="el">Γερμανοί ερευνητές μένουν άναυδοι όταν δύο αεροπλάνα συγκρούονται ενώ πετούν στον ουρανό πάνω από τη νότια Γερμανία. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815135500 GMT+3" stop="20260815144000 GMT+3" channel="216459">
+  <programme start="20260815135000 GMT+3" stop="20260815143500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ10</title>
     <desc lang="el">Όταν η δοκιμαστική πτήση ενός φορτηγού αεροσκάφους καταλήγει σε τραγωδία, οι ερευνητές ανακαλύπτουν μια σειρά από αστοχίες που καταδίκασαν το DC-8 πριν απογειωθεί. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815144000 GMT+3" stop="20260815152500 GMT+3" channel="216459">
+  <programme start="20260815143500 GMT+3" stop="20260815152000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ2</title>
     <desc lang="el">Ένα φορτηγό αεροπλάνο της Air Tahoma βρίσκεται σε κοντινή απόσταση από έναν αεροδιάδρομο του Σινσινάτι, όταν και οι δύο κινητήρες σβήνουν και το στροβιλοελικοφόρο συντρίβεται σε ένα γήπεδο γκολφ. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815152500 GMT+3" stop="20260815161000 GMT+3" channel="216459">
+  <programme start="20260815152000 GMT+3" stop="20260815160500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ24 ΕΠ1</title>
     <desc lang="el">Μετά από μια καταστροφική σύγκρουση σε αεροδιάδρομο του αεροδρομίου του Λος Άντζελες, οι επιβάτες της πτήσης 1493 της USAIR παλεύουν να ξεφύγουν από το φλεγόμενο αεροπλάνο. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815161000 GMT+3" stop="20260815170000 GMT+3" channel="216459">
+  <programme start="20260815160500 GMT+3" stop="20260815165500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Ειδική Έρευνα Κ1 ΕΠ11</title>
     <desc lang="el">Οι αεροπορικές συντριβές που προκαλούνται από προβλήματα στην επικοινωνία αποκαλύπτουν τις αλλαγές που πρέπει να γίνουν στο υπερφορτωμένο σύστημα ελέγχου εναέριας κυκλοφορίας. (2008)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815170000 GMT+3" stop="20260815175000 GMT+3" channel="216459">
+  <programme start="20260815165500 GMT+3" stop="20260815175000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Ειδική Έρευνα Κ1 ΕΠ12</title>
     <desc lang="el">Οι αεροπορικές καταστροφές που προκαλούνται από καταιγίδες παρουσιάζονται αναλυτικά, μαζί με τις προσπάθειες της FAA να διασφαλίσει την ασφάλεια των επιβατών και του πληρώματος κατά τη διάρκεια ακραίων καιρικών φαινομένων. (2008)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68382,13 +68376,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815223500 GMT+3" stop="20260815232500 GMT+3" channel="216459">
+  <programme start="20260815223500 GMT+3" stop="20260815232000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ13 ΕΠ10</title>
     <desc lang="el">Η σειρά αναλαμβάνει μια παραμελημένη Ferrari 308 GTS. Αυτό το πανίσχυρο αυτοκίνητο ανήκει στον συνταξιούχο αστυνομικό, Τζον, κι έχει περισσότερες τρύπες κι από ένα ελβετικό τυρί. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260815232500 GMT+3" stop="20260816000000 GMT+3" channel="216459">
+  <programme start="20260815232000 GMT+3" stop="20260816000000 GMT+3" channel="216459">
     <title lang="el">Υπερ-δεξιότητες με την Εύα Ζου Μπεκ Κ1 ΕΠ2</title>
     <desc lang="el">Φανταστείτε να χαθείτε στο τροπικό δάσος του Αμαζονίου... επίτηδες. Η λάτρης της περιπέτειας και YouTuber Εύα Ζου Μπεκ ταξιδεύει στη Βραζιλία για να μάθει τα αρχαία μυστικά του προσανατολισμού από την κοινότητα ιθαγενών Ματίς. Στη συνέχεια, δοκιμάζει τις νέες της δεξιότητες καθώς προσπαθεί να βγει από τη βαθιά ζούγκλα χωρίς τη χρήση χαρτών ή σύγχρονης τεχνολογίας. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -78606,75 +78600,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815172500 GMT+3" stop="20260815175000 GMT+3" channel="2491">
+  <programme start="20260815172500 GMT+3" stop="20260815180000 GMT+3" channel="2491">
     <title lang="el">Ιστορία των αυτοκινήτων Κ3 ΕΠ32</title>
     <desc lang="el">Το Motorvision TV ανοίγει τις πύλες του στο Hall of Fame της μηχανοκίνητης ιστορίας, παρουσιάζοντας αυτοκίνητα που καθόρισαν τις ζωές των ανθρώπων, καθώς και τους κατασκευαστές τους.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260815175000 GMT+3" stop="20260815190000 GMT+3" channel="2491">
-    <title lang="el">Κλασικοί αγώνες ταχύτητας Κ1 ΕΠ10</title>
-    <desc lang="el">Η εκπομπή μάς ταξιδεύει στις πιο διάσημες πίστες αγώνων ταχύτητας στον κόσμο. Θυμόμαστε τους πιο θρυλικούς αγώνες των τελευταίων δεκαετιών, ενώ μπορείτε να ακούσετε ακόμα και τα πρωτότυπα σχόλια.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815190000 GMT+3" stop="20260815192000 GMT+3" channel="2491">
-    <title lang="el">Κλασικά αυτοκίνητα Κ6 ΕΠ55</title>
-    <desc lang="el">Η σειρά παρουσιάζει μοντέλα αντίκες και ασυνήθιστα αυτοκίνητα, κάνοντας μια ανασκόπηση στα 100 χρόνια ιστορίας των αυτοκινήτων. Λατρεμένοι θησαυροί από την Ιταλία, τη Γαλλία, τις ΗΠΑ και τη Γερμανία.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815192000 GMT+3" stop="20260815194500 GMT+3" channel="2491">
-    <title lang="el">Υπεραυτοκίνητα Κ6</title>
-    <desc lang="el">Παρουσιάζουμε τα γρηγορότερα και πιο διακεκριμένα αυτοκίνητα του κόσμου σε ένα συναρπαστικό lifestyle μαγκαζίνο.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815194500 GMT+3" stop="20260815201500 GMT+3" channel="2491">
-    <title lang="el">4x4 Κ5 ΕΠ76</title>
-    <desc lang="el">Το 4x4 είναι η εκπομπή όπου θα δείτε όλα τα κλασικά οχήματα παντός εδάφους: Jeep, Wrangler, Land Rover Defender, Hummer, Outlander, Grand Cherokee και το θρυλικό πανίσχυρο όχημα της Iveco, το Massif.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815201500 GMT+3" stop="20260815210500 GMT+3" channel="2491">
-    <title lang="el">DTM 2025</title>
-    <desc lang="el">DTM 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815210500 GMT+3" stop="20260815213000 GMT+3" channel="2491">
-    <title lang="el">Belgian Rally Championship 2026</title>
-    <desc lang="el">Belgian Rally Championship 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815213000 GMT+3" stop="20260815222500 GMT+3" channel="2491">
-    <title lang="el">NZ Rally Championship 2026</title>
-    <desc lang="el">NZ Rally Championship 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815222500 GMT+3" stop="20260815230000 GMT+3" channel="2491">
-    <title lang="el">Ter Series 2025</title>
-    <desc lang="el">Ter Series 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815230000 GMT+3" stop="20260815232000 GMT+3" channel="2491">
-    <title lang="el">Scottish Rally Championship 2026</title>
-    <desc lang="el">Scottish Rally Championship 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815232000 GMT+3" stop="20260815235000 GMT+3" channel="2491">
-    <title lang="el">Ter Series 2026</title>
-    <desc lang="el">Ter Series 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260815235000 GMT+3" stop="20260816002000 GMT+3" channel="2491">
-    <title lang="el">Rally 2026</title>
-    <desc lang="el">Rally 2026</desc>
+  <programme start="20260815180000 GMT+3" stop="20260816015000 GMT+3" channel="2491">
+    <title lang="el">Rolex Monterey Motorsports Reunion 2026</title>
+    <desc lang="el">Rolex Monterey Motorsports Reunion 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -79081,6 +79015,234 @@
   <programme start="20260815180000 GMT+3" stop="20260816000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815000000 GMT+3" stop="20260815010000 GMT+3" channel="4185119">
+    <title lang="el">Πόκερ World Series</title>
+    <desc lang="el">Πόκερ World Series</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815010000 GMT+3" stop="20260815020000 GMT+3" channel="4185119">
+    <title lang="el">Πόκερ World Series</title>
+    <desc lang="el">Πόκερ World Series</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815020000 GMT+3" stop="20260815023000 GMT+3" channel="4185119">
+    <title lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815023000 GMT+3" stop="20260815030000 GMT+3" channel="4185119">
+    <title lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815030000 GMT+3" stop="20260815040000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815040000 GMT+3" stop="20260815050000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815050000 GMT+3" stop="20260815070000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Προημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Προημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815070000 GMT+3" stop="20260815080000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815080000 GMT+3" stop="20260815083000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815083000 GMT+3" stop="20260815092500 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815092500 GMT+3" stop="20260815093000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815093000 GMT+3" stop="20260815133000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας -</title>
+    <desc lang="el">- Οπεν Κίνας -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815133000 GMT+3" stop="20260815134500 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815134500 GMT+3" stop="20260815143000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815143000 GMT+3" stop="20260815153000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας -</title>
+    <desc lang="el">- Οπεν Κίνας -</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815153000 GMT+3" stop="20260815180000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815180000 GMT+3" stop="20260815190000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815190000 GMT+3" stop="20260815200000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815200000 GMT+3" stop="20260815213000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815213000 GMT+3" stop="20260816000000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815010000 GMT+3" stop="20260815020000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815020000 GMT+3" stop="20260815030000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815030000 GMT+3" stop="20260815050000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Προημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Προημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815050000 GMT+3" stop="20260815060000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815060000 GMT+3" stop="20260815070000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815070000 GMT+3" stop="20260815090000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Προημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Προημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815090000 GMT+3" stop="20260815123000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815123000 GMT+3" stop="20260815130000 GMT+3" channel="5183085">
+    <title lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Τόκιο - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815130000 GMT+3" stop="20260815133000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815133000 GMT+3" stop="20260815140000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815140000 GMT+3" stop="20260815143000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815143000 GMT+3" stop="20260815151500 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815151500 GMT+3" stop="20260815163000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815163000 GMT+3" stop="20260815180000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815180000 GMT+3" stop="20260815191500 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815191500 GMT+3" stop="20260815193000 GMT+3" channel="5183085">
+    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
+    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815193000 GMT+3" stop="20260815200000 GMT+3" channel="5183085">
+    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260815200000 GMT+3" stop="20260816010000 GMT+3" channel="5183085">
+    <title lang="el">Πρωτάθλημα St. Jude - 3η ΗΜΕΡΑ</title>
+    <desc lang="el">Πρωτάθλημα St. Jude - 3η ΗΜΕΡΑ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260815000000 GMT+3" stop="20260815020000 GMT+3" channel="52101919">
@@ -87283,6 +87445,12 @@
   <programme start="20260816051500 GMT+3" stop="20260816053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ12</title>
     <desc lang="el">Η Πένι φέρνει τον Λέοναρντ σε δύσκολη θέση με μια ερώτηση σχετικά με ερωτικές σχέσεις. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260816053500 GMT+3" stop="20260816060000 GMT+3" channel="2755">
+    <title lang="el">The Big Bang Theory 7 Κ7 ΕΠ13</title>
+    <desc lang="el">Η Πένι περνάει χρόνο με τον Σέλντον αφότου παραιτήθηκε από τη δουλειά της. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2013)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -98410,24 +98578,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260816002000 GMT+3" stop="20260816010000 GMT+3" channel="2491">
-    <title lang="el">Africa Eco Race 2025</title>
-    <desc lang="el">Africa Eco Race 2025</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260816010000 GMT+3" stop="20260816012500 GMT+3" channel="2491">
-    <title lang="el">Κλασικά αυτοκίνητα Κ7 ΕΠ82</title>
-    <desc lang="el">Η σειρά παρουσιάζει μοντέλα αντίκες και ασυνήθιστα αυτοκίνητα, κάνοντας μια ανασκόπηση στα 100 χρόνια ιστορίας των αυτοκινήτων. Λατρεμένοι θησαυροί από την Ιταλία, τη Γαλλία, τις ΗΠΑ και τη Γερμανία.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260816012500 GMT+3" stop="20260816015000 GMT+3" channel="2491">
-    <title lang="el">Υπεραυτοκίνητα Κ6</title>
-    <desc lang="el">Παρουσιάζουμε τα γρηγορότερα και πιο διακεκριμένα αυτοκίνητα του κόσμου σε ένα συναρπαστικό lifestyle μαγκαζίνο.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260816015000 GMT+3" stop="20260816022000 GMT+3" channel="2491">
     <title lang="el">4x4 Κ5</title>
     <desc lang="el">Το 4x4 είναι η εκπομπή όπου θα δείτε όλα τα κλασικά οχήματα παντός εδάφους: Jeep, Wrangler, Land Rover Defender, Hummer, Outlander, Grand Cherokee και το θρυλικό πανίσχυρο όχημα της Iveco, το Massif.</desc>
@@ -99069,6 +99219,174 @@
   <programme start="20260816180000 GMT+3" stop="20260817000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816000000 GMT+3" stop="20260816010000 GMT+3" channel="4185119">
+    <title lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816010000 GMT+3" stop="20260816023000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816023000 GMT+3" stop="20260816034500 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816034500 GMT+3" stop="20260816050000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816050000 GMT+3" stop="20260816070000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816070000 GMT+3" stop="20260816080000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816080000 GMT+3" stop="20260816083000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816083000 GMT+3" stop="20260816092500 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816092500 GMT+3" stop="20260816130000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816130000 GMT+3" stop="20260816143000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816143000 GMT+3" stop="20260816180000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816180000 GMT+3" stop="20260816190000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816190000 GMT+3" stop="20260816200000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816200000 GMT+3" stop="20260816212500 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816212500 GMT+3" stop="20260817000000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816010000 GMT+3" stop="20260816020000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816020000 GMT+3" stop="20260816023000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816023000 GMT+3" stop="20260816050000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816050000 GMT+3" stop="20260816060000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816060000 GMT+3" stop="20260816070000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816070000 GMT+3" stop="20260816090000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Ημιτελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Ημιτελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816090000 GMT+3" stop="20260816120000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816120000 GMT+3" stop="20260816130000 GMT+3" channel="5183085">
+    <title lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816130000 GMT+3" stop="20260816140000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816140000 GMT+3" stop="20260816153000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816153000 GMT+3" stop="20260816173000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816173000 GMT+3" stop="20260816190000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260816190000 GMT+3" stop="20260817010000 GMT+3" channel="5183085">
+    <title lang="el">Πρωτάθλημα St. Jude - 4η ημέρα</title>
+    <desc lang="el">Πρωτάθλημα St. Jude - 4η ημέρα</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260816000000 GMT+3" stop="20260816010000 GMT+3" channel="52101919">
@@ -107506,6 +107824,12 @@
   <programme start="20260817045000 GMT+3" stop="20260817053500 GMT+3" channel="2755">
     <title lang="el">Bones 9 Κ9 ΕΠ9</title>
     <desc lang="el">Η Brennan βασίζεται στην απόλυτη λογική και εσφαλμένα πείθει τους ενόρκους της υπόθεσης να αθωώσουν τον κατηγορούμενο. Όταν ο πιο κοντινός φίλος του κατηγορουμένου δολοφονείται, η Brennan αναθέτει στην ομάδα να βρει τον πραγματικό θύτη. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2013)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260817053500 GMT+3" stop="20260817060000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 4 Κ4 ΕΠ22</title>
+    <desc lang="el">Ο Τζέικ και η Ρόζα κατηγορούνται για φόνο που δεν διέπραξαν και η ομάδα πρέπει να σκαρφιστεί μια πολύ δημιουργική λύση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -118649,6 +118973,216 @@
   <programme start="20260817180000 GMT+3" stop="20260818000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817000000 GMT+3" stop="20260817011500 GMT+3" channel="4185119">
+    <title lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817011500 GMT+3" stop="20260817023000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817023000 GMT+3" stop="20260817040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817040000 GMT+3" stop="20260817060000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817060000 GMT+3" stop="20260817080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817080000 GMT+3" stop="20260817093000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817093000 GMT+3" stop="20260817113000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817113000 GMT+3" stop="20260817133000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817133000 GMT+3" stop="20260817153000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817153000 GMT+3" stop="20260817163000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817163000 GMT+3" stop="20260817173000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817173000 GMT+3" stop="20260817190000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817190000 GMT+3" stop="20260817210000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817210000 GMT+3" stop="20260817230000 GMT+3" channel="4185119">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817230000 GMT+3" stop="20260818000000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817010000 GMT+3" stop="20260817023000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817023000 GMT+3" stop="20260817040000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817040000 GMT+3" stop="20260817050000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817050000 GMT+3" stop="20260817060000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817060000 GMT+3" stop="20260817080000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817080000 GMT+3" stop="20260817090000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817090000 GMT+3" stop="20260817100000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MX2 - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MX2 - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817100000 GMT+3" stop="20260817110000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MXGP - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MXGP - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817110000 GMT+3" stop="20260817120000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MX2 - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MX2 - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817120000 GMT+3" stop="20260817130000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817130000 GMT+3" stop="20260817133000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817133000 GMT+3" stop="20260817150000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817150000 GMT+3" stop="20260817163000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817163000 GMT+3" stop="20260817183000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817183000 GMT+3" stop="20260817191500 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MXGP - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MXGP - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817191500 GMT+3" stop="20260817200000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817200000 GMT+3" stop="20260817210000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817210000 GMT+3" stop="20260817220000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817220000 GMT+3" stop="20260817230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260817230000 GMT+3" stop="20260818010000 GMT+3" channel="5183085">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260817000000 GMT+3" stop="20260817020000 GMT+3" channel="52101919">
@@ -137896,6 +138430,234 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260818000000 GMT+3" stop="20260818010000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818010000 GMT+3" stop="20260818023000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818023000 GMT+3" stop="20260818031500 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818031500 GMT+3" stop="20260818040000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818040000 GMT+3" stop="20260818060000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818060000 GMT+3" stop="20260818080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818080000 GMT+3" stop="20260818084500 GMT+3" channel="4185119">
+    <title lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818084500 GMT+3" stop="20260818093000 GMT+3" channel="4185119">
+    <title lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818093000 GMT+3" stop="20260818113000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818113000 GMT+3" stop="20260818123000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818123000 GMT+3" stop="20260818133000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818133000 GMT+3" stop="20260818153000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818153000 GMT+3" stop="20260818163000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818163000 GMT+3" stop="20260818180000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818180000 GMT+3" stop="20260818190000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818190000 GMT+3" stop="20260818210000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818210000 GMT+3" stop="20260818213000 GMT+3" channel="4185119">
+    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
+    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818213000 GMT+3" stop="20260818220000 GMT+3" channel="4185119">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818220000 GMT+3" stop="20260818230000 GMT+3" channel="4185119">
+    <title lang="el">ΛΟΝΔΙΝΟ - ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - ΑΝΑΣΚΟΠΗΣΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818230000 GMT+3" stop="20260819000000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818010000 GMT+3" stop="20260818023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818023000 GMT+3" stop="20260818040000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818040000 GMT+3" stop="20260818060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818060000 GMT+3" stop="20260818080000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818080000 GMT+3" stop="20260818084500 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818084500 GMT+3" stop="20260818093000 GMT+3" channel="5183085">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818093000 GMT+3" stop="20260818113000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818113000 GMT+3" stop="20260818133000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818133000 GMT+3" stop="20260818153000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818153000 GMT+3" stop="20260818160000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MX2 - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MX2 - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818160000 GMT+3" stop="20260818163000 GMT+3" channel="5183085">
+    <title lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">Σουηδία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818163000 GMT+3" stop="20260818183000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818183000 GMT+3" stop="20260818191500 GMT+3" channel="5183085">
+    <title lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 1ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818191500 GMT+3" stop="20260818200000 GMT+3" channel="5183085">
+    <title lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - 2ος ΑΓΩΝΑΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818200000 GMT+3" stop="20260818210000 GMT+3" channel="5183085">
+    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Βάλνορντ Παλ Αρινσάλ</title>
+    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Βάλνορντ Παλ Αρινσάλ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818210000 GMT+3" stop="20260818220000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818220000 GMT+3" stop="20260818230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818230000 GMT+3" stop="20260819000000 GMT+3" channel="5183085">
+    <title lang="el">NFL ΒΑΡΙΑ ΧΤΥΠΗΜΑΤΑ</title>
+    <desc lang="el">NFL ΒΑΡΙΑ ΧΤΥΠΗΜΑΤΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260818000000 GMT+3" stop="20260818020000 GMT+3" channel="52101919">
     <title lang="el">RANGERS - ROMA 6/11/25</title>
     <desc lang="el">UEFA EUROPA LEAGUE 2025-26</desc>
@@ -156914,6 +157676,216 @@
   <programme start="20260819180000 GMT+3" stop="20260820000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819000000 GMT+3" stop="20260819010000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 7ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819010000 GMT+3" stop="20260819023000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819023000 GMT+3" stop="20260819040000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819040000 GMT+3" stop="20260819060000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819060000 GMT+3" stop="20260819080000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819080000 GMT+3" stop="20260819084500 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Γύρος Τσεχίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819084500 GMT+3" stop="20260819093000 GMT+3" channel="4185119">
+    <title lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
+    <desc lang="el">PRO SERIES - Αγώνες Αρκτικής Νορβηγία - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819093000 GMT+3" stop="20260819113000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819113000 GMT+3" stop="20260819123000 GMT+3" channel="4185119">
+    <title lang="el">NFL ΒΑΡΙΑ ΧΤΥΠΗΜΑΤΑ</title>
+    <desc lang="el">NFL ΒΑΡΙΑ ΧΤΥΠΗΜΑΤΑ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819123000 GMT+3" stop="20260819140000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819140000 GMT+3" stop="20260819150000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Cyclassics Αμβούργο - - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819150000 GMT+3" stop="20260819163000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819163000 GMT+3" stop="20260819183000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819183000 GMT+3" stop="20260819190000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Λα Βουέλτα - 16ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 16ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819190000 GMT+3" stop="20260819210000 GMT+3" channel="4185119">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819210000 GMT+3" stop="20260819230000 GMT+3" channel="4185119">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819230000 GMT+3" stop="20260820000000 GMT+3" channel="4185119">
+    <title lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819000000 GMT+3" stop="20260819010000 GMT+3" channel="5183085">
+    <title lang="el">- Οπεν Κίνας - Τελικός</title>
+    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819010000 GMT+3" stop="20260819023000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819023000 GMT+3" stop="20260819040000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819040000 GMT+3" stop="20260819060000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819060000 GMT+3" stop="20260819080000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819080000 GMT+3" stop="20260819093000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819093000 GMT+3" stop="20260819113000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819113000 GMT+3" stop="20260819123000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819123000 GMT+3" stop="20260819140000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819140000 GMT+3" stop="20260819160000 GMT+3" channel="5183085">
+    <title lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</title>
+    <desc lang="el">ΣΤΙΒΟΣ: Ευρωπαϊκό Πρωτάθλημα - Μπέρμιγχαμ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819160000 GMT+3" stop="20260819180000 GMT+3" channel="5183085">
+    <title lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</title>
+    <desc lang="el">HOME NATIONS SERIES - Όπεν Βόρειας Ιρλανδίας - Τελικός</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819180000 GMT+3" stop="20260819190000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819190000 GMT+3" stop="20260819200000 GMT+3" channel="5183085">
+    <title lang="el">ΛΟΝΔΙΝΟ - ΑΝΑΣΚΟΠΗΣΗ</title>
+    <desc lang="el">ΛΟΝΔΙΝΟ - ΑΝΑΣΚΟΠΗΣΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819200000 GMT+3" stop="20260819210000 GMT+3" channel="5183085">
+    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Βάλνορντ Παλ Αρινσάλ</title>
+    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ Ολυμπιακό Κρος Κάουντρι - Βάλνορντ Παλ Αρινσάλ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819210000 GMT+3" stop="20260819220000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Γύρος του Μπενελούξ - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819220000 GMT+3" stop="20260819230000 GMT+3" channel="5183085">
+    <title lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</title>
+    <desc lang="el">World Tour - Λα Βουέλτα - 13ο Ετάπ - ΑΝΔΡΕΣ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819230000 GMT+3" stop="20260819233000 GMT+3" channel="5183085">
+    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
+    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819233000 GMT+3" stop="20260820000000 GMT+3" channel="5183085">
+    <title lang="el">PTO Τουρ - Βανκούβερ</title>
+    <desc lang="el">PTO Τουρ - Βανκούβερ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260819000000 GMT+3" stop="20260819010000 GMT+3" channel="52101919">
