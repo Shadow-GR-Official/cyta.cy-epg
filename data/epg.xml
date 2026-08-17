@@ -87,9 +87,6 @@
   <channel id="10963625">
     <display-name>Novalife HD</display-name>
   </channel>
-  <channel id="6260715">
-    <display-name>Novasummer</display-name>
-  </channel>
   <channel id="216595">
     <display-name>FOX life HD</display-name>
   </channel>
@@ -7465,32 +7462,6 @@
     <desc lang="el">Ένας δικηγόρος υπερασπίζεται έναν άνδρα που κατηγορείται για τη δολοφονία της γυναίκας του. Παρά τις ενδείξεις, πείθεται για την αθωότητά του κι ερευνά τα γεγονότα, διακινδυνεύοντας τα πάντα. Δράμα, 2024. Σκηνοθεσία: Ντανιέλ Οτέιγ. Πρωταγωνιστές: Ντανιέλ Οτέιγ, Γκρεγκορί Γκαντεμπουά, Ιζαμπέλ Καντελιέ.</desc>
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
-  </programme>
-  <programme start="20260815225000 GMT+3" stop="20260816004000 GMT+3" channel="6260715">
-    <title lang="el">Un Village Presque Parfait!</title>
-    <desc lang="el">Ένα χωριό που μαραζώνει βλέπει ελπίδα με έναν γιατρό που ίσως εγκατασταθεί εκεί, και οι κάτοικοι σκαρώνουν σχέδια για να τον κρατήσουν με κάθε τρόπο. Οι καλές προθέσεις, όμως, οδηγούν σε χάος. Κωμωδία, 2014. Σκηνοθεσία: Στεφάν Μενιέ. Πρωταγωνιστές: Ντιντιέ Μπουρντόν, Ελί Σεμούν, Ντενί Πονταλιντές.</desc>
-    <category lang="el">Ταινίες</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260816004000 GMT+3" stop="20260816060000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260816060000 GMT+3" stop="20260816180000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260816180000 GMT+3" stop="20260816230000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260816230000 GMT+3" stop="20260817060000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
   </programme>
   <programme start="20260816000000 GMT+3" stop="20260816004500 GMT+3" channel="216595">
     <title lang="el">Transplant 3 Κ3 ΕΠ5</title>
@@ -28117,21 +28088,6 @@
     <desc lang="el">Η Νινά αναλαμβάνει την ηγεσία της οικογένειας Περέζ, σκοτώνοντας τον αδερφό της επειδή την αμφισβητεί. Χειραγωγεί την ομάδα να συλλάβει τους Ελ-Χασάνι, αλλά ο Σαϊντ βοηθά τον Χαμζά να δραπετεύσει. Αστυνομική, 2023. Σκηνοθεσία: Ζερεμί Γουέζ. Πρωταγωνιστές: Σοφιάν Καμές, Οφελί Μπο, Τεό Κριστίν.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260817060000 GMT+3" stop="20260817180000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260817180000 GMT+3" stop="20260817230000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260817230000 GMT+3" stop="20260818060000 GMT+3" channel="6260715">
-    <title lang="el">NovasummerHD</title>
-    <desc lang="el">Το Novasummer, το θερινό σινεμά της Nova, σας κράτησε συντροφιά μέχρι τις 15 Αυγούστου, με τις καλύτερες κωμωδίες και τα μεγαλύτερα ονόματα του γαλλικού κινηματογράφου!</desc>
-    <rating>K</rating>
   </programme>
   <programme start="20260817000000 GMT+3" stop="20260817004500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy 22 Κ22 ΕΠ16</title>
