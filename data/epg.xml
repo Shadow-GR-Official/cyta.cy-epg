@@ -18767,12 +18767,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260817233100 GMT+3" stop="20260818021600 GMT+3" channel="97085851">
-    <title lang="el">Club World Cup Real Madrid vs Kashima 2016</title>
-    <desc lang="el">RM won the 13th edition of the FIFA Club World Cup by defeating tough opponents Kashima Antlers on home turf</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260816210000 GMT+3" stop="20260817030000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -21980,27 +21974,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818014500 GMT+3" stop="20260818060000 GMT+3" channel="561178">
+  <programme start="20260818014500 GMT+3" stop="20260818030000 GMT+3" channel="561178">
     <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
     <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260818060000 GMT+3" stop="20260818120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260818030000 GMT+3" stop="20260818050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818120000 GMT+3" stop="20260818180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260818050000 GMT+3" stop="20260818060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818180000 GMT+3" stop="20260819000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260818060000 GMT+3" stop="20260818063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818063000 GMT+3" stop="20260818070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818070000 GMT+3" stop="20260818110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818110000 GMT+3" stop="20260818123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818123000 GMT+3" stop="20260818130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818130000 GMT+3" stop="20260818143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818143000 GMT+3" stop="20260818160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818160000 GMT+3" stop="20260818173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818173000 GMT+3" stop="20260818180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818180000 GMT+3" stop="20260818190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818190000 GMT+3" stop="20260818210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818210000 GMT+3" stop="20260818210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818210500 GMT+3" stop="20260818224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818224500 GMT+3" stop="20260818231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818231500 GMT+3" stop="20260819014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -36837,7 +36915,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260818123000 GMT+3" stop="20260818130000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -38432,115 +38510,151 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818021600 GMT+3" stop="20260818031900 GMT+3" channel="97085851">
+  <programme start="20260818021400 GMT+3" stop="20260818031800 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Pass</title>
     <desc lang="el">Real Madrid Pass</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818031900 GMT+3" stop="20260818034000 GMT+3" channel="97085851">
+  <programme start="20260818031800 GMT+3" stop="20260818033900 GMT+3" channel="97085851">
     <title lang="el">Champions League Highlights 99/00</title>
     <desc lang="el">Champions League Final 99/00. Watch Real Madrid&apos;s eighth Champions League triumph against FC Valencia in Paris.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818034000 GMT+3" stop="20260818040000 GMT+3" channel="97085851">
+  <programme start="20260818033900 GMT+3" stop="20260818035900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818040000 GMT+3" stop="20260818041500 GMT+3" channel="97085851">
+  <programme start="20260818035900 GMT+3" stop="20260818040500 GMT+3" channel="97085851">
     <title lang="el">Real Madrid</title>
     <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818041500 GMT+3" stop="20260818062400 GMT+3" channel="97085851">
+  <programme start="20260818040500 GMT+3" stop="20260818041300 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818041300 GMT+3" stop="20260818062200 GMT+3" channel="97085851">
     <title lang="el">Pre-season 26/27.</title>
     <desc lang="el">Pre-season 26/27.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818062400 GMT+3" stop="20260818064000 GMT+3" channel="97085851">
+  <programme start="20260818062200 GMT+3" stop="20260818063900 GMT+3" channel="97085851">
     <title lang="el">Champions League Highlights 97/98</title>
     <desc lang="el">RM v Juventus 97/98. Watch Real Madrid&apos;s seventh Champions League triumph against Juventus in Amsterdam.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818064000 GMT+3" stop="20260818070000 GMT+3" channel="97085851">
+  <programme start="20260818063900 GMT+3" stop="20260818065800 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818070000 GMT+3" stop="20260818071200 GMT+3" channel="97085851">
+  <programme start="20260818065800 GMT+3" stop="20260818070700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid</title>
     <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818071200 GMT+3" stop="20260818092500 GMT+3" channel="97085851">
+  <programme start="20260818070700 GMT+3" stop="20260818071200 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818071200 GMT+3" stop="20260818092600 GMT+3" channel="97085851">
     <title lang="el">Classics Matches Liga 21/22: Real Madrid vs Espanyol</title>
     <desc lang="el">Matchday 34 of La Liga. Real Madrid host Espanyol in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818092500 GMT+3" stop="20260818123500 GMT+3" channel="97085851">
+  <programme start="20260818092600 GMT+3" stop="20260818123600 GMT+3" channel="97085851">
     <title lang="el">Champions League 13/14</title>
     <desc lang="el">The first ever cross-city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818123500 GMT+3" stop="20260818143500 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 26/27. Ferencvaros vs Real Madrid</title>
-    <desc lang="el">Pre-season 26/27. Ferencvaros vs Real Madrid</desc>
+  <programme start="20260818123600 GMT+3" stop="20260818143600 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Ferencvaros vs Real Madrid</title>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818143500 GMT+3" stop="20260818154500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme start="20260818143600 GMT+3" stop="20260818154400 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818154500 GMT+3" stop="20260818161500 GMT+3" channel="97085851">
+  <programme start="20260818154400 GMT+3" stop="20260818161100 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 21/22</title>
+    <desc lang="el">Semi-Final (second leg). Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818161100 GMT+3" stop="20260818161700 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Highlights</title>
     <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818161500 GMT+3" stop="20260818195000 GMT+3" channel="97085851">
+  <programme start="20260818161700 GMT+3" stop="20260818193600 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid vs Sevilla 2016</title>
     <desc lang="el">It&apos;s the Champions League winners versus the Europa League winners and as Real Madrid go head to head with Sevilla.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818195000 GMT+3" stop="20260818202000 GMT+3" channel="97085851">
+  <programme start="20260818193600 GMT+3" stop="20260818195200 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818195200 GMT+3" stop="20260818202300 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">A rare encounter in the Copa Del Rey. Real Madrid&apos;s first team faced the club&apos;s second team back in 1980.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818202300 GMT+3" stop="20260818213200 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818213200 GMT+3" stop="20260818215400 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260818215400 GMT+3" stop="20260818220100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Highlights</title>
     <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818202000 GMT+3" stop="20260818213000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme start="20260818220100 GMT+3" stop="20260818222000 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 85/86 Real Madrid vs Valencia</title>
+    <desc lang="el">Catch our stars of the 80&apos;s in this historic victory over their east coast rivals Valencia.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818213000 GMT+3" stop="20260818215000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260818222000 GMT+3" stop="20260818223800 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights: Betis vs Real Madrid 86/87</title>
+    <desc lang="el">One of the club&apos;s greatest attacking line-ups in action, spearheaded by Hugo Sanchez and Butragueno.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260818215000 GMT+3" stop="20260818222500 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260818222500 GMT+3" stop="20260819005500 GMT+3" channel="97085851">
+  <programme start="20260818223800 GMT+3" stop="20260819005600 GMT+3" channel="97085851">
     <title lang="el">Champions League 17/18</title>
     <desc lang="el">RM v Liverpool Final Champions League Final 17/18. Watch Los Blancos complete a unique hat-trick \n</desc>
     <category lang="el">Αθλητικά</category>
@@ -40152,7 +40266,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260818210000 GMT+3" stop="20260819010000 GMT+3" channel="52196563">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">LEVSKI SOFIA - AEK ATHENS (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -40182,7 +40296,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260818215500 GMT+3" stop="20260819010000 GMT+3" channel="52196745">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">FENERBAHCE - LYON (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -40212,7 +40326,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260818215500 GMT+3" stop="20260819010000 GMT+3" channel="52196572">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">DINAMO ZAGREB - VIKING (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -41057,12 +41171,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819090000 GMT+3" stop="20260819101000 GMT+3" channel="54184415">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260819101000 GMT+3" stop="20260819110000 GMT+3" channel="54184415">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ31</title>
     <desc lang="el">Ο Διονύσης συνεχίζει να το παίζει καλός γείτονας, ενώ ταυτόχρονα σχεδιάζει μαζί με τον Θανάση τα επόμενα βήματα για την εξόντωση του Μανώλη. Η Σάντυ προχωράει με την αλλαγή της επωνυμίας της επιχείρησής της, κάτι που δεν κάνει και πολύ χαρούμενο τον Μανώλη. Ο Λεωνίδας αναγκάζεται να παίξει τένις με τον πλούσιο φίλο της Τάνιας...</desc>
@@ -41072,12 +41180,6 @@
   <programme start="20260819110000 GMT+3" stop="20260819120000 GMT+3" channel="54184415">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260819120000 GMT+3" stop="20260819123000 GMT+3" channel="54184415">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -41705,27 +41807,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819000000 GMT+3" stop="20260819060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260819014500 GMT+3" stop="20260819030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260819030000 GMT+3" stop="20260819050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819060000 GMT+3" stop="20260819120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260819050000 GMT+3" stop="20260819060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819120000 GMT+3" stop="20260819180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260819060000 GMT+3" stop="20260819063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819180000 GMT+3" stop="20260820000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260819063000 GMT+3" stop="20260819070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819070000 GMT+3" stop="20260819110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819110000 GMT+3" stop="20260819123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819123000 GMT+3" stop="20260819130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819130000 GMT+3" stop="20260819143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819143000 GMT+3" stop="20260819160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819160000 GMT+3" stop="20260819173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819173000 GMT+3" stop="20260819180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819180000 GMT+3" stop="20260819190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819190000 GMT+3" stop="20260819210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819210000 GMT+3" stop="20260819210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819210500 GMT+3" stop="20260819224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819224500 GMT+3" stop="20260819231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819231500 GMT+3" stop="20260820014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -42485,12 +42671,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819090000 GMT+3" stop="20260819101000 GMT+3" channel="289542">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260819101000 GMT+3" stop="20260819110000 GMT+3" channel="289542">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ31</title>
     <desc lang="el">Ο Διονύσης συνεχίζει να το παίζει καλός γείτονας, ενώ ταυτόχρονα σχεδιάζει μαζί με τον Θανάση τα επόμενα βήματα για την εξόντωση του Μανώλη. Η Σάντυ προχωράει με την αλλαγή της επωνυμίας της επιχείρησής της, κάτι που δεν κάνει και πολύ χαρούμενο τον Μανώλη. Ο Λεωνίδας αναγκάζεται να παίξει τένις με τον πλούσιο φίλο της Τάνιας...</desc>
@@ -42500,12 +42680,6 @@
   <programme start="20260819110000 GMT+3" stop="20260819120000 GMT+3" channel="289542">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260819120000 GMT+3" stop="20260819123000 GMT+3" channel="289542">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -52062,33 +52236,21 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819080000 GMT+3" stop="20260819084500 GMT+3" channel="1945">
+  <programme start="20260819080000 GMT+3" stop="20260819090000 GMT+3" channel="1945">
     <title lang="el">The Story is with Elex Michaelson ΕΠ328</title>
     <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819084500 GMT+3" stop="20260819090000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ424</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260819090000 GMT+3" stop="20260819100000 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom ΕΠ438</title>
-    <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
+    <title lang="el">The Story is with Elex Michaelson ΕΠ527</title>
+    <desc lang="el">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819100000 GMT+3" stop="20260819104500 GMT+3" channel="1945">
-    <title lang="el">CNN Newsroom ΕΠ424</title>
+  <programme start="20260819100000 GMT+3" stop="20260819110000 GMT+3" channel="1945">
+    <title lang="el">CNN Newsroom ΕΠ802</title>
     <desc lang="el">Live context and clarity to the day&apos;s top stories from around the world. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260819104500 GMT+3" stop="20260819110000 GMT+3" channel="1945">
-    <title lang="el">World Sport ΕΠ424</title>
-    <desc lang="el">Daily sports show features major stories and issues making news in the world of sports. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -56425,7 +56587,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819063000 GMT+3" stop="20260819070000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -56581,7 +56743,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819223000 GMT+3" stop="20260819230000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -58086,45 +58248,39 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819005500 GMT+3" stop="20260819030000 GMT+3" channel="97085851">
+  <programme start="20260819005600 GMT+3" stop="20260819030000 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
     <desc lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819030000 GMT+3" stop="20260819031500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260819030000 GMT+3" stop="20260819031400 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819031500 GMT+3" stop="20260819064500 GMT+3" channel="97085851">
+  <programme start="20260819031400 GMT+3" stop="20260819064400 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819064500 GMT+3" stop="20260819070000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life. Weekly review show</title>
-    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+  <programme start="20260819064400 GMT+3" stop="20260819070000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 01/02</title>
+    <desc lang="el">Champions League Final 01/02. Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260819070000 GMT+3" stop="20260819071500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819071500 GMT+3" stop="20260819090000 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 2026/27.</title>
-    <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260819090000 GMT+3" stop="20260819092500 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 2026/27.</title>
-    <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
+  <programme start="20260819071500 GMT+3" stop="20260819092500 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 26/27.</title>
+    <desc lang="el">Pre-season 26/27.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -58177,6 +58333,24 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819030000 GMT+3" stop="20260819090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819090000 GMT+3" stop="20260819150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819150000 GMT+3" stop="20260819210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819210000 GMT+3" stop="20260820030000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
@@ -59742,7 +59916,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819210000 GMT+3" stop="20260820010000 GMT+3" channel="52196563">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">NIJMEGEN - BODO GLIMT (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -59772,7 +59946,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819215500 GMT+3" stop="20260820010000 GMT+3" channel="52196745">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">CELTIC - LASK (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -59802,7 +59976,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819215500 GMT+3" stop="20260820010000 GMT+3" channel="52196572">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">SLOVAN BRATISLAVA - CELJE (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -59832,7 +60006,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819215500 GMT+3" stop="20260820010000 GMT+3" channel="52196754">
-    <title lang="el">TEAM 1 - TEAM 2 (Z)</title>
+    <title lang="el">HAPOEL BEER_SHEVA - SABAH (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
     <category lang="el">PPVlive</category>
     <rating>K</rating>
@@ -60629,12 +60803,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820090000 GMT+3" stop="20260820101000 GMT+3" channel="54184415">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260820101000 GMT+3" stop="20260820110000 GMT+3" channel="54184415">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ32</title>
     <desc lang="el">Ο Μανώλης ζητάει συγγνώμη από τη Σάντυ για την αντίδρασή του στις αλλαγές που αποφάσισε να κάνει σχετικά με την επιχείρησή της. Η Σάντυ, αν και απογοητευμένη, του λέει ότι δεν υπάρχει πρόβλημα και του ζητάει να δουν μαζί έναν πελάτη της. Ο Μανώλης θα δεχτεί, αλλά στην πορεία θα ανακαλύψει κάτι σε σχέση με τον Διονύση που θα φέρει ακόμα μεγαλύτερες ανατροπές στις ζωές τους.</desc>
@@ -60644,12 +60812,6 @@
   <programme start="20260820110000 GMT+3" stop="20260820120000 GMT+3" channel="54184415">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260820120000 GMT+3" stop="20260820123000 GMT+3" channel="54184415">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -61247,27 +61409,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260820000000 GMT+3" stop="20260820060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260820014500 GMT+3" stop="20260820030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260820030000 GMT+3" stop="20260820050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820060000 GMT+3" stop="20260820120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260820050000 GMT+3" stop="20260820060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820120000 GMT+3" stop="20260820180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260820060000 GMT+3" stop="20260820063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820180000 GMT+3" stop="20260821000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260820063000 GMT+3" stop="20260820070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820070000 GMT+3" stop="20260820110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820110000 GMT+3" stop="20260820123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820123000 GMT+3" stop="20260820130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820130000 GMT+3" stop="20260820143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820143000 GMT+3" stop="20260820160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820160000 GMT+3" stop="20260820173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820173000 GMT+3" stop="20260820180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820180000 GMT+3" stop="20260820190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820190000 GMT+3" stop="20260820210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820210000 GMT+3" stop="20260820210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820210500 GMT+3" stop="20260820224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820224500 GMT+3" stop="20260820231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820231500 GMT+3" stop="20260821014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -61967,12 +62213,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820090000 GMT+3" stop="20260820101000 GMT+3" channel="289542">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260820101000 GMT+3" stop="20260820110000 GMT+3" channel="289542">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ32</title>
     <desc lang="el">Ο Μανώλης ζητάει συγγνώμη από τη Σάντυ για την αντίδρασή του στις αλλαγές που αποφάσισε να κάνει σχετικά με την επιχείρησή της. Η Σάντυ, αν και απογοητευμένη, του λέει ότι δεν υπάρχει πρόβλημα και του ζητάει να δουν μαζί έναν πελάτη της. Ο Μανώλης θα δεχτεί, αλλά στην πορεία θα ανακαλύψει κάτι σε σχέση με τον Διονύση που θα φέρει ακόμα μεγαλύτερες ανατροπές στις ζωές τους.</desc>
@@ -61982,12 +62222,6 @@
   <programme start="20260820110000 GMT+3" stop="20260820120000 GMT+3" channel="289542">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260820120000 GMT+3" stop="20260820123000 GMT+3" channel="289542">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -66652,7 +66886,7 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260820025800 GMT+3" stop="20260820060000 GMT+3" channel="9745267">
+  <programme start="20260820032300 GMT+3" stop="20260820060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -68183,19 +68417,19 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820060500 GMT+3" stop="20260820070000 GMT+3" channel="216459">
+  <programme start="20260820060500 GMT+3" stop="20260820065500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ5 ΕΠ5</title>
     <desc lang="el">Όταν ένας οδηγός φορτηγού αρνείται να πληρώσει για τη διάσωση, ο Thord απειλεί με κατ&apos; οίκον περιορισμό. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820070000 GMT+3" stop="20260820074000 GMT+3" channel="216459">
+  <programme start="20260820065500 GMT+3" stop="20260820073500 GMT+3" channel="216459">
     <title lang="el">Οι Τελευταίοι Γίγαντες Κ3 ΕΠ4</title>
     <desc lang="el">Ένα επικίνδυνο ρεύμα και ισχυρά κύματα αναγκάζουν τον Σίριλ και την ομάδα του να μπουν στην πορεία που ακολουθούν ξένοι λαθροκυνηγοί, οι οποίοι ψαρεύουν παράνομα στα νερά των Bijagos. (2023)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820074000 GMT+3" stop="20260820082500 GMT+3" channel="216459">
+  <programme start="20260820073500 GMT+3" stop="20260820082500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ4 ΕΠ5</title>
     <desc lang="el">Οι κάτοικοι της Αλάσκα πρέπει να ολοκληρώσουν τις φθινοπωρινές τους εργασίες για να προστατευτούν σε μια κατά τ&apos; άλλα αβέβαιη και δύσκολη χειμερινή σεζόν. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68213,13 +68447,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820100000 GMT+3" stop="20260820105000 GMT+3" channel="216459">
+  <programme start="20260820100000 GMT+3" stop="20260820104500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ2 ΕΠ8</title>
     <desc lang="el">Ο χωρικός αποπροσανατολισμός είναι μια από τις βασικές αιτίες ατυχημάτων στον αέρα. Ακόμα και οι πιο έμπειροι πιλότοι είναι επιρρεπείς στα ήπια αλλά φονικά χαρακτηριστικά του. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820105000 GMT+3" stop="20260820113500 GMT+3" channel="216459">
+  <programme start="20260820104500 GMT+3" stop="20260820113500 GMT+3" channel="216459">
     <title lang="el">Στα Βάθη των Ωκεανών: Ειδική Έκδοση Κ4 ΕΠ5</title>
     <desc lang="el">Τα μεγαλύτερα αεροπορικά μυστήρια του Β&apos; ΠΠ βγαίνουν στην επιφάνεια για πρώτη φορά. Η αποκάλυψη της αληθινής ιστορίας βρίσκεται τόσο στη θάλασσα όσο και στον αέρα. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -68273,25 +68507,25 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820175000 GMT+3" stop="20260820181000 GMT+3" channel="216459">
+  <programme start="20260820175000 GMT+3" stop="20260820181500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ3 ΕΠ25</title>
     <desc lang="el">Μάθετε με πόσους τρόπους μπορείτε να ντροπιαστείτε και να τραυματιστείτε χορεύοντας, κάνοντας sky diving ή παίζοντας με τη φωτιά. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820181000 GMT+3" stop="20260820183500 GMT+3" channel="216459">
+  <programme start="20260820181500 GMT+3" stop="20260820183500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ3 ΕΠ27</title>
     <desc lang="el">Μάθετε με πόσους τρόπους μπορείτε να ντροπιαστείτε και να τραυματιστείτε επιχειρώντας άλμα με mountain bike, &apos;κλείνοντας&apos; μια νταλίκα ή χρησιμοποιώντας ένα χαρτόκουτο για να κάνετε έλκηθρο. (2015)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820183500 GMT+3" stop="20260820192000 GMT+3" channel="216459">
+  <programme start="20260820183500 GMT+3" stop="20260820192500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ3 ΕΠ8</title>
     <desc lang="el">Πιλότοι δοκιμάζονται από καταστροφικές βλάβες εν ώρα πτήσης, οι οποίες ρίχνουν φως σε τρεις εκπληκτικούς άθλους στον αέρα. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260820192000 GMT+3" stop="20260820201000 GMT+3" channel="216459">
+  <programme start="20260820192500 GMT+3" stop="20260820201000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα – Ειδική Έρευνα Κ3 ΕΠ7</title>
     <desc lang="el">Οι τραγωδίες στον αέρα είναι ιδιαίτερα τρομακτικές όταν συμβαίνουν πάνω από κοινότητες που απειλούνται με βροχή από συντρίμμια. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -75978,7 +76212,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260820093000 GMT+3" stop="20260820100000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">Maltese Foreign Minister discusses EU migration, describing the Mediterranean as a bridge not a border. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -76500,8 +76734,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260820220000 GMT+3" stop="20260821060000 GMT+3" channel="8242848">
-    <title lang="el">DINAMO CITY - PAFOS (Z)</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
+    <title lang="el">LINCOLN RED IMPS - OMONOIA 6/8/26</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77729,9 +77963,99 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820071500 GMT+3" stop="20260821060000 GMT+3" channel="97085851">
+  <programme start="20260820071500 GMT+3" stop="20260820090000 GMT+3" channel="97085851">
     <title lang="el">Champions League 2021/2022.</title>
     <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820090000 GMT+3" stop="20260820101000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 2021/2022.</title>
+    <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820101000 GMT+3" stop="20260820104000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820104000 GMT+3" stop="20260820131500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 2023/2024:</title>
+    <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820131500 GMT+3" stop="20260820142500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820142500 GMT+3" stop="20260820144500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820144500 GMT+3" stop="20260820170000 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820170000 GMT+3" stop="20260820191500 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Ferencvaros vs Real Madrid</title>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820191500 GMT+3" stop="20260820213000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
+    <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820213000 GMT+3" stop="20260820214500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820214500 GMT+3" stop="20260820233000 GMT+3" channel="97085851">
+    <title lang="el">Classic Matches: 1966 European Cup (6th) La Sexta</title>
+    <desc lang="el">Watch Real Madrid&apos;s sixth Champions League triumph against F.K Partizan in Brussels.\n\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820233000 GMT+3" stop="20260821014500 GMT+3" channel="97085851">
+    <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
+    <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820030000 GMT+3" stop="20260820090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820090000 GMT+3" stop="20260820150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820150000 GMT+3" stop="20260820210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260820210000 GMT+3" stop="20260821030000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -78737,8 +79061,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260820220000 GMT+3" stop="20260821060000 GMT+3" channel="52098866">
-    <title lang="el">DINAMO CITY - PAFOS (Z)</title>
-    <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
+    <title lang="el">LINCOLN RED IMPS - OMONOIA 6/8/26</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -80158,12 +80482,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821090000 GMT+3" stop="20260821101000 GMT+3" channel="54184415">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260821101000 GMT+3" stop="20260821110000 GMT+3" channel="54184415">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ33</title>
     <desc lang="el">Η Στέλλα, μετά την κουβέντα που είχε με τον Μανώλη, η οποία έμεινε στη μέση, πιστεύει ότι ο Μανώλης ήταν έτοιμος να τη ζητήσει σε γάμο. Χαρούμενη θα το πει σε όλους και φυσικά το νέο θα φτάσει και στ’ αυτιά της Σάντυ, η οποία θα χάσει τη γη κάτω απ’ τα πόδια της. Ο Μανώλης θα παρακολουθήσει τον Διονύση και θα ανακαλύψει ένα μεγάλο μυστικό που μπορεί επιτέλους να πείσει τη Σάντυ να σταματήσει να εμπιστεύεται τον άντρα της.</desc>
@@ -80173,12 +80491,6 @@
   <programme start="20260821110000 GMT+3" stop="20260821120000 GMT+3" channel="54184415">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821120000 GMT+3" stop="20260821123000 GMT+3" channel="54184415">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -80782,27 +81094,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821000000 GMT+3" stop="20260821060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260821014500 GMT+3" stop="20260821030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260821030000 GMT+3" stop="20260821050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821060000 GMT+3" stop="20260821120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260821050000 GMT+3" stop="20260821060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821120000 GMT+3" stop="20260821180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260821060000 GMT+3" stop="20260821063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821180000 GMT+3" stop="20260822000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260821063000 GMT+3" stop="20260821070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821070000 GMT+3" stop="20260821110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821110000 GMT+3" stop="20260821123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821123000 GMT+3" stop="20260821130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821130000 GMT+3" stop="20260821143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821143000 GMT+3" stop="20260821160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821160000 GMT+3" stop="20260821173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821173000 GMT+3" stop="20260821180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821180000 GMT+3" stop="20260821190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821190000 GMT+3" stop="20260821210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821210000 GMT+3" stop="20260821210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821210500 GMT+3" stop="20260821224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821224500 GMT+3" stop="20260821231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821231500 GMT+3" stop="20260822014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -81508,12 +81904,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821090000 GMT+3" stop="20260821101000 GMT+3" channel="289542">
-    <title lang="el">ΤΟ ΠΙΟ ΓΛΥΚΟ ΜΟΥ ΨΕΜΑ II (E)</title>
-    <desc lang="el">Μια δικηγόρος με λογοτεχνικές φιλοδοξίες και ένας γοητευτικός επαρχιώτης, είναι τα κεντρικά πρόσωπα αυτής της πρωτότυπης, αισθηματικής κωμωδίας. Στην προσπάθειά της να καταξιωθεί ως συγγραφέας, η νομικός στέλνει το βιβλίο της σε έναν εκδοτικό οίκο υπογράφοντας με αντρικό όνομα. Η παράτολμη αυτή κίνηση την οδηγεί σε μια σειρά απίστευτων παρεξηγήσεων, αφού η εκδοτική εταιρία εκτός από το βιβλίο, θέλει να &quot;πουλήσει&quot; και την εικόνα ενός άντρα συγγραφέα-sex symbol.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260821101000 GMT+3" stop="20260821110000 GMT+3" channel="289542">
     <title lang="el">ΜΗΝ ΨΑΡΩΝΕΙΣ (E) ΕΠ33</title>
     <desc lang="el">Η Στέλλα, μετά την κουβέντα που είχε με τον Μανώλη, η οποία έμεινε στη μέση, πιστεύει ότι ο Μανώλης ήταν έτοιμος να τη ζητήσει σε γάμο. Χαρούμενη θα το πει σε όλους και φυσικά το νέο θα φτάσει και στ’ αυτιά της Σάντυ, η οποία θα χάσει τη γη κάτω απ’ τα πόδια της. Ο Μανώλης θα παρακολουθήσει τον Διονύση και θα ανακαλύψει ένα μεγάλο μυστικό που μπορεί επιτέλους να πείσει τη Σάντυ να σταματήσει να εμπιστεύεται τον άντρα της.</desc>
@@ -81523,12 +81913,6 @@
   <programme start="20260821110000 GMT+3" stop="20260821120000 GMT+3" channel="289542">
     <title lang="el">ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ (E)</title>
     <desc lang="el">Δύο νεαροί, βυθισμένοι στα χρέη και χωρίς προοπτικές, βρίσκονται ξαφνικά μπροστά σε μια απρόσμενη ευκαιρία που μπορεί να αλλάξει τη ζωή τους. Το κυνήγι για το μυστηριώδες «έβδομο κλειδί» τους παρασύρει σε μια απίστευτη περιπέτεια γεμάτη ανατροπές, καταδιώξεις, μπερδέματα και απρόβλεπτους συμμάχους. Μια κωμική σειρά γεμάτη χιούμορ, περιπέτεια και αξέχαστους χαρακτήρες, όπου τίποτα δεν είναι όπως φαίνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821120000 GMT+3" stop="20260821123000 GMT+3" channel="289542">
-    <title lang="el">Brave New Greece II</title>
-    <desc lang="el">Brave New Greece II</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -96010,63 +96394,57 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821133000 GMT+3" stop="20260821151500 GMT+3" channel="24745114">
+  <programme start="20260821133000 GMT+3" stop="20260821153000 GMT+3" channel="24745114">
     <title lang="el">Chelsea FC Women - AS Roma 10/12/25 (E)</title>
     <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821151500 GMT+3" stop="20260821170000 GMT+3" channel="24745114">
+  <programme start="20260821153000 GMT+3" stop="20260821173000 GMT+3" channel="24745114">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part A) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821170000 GMT+3" stop="20260821190000 GMT+3" channel="24745114">
+  <programme start="20260821173000 GMT+3" stop="20260821193000 GMT+3" channel="24745114">
     <title lang="el">Ανόρθωση - ΑΠΟΕΛ 16/8/26 (E)</title>
     <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821190000 GMT+3" stop="20260821193000 GMT+3" channel="24745114">
-    <title lang="el">MatchDay 2026-27 Pre-Game 21/8/26 (Z)</title>
-    <desc lang="el">MatchDay 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821193000 GMT+3" stop="20260821213000 GMT+3" channel="24745114">
-    <title lang="el">Ομόνοια 29Μ - ΑΕΚ 21/8/26 (Z)</title>
-    <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821213000 GMT+3" stop="20260821220000 GMT+3" channel="24745114">
-    <title lang="el">MatchDay 2026-27 Post-Game 21/8/26 (Z)</title>
-    <desc lang="el">MatchDay 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821220000 GMT+3" stop="20260821223000 GMT+3" channel="24745114">
-    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 09 Κεντρικοί Μέσοι</title>
-    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821223000 GMT+3" stop="20260821230000 GMT+3" channel="24745114">
+  <programme start="20260821193000 GMT+3" stop="20260821200000 GMT+3" channel="24745114">
     <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 01 18/8/26 (E)</title>
     <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821230000 GMT+3" stop="20260821233000 GMT+3" channel="24745114">
+  <programme start="20260821200000 GMT+3" stop="20260821203000 GMT+3" channel="24745114">
     <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 05 11/12/25 (E)</title>
     <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821233000 GMT+3" stop="20260822000000 GMT+3" channel="24745114">
+  <programme start="20260821203000 GMT+3" stop="20260821210000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 09 Κεντρικοί Μέσοι</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821210000 GMT+3" stop="20260821213000 GMT+3" channel="24745114">
     <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 07 (E)</title>
     <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821213000 GMT+3" stop="20260821220000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 04 Womens Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821220000 GMT+3" stop="20260822000000 GMT+3" channel="24745114">
+    <title lang="el">Unicaja - BAXI Manresa 22/11/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96275,8 +96653,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260821223000 GMT+3" stop="20260822003000 GMT+3" channel="53005467">
-    <title lang="el">Ομόνοια 29Μ - ΑΕΚ 21/8/26</title>
-    <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part A) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96793,6 +97171,72 @@
   <programme start="20260821234500 GMT+3" stop="20260822000000 GMT+3" channel="94430673">
     <title lang="el">Press Conference</title>
     <desc lang="el">Coverage of Arne Slots press conference ahead of Liverpool&apos;s match against Bournemouth.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821014500 GMT+3" stop="20260821040000 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27.</title>
+    <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821040000 GMT+3" stop="20260821041500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821041500 GMT+3" stop="20260821062000 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Ferencvaros vs Real Madrid</title>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821062000 GMT+3" stop="20260821064000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821064000 GMT+3" stop="20260821070000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821070000 GMT+3" stop="20260821071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821071500 GMT+3" stop="20260822060000 GMT+3" channel="97085851">
+    <title lang="el">Classics Matches Liga 19/20: Real Madrid vs Villarreal</title>
+    <desc lang="el">Real Madrid clinched a record 34th La Liga title at home to Villarreal.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821030000 GMT+3" stop="20260821090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821090000 GMT+3" stop="20260821150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821150000 GMT+3" stop="20260821210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821210000 GMT+3" stop="20260822030000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -97773,63 +98217,57 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821133000 GMT+3" stop="20260821151500 GMT+3" channel="52187736">
+  <programme start="20260821133000 GMT+3" stop="20260821153000 GMT+3" channel="52187736">
     <title lang="el">Chelsea FC Women - AS Roma 10/12/25 (E)</title>
     <desc lang="el">ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821151500 GMT+3" stop="20260821170000 GMT+3" channel="52187736">
+  <programme start="20260821153000 GMT+3" stop="20260821173000 GMT+3" channel="52187736">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part A) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821170000 GMT+3" stop="20260821190000 GMT+3" channel="52187736">
+  <programme start="20260821173000 GMT+3" stop="20260821193000 GMT+3" channel="52187736">
     <title lang="el">Ανόρθωση - ΑΠΟΕΛ 16/8/26 (E)</title>
     <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821190000 GMT+3" stop="20260821193000 GMT+3" channel="52187736">
-    <title lang="el">MatchDay 2026-27 Pre-Game 21/8/26 (Z)</title>
-    <desc lang="el">MatchDay 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821193000 GMT+3" stop="20260821213000 GMT+3" channel="52187736">
-    <title lang="el">Ομόνοια 29Μ - ΑΕΚ 21/8/26 (Z)</title>
-    <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821213000 GMT+3" stop="20260821220000 GMT+3" channel="52187736">
-    <title lang="el">MatchDay 2026-27 Post-Game 21/8/26 (Z)</title>
-    <desc lang="el">MatchDay 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821220000 GMT+3" stop="20260821223000 GMT+3" channel="52187736">
-    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 09 Κεντρικοί Μέσοι</title>
-    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821223000 GMT+3" stop="20260821230000 GMT+3" channel="52187736">
+  <programme start="20260821193000 GMT+3" stop="20260821200000 GMT+3" channel="52187736">
     <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 01 18/8/26 (E)</title>
     <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821230000 GMT+3" stop="20260821233000 GMT+3" channel="52187736">
+  <programme start="20260821200000 GMT+3" stop="20260821203000 GMT+3" channel="52187736">
     <title lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26 # 05 11/12/25 (E)</title>
     <desc lang="el">Στιγμιότυπα ΟΥΕΦΑ Τσάμπιονς Λιγκ Γυναικών 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821233000 GMT+3" stop="20260822000000 GMT+3" channel="52187736">
+  <programme start="20260821203000 GMT+3" stop="20260821210000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 09 Κεντρικοί Μέσοι</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821210000 GMT+3" stop="20260821213000 GMT+3" channel="52187736">
     <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 07 (E)</title>
     <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821213000 GMT+3" stop="20260821220000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 04 Womens Footballer (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821220000 GMT+3" stop="20260822000000 GMT+3" channel="52187736">
+    <title lang="el">Unicaja - BAXI Manresa 22/11/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -98589,12 +99027,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822044000 GMT+3" stop="20260822053000 GMT+3" channel="54184415">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260822053000 GMT+3" stop="20260822063000 GMT+3" channel="54184415">
     <title lang="el">ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ (E)</title>
     <desc lang="el">Η σειρά παρουσιάζει τις ζωές τριών διαφορετικών οικογενειών που ζουν στην ίδια γειτονιά, όταν αυτές κερδίσουν τον τυχερό λαχνό ενός λαχείου και οι ζωές τους αλλάζουν.</desc>
@@ -98649,13 +99081,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822142000 GMT+3" stop="20260822144500 GMT+3" channel="54184415">
+  <programme start="20260822142000 GMT+3" stop="20260822150000 GMT+3" channel="54184415">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ ΙΙ (E)</title>
     <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ελένη Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822144500 GMT+3" stop="20260822180000 GMT+3" channel="54184415">
+  <programme start="20260822150000 GMT+3" stop="20260822180000 GMT+3" channel="54184415">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -99207,27 +99639,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260822000000 GMT+3" stop="20260822060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260822014500 GMT+3" stop="20260822030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260822030000 GMT+3" stop="20260822050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822060000 GMT+3" stop="20260822120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260822050000 GMT+3" stop="20260822060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822120000 GMT+3" stop="20260822180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260822060000 GMT+3" stop="20260822063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822180000 GMT+3" stop="20260823000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260822063000 GMT+3" stop="20260822070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822070000 GMT+3" stop="20260822110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822110000 GMT+3" stop="20260822123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822123000 GMT+3" stop="20260822130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822130000 GMT+3" stop="20260822143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822143000 GMT+3" stop="20260822160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822160000 GMT+3" stop="20260822173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822173000 GMT+3" stop="20260822180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822180000 GMT+3" stop="20260822190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822190000 GMT+3" stop="20260822210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822210000 GMT+3" stop="20260822210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822210500 GMT+3" stop="20260822224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822224500 GMT+3" stop="20260822231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822231500 GMT+3" stop="20260823014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -99855,12 +100371,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822044000 GMT+3" stop="20260822053000 GMT+3" channel="289542">
-    <title lang="el">ΕΠΙΘΥΜΙΕΣ (E)</title>
-    <desc lang="el">Φίλες από τα παιδικά τους χρόνια, τρεις νέες γυναίκες γύρω στα 30, γεμάτες από όνειρα για αγάπη, έρωτα, επαγγελματική επιτυχία και κοινωνική αποδοχή, προσπαθούν να κατακτήσουν τη ζωή... Η ασυμβίβαστη Δάφνη, η γοητευτική Έλενα και η συνεσταλμένη Άννα, προσπαθούν να πραγματοποιήσουν τις επιθυμίες τους...</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260822053000 GMT+3" stop="20260822063000 GMT+3" channel="289542">
     <title lang="el">ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ (E)</title>
     <desc lang="el">Η σειρά παρουσιάζει τις ζωές τριών διαφορετικών οικογενειών που ζουν στην ίδια γειτονιά, όταν αυτές κερδίσουν τον τυχερό λαχνό ενός λαχείου και οι ζωές τους αλλάζουν.</desc>
@@ -99915,13 +100425,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822142000 GMT+3" stop="20260822144500 GMT+3" channel="289542">
+  <programme start="20260822142000 GMT+3" stop="20260822150000 GMT+3" channel="289542">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ ΙΙ (E)</title>
     <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ελένη Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822144500 GMT+3" stop="20260822180000 GMT+3" channel="289542">
+  <programme start="20260822150000 GMT+3" stop="20260822180000 GMT+3" channel="289542">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -115034,9 +115544,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822020000 GMT+3" stop="20260822040000 GMT+3" channel="24746908">
-    <title lang="el">Ομόνοια 29Μ - ΑΕΚ 21/8/26</title>
-    <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
+  <programme start="20260822020000 GMT+3" stop="20260822033000 GMT+3" channel="24746908">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 05 23/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822033000 GMT+3" stop="20260822040000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 05 11/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -115625,6 +116141,30 @@
   <programme start="20260822223000 GMT+3" stop="20260823003000 GMT+3" channel="94430673">
     <title lang="el">Everton v Liverpool U21: The Match</title>
     <desc lang="el">All the action as Liverpool U21 take on Everton.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822030000 GMT+3" stop="20260822090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822090000 GMT+3" stop="20260822150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822150000 GMT+3" stop="20260822210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822210000 GMT+3" stop="20260823030000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -116698,9 +117238,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260822020000 GMT+3" stop="20260822040000 GMT+3" channel="52187749">
-    <title lang="el">Ομόνοια 29Μ - ΑΕΚ 21/8/26</title>
-    <desc lang="el">Φιλικοί Αγώνες 2026-27</desc>
+  <programme start="20260822020000 GMT+3" stop="20260822033000 GMT+3" channel="52187749">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 05 23/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822033000 GMT+3" stop="20260822040000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 05 11/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -117352,13 +117898,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260823012000 GMT+3" stop="20260823020000 GMT+3" channel="54184415">
+  <programme start="20260823012000 GMT+3" stop="20260823021500 GMT+3" channel="54184415">
     <title lang="el">ΔΙΚΑΣΤΙΚΕΣ ΥΠΟΘΕΣΕΙΣ (E)</title>
     <desc lang="el">Η δικαστής Ηλέκτρα Ηροδότου, καλείται καθημερινά να αντιμετωπίσει άκρως ενδιαφέρουσες νομικές υποθέσεις, που φτάνουν ενώπιον του δικαστηρίου.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823020000 GMT+3" stop="20260823034000 GMT+3" channel="54184415">
+  <programme start="20260823021500 GMT+3" stop="20260823034000 GMT+3" channel="54184415">
     <title lang="el">ΠΕΦΤΕΙ Η ΝΥΧΤΑ με... ΡΥΘΜΟ (E)</title>
     <desc lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -117418,12 +117964,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823120000 GMT+3" stop="20260823123000 GMT+3" channel="54184415">
-    <title lang="el">Brave New Greece</title>
-    <desc lang="el">Brave New Greece</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260823123000 GMT+3" stop="20260823132000 GMT+3" channel="54184415">
     <title lang="el">Passenger III (E)</title>
     <desc lang="el">Passenger III (E)</desc>
@@ -117436,13 +117976,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823142000 GMT+3" stop="20260823144500 GMT+3" channel="54184415">
+  <programme start="20260823142000 GMT+3" stop="20260823150000 GMT+3" channel="54184415">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
     <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823144500 GMT+3" stop="20260823180000 GMT+3" channel="54184415">
+  <programme start="20260823150000 GMT+3" stop="20260823180000 GMT+3" channel="54184415">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -117457,12 +117997,6 @@
   <programme start="20260823181500 GMT+3" stop="20260823183000 GMT+3" channel="54184415">
     <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
     <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260823183000 GMT+3" stop="20260823201500 GMT+3" channel="54184415">
-    <title lang="el">Don&apos;t Forget the Lyrics</title>
-    <desc lang="el">Don&apos;t Forget the Lyrics</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -118000,27 +118534,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260823000000 GMT+3" stop="20260823060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260823014500 GMT+3" stop="20260823030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260823030000 GMT+3" stop="20260823050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823060000 GMT+3" stop="20260823120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260823050000 GMT+3" stop="20260823060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823120000 GMT+3" stop="20260823180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260823060000 GMT+3" stop="20260823063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823180000 GMT+3" stop="20260824000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260823063000 GMT+3" stop="20260823070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823070000 GMT+3" stop="20260823110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823110000 GMT+3" stop="20260823123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823123000 GMT+3" stop="20260823130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823130000 GMT+3" stop="20260823143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823143000 GMT+3" stop="20260823160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823160000 GMT+3" stop="20260823173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823173000 GMT+3" stop="20260823180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823180000 GMT+3" stop="20260823190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823190000 GMT+3" stop="20260823210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823210000 GMT+3" stop="20260823210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823210500 GMT+3" stop="20260823224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823224500 GMT+3" stop="20260823231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823231500 GMT+3" stop="20260824014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -118510,13 +119128,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260823012000 GMT+3" stop="20260823020000 GMT+3" channel="289542">
+  <programme start="20260823012000 GMT+3" stop="20260823021500 GMT+3" channel="289542">
     <title lang="el">ΔΙΚΑΣΤΙΚΕΣ ΥΠΟΘΕΣΕΙΣ (E)</title>
     <desc lang="el">Η δικαστής Ηλέκτρα Ηροδότου, καλείται καθημερινά να αντιμετωπίσει άκρως ενδιαφέρουσες νομικές υποθέσεις, που φτάνουν ενώπιον του δικαστηρίου.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823020000 GMT+3" stop="20260823034000 GMT+3" channel="289542">
+  <programme start="20260823021500 GMT+3" stop="20260823034000 GMT+3" channel="289542">
     <title lang="el">ΠΕΦΤΕΙ Η ΝΥΧΤΑ με... ΡΥΘΜΟ (E)</title>
     <desc lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -118576,12 +119194,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823120000 GMT+3" stop="20260823123000 GMT+3" channel="289542">
-    <title lang="el">Brave New Greece</title>
-    <desc lang="el">Brave New Greece</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260823123000 GMT+3" stop="20260823132000 GMT+3" channel="289542">
     <title lang="el">Passenger III (E)</title>
     <desc lang="el">Passenger III (E)</desc>
@@ -118594,13 +119206,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823142000 GMT+3" stop="20260823144500 GMT+3" channel="289542">
+  <programme start="20260823142000 GMT+3" stop="20260823150000 GMT+3" channel="289542">
     <title lang="el">ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ II (E)</title>
     <desc lang="el">Σε κάθε αυτοτελές επεισόδιο, η Ράντου υποδύεται μια διαφορετική γυναίκα που ασκεί κάποιο διαφορετικό επάγγελμα και το επεισόδιο εστιάζει σε αυτό και την προσωπική ζωή της. Τα επαγγέλματα αυτά ποικίλλουν και είναι τόσο υψηλού (πχ. δικηγόρος), όσο και χαμηλού κύρους (π.χ. οικιακή βοηθός), καθώς και στερεοτυπικά «γυναικεία» (π.χ. αεροσυνοδός) ή «αντρικά» (π.χ. τροχονόμος) επαγγέλματα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823144500 GMT+3" stop="20260823180000 GMT+3" channel="289542">
+  <programme start="20260823150000 GMT+3" stop="20260823180000 GMT+3" channel="289542">
     <title lang="el">Your Face Sounds Familiar (E)</title>
     <desc lang="el">Κάθε Κυριακή, η σκηνή θα γίνεται ένα μικρό σύμπαν. Και στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -118615,12 +119227,6 @@
   <programme start="20260823181500 GMT+3" stop="20260823183000 GMT+3" channel="289542">
     <title lang="el">...ΣΥΝΈΧΕΙΑ Your Face Sounds Familiar (E)</title>
     <desc lang="el">Στο συναρπαστικό σύμπαν του «Your Face Sounds Familiar», ο καθένας μπορεί να γίνει όποιος θέλει, τουλάχιστον για μερικά λεπτά. Αυτό που θα δεις να ζωντανεύει μπροστά σου ξεπερνά κάθε φαντασία. Γιατί όταν αγαπημένοι ερμηνευτές της παγκόσμιας και ελληνικής σκηνής συναντιούνται on stage, είναι τηλεοπτική μαγεία, είναι το «Your Face Sounds Familiar»</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260823183000 GMT+3" stop="20260823201500 GMT+3" channel="289542">
-    <title lang="el">Don&apos;t Forget the Lyrics</title>
-    <desc lang="el">Don&apos;t Forget the Lyrics</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -133492,7 +134098,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260823223000 GMT+3" stop="20260823230000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -134448,6 +135054,30 @@
   <programme start="20260823231500 GMT+3" stop="20260824003000 GMT+3" channel="94430673">
     <title lang="el">Flags and Banners: The Art of LFC</title>
     <desc lang="el">An exclusive documentary which delves into the history and culture of the club&apos;s flags and banners.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823030000 GMT+3" stop="20260823090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823090000 GMT+3" stop="20260823150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823150000 GMT+3" stop="20260823210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260823210000 GMT+3" stop="20260824030000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -135990,13 +136620,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824010000 GMT+3" stop="20260824020000 GMT+3" channel="54184415">
+  <programme start="20260824010000 GMT+3" stop="20260824021500 GMT+3" channel="54184415">
     <title lang="el">The Road Show II (E)</title>
     <desc lang="el">The Road Show II (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824020000 GMT+3" stop="20260824034000 GMT+3" channel="54184415">
+  <programme start="20260824021500 GMT+3" stop="20260824034000 GMT+3" channel="54184415">
     <title lang="el">ΠΕΦΤΕΙ Η ΝΥΧΤΑ με... ΡΥΘΜΟ (E)</title>
     <desc lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -136080,12 +136710,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824150000 GMT+3" stop="20260824160000 GMT+3" channel="54184415">
-    <title lang="el">ΦΙΛΑ ΤΟΝ ΒΑΤΡΑΧΟ ΣΟΥ (E)</title>
-    <desc lang="el">Ο Στέφανος είναι ένας ανερχόμενος πολιτικός και ετοιμάζεται να παντρευτεί μια γυναίκα που μπορεί να του εξασφαλίσει την πολιτική του ανέλιξη. Η Όλγα είναι καμαριέρα και μεγαλώνει μόνη τον 8χρονο γιο της. Στην πρώτη τους συνάντηση, ένα παιχνίδι της τύχης την κάνει να μοιάζει σαν να βγήκε από παραμύθι, μέσα στη δανεική τουαλέτα της. Δύο εντελώς διαφορετικοί κόσμοι συναντιούνται...</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260824160000 GMT+3" stop="20260824170000 GMT+3" channel="54184415">
     <title lang="el">ΣΟΥΠΕΡ ΗΡΩΕΣ (E) ΕΠ16</title>
     <desc lang="el">Με αφορμή το πρόσφατο εργατικό ατύχημα στο μανάβικο, ο Δημήτρης αποφασίζει ότι πρέπει να εκπαιδεύσει δύο υπαλλήλους ως υπεύθυνους πρώτων βοηθειών. Και οι δύο τυχεροί είναι... ο Αντώνης και η Ρένα. Στα τυριά, η κυρία Βάσω, η μάνα του Περικλή, επισκέπ</desc>
@@ -136119,12 +136743,6 @@
   <programme start="20260824201500 GMT+3" stop="20260824211500 GMT+3" channel="54184415">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
     <desc lang="el">10/09/24</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824211500 GMT+3" stop="20260824221500 GMT+3" channel="54184415">
-    <title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; (E)</title>
-    <desc lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -136590,27 +137208,111 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824000000 GMT+3" stop="20260824060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260824014500 GMT+3" stop="20260824030000 GMT+3" channel="561178">
+    <title lang="el">ΖΗΝΑ Η ΠΡΙΓΚΙΠΙΣΣΑ ΤΟΥ ΠΟΛΕΜΟΥ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260824030000 GMT+3" stop="20260824050000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824060000 GMT+3" stop="20260824120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260824050000 GMT+3" stop="20260824060000 GMT+3" channel="561178">
+    <title lang="el">ΥΠΑΣΤΥΝΟΜΟΣ ΡΕΞ</title>
+    <desc lang="el">ΑΣΤΥΝΟΜΙΗ ΣΕΙΡΑ με τον ΠΗΤΕΡ ΧΑΤΖΕΚ και τον Σκύλο του</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824120000 GMT+3" stop="20260824180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260824060000 GMT+3" stop="20260824063000 GMT+3" channel="561178">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824180000 GMT+3" stop="20260825000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
+  <programme start="20260824063000 GMT+3" stop="20260824070000 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824070000 GMT+3" stop="20260824110000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824110000 GMT+3" stop="20260824123000 GMT+3" channel="561178">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824123000 GMT+3" stop="20260824130000 GMT+3" channel="561178">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824130000 GMT+3" stop="20260824143000 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824143000 GMT+3" stop="20260824160000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824160000 GMT+3" stop="20260824173000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΙΣΤΟΣ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824173000 GMT+3" stop="20260824180000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824180000 GMT+3" stop="20260824190000 GMT+3" channel="561178">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824190000 GMT+3" stop="20260824210000 GMT+3" channel="561178">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824210000 GMT+3" stop="20260824210500 GMT+3" channel="561178">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824210500 GMT+3" stop="20260824224500 GMT+3" channel="561178">
+    <title lang="el">KARA SEVDA</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824224500 GMT+3" stop="20260824231500 GMT+3" channel="561178">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824231500 GMT+3" stop="20260825014500 GMT+3" channel="561178">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -136998,13 +137700,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824010000 GMT+3" stop="20260824020000 GMT+3" channel="289542">
+  <programme start="20260824010000 GMT+3" stop="20260824021500 GMT+3" channel="289542">
     <title lang="el">The Road Show II (E)</title>
     <desc lang="el">The Road Show II (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824020000 GMT+3" stop="20260824034000 GMT+3" channel="289542">
+  <programme start="20260824021500 GMT+3" stop="20260824034000 GMT+3" channel="289542">
     <title lang="el">ΠΕΦΤΕΙ Η ΝΥΧΤΑ με... ΡΥΘΜΟ (E)</title>
     <desc lang="el">ΜΟΥΣΙΚΟ ΠΡΟΓΡΑΜΜΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -137088,12 +137790,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824150000 GMT+3" stop="20260824160000 GMT+3" channel="289542">
-    <title lang="el">ΦΙΛΑ ΤΟΝ ΒΑΤΡΑΧΟ ΣΟΥ (E)</title>
-    <desc lang="el">Ο Στέφανος είναι ένας ανερχόμενος πολιτικός και ετοιμάζεται να παντρευτεί μια γυναίκα που μπορεί να του εξασφαλίσει την πολιτική του ανέλιξη. Η Όλγα είναι καμαριέρα και μεγαλώνει μόνη τον 8χρονο γιο της. Στην πρώτη τους συνάντηση, ένα παιχνίδι της τύχης την κάνει να μοιάζει σαν να βγήκε από παραμύθι, μέσα στη δανεική τουαλέτα της. Δύο εντελώς διαφορετικοί κόσμοι συναντιούνται...</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260824160000 GMT+3" stop="20260824170000 GMT+3" channel="289542">
     <title lang="el">ΣΟΥΠΕΡ ΗΡΩΕΣ (E) ΕΠ16</title>
     <desc lang="el">Με αφορμή το πρόσφατο εργατικό ατύχημα στο μανάβικο, ο Δημήτρης αποφασίζει ότι πρέπει να εκπαιδεύσει δύο υπαλλήλους ως υπεύθυνους πρώτων βοηθειών. Και οι δύο τυχεροί είναι... ο Αντώνης και η Ρένα. Στα τυριά, η κυρία Βάσω, η μάνα του Περικλή, επισκέπ</desc>
@@ -137127,12 +137823,6 @@
   <programme start="20260824201500 GMT+3" stop="20260824211500 GMT+3" channel="289542">
     <title lang="el">ΤΑ ΝΕΑ ΤΟΥ ΑΝΤΕΝΝΑ</title>
     <desc lang="el">10/09/24</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824211500 GMT+3" stop="20260824221500 GMT+3" channel="289542">
-    <title lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; (E)</title>
-    <desc lang="el">ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ; (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -150799,7 +151489,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260824093000 GMT+3" stop="20260824100000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -150871,7 +151561,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260824173000 GMT+3" stop="20260824180000 GMT+3" channel="211368">
-    <title lang="el">Talk to Al Jazeera</title>
+    <title lang="el">Talk to Al Jazeera Κ2</title>
     <desc lang="el">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
@@ -151929,6 +152619,30 @@
   <programme start="20260824220000 GMT+3" stop="20260825000000 GMT+3" channel="94430673">
     <title lang="el">Newcastle v Liverpool: The Match</title>
     <desc lang="el">All the action as Liverpool take on Newcastle.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824030000 GMT+3" stop="20260824090000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824090000 GMT+3" stop="20260824150000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824150000 GMT+3" stop="20260824210000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260824210000 GMT+3" stop="20260825030000 GMT+3" channel="12254006">
+    <title lang="el">This is MUTV</title>
+    <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
