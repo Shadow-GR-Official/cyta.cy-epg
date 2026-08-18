@@ -10949,12 +10949,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260817235900 GMT+3" stop="20260818010000 GMT+3" channel="9744258">
-    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ1</title>
-    <desc lang="el">Sung heads to the UK, home to some of the world&apos;s most iconic car brands like Land Rover, Rolls Royce, and Jaguar. It&apos;s a land rich in history, but as Sung explores the car culture&apos;s grass roots, he finds the people who make it so memorable.</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260817000000 GMT+3" stop="20260817003000 GMT+3" channel="216382">
     <title lang="el">Designers</title>
     <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
@@ -58182,7 +58176,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819030000 GMT+3" stop="20260819060000 GMT+3" channel="12254006">
+  <programme start="20260819030000 GMT+3" stop="20260819090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
     <category lang="el">Αθλητικά</category>
