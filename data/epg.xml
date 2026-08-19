@@ -21968,7 +21968,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819123000 GMT+3" stop="20260819130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -21992,8 +21992,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260819173000 GMT+3" stop="20260819180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -28882,7 +28882,7 @@
   </programme>
   <programme start="20260819070000 GMT+3" stop="20260819075000 GMT+3" channel="38335714">
     <title lang="el">Έρχεται η οικογένεια Έργουιν! Κ1 ΕΠ7</title>
-    <desc lang="el">Επικρατεί μεγάλος ενθουσιασμός στο Australia Zoo: Η καμηλοπάρδαλη Ρόζι ετοιμάζεται να γεννήσει! Ο Ρόμπερτ έχει μια αιματηρή συνάντηση με έναν άγριο πύθωνα που μπήκε σε έναν χώρο του ζωολογικού κήπου. (2018)</desc>
+    <desc lang="el">Ενθουσιασμός στον Ζωολογικό Κήπο της Αυστραλίας: η καμηλοπάρδαλη Ρόζι ετοιμάζεται να γεννήσει! Ο Ρόμπερτ έχει μια αιματηρή συνάντηση με έναν άγριο πύθωνα που μπήκε σε ένα κλουβί. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -28960,7 +28960,7 @@
   </programme>
   <programme start="20260819180000 GMT+3" stop="20260819190000 GMT+3" channel="38335714">
     <title lang="el">Έρχεται η οικογένεια Έργουιν! Κ1 ΕΠ7</title>
-    <desc lang="el">Επικρατεί μεγάλος ενθουσιασμός στο Australia Zoo: Η καμηλοπάρδαλη Ρόζι ετοιμάζεται να γεννήσει! Ο Ρόμπερτ έχει μια αιματηρή συνάντηση με έναν άγριο πύθωνα που μπήκε σε έναν χώρο του ζωολογικού κήπου. (2018)</desc>
+    <desc lang="el">Ενθουσιασμός στον Ζωολογικό Κήπο της Αυστραλίας: η καμηλοπάρδαλη Ρόζι ετοιμάζεται να γεννήσει! Ο Ρόμπερτ έχει μια αιματηρή συνάντηση με έναν άγριο πύθωνα που μπήκε σε ένα κλουβί. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -38380,7 +38380,7 @@
   </programme>
   <programme start="20260819005600 GMT+3" stop="20260819030000 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
-    <desc lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</desc>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -38408,57 +38408,75 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819071500 GMT+3" stop="20260819092500 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 26/27.</title>
-    <desc lang="el">Pre-season 26/27.</desc>
+  <programme start="20260819071500 GMT+3" stop="20260819092600 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27.</title>
+    <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819092500 GMT+3" stop="20260819103000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme start="20260819092600 GMT+3" stop="20260819103000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819103000 GMT+3" stop="20260819140000 GMT+3" channel="97085851">
+  <programme start="20260819103000 GMT+3" stop="20260819140200 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid vs Sevilla 2016</title>
     <desc lang="el">It&apos;s the Champions League winners versus the Europa League winners and as Real Madrid go head to head with Sevilla.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819140000 GMT+3" stop="20260819161000 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 2026/27</title>
+  <programme start="20260819140200 GMT+3" stop="20260819161100 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27.</title>
     <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819161000 GMT+3" stop="20260819163000 GMT+3" channel="97085851">
+  <programme start="20260819161100 GMT+3" stop="20260819163100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819163000 GMT+3" stop="20260819183000 GMT+3" channel="97085851">
+  <programme start="20260819163100 GMT+3" stop="20260819183000 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Ferencvaros vs Real Madrid</title>
     <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819183000 GMT+3" stop="20260819213000 GMT+3" channel="97085851">
+  <programme start="20260819183000 GMT+3" stop="20260819213100 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819213000 GMT+3" stop="20260819214500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260819213100 GMT+3" stop="20260819214100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260819214500 GMT+3" stop="20260820000000 GMT+3" channel="97085851">
-    <title lang="el">Pre-season 2026/27.</title>
-    <desc lang="el">Pre-season 2026/27.</desc>
+  <programme start="20260819214100 GMT+3" stop="20260819214600 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819214600 GMT+3" stop="20260819234500 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819234500 GMT+3" stop="20260819235900 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260819235900 GMT+3" stop="20260820010100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -39071,12 +39089,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260819180000 GMT+3" stop="20260819220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260819220000 GMT+3" stop="20260820060000 GMT+3" channel="52027399">
+  <programme start="20260819180000 GMT+3" stop="20260820000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -41594,7 +41607,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260820123000 GMT+3" stop="20260820130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -41618,8 +41631,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260820173000 GMT+3" stop="20260820180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -49821,7 +49834,7 @@
   </programme>
   <programme start="20260820220000 GMT+3" stop="20260820225000 GMT+3" channel="218874">
     <title lang="el">Η Μπέιλιν αποκαλύπτει Κ3 ΕΠ11</title>
-    <desc lang="el">Η Μπέιλιν Ντιπρί είναι μια νέα γυναίκα που πάσχει από το σύνδρομο Τουρέτ. Παρά τις καθημερινές δυσκολίες, έχει αποδεχθεί το χάος που την περιβάλλει. (2025)</desc>
+    <desc lang="el">Η Μπέιλιν δεν παίρνει τα φάρμακά της και υφίσταται τις συνέπειες στο Μερτλ Μπιτς. Ακόμα, μιλά με γιατρό για να διαπιστωθεί αν πάσχει από ενδομητρίωση. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -58081,50 +58094,38 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820000000 GMT+3" stop="20260820010000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260820010000 GMT+3" stop="20260820030000 GMT+3" channel="97085851">
+  <programme start="20260820010100 GMT+3" stop="20260820030100 GMT+3" channel="97085851">
     <title lang="el">Classics Matches Liga 11/12:</title>
     <desc lang="el">Real Madrid face Athletic Club at San Mames during their title-winning campaign.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820030000 GMT+3" stop="20260820031500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260820030100 GMT+3" stop="20260820031600 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820031500 GMT+3" stop="20260820055500 GMT+3" channel="97085851">
+  <programme start="20260820031600 GMT+3" stop="20260820055700 GMT+3" channel="97085851">
     <title lang="el">Champions League 2023/2024:</title>
     <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820055500 GMT+3" stop="20260820070000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+  <programme start="20260820055700 GMT+3" stop="20260820070200 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820070000 GMT+3" stop="20260820071500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+  <programme start="20260820070200 GMT+3" stop="20260820071600 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid</title>
+    <desc lang="el">Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260820071500 GMT+3" stop="20260820090000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 2021/2022.</title>
-    <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260820090000 GMT+3" stop="20260820101000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 2021/2022.</title>
+  <programme start="20260820071600 GMT+3" stop="20260820101000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -58155,7 +58156,7 @@
   </programme>
   <programme start="20260820144500 GMT+3" stop="20260820170000 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
-    <desc lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</desc>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -58788,6 +58789,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260820000000 GMT+3" stop="20260820060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260820060000 GMT+3" stop="20260820120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -58798,12 +58804,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260820180000 GMT+3" stop="20260820220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260820220000 GMT+3" stop="20260821060000 GMT+3" channel="52027399">
+  <programme start="20260820180000 GMT+3" stop="20260821000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -61303,7 +61304,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260821123000 GMT+3" stop="20260821130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -61327,8 +61328,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260821173000 GMT+3" stop="20260821180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -69416,7 +69417,7 @@
   </programme>
   <programme start="20260821020000 GMT+3" stop="20260821024500 GMT+3" channel="218874">
     <title lang="el">Η Μπέιλιν αποκαλύπτει Κ3 ΕΠ11</title>
-    <desc lang="el">Η Μπέιλιν Ντιπρί είναι μια νέα γυναίκα που πάσχει από το σύνδρομο Τουρέτ. Παρά τις καθημερινές δυσκολίες, έχει αποδεχθεί το χάος που την περιβάλλει. (2025)</desc>
+    <desc lang="el">Η Μπέιλιν δεν παίρνει τα φάρμακά της και υφίσταται τις συνέπειες στο Μερτλ Μπιτς. Ακόμα, μιλά με γιατρό για να διαπιστωθεί αν πάσχει από ενδομητρίωση. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -76584,27 +76585,27 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821180000 GMT+3" stop="20260821203000 GMT+3" channel="604956">
-    <title lang="el">APOLLON LADIES - CZARNI (POL) 5/8/26</title>
-    <desc lang="el">UEFA WOMEN&apos;S CHAMPIONS LEAGUE 2026-27</desc>
+  <programme start="20260821180000 GMT+3" stop="20260821190000 GMT+3" channel="604956">
+    <title lang="el">BRITISH GRAND PRIX Highlights (52) 14/8/26</title>
+    <desc lang="el">2026 MOTO GP</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821203000 GMT+3" stop="20260821210000 GMT+3" channel="604956">
-    <title lang="el">AFRICA ECO RACE 2026 DOCUMENTARY EP.1</title>
-    <desc lang="el">AFRICA ECO RACE 2026 DOCUMENTARY</desc>
+  <programme start="20260821190000 GMT+3" stop="20260821193000 GMT+3" channel="604956">
+    <title lang="el">PRE - GAME ΑΕΚ - ΟΜΟΝΟΙΑ 29ης ΜΑΙΟΥ (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821210000 GMT+3" stop="20260821233000 GMT+3" channel="604956">
+  <programme start="20260821193000 GMT+3" stop="20260821213000 GMT+3" channel="604956">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ 29ης ΜΑΙΟΥ (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821213000 GMT+3" stop="20260822000000 GMT+3" channel="604956">
     <title lang="el">APOLLON - BRANN 11/8/26</title>
     <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821233000 GMT+3" stop="20260822000000 GMT+3" channel="604956">
-    <title lang="el">THE ICONIC S1 EP.5</title>
-    <desc lang="el">THE ICONIC</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77820,9 +77821,75 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821071500 GMT+3" stop="20260822060000 GMT+3" channel="97085851">
+  <programme start="20260821071500 GMT+3" stop="20260821090000 GMT+3" channel="97085851">
     <title lang="el">Classics Matches Liga 19/20: Real Madrid vs Villarreal</title>
     <desc lang="el">Real Madrid clinched a record 34th La Liga title at home to Villarreal.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821090000 GMT+3" stop="20260821093000 GMT+3" channel="97085851">
+    <title lang="el">Classics Matches Liga 19/20: Real Madrid vs Villarreal</title>
+    <desc lang="el">Real Madrid clinched a record 34th La Liga title at home to Villarreal.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821093000 GMT+3" stop="20260821110000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821110000 GMT+3" stop="20260821133000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid City</title>
+    <desc lang="el">We bring you a full preview of Real Madrid´s first team activities ahead of each match in all competitions.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821133000 GMT+3" stop="20260821141000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821141000 GMT+3" stop="20260821162500 GMT+3" channel="97085851">
+    <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
+    <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821162500 GMT+3" stop="20260821190000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24</title>
+    <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821190000 GMT+3" stop="20260821220000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 21/22: Real Madrid vs Manchester City</title>
+    <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821220000 GMT+3" stop="20260821221500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821221500 GMT+3" stop="20260821230000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821230000 GMT+3" stop="20260821233000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821233000 GMT+3" stop="20260822000000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -78374,7 +78441,7 @@
   </programme>
   <programme start="20260821163000 GMT+3" stop="20260821183000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 167 (Ζ)</title>
-    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
+    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Θ. Σολούκος Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
@@ -78479,6 +78546,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260821000000 GMT+3" stop="20260821060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260821060000 GMT+3" stop="20260821120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -78489,12 +78561,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260821180000 GMT+3" stop="20260821220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821220000 GMT+3" stop="20260822060000 GMT+3" channel="52027399">
+  <programme start="20260821180000 GMT+3" stop="20260822000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -78839,27 +78906,27 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821180000 GMT+3" stop="20260821203000 GMT+3" channel="52101919">
-    <title lang="el">APOLLON LADIES - CZARNI (POL) 5/8/26</title>
-    <desc lang="el">UEFA WOMEN&apos;S CHAMPIONS LEAGUE 2026-27</desc>
+  <programme start="20260821180000 GMT+3" stop="20260821190000 GMT+3" channel="52101919">
+    <title lang="el">BRITISH GRAND PRIX Highlights (52) 14/8/26</title>
+    <desc lang="el">2026 MOTO GP</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821203000 GMT+3" stop="20260821210000 GMT+3" channel="52101919">
-    <title lang="el">AFRICA ECO RACE 2026 DOCUMENTARY EP.1</title>
-    <desc lang="el">AFRICA ECO RACE 2026 DOCUMENTARY</desc>
+  <programme start="20260821190000 GMT+3" stop="20260821193000 GMT+3" channel="52101919">
+    <title lang="el">PRE - GAME ΑΕΚ - ΟΜΟΝΟΙΑ 29ης ΜΑΙΟΥ (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260821210000 GMT+3" stop="20260821233000 GMT+3" channel="52101919">
+  <programme start="20260821193000 GMT+3" stop="20260821213000 GMT+3" channel="52101919">
+    <title lang="el">ΑΕΚ - ΟΜΟΝΟΙΑ 29ης ΜΑΙΟΥ (Z)</title>
+    <desc lang="el">ΦΙΛΙΚΟΣ ΑΓΩΝΑΣ 2026</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260821213000 GMT+3" stop="20260822000000 GMT+3" channel="52101919">
     <title lang="el">APOLLON - BRANN 11/8/26</title>
     <desc lang="el">UEFA CONFERENCE LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260821233000 GMT+3" stop="20260822000000 GMT+3" channel="52101919">
-    <title lang="el">THE ICONIC S1 EP.5</title>
-    <desc lang="el">THE ICONIC</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -80772,7 +80839,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260822123000 GMT+3" stop="20260822130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -80796,8 +80863,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260822173000 GMT+3" stop="20260822180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -97762,6 +97829,42 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260822000000 GMT+3" stop="20260822010000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822010000 GMT+3" stop="20260822031000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 17/18: Real Madrid v Borussia Dortmund</title>
+    <desc lang="el">Enjoy this five-goal thriller from the Champions League group \n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822031000 GMT+3" stop="20260822032500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822032500 GMT+3" stop="20260822070000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup Real Madrid vs Sevilla 2016</title>
+    <desc lang="el">It&apos;s the Champions League winners versus the Europa League winners and as Real Madrid go head to head with Sevilla.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822070000 GMT+3" stop="20260822071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260822071500 GMT+3" stop="20260823060000 GMT+3" channel="97085851">
+    <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
+    <desc lang="el">Real Madrid Pre-season 26/27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260822030000 GMT+3" stop="20260822090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -98448,6 +98551,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260822000000 GMT+3" stop="20260822060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260822060000 GMT+3" stop="20260822120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -98458,12 +98566,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260822180000 GMT+3" stop="20260822220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260822220000 GMT+3" stop="20260823060000 GMT+3" channel="52027399">
+  <programme start="20260822180000 GMT+3" stop="20260823000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -100771,7 +100874,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260823123000 GMT+3" stop="20260823130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -100795,8 +100898,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260823173000 GMT+3" stop="20260823180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -108847,7 +108950,7 @@
   </programme>
   <programme start="20260823220000 GMT+3" stop="20260823234000 GMT+3" channel="218874">
     <title lang="el">90 ημέρες πριν τον γάμο Κ12 ΕΠ14</title>
-    <desc lang="el">Έχοντας μία μοναδική βίζα, τα ζευγάρια αρχίζουν ένα ταξίδι 90 ημερών. Οι ξένοι σύντροφοί τους φτάνουν στις ΗΠΑ και έχουν 90 ημέρες για να παντρευτούν ή να φύγουν από τη χώρα. (2025)</desc>
+    <desc lang="el">Η Κέιτι ρίχνει βόμβα στον Τζος. Έρχεται η οικογένεια της Πόλα από τη Βραζιλία. Συζήτηση με την Άσια. Το ραντεβού των Έντουαρντ και Μαρίσα αποτυγχάνει. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -118269,18 +118372,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823000000 GMT+3" stop="20260823023500 GMT+3" channel="46137467">
+  <programme start="20260823000000 GMT+3" stop="20260823023000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260823023500 GMT+3" stop="20260823043500 GMT+3" channel="46137467">
+  <programme start="20260823023000 GMT+3" stop="20260823043000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 1000 2026 (Ζ)</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Cincinnati Open της σειράς WTA 1000, που διεξάγεται το διάστημα 13-23 Αυγούστου στο Σινσινάτι των ΗΠΑ. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260823043500 GMT+3" stop="20260823060000 GMT+3" channel="46137467">
+  <programme start="20260823043000 GMT+3" stop="20260823060000 GMT+3" channel="46137467">
     <title lang="el">Novasports6HD</title>
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
@@ -118346,6 +118449,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260823000000 GMT+3" stop="20260823060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260823060000 GMT+3" stop="20260823120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -118356,12 +118464,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260823180000 GMT+3" stop="20260823220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260823220000 GMT+3" stop="20260824060000 GMT+3" channel="52027399">
+  <programme start="20260823180000 GMT+3" stop="20260824000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -120543,7 +120646,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260824123000 GMT+3" stop="20260824130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -120567,8 +120670,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260824173000 GMT+3" stop="20260824180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -128230,7 +128333,7 @@
   </programme>
   <programme start="20260824020000 GMT+3" stop="20260824033000 GMT+3" channel="218874">
     <title lang="el">90 ημέρες πριν τον γάμο Κ12 ΕΠ14</title>
-    <desc lang="el">Έχοντας μία μοναδική βίζα, τα ζευγάρια αρχίζουν ένα ταξίδι 90 ημερών. Οι ξένοι σύντροφοί τους φτάνουν στις ΗΠΑ και έχουν 90 ημέρες για να παντρευτούν ή να φύγουν από τη χώρα. (2025)</desc>
+    <desc lang="el">Η Κέιτι ρίχνει βόμβα στον Τζος. Έρχεται η οικογένεια της Πόλα από τη Βραζιλία. Συζήτηση με την Άσια. Το ραντεβού των Έντουαρντ και Μαρίσα αποτυγχάνει. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
@@ -135626,30 +135729,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260824000000 GMT+3" stop="20260824060000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824060000 GMT+3" stop="20260824120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824120000 GMT+3" stop="20260824180000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824180000 GMT+3" stop="20260825000000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260824003000 GMT+3" stop="20260824060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -137108,6 +137187,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260824000000 GMT+3" stop="20260824060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260824060000 GMT+3" stop="20260824120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -137118,12 +137202,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260824180000 GMT+3" stop="20260824220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824220000 GMT+3" stop="20260825060000 GMT+3" channel="52027399">
+  <programme start="20260824180000 GMT+3" stop="20260825000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
@@ -137717,30 +137796,6 @@
   <programme start="20260824180000 GMT+3" stop="20260825000000 GMT+3" channel="52103947">
     <title lang="el">MOTORVISION</title>
     <desc lang="el">MOTORVISION</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824000000 GMT+3" stop="20260824060000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824060000 GMT+3" stop="20260824120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824120000 GMT+3" stop="20260824180000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260824180000 GMT+3" stop="20260825000000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -139305,7 +139360,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260825123000 GMT+3" stop="20260825130000 GMT+3" channel="561178">
-    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
     <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -139329,8 +139384,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260825173000 GMT+3" stop="20260825180000 GMT+3" channel="561178">
-    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
-    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+    <title lang="el">ΤΗΛΕΠΩΛΗΣΗΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -155602,6 +155657,11 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
+  <programme start="20260825000000 GMT+3" stop="20260825060000 GMT+3" channel="52027399">
+    <title lang="el">Novasportsextra2HD</title>
+    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
+    <rating>K</rating>
+  </programme>
   <programme start="20260825060000 GMT+3" stop="20260825120000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
@@ -155612,12 +155672,7 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260825180000 GMT+3" stop="20260825220000 GMT+3" channel="52027399">
-    <title lang="el">Novasportsextra2HD</title>
-    <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260825220000 GMT+3" stop="20260826060000 GMT+3" channel="52027399">
+  <programme start="20260825180000 GMT+3" stop="20260826000000 GMT+3" channel="52027399">
     <title lang="el">Novasportsextra2HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
