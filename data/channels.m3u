@@ -9,7 +9,7 @@ http://127.0.0.1/608096
 http://127.0.0.1/54111184
 #EXTINF:-1 tvg-id="54184415" tvg-name="ANT1 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/61/202402260722162272cs.png",ANT1 HD
 http://127.0.0.1/54184415
-#EXTINF:-1 tvg-id="289530" tvg-name="SIGMA TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260618/48/08543464384947a1e4f2.jpg",SIGMA TV
+#EXTINF:-1 tvg-id="289530" tvg-name="SIGMA TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202607/20260730/6/05392629020947a1e4f2.jpg",SIGMA TV
 http://127.0.0.1/289530
 #EXTINF:-1 tvg-id="39337317" tvg-name="Alpha Cyprus HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/42/20240226071850337gjl.png",Alpha Cyprus HD
 http://127.0.0.1/39337317
@@ -17,7 +17,7 @@ http://127.0.0.1/39337317
 http://127.0.0.1/289568
 #EXTINF:-1 tvg-id="561166" tvg-name="Capital TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202604/20260407/68/08372620644147a1e4f2.jpg",Capital TV
 http://127.0.0.1/561166
-#EXTINF:-1 tvg-id="561178" tvg-name="Extra" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260618/98/08532958984847a1e4f2.png",Extra
+#EXTINF:-1 tvg-id="561178" tvg-name="Extra" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202607/20260729/99/12275462967547a1e4f2.png",Extra
 http://127.0.0.1/561178
 #EXTINF:-1 tvg-id="574264" tvg-name="ERT Cosmos" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202605/20260507/78/09585120253547a1e4f2.jpg",ERT Cosmos
 http://127.0.0.1/574264
@@ -33,7 +33,7 @@ http://127.0.0.1/289555
 http://127.0.0.1/289542
 #EXTINF:-1 tvg-id="289607" tvg-name="Alpha Cyprus" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/95/20240226071915856r5k.png",Alpha Cyprus
 http://127.0.0.1/289607
-#EXTINF:-1 tvg-id="114064159" tvg-name="SIGMA HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202606/20260624/23/05580943609147a134f0.png",SIGMA HD
+#EXTINF:-1 tvg-id="114064159" tvg-name="SIGMA HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202607/20260729/29/12270622767447a1e4f2.jpg",SIGMA HD
 http://127.0.0.1/114064159
 #EXTINF:-1 tvg-id="2743" tvg-name="Baby TV" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/79/20240226072416290fgl.png",Baby TV
 http://127.0.0.1/2743
