@@ -66991,12 +66991,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260828000000 GMT+3" stop="20260828004000 GMT+3" channel="216595">
-    <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ16</title>
-    <desc lang="el">Ο Levi γίνεται δεκτός στις δοκιμές για το εμβόλιο. Η Amelia και ο Owen φροντίζουν ένα θύμα αυτοκινητιστικού και οι Hayes και Jo συναντούν τον κηδεμόνα της Luna. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
   <programme start="20260827000000 GMT+3" stop="20260827004500 GMT+3" channel="2755">
     <title lang="el">9-1-1 9 Κ9 ΕΠ17</title>
     <desc lang="el">Η Μάντι μαθαίνει να βρίσκει τις ισορροπίες στις επαγγελματικές της σχέσεις. Πρωταγωνιστούν: Angela Bassett,Jennifer Love Hewitt,Oliver Stark,Kenneth Choi,Aisha Hinds,Ryan Guzman,Gavin McHugh. (2025)</desc>
@@ -77497,15 +77491,21 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260827150000 GMT+3" stop="20260827163000 GMT+3" channel="94430673">
-    <title lang="el">Robbo: My Liverpool</title>
-    <desc lang="el">A brand-new exclusive LFC Original documentary paying tribute to Andy Robertson and his remarkable nine-year journey at Liverpool.</desc>
+  <programme start="20260827150000 GMT+3" stop="20260827151500 GMT+3" channel="94430673">
+    <title lang="el">A Day With Rio Ngumoha</title>
+    <desc lang="el">Rio Ngumoha is joined by Susannah Fuller in Chicago to discuss life as a young footballer for Liverpool, including his breakthrough into the senior setup with club and country.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260827163000 GMT+3" stop="20260827173000 GMT+3" channel="94430673">
-    <title lang="el">Liverpool&apos;s Sound</title>
-    <desc lang="el">Kop Chants and their Origins - We explore the history of Liverpool&apos;s unique and unrivalled songbook in an exclusive documentary.</desc>
+  <programme start="20260827151500 GMT+3" stop="20260827161500 GMT+3" channel="94430673">
+    <title lang="el">Live: The Premier League Preview Show</title>
+    <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Chelsea.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260827161500 GMT+3" stop="20260827173000 GMT+3" channel="94430673">
+    <title lang="el">Flags and Banners: The Art of LFC</title>
+    <desc lang="el">An exclusive documentary which delves into the history and culture of the club&apos;s flags and banners.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77545,15 +77545,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260827200000 GMT+3" stop="20260827204500 GMT+3" channel="94430673">
-    <title lang="el">Captains</title>
-    <desc lang="el">An exclusive LFC Original bringing together Graeme Souness Steven Gerrard and Virgil van Dijk to discuss the art of leading Liverpool FC.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260827204500 GMT+3" stop="20260827210000 GMT+3" channel="94430673">
-    <title lang="el">Liverpool U18 v Brighton: Shortcut</title>
-    <desc lang="el">The best of the action as Liverpool U18 take on Brighton in the Premier League Cup.</desc>
+  <programme start="20260827200000 GMT+3" stop="20260827210000 GMT+3" channel="94430673">
+    <title lang="el">The Premier League Preview Show</title>
+    <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Bournemouth.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77974,7 +77968,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260827220000 GMT+3" stop="20260827230000 GMT+3" channel="46137848">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -80105,6 +80099,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260828032000 GMT+3" stop="20260828041000 GMT+3" channel="54184415">
+    <title lang="el">ΕΚΤΟΣ ΥΠΗΡΕΣΙΑΣ (E)</title>
+    <desc lang="el">Ο Κάβουρας είναι ένα νησί με μηδενική εγκληματικότητα, όπου όλοι ζουν αγαπημένοι και οι πόρτες μένουν ξεκλείδωτες. Όταν, όμως, αποφασίζεται το κλείσιμο του τοπικού Αστυνομικού Τμήματος, οι τρεις αστυνομικοί του απελπίζονται. Για να κρατήσουν τις θέσεις τους, αποφασίζουν να... δημιουργήσουν εγκλήματα! Σύντομα, όμως, η ιδέα τους ξυπνά την παλιά έχθρα ανάμεσα στα δύο χωριά του νησιού και η κατάσταση ξεφεύγει από τον έλεγχό τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260828041000 GMT+3" stop="20260828044000 GMT+3" channel="54184415">
     <title lang="el">ΟΙ ΧΩΡΑΪΤΕΣ II (E)</title>
     <desc lang="el">Ο ένας είναι που χωρκό, ο άλλος που την πόλη, μα Χωραΐτες είμαστε, εγιώ τζιαι ‘σύ τζιαι όλοι. Οι ευτράπελες περιπέτειες από την καθημερινότητα στην πρωτεύουσα.</desc>
@@ -81514,6 +81514,12 @@
     <desc lang="el">The 2NIGHT Show X (E)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260828032000 GMT+3" stop="20260828041000 GMT+3" channel="289542">
+    <title lang="el">ΕΚΤΟΣ ΥΠΗΡΕΣΙΑΣ (E)</title>
+    <desc lang="el">Ο Κάβουρας είναι ένα νησί με μηδενική εγκληματικότητα, όπου όλοι ζουν αγαπημένοι και οι πόρτες μένουν ξεκλείδωτες. Όταν, όμως, αποφασίζεται το κλείσιμο του τοπικού Αστυνομικού Τμήματος, οι τρεις αστυνομικοί του απελπίζονται. Για να κρατήσουν τις θέσεις τους, αποφασίζουν να... δημιουργήσουν εγκλήματα! Σύντομα, όμως, η ιδέα τους ξυπνά την παλιά έχθρα ανάμεσα στα δύο χωριά του νησιού και η κατάσταση ξεφεύγει από τον έλεγχό τους.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260828041000 GMT+3" stop="20260828044000 GMT+3" channel="289542">
     <title lang="el">ΟΙ ΧΩΡΑΪΤΕΣ II (E)</title>
@@ -86489,6 +86495,12 @@
     <desc lang="el">Ύστερα από αίτημα των Γκραντ, η Έλεν υποβάλλεται σε μια δοκιμασία για να αποδείξει ότι είναι άξια να παντρευτεί και να ενταχθεί στη φατρία. Δραματική, 2025. Σκηνοθεσία: Αζούρ Σαλίμ. Πρωταγωνιστές: Τζέιμι Ρόι, Χάριετ Σλέιτερ, Τζέρεμι Ιρβαϊν, Ερμάιονι Κόρφιλντ.</desc>
     <category lang="el">Σειρές</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260828000000 GMT+3" stop="20260828004000 GMT+3" channel="216595">
+    <title lang="el">Grey&apos;s Anatomy Κ17 ΕΠ16</title>
+    <desc lang="el">Ο Levi γίνεται δεκτός στις δοκιμές για το εμβόλιο. Η Amelia και ο Owen φροντίζουν ένα θύμα αυτοκινητιστικού και οι Hayes και Jo συναντούν τον κηδεμόνα της Luna. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,Justin Chambers,James Pickens Jr,Kevin McKidd,Jesse Williams. (2020)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260828004000 GMT+3" stop="20260828012500 GMT+3" channel="216595">
     <title lang="el">Wild Cards 2 Κ2 ΕΠ8</title>
@@ -96540,9 +96552,87 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828050000 GMT+3" stop="20260828060000 GMT+3" channel="24745114">
+  <programme start="20260828050000 GMT+3" stop="20260828070000 GMT+3" channel="24745114">
     <title lang="el">Angers - Lille 23/8/26 (E)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828070000 GMT+3" stop="20260828090000 GMT+3" channel="24745114">
+    <title lang="el">Troyes - Paris FC 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828090000 GMT+3" stop="20260828103000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828103000 GMT+3" stop="20260828113000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828113000 GMT+3" stop="20260828133000 GMT+3" channel="24745114">
+    <title lang="el">PSV Eindhoven - FC Groningen 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828133000 GMT+3" stop="20260828153000 GMT+3" channel="24745114">
+    <title lang="el">Reims - Annecy 24/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828153000 GMT+3" stop="20260828173000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828173000 GMT+3" stop="20260828193000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828193000 GMT+3" stop="20260828200000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828200000 GMT+3" stop="20260828203000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828203000 GMT+3" stop="20260828210000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828210000 GMT+3" stop="20260828213000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828213000 GMT+3" stop="20260828220000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828220000 GMT+3" stop="20260829000000 GMT+3" channel="24745114">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96570,8 +96660,80 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828050000 GMT+3" stop="20260828060000 GMT+3" channel="24746908">
+  <programme start="20260828050000 GMT+3" stop="20260828070000 GMT+3" channel="24746908">
     <title lang="el">Paris Saint-Germain - Rennes 23/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828070000 GMT+3" stop="20260828073000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828073000 GMT+3" stop="20260828093000 GMT+3" channel="24746908">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828093000 GMT+3" stop="20260828113000 GMT+3" channel="24746908">
+    <title lang="el">Nice - Lorient 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828113000 GMT+3" stop="20260828133000 GMT+3" channel="24746908">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828133000 GMT+3" stop="20260828153000 GMT+3" channel="24746908">
+    <title lang="el">Toulouse - Lyon 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828153000 GMT+3" stop="20260828173000 GMT+3" channel="24746908">
+    <title lang="el">ΑΠΟΕΛ - ΑΕΚ 3/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828173000 GMT+3" stop="20260828193000 GMT+3" channel="24746908">
+    <title lang="el">Rennes - Paris Saint-Germain 23/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828193000 GMT+3" stop="20260828200000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828200000 GMT+3" stop="20260828203000 GMT+3" channel="24746908">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828203000 GMT+3" stop="20260828210000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2026-27 # 01 24/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828210000 GMT+3" stop="20260828214500 GMT+3" channel="24746908">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828214500 GMT+3" stop="20260829000000 GMT+3" channel="24746908">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -96588,9 +96750,99 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828040000 GMT+3" stop="20260828060000 GMT+3" channel="53005467">
+  <programme start="20260828040000 GMT+3" stop="20260828070000 GMT+3" channel="53005467">
     <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
     <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828070000 GMT+3" stop="20260828100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828100000 GMT+3" stop="20260828103000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828103000 GMT+3" stop="20260828123000 GMT+3" channel="53005467">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828123000 GMT+3" stop="20260828130000 GMT+3" channel="53005467">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828130000 GMT+3" stop="20260828150000 GMT+3" channel="53005467">
+    <title lang="el">Nice - Lorient 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828150000 GMT+3" stop="20260828153000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828153000 GMT+3" stop="20260828170000 GMT+3" channel="53005467">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828170000 GMT+3" stop="20260828173000 GMT+3" channel="53005467">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828173000 GMT+3" stop="20260828180000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 09 Κεντρικοί Μέσοι (E)</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828180000 GMT+3" stop="20260828183000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828183000 GMT+3" stop="20260828190000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828190000 GMT+3" stop="20260828200000 GMT+3" channel="53005467">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 02 Fast Start (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828200000 GMT+3" stop="20260828220000 GMT+3" channel="53005467">
+    <title lang="el">Barcelona - Joventut Badalona 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828220000 GMT+3" stop="20260828223000 GMT+3" channel="53005467">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828223000 GMT+3" stop="20260829003000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96936,15 +97188,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828043000 GMT+3" stop="20260828050000 GMT+3" channel="94430673">
-    <title lang="el">Rush Scored Four</title>
-    <desc lang="el">An LFC Original mini-documentary that relives the unforgettable afternoon at Goodison in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260828050000 GMT+3" stop="20260828053000 GMT+3" channel="94430673">
-    <title lang="el">A Day With: Hugo Ekitike</title>
-    <desc lang="el">Liverpool’s star forward is joined by Rubi Deschamps to delve into the Frenchman’s life off the pitch and his start to life in Merseyside.</desc>
+  <programme start="20260828043000 GMT+3" stop="20260828053000 GMT+3" channel="94430673">
+    <title lang="el">The Premier League Preview Show</title>
+    <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Bournemouth.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -97021,8 +97267,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260828130000 GMT+3" stop="20260828140000 GMT+3" channel="94430673">
-    <title lang="el">We Are Liverpool: John Aldridge</title>
-    <desc lang="el">One of the club&apos;s finest goalscorers joins the show to chat about his career and what it meant to represent his club.</desc>
+    <title lang="el">The Premier League Preview Show</title>
+    <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Bournemouth.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -97056,15 +97302,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828170000 GMT+3" stop="20260828174500 GMT+3" channel="94430673">
-    <title lang="el">Retro Review Show - Istanbul 2005</title>
-    <desc lang="el">Steven Gerrard joins Neil Mellor to analyse the action and talk through the stats from the 2005 Champions league Final.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260828174500 GMT+3" stop="20260828180000 GMT+3" channel="94430673">
-    <title lang="el">Goal Rush: Nottingham Forest</title>
-    <desc lang="el">Relive a selection of classic Liverpool goals scored at the expense of Nottingham Forest through the years</desc>
+  <programme start="20260828170000 GMT+3" stop="20260828180000 GMT+3" channel="94430673">
+    <title lang="el">The Premier League Preview Show</title>
+    <desc lang="el">LFCTV looks ahead to Liverpool&apos;s match against Bournemouth.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -97512,7 +97752,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260828200000 GMT+3" stop="20260828210000 GMT+3" channel="216415">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -97596,7 +97836,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260828180000 GMT+3" stop="20260828190000 GMT+3" channel="10965536">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -98666,9 +98906,87 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828050000 GMT+3" stop="20260828060000 GMT+3" channel="52187736">
+  <programme start="20260828050000 GMT+3" stop="20260828070000 GMT+3" channel="52187736">
     <title lang="el">Angers - Lille 23/8/26 (E)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828070000 GMT+3" stop="20260828090000 GMT+3" channel="52187736">
+    <title lang="el">Troyes - Paris FC 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828090000 GMT+3" stop="20260828103000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828103000 GMT+3" stop="20260828113000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828113000 GMT+3" stop="20260828133000 GMT+3" channel="52187736">
+    <title lang="el">PSV Eindhoven - FC Groningen 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828133000 GMT+3" stop="20260828153000 GMT+3" channel="52187736">
+    <title lang="el">Reims - Annecy 24/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828153000 GMT+3" stop="20260828173000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828173000 GMT+3" stop="20260828193000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828193000 GMT+3" stop="20260828200000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828200000 GMT+3" stop="20260828203000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828203000 GMT+3" stop="20260828210000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828210000 GMT+3" stop="20260828213000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828213000 GMT+3" stop="20260828220000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828220000 GMT+3" stop="20260829000000 GMT+3" channel="52187736">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -98696,8 +99014,80 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260828050000 GMT+3" stop="20260828060000 GMT+3" channel="52187749">
+  <programme start="20260828050000 GMT+3" stop="20260828070000 GMT+3" channel="52187749">
     <title lang="el">Paris Saint-Germain - Rennes 23/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828070000 GMT+3" stop="20260828073000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828073000 GMT+3" stop="20260828093000 GMT+3" channel="52187749">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828093000 GMT+3" stop="20260828113000 GMT+3" channel="52187749">
+    <title lang="el">Nice - Lorient 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828113000 GMT+3" stop="20260828133000 GMT+3" channel="52187749">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828133000 GMT+3" stop="20260828153000 GMT+3" channel="52187749">
+    <title lang="el">Toulouse - Lyon 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828153000 GMT+3" stop="20260828173000 GMT+3" channel="52187749">
+    <title lang="el">ΑΠΟΕΛ - ΑΕΚ 3/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828173000 GMT+3" stop="20260828193000 GMT+3" channel="52187749">
+    <title lang="el">Rennes - Paris Saint-Germain 23/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828193000 GMT+3" stop="20260828200000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828200000 GMT+3" stop="20260828203000 GMT+3" channel="52187749">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828203000 GMT+3" stop="20260828210000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2026-27 # 01 24/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Γαλλικού Πρωταθλήματος 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828210000 GMT+3" stop="20260828214500 GMT+3" channel="52187749">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260828214500 GMT+3" stop="20260829000000 GMT+3" channel="52187749">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -116305,6 +116695,312 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260829000000 GMT+3" stop="20260829003000 GMT+3" channel="24745114">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829003000 GMT+3" stop="20260829013000 GMT+3" channel="24745114">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 02 Fast Start (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829013000 GMT+3" stop="20260829033000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829033000 GMT+3" stop="20260829040000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829040000 GMT+3" stop="20260829043000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829043000 GMT+3" stop="20260829050000 GMT+3" channel="24745114">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829050000 GMT+3" stop="20260829070000 GMT+3" channel="24745114">
+    <title lang="el">Lens - Auxerre 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829070000 GMT+3" stop="20260829090000 GMT+3" channel="24745114">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829090000 GMT+3" stop="20260829093000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829093000 GMT+3" stop="20260829113000 GMT+3" channel="24745114">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829113000 GMT+3" stop="20260829133000 GMT+3" channel="24745114">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829133000 GMT+3" stop="20260829153000 GMT+3" channel="24745114">
+    <title lang="el">ΑΠΟΕΛ - ΑΕΚ 3/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829153000 GMT+3" stop="20260829160000 GMT+3" channel="24745114">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829160000 GMT+3" stop="20260829163000 GMT+3" channel="24745114">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829163000 GMT+3" stop="20260829170000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829170000 GMT+3" stop="20260829190000 GMT+3" channel="24745114">
+    <title lang="el">Barcelona - Joventut Badalona 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829190000 GMT+3" stop="20260829194500 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829194500 GMT+3" stop="20260829214500 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829214500 GMT+3" stop="20260830000000 GMT+3" channel="24745114">
+    <title lang="el">Auxerre - Angers 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829000000 GMT+3" stop="20260829020000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829020000 GMT+3" stop="20260829033000 GMT+3" channel="24746908">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829033000 GMT+3" stop="20260829040000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829040000 GMT+3" stop="20260829043000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829043000 GMT+3" stop="20260829063000 GMT+3" channel="24746908">
+    <title lang="el">Le Mans - Brest 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829063000 GMT+3" stop="20260829070000 GMT+3" channel="24746908">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829070000 GMT+3" stop="20260829090000 GMT+3" channel="24746908">
+    <title lang="el">PSV Eindhoven - FC Groningen 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829090000 GMT+3" stop="20260829110000 GMT+3" channel="24746908">
+    <title lang="el">Lens - Auxerre 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829110000 GMT+3" stop="20260829113000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829113000 GMT+3" stop="20260829133000 GMT+3" channel="24746908">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829133000 GMT+3" stop="20260829143000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829143000 GMT+3" stop="20260829150000 GMT+3" channel="24746908">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829150000 GMT+3" stop="20260829153000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829153000 GMT+3" stop="20260829173000 GMT+3" channel="24746908">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829173000 GMT+3" stop="20260829181500 GMT+3" channel="24746908">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829181500 GMT+3" stop="20260829203000 GMT+3" channel="24746908">
+    <title lang="el">Strasbourg - Lens 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829203000 GMT+3" stop="20260829210000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829210000 GMT+3" stop="20260829214500 GMT+3" channel="24746908">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829214500 GMT+3" stop="20260830000000 GMT+3" channel="24746908">
+    <title lang="el">Lyon - Le Havre 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829003000 GMT+3" stop="20260829040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829040000 GMT+3" stop="20260829070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829070000 GMT+3" stop="20260829100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829100000 GMT+3" stop="20260829103000 GMT+3" channel="53005467">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829103000 GMT+3" stop="20260829123000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829123000 GMT+3" stop="20260829130000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829130000 GMT+3" stop="20260829150000 GMT+3" channel="53005467">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829150000 GMT+3" stop="20260829170000 GMT+3" channel="53005467">
+    <title lang="el">Barcelona - Joventut Badalona 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829170000 GMT+3" stop="20260829180000 GMT+3" channel="53005467">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 02 Fast Start (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829180000 GMT+3" stop="20260829190000 GMT+3" channel="53005467">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 03 Spygate (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829190000 GMT+3" stop="20260829194500 GMT+3" channel="53005467">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829194500 GMT+3" stop="20260829214500 GMT+3" channel="53005467">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829214500 GMT+3" stop="20260830000000 GMT+3" channel="53005467">
+    <title lang="el">Brest - Toulouse 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260829000000 GMT+3" stop="20260829010000 GMT+3" channel="75835625">
     <title lang="el">ΑΚΑΔΗΜΙΑ - THE FUTURE IS COMING S2, EP.15</title>
     <desc lang="el">ΕΚΠΟΜΠΗ</desc>
@@ -116981,7 +117677,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260829160000 GMT+3" stop="20260829170000 GMT+3" channel="46137848">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -117123,7 +117819,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260829224500 GMT+3" stop="20260829234500 GMT+3" channel="218883">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -117169,7 +117865,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260829183000 GMT+3" stop="20260829193000 GMT+3" channel="10965536">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -118288,6 +118984,234 @@
   <programme start="20260829223000 GMT+3" stop="20260830003000 GMT+3" channel="103956040">
     <title lang="el">SEVILLA - ATLETICO MADRID (Z)</title>
     <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829000000 GMT+3" stop="20260829003000 GMT+3" channel="52187736">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829003000 GMT+3" stop="20260829013000 GMT+3" channel="52187736">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 02 Fast Start (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829013000 GMT+3" stop="20260829033000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829033000 GMT+3" stop="20260829040000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829040000 GMT+3" stop="20260829043000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829043000 GMT+3" stop="20260829050000 GMT+3" channel="52187736">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829050000 GMT+3" stop="20260829070000 GMT+3" channel="52187736">
+    <title lang="el">Lens - Auxerre 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829070000 GMT+3" stop="20260829090000 GMT+3" channel="52187736">
+    <title lang="el">SC Cambuur - Feyenoord 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829090000 GMT+3" stop="20260829093000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829093000 GMT+3" stop="20260829113000 GMT+3" channel="52187736">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829113000 GMT+3" stop="20260829133000 GMT+3" channel="52187736">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829133000 GMT+3" stop="20260829153000 GMT+3" channel="52187736">
+    <title lang="el">ΑΠΟΕΛ - ΑΕΚ 3/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829153000 GMT+3" stop="20260829160000 GMT+3" channel="52187736">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829160000 GMT+3" stop="20260829163000 GMT+3" channel="52187736">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829163000 GMT+3" stop="20260829170000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829170000 GMT+3" stop="20260829190000 GMT+3" channel="52187736">
+    <title lang="el">Barcelona - Joventut Badalona 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829190000 GMT+3" stop="20260829194500 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829194500 GMT+3" stop="20260829214500 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829214500 GMT+3" stop="20260830000000 GMT+3" channel="52187736">
+    <title lang="el">Auxerre - Angers 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829000000 GMT+3" stop="20260829020000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829020000 GMT+3" stop="20260829033000 GMT+3" channel="52187749">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829033000 GMT+3" stop="20260829040000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829040000 GMT+3" stop="20260829043000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829043000 GMT+3" stop="20260829063000 GMT+3" channel="52187749">
+    <title lang="el">Le Mans - Brest 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829063000 GMT+3" stop="20260829070000 GMT+3" channel="52187749">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829070000 GMT+3" stop="20260829090000 GMT+3" channel="52187749">
+    <title lang="el">PSV Eindhoven - FC Groningen 23/8/26 (E)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829090000 GMT+3" stop="20260829110000 GMT+3" channel="52187749">
+    <title lang="el">Lens - Auxerre 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829110000 GMT+3" stop="20260829113000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829113000 GMT+3" stop="20260829133000 GMT+3" channel="52187749">
+    <title lang="el">Πάφος FC - Ομόνοια 6/5/26 (E)</title>
+    <desc lang="el">Πρωτάθλημα Α&apos; Κατηγορίας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829133000 GMT+3" stop="20260829143000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829143000 GMT+3" stop="20260829150000 GMT+3" channel="52187749">
+    <title lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27 # 02 25/8/26 (E)</title>
+    <desc lang="el">Ligue 1 Show (Γαλλικό ποδόσφαιρο) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829150000 GMT+3" stop="20260829153000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829153000 GMT+3" stop="20260829173000 GMT+3" channel="52187749">
+    <title lang="el">Saint-Etienne - Grenoble 22/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829173000 GMT+3" stop="20260829181500 GMT+3" channel="52187749">
+    <title lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27 # 02 27/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα: Πριν Την Αγωνιστική 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829181500 GMT+3" stop="20260829203000 GMT+3" channel="52187749">
+    <title lang="el">Strasbourg - Lens 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829203000 GMT+3" stop="20260829210000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829210000 GMT+3" stop="20260829214500 GMT+3" channel="52187749">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260829214500 GMT+3" stop="20260830000000 GMT+3" channel="52187749">
+    <title lang="el">Lyon - Le Havre 29/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -135904,6 +136828,276 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260830000000 GMT+3" stop="20260830010000 GMT+3" channel="24745114">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830010000 GMT+3" stop="20260830030000 GMT+3" channel="24745114">
+    <title lang="el">Lorient - Troyes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830030000 GMT+3" stop="20260830050000 GMT+3" channel="24745114">
+    <title lang="el">Strasbourg - Lens 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830050000 GMT+3" stop="20260830070000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830070000 GMT+3" stop="20260830083000 GMT+3" channel="24745114">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830083000 GMT+3" stop="20260830090000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830090000 GMT+3" stop="20260830093000 GMT+3" channel="24745114">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830093000 GMT+3" stop="20260830113000 GMT+3" channel="24745114">
+    <title lang="el">Lyon - Le Havre 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830113000 GMT+3" stop="20260830120000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830120000 GMT+3" stop="20260830140000 GMT+3" channel="24745114">
+    <title lang="el">Guingamp - Nantes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830140000 GMT+3" stop="20260830143000 GMT+3" channel="24745114">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830143000 GMT+3" stop="20260830163000 GMT+3" channel="24745114">
+    <title lang="el">Auxerre - Angers 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830163000 GMT+3" stop="20260830170000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830170000 GMT+3" stop="20260830190000 GMT+3" channel="24745114">
+    <title lang="el">La Laguna Tenerife - Dreamland Gran Canaria 28/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830190000 GMT+3" stop="20260830210000 GMT+3" channel="24745114">
+    <title lang="el">Brest - Toulouse 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830210000 GMT+3" stop="20260830230000 GMT+3" channel="24745114">
+    <title lang="el">FC Utrecht - PSV Eindhoven 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830230000 GMT+3" stop="20260831010000 GMT+3" channel="24745114">
+    <title lang="el">Feyenoord - ADO Den Haag 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830000000 GMT+3" stop="20260830020000 GMT+3" channel="24746908">
+    <title lang="el">Guingamp - Nantes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830020000 GMT+3" stop="20260830023000 GMT+3" channel="24746908">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830023000 GMT+3" stop="20260830043000 GMT+3" channel="24746908">
+    <title lang="el">Auxerre - Angers 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830043000 GMT+3" stop="20260830050000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830050000 GMT+3" stop="20260830070000 GMT+3" channel="24746908">
+    <title lang="el">Brest - Toulouse 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830070000 GMT+3" stop="20260830090000 GMT+3" channel="24746908">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830090000 GMT+3" stop="20260830100000 GMT+3" channel="24746908">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830100000 GMT+3" stop="20260830120000 GMT+3" channel="24746908">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830120000 GMT+3" stop="20260830140000 GMT+3" channel="24746908">
+    <title lang="el">Strasbourg - Lens 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830140000 GMT+3" stop="20260830160000 GMT+3" channel="24746908">
+    <title lang="el">Lorient - Troyes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830160000 GMT+3" stop="20260830181500 GMT+3" channel="24746908">
+    <title lang="el">Paris FC - Nice 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830181500 GMT+3" stop="20260830203000 GMT+3" channel="24746908">
+    <title lang="el">Rennes - Le Mans 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830203000 GMT+3" stop="20260830210000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830210000 GMT+3" stop="20260830214500 GMT+3" channel="24746908">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830214500 GMT+3" stop="20260831000000 GMT+3" channel="24746908">
+    <title lang="el">Monaco - Marseille 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830000000 GMT+3" stop="20260830003000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830003000 GMT+3" stop="20260830040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830040000 GMT+3" stop="20260830070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830070000 GMT+3" stop="20260830090000 GMT+3" channel="53005467">
+    <title lang="el">Strasbourg - Lens 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830090000 GMT+3" stop="20260830110000 GMT+3" channel="53005467">
+    <title lang="el">Auxerre - Angers 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830110000 GMT+3" stop="20260830111500 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830111500 GMT+3" stop="20260830131500 GMT+3" channel="53005467">
+    <title lang="el">Lorient - Troyes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830131500 GMT+3" stop="20260830153000 GMT+3" channel="53005467">
+    <title lang="el">FC Utrecht - PSV Eindhoven 30/8/26 (Z)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830153000 GMT+3" stop="20260830174500 GMT+3" channel="53005467">
+    <title lang="el">Feyenoord - ADO Den Haag 30/8/26 (Z)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830174500 GMT+3" stop="20260830200000 GMT+3" channel="53005467">
+    <title lang="el">Telstar - Ajax 30/8/26 (Z)</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830200000 GMT+3" stop="20260830220000 GMT+3" channel="53005467">
+    <title lang="el">Lyon - Le Havre 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830220000 GMT+3" stop="20260830223000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830223000 GMT+3" stop="20260831003000 GMT+3" channel="53005467">
+    <title lang="el">Guingamp - Nantes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260830000000 GMT+3" stop="20260830013000 GMT+3" channel="75835625">
     <title lang="el">ΟΜΟΝΟΙΑ - E.N.Π. (01/11/2025)</title>
     <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ14</desc>
@@ -136627,7 +137821,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260830194500 GMT+3" stop="20260830204500 GMT+3" channel="46137848">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -136734,7 +137928,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260830180000 GMT+3" stop="20260830190000 GMT+3" channel="218883">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -137822,6 +139016,198 @@
   <programme start="20260830223000 GMT+3" stop="20260831003000 GMT+3" channel="103956040">
     <title lang="el">CELTA VIGO - ATHLETIC BILBAO (Z)</title>
     <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830000000 GMT+3" stop="20260830010000 GMT+3" channel="52187736">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830010000 GMT+3" stop="20260830030000 GMT+3" channel="52187736">
+    <title lang="el">Lorient - Troyes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830030000 GMT+3" stop="20260830050000 GMT+3" channel="52187736">
+    <title lang="el">Strasbourg - Lens 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830050000 GMT+3" stop="20260830070000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830070000 GMT+3" stop="20260830083000 GMT+3" channel="52187736">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830083000 GMT+3" stop="20260830090000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830090000 GMT+3" stop="20260830093000 GMT+3" channel="52187736">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830093000 GMT+3" stop="20260830113000 GMT+3" channel="52187736">
+    <title lang="el">Lyon - Le Havre 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830113000 GMT+3" stop="20260830120000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830120000 GMT+3" stop="20260830140000 GMT+3" channel="52187736">
+    <title lang="el">Guingamp - Nantes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830140000 GMT+3" stop="20260830143000 GMT+3" channel="52187736">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830143000 GMT+3" stop="20260830163000 GMT+3" channel="52187736">
+    <title lang="el">Auxerre - Angers 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830163000 GMT+3" stop="20260830170000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830170000 GMT+3" stop="20260830190000 GMT+3" channel="52187736">
+    <title lang="el">La Laguna Tenerife - Dreamland Gran Canaria 28/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830190000 GMT+3" stop="20260830210000 GMT+3" channel="52187736">
+    <title lang="el">Brest - Toulouse 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830210000 GMT+3" stop="20260830230000 GMT+3" channel="52187736">
+    <title lang="el">FC Utrecht - PSV Eindhoven 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830230000 GMT+3" stop="20260831010000 GMT+3" channel="52187736">
+    <title lang="el">Feyenoord - ADO Den Haag 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830000000 GMT+3" stop="20260830020000 GMT+3" channel="52187749">
+    <title lang="el">Guingamp - Nantes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830020000 GMT+3" stop="20260830023000 GMT+3" channel="52187749">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830023000 GMT+3" stop="20260830043000 GMT+3" channel="52187749">
+    <title lang="el">Auxerre - Angers 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830043000 GMT+3" stop="20260830050000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 09 8/12/25 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830050000 GMT+3" stop="20260830070000 GMT+3" channel="52187749">
+    <title lang="el">Brest - Toulouse 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830070000 GMT+3" stop="20260830090000 GMT+3" channel="52187749">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830090000 GMT+3" stop="20260830100000 GMT+3" channel="52187749">
+    <title lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27 # 03 25/8/26 (E)</title>
+    <desc lang="el">Στιγμιότυπα Ολλανδικού Πρωταθλήματος Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830100000 GMT+3" stop="20260830120000 GMT+3" channel="52187749">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Michael Vick (Part B) (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830120000 GMT+3" stop="20260830140000 GMT+3" channel="52187749">
+    <title lang="el">Strasbourg - Lens 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830140000 GMT+3" stop="20260830160000 GMT+3" channel="52187749">
+    <title lang="el">Lorient - Troyes 29/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830160000 GMT+3" stop="20260830181500 GMT+3" channel="52187749">
+    <title lang="el">Paris FC - Nice 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830181500 GMT+3" stop="20260830203000 GMT+3" channel="52187749">
+    <title lang="el">Rennes - Le Mans 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830203000 GMT+3" stop="20260830210000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830210000 GMT+3" stop="20260830214500 GMT+3" channel="52187749">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260830214500 GMT+3" stop="20260831000000 GMT+3" channel="52187749">
+    <title lang="el">Monaco - Marseille 30/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -154369,6 +155755,306 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260831010000 GMT+3" stop="20260831030000 GMT+3" channel="24745114">
+    <title lang="el">Monaco - Marseille 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831030000 GMT+3" stop="20260831050000 GMT+3" channel="24745114">
+    <title lang="el">Paris FC - Nice 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831050000 GMT+3" stop="20260831070000 GMT+3" channel="24745114">
+    <title lang="el">Rennes - Le Mans 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831070000 GMT+3" stop="20260831090000 GMT+3" channel="24745114">
+    <title lang="el">La Laguna Tenerife - Dreamland Gran Canaria 28/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831090000 GMT+3" stop="20260831110000 GMT+3" channel="24745114">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831110000 GMT+3" stop="20260831130000 GMT+3" channel="24745114">
+    <title lang="el">Lorient - Troyes 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831130000 GMT+3" stop="20260831150000 GMT+3" channel="24745114">
+    <title lang="el">Lyon - Le Havre 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831150000 GMT+3" stop="20260831153000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831153000 GMT+3" stop="20260831173000 GMT+3" channel="24745114">
+    <title lang="el">Unicaja - Kosner Baskonia 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831173000 GMT+3" stop="20260831180000 GMT+3" channel="24745114">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831180000 GMT+3" stop="20260831200000 GMT+3" channel="24745114">
+    <title lang="el">Telstar - Ajax 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831200000 GMT+3" stop="20260831203000 GMT+3" channel="24745114">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831203000 GMT+3" stop="20260831210000 GMT+3" channel="24745114">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 07 Παίξε Σαν Κορίτσι</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831210000 GMT+3" stop="20260831213000 GMT+3" channel="24745114">
+    <title lang="el">Game R1 (Season 7) 2026-27 # 01 28/8/26</title>
+    <desc lang="el">Game R1 (Season 7) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831213000 GMT+3" stop="20260831220000 GMT+3" channel="24745114">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831220000 GMT+3" stop="20260901000000 GMT+3" channel="24745114">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ντουέιν Γουέιντ: Απροσδόκητη ζωή (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831000000 GMT+3" stop="20260831020000 GMT+3" channel="24746908">
+    <title lang="el">Unicaja - Kosner Baskonia 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831020000 GMT+3" stop="20260831023000 GMT+3" channel="24746908">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831023000 GMT+3" stop="20260831043000 GMT+3" channel="24746908">
+    <title lang="el">FC Utrecht - PSV Eindhoven 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831043000 GMT+3" stop="20260831050000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831050000 GMT+3" stop="20260831070000 GMT+3" channel="24746908">
+    <title lang="el">Telstar - Ajax 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831070000 GMT+3" stop="20260831090000 GMT+3" channel="24746908">
+    <title lang="el">Strasbourg - Lens 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831090000 GMT+3" stop="20260831093000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831093000 GMT+3" stop="20260831113000 GMT+3" channel="24746908">
+    <title lang="el">Guingamp - Nantes 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831113000 GMT+3" stop="20260831120000 GMT+3" channel="24746908">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831120000 GMT+3" stop="20260831140000 GMT+3" channel="24746908">
+    <title lang="el">Rennes - Le Mans 30/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831140000 GMT+3" stop="20260831143000 GMT+3" channel="24746908">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831143000 GMT+3" stop="20260831150000 GMT+3" channel="24746908">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831150000 GMT+3" stop="20260831170000 GMT+3" channel="24746908">
+    <title lang="el">Feyenoord - ADO Den Haag 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831170000 GMT+3" stop="20260831173000 GMT+3" channel="24746908">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831173000 GMT+3" stop="20260831193000 GMT+3" channel="24746908">
+    <title lang="el">Brest - Toulouse 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831193000 GMT+3" stop="20260831200000 GMT+3" channel="24746908">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 07 Παίξε Σαν Κορίτσι</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831200000 GMT+3" stop="20260831214500 GMT+3" channel="24746908">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831214500 GMT+3" stop="20260901000000 GMT+3" channel="24746908">
+    <title lang="el">Dijon - Saint-Etienne 31/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831003000 GMT+3" stop="20260831040000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831040000 GMT+3" stop="20260831070000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831070000 GMT+3" stop="20260831100000 GMT+3" channel="53005467">
+    <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
+    <desc lang="el">Σύντομα Ξανά Κοντά Σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831100000 GMT+3" stop="20260831110000 GMT+3" channel="53005467">
+    <title lang="el">LEEDS: Take Us Home (Season 1) # 03 Spygate (E)</title>
+    <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831110000 GMT+3" stop="20260831113000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831113000 GMT+3" stop="20260831120000 GMT+3" channel="53005467">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831120000 GMT+3" stop="20260831140000 GMT+3" channel="53005467">
+    <title lang="el">Paris FC - Nice 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831140000 GMT+3" stop="20260831160000 GMT+3" channel="53005467">
+    <title lang="el">Rennes - Le Mans 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831160000 GMT+3" stop="20260831180000 GMT+3" channel="53005467">
+    <title lang="el">Barcelona - Joventut Badalona 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831180000 GMT+3" stop="20260831183000 GMT+3" channel="53005467">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831183000 GMT+3" stop="20260831190000 GMT+3" channel="53005467">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 06 Ιστορία Και Εξέλιξη (E)</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831190000 GMT+3" stop="20260831193000 GMT+3" channel="53005467">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 07 Παίξε Σαν Κορίτσι</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831193000 GMT+3" stop="20260831200000 GMT+3" channel="53005467">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831200000 GMT+3" stop="20260831220000 GMT+3" channel="53005467">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ντουέιν Γουέιντ: Απροσδόκητη ζωή (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831220000 GMT+3" stop="20260831223000 GMT+3" channel="53005467">
+    <title lang="el">Game R1 (Season 7) 2026-27 # 01 28/8/26</title>
+    <desc lang="el">Game R1 (Season 7) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831223000 GMT+3" stop="20260901003000 GMT+3" channel="53005467">
+    <title lang="el">Monaco - Marseille 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260831000000 GMT+3" stop="20260831020000 GMT+3" channel="75835625">
     <title lang="el">ΟΜΟΝΟΙΑ - ΟΛΥΜΠΙΑΚΟΣ (08/11/2025)</title>
     <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
@@ -155100,8 +156786,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260831100000 GMT+3" stop="20260831113000 GMT+3" channel="46137848">
-    <title lang="el">Τένις: WTA 500 2026</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Adelaide International της σειράς WTA 500, που διεξάγεται στην Αδελαϊδα της Αυστραλίας το διάστημα από 12 μέχρι 17 Ιανουαρίου. Τένις</desc>
+    <title lang="el">Τένις: WTA 500 2025</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Adelaide International της σειράς WTA 500, που διεξάγεται στην Αδελαϊδα της Αυστραλίας το διάστημα από 6 μέχρι 11 Ιανουαρίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -155128,8 +156814,9 @@
     <rating>K</rating>
   </programme>
   <programme start="20260831180000 GMT+3" stop="20260831190000 GMT+3" channel="46137848">
-    <title lang="el">Novasports Start</title>
-    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
+    <title lang="el">Timeline</title>
+    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260831190000 GMT+3" stop="20260831200000 GMT+3" channel="46137848">
@@ -155183,24 +156870,25 @@
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260831100000 GMT+3" stop="20260831140000 GMT+3" channel="216415">
+  <programme start="20260831100000 GMT+3" stop="20260831133000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260831140000 GMT+3" stop="20260831160000 GMT+3" channel="216415">
-    <title lang="el">Ντόρτμουντ - Αμβούργο</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
+  <programme start="20260831133000 GMT+3" stop="20260831154500 GMT+3" channel="216415">
+    <title lang="el">Ατρόμητος - ΠΑΟΚ</title>
+    <desc lang="el">Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831160000 GMT+3" stop="20260831180000 GMT+3" channel="216415">
-    <title lang="el">Novasports Prime</title>
-    <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
+  <programme start="20260831154500 GMT+3" stop="20260831180000 GMT+3" channel="216415">
+    <title lang="el">Asteras AKTOR - Ολυμπιακός</title>
+    <desc lang="el">Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports! Ποδόσφαιρο</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260831180000 GMT+3" stop="20260831190000 GMT+3" channel="216415">
-    <title lang="el">Γερμανικό Πρωτάθλημα Ποδοσφαίρου</title>
+    <title lang="el">Bundesliga 2026/27</title>
     <desc lang="el">Ενημερωθείτε για όλα τα τελευταία νέα των ομάδων πριν από τη σέντρα της νέας σεζόν του γερμανικού πρωταθλήματος μέσα από ρεπορτάζ και αναλύσεις και απολαύστε παγκοσμίου κλάσης θέαμα. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -155211,7 +156899,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831200000 GMT+3" stop="20260901000000 GMT+3" channel="216415">
+  <programme start="20260831210000 GMT+3" stop="20260901000000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -155232,18 +156920,18 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831120000 GMT+3" stop="20260831200000 GMT+3" channel="218883">
+  <programme start="20260831120000 GMT+3" stop="20260831180000 GMT+3" channel="218883">
     <title lang="el">Novasports2HD</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260831200000 GMT+3" stop="20260831220000 GMT+3" channel="218883">
-    <title lang="el">Μπραουνσβάιγκ - Χέρτα Βερολίνου</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο</desc>
+  <programme start="20260831183000 GMT+3" stop="20260831190000 GMT+3" channel="218883">
+    <title lang="el">Super League 2026/27</title>
+    <desc lang="el">Παρακολουθείστε την ανασκόπηση όλων των αναμετρήσεων της περασμένης αγωνιστικής της Super League. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831220000 GMT+3" stop="20260901020000 GMT+3" channel="218883">
+  <programme start="20260831221500 GMT+3" stop="20260901021500 GMT+3" channel="218883">
     <title lang="el">Novasports2HD</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
     <rating>K</rating>
@@ -155264,20 +156952,14 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831140000 GMT+3" stop="20260831160000 GMT+3" channel="10965536">
+  <programme start="20260831160000 GMT+3" stop="20260831180000 GMT+3" channel="10965536">
     <title lang="el">Μπάγερν Μονάχου - Στουτγκάρδη</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260831160000 GMT+3" stop="20260831180000 GMT+3" channel="10965536">
-    <title lang="el">Μάιντς - Πάντερμπορν</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260831180000 GMT+3" stop="20260831200000 GMT+3" channel="10965536">
-    <title lang="el">Ουνιόν Βερολίνου - Άουγκσμπουργκ</title>
+    <title lang="el">Μάιντς - Πάντερμπορν</title>
     <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -156137,6 +157819,210 @@
   <programme start="20260831223000 GMT+3" stop="20260901003000 GMT+3" channel="103956040">
     <title lang="el">BARCELONA - RAYO VALLECANO (Z)</title>
     <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831010000 GMT+3" stop="20260831030000 GMT+3" channel="52187736">
+    <title lang="el">Monaco - Marseille 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831030000 GMT+3" stop="20260831050000 GMT+3" channel="52187736">
+    <title lang="el">Paris FC - Nice 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831050000 GMT+3" stop="20260831070000 GMT+3" channel="52187736">
+    <title lang="el">Rennes - Le Mans 30/8/26</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831070000 GMT+3" stop="20260831090000 GMT+3" channel="52187736">
+    <title lang="el">La Laguna Tenerife - Dreamland Gran Canaria 28/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831090000 GMT+3" stop="20260831110000 GMT+3" channel="52187736">
+    <title lang="el">Lille - Paris Saint-Germain 28/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831110000 GMT+3" stop="20260831130000 GMT+3" channel="52187736">
+    <title lang="el">Lorient - Troyes 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831130000 GMT+3" stop="20260831150000 GMT+3" channel="52187736">
+    <title lang="el">Lyon - Le Havre 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831150000 GMT+3" stop="20260831153000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831153000 GMT+3" stop="20260831173000 GMT+3" channel="52187736">
+    <title lang="el">Unicaja - Kosner Baskonia 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831173000 GMT+3" stop="20260831180000 GMT+3" channel="52187736">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831180000 GMT+3" stop="20260831200000 GMT+3" channel="52187736">
+    <title lang="el">Telstar - Ajax 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831200000 GMT+3" stop="20260831203000 GMT+3" channel="52187736">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831203000 GMT+3" stop="20260831210000 GMT+3" channel="52187736">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 07 Παίξε Σαν Κορίτσι</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831210000 GMT+3" stop="20260831213000 GMT+3" channel="52187736">
+    <title lang="el">Game R1 (Season 7) 2026-27 # 01 28/8/26</title>
+    <desc lang="el">Game R1 (Season 7) 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831213000 GMT+3" stop="20260831220000 GMT+3" channel="52187736">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831220000 GMT+3" stop="20260901000000 GMT+3" channel="52187736">
+    <title lang="el">Αθλητικά Ντοκιμαντέρ Ντουέιν Γουέιντ: Απροσδόκητη ζωή (E)</title>
+    <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831000000 GMT+3" stop="20260831020000 GMT+3" channel="52187749">
+    <title lang="el">Unicaja - Kosner Baskonia 21/12/25 (E)</title>
+    <desc lang="el">Ισπανικό Πρωτάθλημα Καλαθόσφαιρας 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831020000 GMT+3" stop="20260831023000 GMT+3" channel="52187749">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831023000 GMT+3" stop="20260831043000 GMT+3" channel="52187749">
+    <title lang="el">FC Utrecht - PSV Eindhoven 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831043000 GMT+3" stop="20260831050000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831050000 GMT+3" stop="20260831070000 GMT+3" channel="52187749">
+    <title lang="el">Telstar - Ajax 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831070000 GMT+3" stop="20260831090000 GMT+3" channel="52187749">
+    <title lang="el">Strasbourg - Lens 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831090000 GMT+3" stop="20260831093000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831093000 GMT+3" stop="20260831113000 GMT+3" channel="52187749">
+    <title lang="el">Guingamp - Nantes 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831113000 GMT+3" stop="20260831120000 GMT+3" channel="52187749">
+    <title lang="el">The Iconic (Season 6) # 03 Εμβληματικές μορφές της F1 (E)</title>
+    <desc lang="el">The Iconic (Season 6)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831120000 GMT+3" stop="20260831140000 GMT+3" channel="52187749">
+    <title lang="el">Rennes - Le Mans 30/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831140000 GMT+3" stop="20260831143000 GMT+3" channel="52187749">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4) # 05 Manager (E)</title>
+    <desc lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 4)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831143000 GMT+3" stop="20260831150000 GMT+3" channel="52187749">
+    <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2) # 10 Από Τη Μπαρτσελόνα Στη Ρεάλ</title>
+    <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 2)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831150000 GMT+3" stop="20260831170000 GMT+3" channel="52187749">
+    <title lang="el">Feyenoord - ADO Den Haag 30/8/26</title>
+    <desc lang="el">Ολλανδικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831170000 GMT+3" stop="20260831173000 GMT+3" channel="52187749">
+    <title lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5 # 08 (E)</title>
+    <desc lang="el">50+ Χρόνια Αθλητισμού Σεζόν 5</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831173000 GMT+3" stop="20260831193000 GMT+3" channel="52187749">
+    <title lang="el">Brest - Toulouse 29/8/26 (E)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831193000 GMT+3" stop="20260831200000 GMT+3" channel="52187749">
+    <title lang="el">Ηρωίδες (Σεζόν 1) # 07 Παίξε Σαν Κορίτσι</title>
+    <desc lang="el">Ηρωίδες (Σεζόν 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831200000 GMT+3" stop="20260831214500 GMT+3" channel="52187749">
+    <title lang="el">The Ball Boyz On Tour 2025-26 # 06 30/11/25 (E)</title>
+    <desc lang="el">The Ball Boyz On Tour 2025-26</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260831214500 GMT+3" stop="20260901000000 GMT+3" channel="52187749">
+    <title lang="el">Dijon - Saint-Etienne 31/8/26 (Z)</title>
+    <desc lang="el">Γαλλικό Πρωτάθλημα Β&apos; Κατηγορίας Ποδοσφαίρου 2026-27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
