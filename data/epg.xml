@@ -56160,6 +56160,24 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260907060000 GMT+3" stop="20260907120000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260907120000 GMT+3" stop="20260907180000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260907180000 GMT+3" stop="20260908000000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260907003500 GMT+3" stop="20260907021000 GMT+3" channel="289568">
     <title lang="el">Ξενη Ταινια</title>
     <desc lang="el">ΞΕΝΗ ΤΑΙΝΙΑ: ΚΩΜΩΔΙΑ, ΕΓΚΛΗΜΑ</desc>
@@ -57339,6 +57357,24 @@
   <programme start="20260907043000 GMT+3" stop="20260907060000 GMT+3" channel="289607">
     <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ (E) Κ1 ΕΠ1</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260907060000 GMT+3" stop="20260907120000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260907120000 GMT+3" stop="20260907180000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260907180000 GMT+3" stop="20260908000000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -73899,6 +73935,30 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260908000000 GMT+3" stop="20260908060000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908060000 GMT+3" stop="20260908120000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908120000 GMT+3" stop="20260908180000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908180000 GMT+3" stop="20260909000000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260908011000 GMT+3" stop="20260908020000 GMT+3" channel="289568">
     <title lang="el">Ξενη Σειρα</title>
     <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ</desc>
@@ -75068,6 +75128,30 @@
     <desc lang="el">Ο Ish βρίσκει έναν επιζώντα και νιώθει μια ρομαντική σπίθα. Νιώθει την ανάγκη να δει αν είναι αληθινό ή αν είναι η πραγματικότητα ότι είναι οι δύο τελευταίοι άνθρωποι στη γη. Αρουραίοι μαστίζουν το San Lupo. Ο Ish ονειρεύεται να ανοικοδομήσει τον πολιτισμό.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260908000000 GMT+3" stop="20260908060000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908060000 GMT+3" stop="20260908120000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908120000 GMT+3" stop="20260908180000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260908180000 GMT+3" stop="20260909000000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260908001500 GMT+3" stop="20260908013000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
@@ -91288,6 +91372,30 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260909000000 GMT+3" stop="20260909060000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909060000 GMT+3" stop="20260909120000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909120000 GMT+3" stop="20260909180000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909180000 GMT+3" stop="20260910000000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260909005000 GMT+3" stop="20260909014000 GMT+3" channel="289568">
     <title lang="el">Ξενη Σειρα</title>
     <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ</desc>
@@ -92421,6 +92529,30 @@
     <desc lang="el">Εμφανίζονται νέοι επιζώντες και παρόλο που ο Ish δεν τους εμπιστεύεται η Emma τους προσκαλεί μέσα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260909000000 GMT+3" stop="20260909060000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909060000 GMT+3" stop="20260909120000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909120000 GMT+3" stop="20260909180000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260909180000 GMT+3" stop="20260910000000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260909001500 GMT+3" stop="20260909013000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
@@ -108537,6 +108669,30 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260910000000 GMT+3" stop="20260910060000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910060000 GMT+3" stop="20260910120000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910120000 GMT+3" stop="20260910180000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910180000 GMT+3" stop="20260911000000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260910005000 GMT+3" stop="20260910014000 GMT+3" channel="289568">
     <title lang="el">Ξενη Σειρα</title>
     <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ</desc>
@@ -109592,6 +109748,30 @@
     <desc lang="el">Ο Πολ είναι ένας φιλήσυχος χειρουργός που αποφασίζει να πάρει το νόμο στα χέρια του, καθώς η αστυνομία αδυνατεί να συλλάβει τους κακοποιούς που δολοφόνησαν τη γυναίκα και τραυμάτισαν σοβαρά την κόρη του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
+  </programme>
+  <programme start="20260910000000 GMT+3" stop="20260910060000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910060000 GMT+3" stop="20260910120000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910120000 GMT+3" stop="20260910180000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910180000 GMT+3" stop="20260911000000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260910001500 GMT+3" stop="20260910013000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
@@ -125596,6 +125776,30 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260911000000 GMT+3" stop="20260911060000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260912000000 GMT+3" channel="39337317">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260911005500 GMT+3" stop="20260911014500 GMT+3" channel="289568">
     <title lang="el">Ξενη Σειρα</title>
     <desc lang="el">ΞΕΝΗ ΣΕΙΡΑ</desc>
@@ -126669,6 +126873,30 @@
     <desc lang="el">Κατά τη διάρκεια μιας επανδρωμένης αποστολής στον Άρη, ο αστροναύτης Μαρκ Γουάτνι τραυματίζεται και εγκαταλείπεται στον πλανήτη θεωρούμενος νεκρός. Εκείνος όμως καταφέρνει να επιστρέψει στην εγκαταλειμμένη βάση, όπου πρέπει να επιβιώσει με ελάχιστες προμήθειες και να βρει τρόπο να επικοινωνήσει με τη Γη.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260911000000 GMT+3" stop="20260911060000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260912000000 GMT+3" channel="289607">
+    <title lang="el">ALPHA TV</title>
+    <desc lang="el">ALPHA TV</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260911001500 GMT+3" stop="20260911013000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
