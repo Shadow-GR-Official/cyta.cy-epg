@@ -65050,15 +65050,117 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912020000 GMT+3" stop="20260912023000 GMT+3" channel="213719">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912023000 GMT+3" stop="20260912030000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912030000 GMT+3" stop="20260912040000 GMT+3" channel="213719">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912040000 GMT+3" stop="20260912043000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912043000 GMT+3" stop="20260912050000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260912050000 GMT+3" stop="20260912060000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912063000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912063000 GMT+3" stop="20260912070000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912070000 GMT+3" stop="20260912073000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912073000 GMT+3" stop="20260912080000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912080000 GMT+3" stop="20260912083000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912083000 GMT+3" stop="20260912090000 GMT+3" channel="213719">
+    <title lang="el">VivaTech x Bloomberg Awards</title>
+    <desc lang="el">VivaTech and Bloomberg join forces to create a new global awards platform to celebrate not just who&apos;s succeeding in tech, but who&apos;s shaping where tech goes next.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912090000 GMT+3" stop="20260912093000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912093000 GMT+3" stop="20260912100000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260912100000 GMT+3" stop="20260912110000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912110000 GMT+3" stop="20260912113000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912113000 GMT+3" stop="20260912120000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">TikTok&apos;s secret algorithm has been blamed for sending young users content that pushes some into a spiral of self-harm. We take a look at the darker side of the world&apos;s most downloaded app.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912123000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912123000 GMT+3" stop="20260912130000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65086,6 +65188,72 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912183000 GMT+3" stop="20260912190000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912190000 GMT+3" stop="20260912193000 GMT+3" channel="213719">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912193000 GMT+3" stop="20260912200000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912200000 GMT+3" stop="20260912203000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912203000 GMT+3" stop="20260912210000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912210000 GMT+3" stop="20260912213000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912213000 GMT+3" stop="20260912220000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer Κ6 ΕΠ1</title>
+    <desc lang="el">Kate Gulliver, Wayfair. Wayfair CFO Kate Gulliver is leading the home goods retailer&apos;s efforts to achieve profitable growth during a challenging period for the housing market.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912220000 GMT+3" stop="20260912223000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ3</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912223000 GMT+3" stop="20260912230000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ4</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 2). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912230000 GMT+3" stop="20260912233000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912233000 GMT+3" stop="20260913000000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260912000000 GMT+3" stop="20260912010000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
@@ -65098,15 +65266,117 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912020000 GMT+3" stop="20260912023000 GMT+3" channel="71037984">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912023000 GMT+3" stop="20260912030000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912030000 GMT+3" stop="20260912040000 GMT+3" channel="71037984">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912040000 GMT+3" stop="20260912043000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912043000 GMT+3" stop="20260912050000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260912050000 GMT+3" stop="20260912060000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912063000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912063000 GMT+3" stop="20260912070000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912070000 GMT+3" stop="20260912073000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912073000 GMT+3" stop="20260912080000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912080000 GMT+3" stop="20260912083000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912083000 GMT+3" stop="20260912090000 GMT+3" channel="71037984">
+    <title lang="el">VivaTech x Bloomberg Awards</title>
+    <desc lang="el">VivaTech and Bloomberg join forces to create a new global awards platform to celebrate not just who&apos;s succeeding in tech, but who&apos;s shaping where tech goes next.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912090000 GMT+3" stop="20260912093000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912093000 GMT+3" stop="20260912100000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260912100000 GMT+3" stop="20260912110000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912110000 GMT+3" stop="20260912113000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912113000 GMT+3" stop="20260912120000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">TikTok&apos;s secret algorithm has been blamed for sending young users content that pushes some into a spiral of self-harm. We take a look at the darker side of the world&apos;s most downloaded app.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912123000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912123000 GMT+3" stop="20260912130000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -65131,6 +65401,72 @@
   <programme start="20260912180000 GMT+3" stop="20260912183000 GMT+3" channel="71037984">
     <title lang="el">The Mishal Husain Show</title>
     <desc lang="el">Mishal Husain, one of Britain&apos;s best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912183000 GMT+3" stop="20260912190000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912190000 GMT+3" stop="20260912193000 GMT+3" channel="71037984">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912193000 GMT+3" stop="20260912200000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ4</title>
+    <desc lang="el">Nuclear power is attempting a comeback, but producing the necessary fuel is complex. Can new technologies and supply chains scale to power the next generation of reactors?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912200000 GMT+3" stop="20260912203000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912203000 GMT+3" stop="20260912210000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912210000 GMT+3" stop="20260912213000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912213000 GMT+3" stop="20260912220000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer Κ6 ΕΠ1</title>
+    <desc lang="el">Kate Gulliver, Wayfair. Wayfair CFO Kate Gulliver is leading the home goods retailer&apos;s efforts to achieve profitable growth during a challenging period for the housing market.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912220000 GMT+3" stop="20260912223000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ3</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912223000 GMT+3" stop="20260912230000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ4</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 2). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912230000 GMT+3" stop="20260912233000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ4</title>
+    <desc lang="el">Emma Grede, CEO of Good American and Skims co-founder, on radical honesty, flexible hiring, failure, self-belief, modern leadership, AI in retail, and stepping into the spotlight.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912233000 GMT+3" stop="20260913000000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -77173,6 +77509,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
+  <programme start="20260913053500 GMT+3" stop="20260913060000 GMT+3" channel="2755">
+    <title lang="el">The Office 4 Κ4 ΕΠ3</title>
+    <desc lang="el">Οι μεγαλύτεροι σε ηλικία εργαζόμενοι δυσκολεύονται καθώς ο Ryan φέρνει την εταιρεία στην ψηφιακή εποχή. Η Angela τα λέει έξω από τα δόντια στον Dwight. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2007)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260913060000 GMT+3" stop="20260913062500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ9</title>
     <desc lang="el">Ο Τζέικ βοηθά την Έιμι να διαχειριστεί την περίπλοκη σχέση που έχει με τον αδερφό της, Ντέιβιντ. Ο Τσαρλς φέρνει δράματα σε μια μυστική αποστολή που περιλαμβάνει τον Τέρι και τον Χολτ. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
@@ -77224,6 +77566,12 @@
   <programme start="20260913090500 GMT+3" stop="20260913093000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ17</title>
     <desc lang="el">Ο Τζέικ και ο Τσαρλς ερευνούν έναν επικίνδυνο κατά συρροή δολοφόνο. Ο Χολτ συνεχίζει να διαφωνεί με τον αντίπαλό του, τον διοικητή Κέλι. Ο Τέρι μαθαίνει αν έχει περάσει ή όχι τις εξετάσεις για τη θέση του υπαστυνόμου. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260913093000 GMT+3" stop="20260913095000 GMT+3" channel="2755">
+    <title lang="el">Brooklyn Nine-Nine 6 Κ6 ΕΠ18</title>
+    <desc lang="el">Οι δύσκολοι καιροί απαιτούν δύσκολες αποφάσεις, καθώς ο Τζέικ, ο Χολτ, η Έιμι, ο Τέρι, η Ρόζα και ο Τσαρλς πρέπει να συμμαχήσουν με παλιούς εχθρούς. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Chelsea Peretti,Andre Braugher. (2019)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -83425,9 +83773,69 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913000000 GMT+3" stop="20260913010000 GMT+3" channel="213719">
+    <title lang="el">The Amazon Divide</title>
+    <desc lang="el">Brazil&apos;s deforestation rate is falling, but Bolivia&apos;s is accelerating. Bloomberg Originals investigates whether protecting forests in one country simply pushes development across the border.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913010000 GMT+3" stop="20260913013000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913013000 GMT+3" stop="20260913020000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913020000 GMT+3" stop="20260913030000 GMT+3" channel="213719">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913030000 GMT+3" stop="20260913033000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913033000 GMT+3" stop="20260913040000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913040000 GMT+3" stop="20260913043000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913043000 GMT+3" stop="20260913050000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913050000 GMT+3" stop="20260913053000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">TikTok&apos;s secret algorithm has been blamed for sending young users content that pushes some into a spiral of self-harm. We take a look at the darker side of the world&apos;s most downloaded app.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913053000 GMT+3" stop="20260913060000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913070000 GMT+3" channel="213719">
+    <title lang="el">The Amazon Divide</title>
+    <desc lang="el">Brazil&apos;s deforestation rate is falling, but Bolivia&apos;s is accelerating. Bloomberg Originals investigates whether protecting forests in one country simply pushes development across the border.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83437,9 +83845,57 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913073000 GMT+3" stop="20260913080000 GMT+3" channel="213719">
+    <title lang="el">Latitude Κ1 ΕΠ11</title>
+    <desc lang="el">The world&apos;s axis is spinning to Asia. Haslinda Amin meets the people shaping the region&apos;s rise. In this episode, Kiran Mazumdar-Shaw, Biocon Limited Executive Chairperson.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913080000 GMT+3" stop="20260913083000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913083000 GMT+3" stop="20260913090000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913090000 GMT+3" stop="20260913093000 GMT+3" channel="213719">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913093000 GMT+3" stop="20260913100000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913100000 GMT+3" stop="20260913103000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913103000 GMT+3" stop="20260913110000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913110000 GMT+3" stop="20260913120000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913130000 GMT+3" channel="213719">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83455,9 +83911,117 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913170000 GMT+3" stop="20260913173000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913173000 GMT+3" stop="20260913180000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913180000 GMT+3" stop="20260913183000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913183000 GMT+3" stop="20260913190000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913190000 GMT+3" stop="20260913200000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913200000 GMT+3" stop="20260913203000 GMT+3" channel="213719">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913203000 GMT+3" stop="20260913210000 GMT+3" channel="213719">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913210000 GMT+3" stop="20260913213000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ3</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913213000 GMT+3" stop="20260913220000 GMT+3" channel="213719">
+    <title lang="el">The Circuit Κ5 ΕΠ4</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 2). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913220000 GMT+3" stop="20260913223000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913223000 GMT+3" stop="20260913230000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913230000 GMT+3" stop="20260913233000 GMT+3" channel="213719">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913233000 GMT+3" stop="20260914000000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ6</title>
+    <desc lang="el">How the Electrical Grid Is Being Rebuilt for AI. AI&apos;s rapid growth is pushing global energy demand skyward. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913000000 GMT+3" stop="20260913010000 GMT+3" channel="71037984">
+    <title lang="el">The Amazon Divide</title>
+    <desc lang="el">Brazil&apos;s deforestation rate is falling, but Bolivia&apos;s is accelerating. Bloomberg Originals investigates whether protecting forests in one country simply pushes development across the border.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913010000 GMT+3" stop="20260913013000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913013000 GMT+3" stop="20260913020000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913020000 GMT+3" stop="20260913030000 GMT+3" channel="71037984">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913030000 GMT+3" stop="20260913033000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913033000 GMT+3" stop="20260913040000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83467,15 +84031,87 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913043000 GMT+3" stop="20260913050000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913050000 GMT+3" stop="20260913053000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">TikTok&apos;s secret algorithm has been blamed for sending young users content that pushes some into a spiral of self-harm. We take a look at the darker side of the world&apos;s most downloaded app.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913053000 GMT+3" stop="20260913060000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Investigates</title>
+    <desc lang="el">Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913070000 GMT+3" channel="71037984">
+    <title lang="el">The Amazon Divide</title>
+    <desc lang="el">Brazil&apos;s deforestation rate is falling, but Bolivia&apos;s is accelerating. Bloomberg Originals investigates whether protecting forests in one country simply pushes development across the border.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913070000 GMT+3" stop="20260913073000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Originals</title>
     <desc lang="el">Bold takes for curious minds on today&apos;s biggest topics. Covering stories you haven&apos;t seen and viewpoints you haven&apos;t heard.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913073000 GMT+3" stop="20260913080000 GMT+3" channel="71037984">
+    <title lang="el">Latitude Κ1 ΕΠ11</title>
+    <desc lang="el">The world&apos;s axis is spinning to Asia. Haslinda Amin meets the people shaping the region&apos;s rise. In this episode, Kiran Mazumdar-Shaw, Biocon Limited Executive Chairperson.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913080000 GMT+3" stop="20260913083000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913083000 GMT+3" stop="20260913090000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ3</title>
+    <desc lang="el">Lisa McKnight, Mattel&apos;s Chief Brand Office, has been on the forefront of Barbie&apos;s reintroduction to the world. The plastic toy brand has launched beyond store shelves onto the silver screen.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913090000 GMT+3" stop="20260913093000 GMT+3" channel="71037984">
+    <title lang="el">Quantum Marketing Κ1 ΕΠ4</title>
+    <desc lang="el">McLaren Racing CEO Zak Brown discusses the technology, data and effort required to propel the McLaren brand onto the modern F1 stage and into living rooms around the globe.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913093000 GMT+3" stop="20260913100000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913100000 GMT+3" stop="20260913103000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ3</title>
+    <desc lang="el">Shell CEO Wael Sawan reflects on navigating volatility in the global energy system, emphasizing disciplined decision-making and focusing on what leaders can influence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913103000 GMT+3" stop="20260913110000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ5</title>
+    <desc lang="el">Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913110000 GMT+3" stop="20260913120000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913130000 GMT+3" channel="71037984">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -83491,9 +84127,81 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260913170000 GMT+3" stop="20260913173000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913173000 GMT+3" stop="20260913180000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913180000 GMT+3" stop="20260913183000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ8</title>
+    <desc lang="el">Emily meets artificial intelligence pioneer Fei-Fei Li to discuss her innovations in the field, her $1 billion startup World Labs and why she thinks the future of AI lies beyond chatbots.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913183000 GMT+3" stop="20260913190000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Chief Future Officer</title>
+    <desc lang="el">CFO Mandy Fields has helped lead the cosmetics company e.l.f. Beauty to 30 consecutive quarters of net sales growth.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913190000 GMT+3" stop="20260913200000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913200000 GMT+3" stop="20260913203000 GMT+3" channel="71037984">
+    <title lang="el">The David Rubenstein Show Κ11 ΕΠ10</title>
+    <desc lang="el">Bill Browder, Hermitage Co-Founder. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913203000 GMT+3" stop="20260913210000 GMT+3" channel="71037984">
+    <title lang="el">How Larry Ellison Built His Empire</title>
+    <desc lang="el">Expanding from database software into AI and media, Larry Ellison is placing his biggest bets yet. Bloomberg Originals explores what drives the 82-year-old tech billionaire.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913210000 GMT+3" stop="20260913213000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ3</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 1). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913213000 GMT+3" stop="20260913220000 GMT+3" channel="71037984">
+    <title lang="el">The Circuit Κ5 ΕΠ4</title>
+    <desc lang="el">Anthropic Co-Founders Dario and Daniela Amodei (Part 2). Emily meets Anthropic co-founders Dario and Daniela Amodei for a rare, in-depth discussion of the startup&apos;s origin story.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913220000 GMT+3" stop="20260913223000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Tech: Decoding the Future</title>
+    <desc lang="el">The content, capital and connectivity powering Tech&apos;s most groundbreaking ideas, from industrial robots and consumer electronics to the race to reach artificial general intelligence.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913223000 GMT+3" stop="20260913230000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ48</title>
+    <desc lang="el">Mishal speaks with Jon Ronson, British journalist and author.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913230000 GMT+3" stop="20260913233000 GMT+3" channel="71037984">
+    <title lang="el">The Mishal Husain Show Κ1 ΕΠ47</title>
+    <desc lang="el">Mishal speaks with Kai-Fu Lee, Taiwanese computer scientist and investor.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913233000 GMT+3" stop="20260914000000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Primer Κ2 ΕΠ6</title>
+    <desc lang="el">How the Electrical Grid Is Being Rebuilt for AI. AI&apos;s rapid growth is pushing global energy demand skyward. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -90787,6 +91495,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
+  <programme start="20260914222000 GMT+3" stop="20260914234500 GMT+3" channel="39337317">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ66</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Σταύρος ζητά εξηγήσεις από την Αννέζα για την αλήθεια που του έκρυψαν, όμως εκείνη δυσκολεύεται να απαντήσει στις ερωτήσεις του. Η Αρετή, όσο κι αν προσπαθεί, δεν καταφέρνει να ξανακάνει τη σχέση της με τον Οδυσσέα, όπως ήταν. Ο πόνος τη φθείρει περισσότερο απ’ όσο αντέχει και το σώμα της την προδίδει. Ο Σάββας με τη Μαρίκα συνειδητοποιούν, ότι η Άσπα κρύβει πολλά για το παρελθόν της και τους βάζει σε περίεργες σκέψεις.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260914234500 GMT+3" stop="20260915003000 GMT+3" channel="39337317">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
@@ -92050,6 +92764,12 @@
   <programme start="20260914210000 GMT+3" stop="20260914222000 GMT+3" channel="289607">
     <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ65</title>
     <desc lang="el">Ελληνική Σειρά: Η απαλλαγή του Οδυσσέα από τις κατηγορίες λειτουργεί λυτρωτικά για τον ίδιο. Με το βίντεο της Ευθυμίου στα χέρια, συναντά την Αρετή, για να της δώσει επιτέλους τις αποδείξεις που του ζητούσε επίμονα. Ο Σταύρος μαθαίνει την αλήθεια για την καταγωγή του και σοκάρεται. Η Κατερίνη προσπαθεί να μάθει περισσότερες πληροφορίες για την ερωμένη του άντρα της, αρνούμενη να αποκοπεί από το παρελθόν της.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260914222000 GMT+3" stop="20260914234500 GMT+3" channel="289607">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ66</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Σταύρος ζητά εξηγήσεις από την Αννέζα για την αλήθεια που του έκρυψαν, όμως εκείνη δυσκολεύεται να απαντήσει στις ερωτήσεις του. Η Αρετή, όσο κι αν προσπαθεί, δεν καταφέρνει να ξανακάνει τη σχέση της με τον Οδυσσέα, όπως ήταν. Ο πόνος τη φθείρει περισσότερο απ’ όσο αντέχει και το σώμα της την προδίδει. Ο Σάββας με τη Μαρίκα συνειδητοποιούν, ότι η Άσπα κρύβει πολλά για το παρελθόν της και τους βάζει σε περίεργες σκέψεις.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -101251,6 +101971,12 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914010000 GMT+3" channel="213719">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260914010000 GMT+3" stop="20260914020000 GMT+3" channel="213719">
     <title lang="el">Bloomberg Wall Street Week</title>
     <desc lang="el">David Westin speaks with top names in finance about the week&apos;s biggest issues on Wall Street.</desc>
@@ -101344,6 +102070,12 @@
   <programme start="20260914220000 GMT+3" stop="20260915000000 GMT+3" channel="213719">
     <title lang="el">Bloomberg The Close</title>
     <desc lang="el">Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914010000 GMT+3" channel="71037984">
+    <title lang="el">Post Credits Κ1 ΕΠ1</title>
+    <desc lang="el">Tefi Pessoa shares how she built a vibrant community on trust and reveals how she leveraged storytelling, vulnerability, authenticity, cultural fluency and pop culture commentary.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -105571,9 +106303,33 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260914203000 GMT+3" stop="20260914204500 GMT+3" channel="94430673">
+    <title lang="el">Goal Rush: Dominik Szoboszlai</title>
+    <desc lang="el">Enjoy a selection of memorable goals scored by Dominik Szoboszlai.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914204500 GMT+3" stop="20260914205500 GMT+3" channel="94430673">
+    <title lang="el">The RED Archive</title>
+    <desc lang="el">Emma Case daughter of Liverpool legend Jimmy tells the story of how she created a unique mobile archive of fans’ memorabilia.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914205500 GMT+3" stop="20260914230000 GMT+3" channel="94430673">
+    <title lang="el">Live: West Ham United v Liverpool U21</title>
+    <desc lang="el">Live coverage as Liverpool U21 take on West Ham United.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260914230000 GMT+3" stop="20260914231500 GMT+3" channel="94430673">
     <title lang="el">Press Conference</title>
     <desc lang="el">Coverage of Arne Slots press conference ahead of Liverpool&apos;s match against Bournemouth.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914231500 GMT+3" stop="20260914233000 GMT+3" channel="94430673">
+    <title lang="el">Liverpool v Fulham: Shortcut</title>
+    <desc lang="el">The best of the action from November 2018 as Liverpool take on Fulham</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -108419,6 +109175,18 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260915210000 GMT+3" stop="20260915222000 GMT+3" channel="39337317">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ67</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας ζητά επιτακτικά από την Αρετή να αποχωρήσει από τη συνεργασία της με τον Νταγιάννο και να επιστρέψει στην ERGAN, προκειμένου να σωθεί το κύρος της εταιρείας. Η Αννέζα αποφασίζει να πει κάποια πράγματα στον Σταύρο σχετικά με τις αλήθειες που ψάχνει. Η Κατερίνη παίρνει μία πληροφορία για την Εύα που την ταράζει, γεμίζοντας την με απορίες και ο Νταγιάννος βρίσκεται αντιμέτωπος με το ενδεχόμενο να σταματήσουν οι εργασίες στο εμπορικό κέντρο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260915222000 GMT+3" stop="20260915234500 GMT+3" channel="39337317">
+    <title lang="el">PORTO LEONE Κ1 ΕΠ11</title>
+    <desc lang="el">Ελληνική Σειρά: Το χτύπηµα που δέχτηκε ο Καπετανάκος από τους ανθρώπους του Κονταρά µεταφέρει σύσσωµο το προσωπικό του Πόρτο Λεόνε στο νοσοκοµείο, όπου περιµένουν να µάθουν εάν το αφεντικό τους θα καταφέρει να ζήσει. Ο Ζήσης αποκαλύπτει στον Γιάµαρη ένα στοιχείο για τη βραδιά της δολοφονίας του Στράτου, φέρνοντας τα πάνω κάτω στην µέχρι τώρα έρευνά του.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
+  </programme>
   <programme start="20260915234500 GMT+3" stop="20260916003000 GMT+3" channel="39337317">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
@@ -109678,6 +110446,18 @@
     <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Σε μια εποχή όπου τα πολιτικά, οικονομικά και κοινωνικά δεδομένα αλλάζουν και οι πολίτες αναζητούν την έγκυρη και έγκαιρη ενημέρωση, έρχονται οι Ειδήσεις του ALPHA με δυναμικό, μαχητικό, αποκαλυπτικό και αξιόπιστο χαρακτήρα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260915210000 GMT+3" stop="20260915222000 GMT+3" channel="289607">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ67</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας ζητά επιτακτικά από την Αρετή να αποχωρήσει από τη συνεργασία της με τον Νταγιάννο και να επιστρέψει στην ERGAN, προκειμένου να σωθεί το κύρος της εταιρείας. Η Αννέζα αποφασίζει να πει κάποια πράγματα στον Σταύρο σχετικά με τις αλήθειες που ψάχνει. Η Κατερίνη παίρνει μία πληροφορία για την Εύα που την ταράζει, γεμίζοντας την με απορίες και ο Νταγιάννος βρίσκεται αντιμέτωπος με το ενδεχόμενο να σταματήσουν οι εργασίες στο εμπορικό κέντρο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260915222000 GMT+3" stop="20260915234500 GMT+3" channel="289607">
+    <title lang="el">PORTO LEONE Κ1 ΕΠ11</title>
+    <desc lang="el">Ελληνική Σειρά: Το χτύπηµα που δέχτηκε ο Καπετανάκος από τους ανθρώπους του Κονταρά µεταφέρει σύσσωµο το προσωπικό του Πόρτο Λεόνε στο νοσοκοµείο, όπου περιµένουν να µάθουν εάν το αφεντικό τους θα καταφέρει να ζήσει. Ο Ζήσης αποκαλύπτει στον Γιάµαρη ένα στοιχείο για τη βραδιά της δολοφονίας του Στράτου, φέρνοντας τα πάνω κάτω στην µέχρι τώρα έρευνά του.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>15</rating>
   </programme>
   <programme start="20260915234500 GMT+3" stop="20260916003000 GMT+3" channel="289607">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
@@ -118721,6 +119501,18 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260915010000 GMT+3" stop="20260915013000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915013000 GMT+3" stop="20260915020000 GMT+3" channel="213719">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260915020000 GMT+3" stop="20260915040000 GMT+3" channel="213719">
     <title lang="el">Bloomberg The Asia Trade</title>
     <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
@@ -118814,6 +119606,18 @@
   <programme start="20260915000000 GMT+3" stop="20260915010000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915010000 GMT+3" stop="20260915013000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ5</title>
+    <desc lang="el">...Loyalty and Building a $1.3 Trillion Wall Street Giant: Blackstone President Jon Gray reflects on leading through crises, highlighting the firm&apos;s difficult Hilton deal as a lesson in staying calm, backing strong businesses and thinking long-term.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915013000 GMT+3" stop="20260915020000 GMT+3" channel="71037984">
+    <title lang="el">Leaders with Francine Lacqua: The Podcast Κ1 ΕΠ6</title>
+    <desc lang="el">Rolls-Royce CEO Tufan Erginbilgiç on Transforming a British Icon. Rolls-Royce CEO Tufan Erginbilgiç discusses the company&apos;s weaknesses and strategy to transform performance.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -122837,6 +123641,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260915040000 GMT+3" stop="20260915060000 GMT+3" channel="94430673">
+    <title lang="el">West Ham United v Liverpool U21: The Match</title>
+    <desc lang="el">All the action as Liverpool U21 take on West Ham United.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260915060000 GMT+3" stop="20260915080000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Fulham: The Match</title>
     <desc lang="el">All the action as Liverpool take on Fulham.</desc>
@@ -122870,6 +123680,12 @@
   <programme start="20260915114500 GMT+3" stop="20260915120000 GMT+3" channel="94430673">
     <title lang="el">European Classics: AC Milan (h) 15.09.21</title>
     <desc lang="el">An intriguing clash between two of the tournament’s most successful clubs kicks off the group phase of the 2021/22 Champions League</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915140000 GMT+3" channel="94430673">
+    <title lang="el">West Ham United v Liverpool U21: The Match</title>
+    <desc lang="el">All the action as Liverpool U21 take on West Ham United.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -125823,6 +126639,18 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916210000 GMT+3" stop="20260916222000 GMT+3" channel="39337317">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ68</title>
+    <desc lang="el">Ελληνική Σειρά:Τα εξώδικα συνεχίζονται, το δημοσίευμα για την ERGAN ρίχνει λάδι στη φωτιά και ο Οδυσσέας είναι πεπεισμένος πως πίσω απ’ όλα κρύβεται η Αρετή. Αποφασισμένος να φτάσει μέχρι τέλους, στρέφεται στον Μπακύρα, ζητώντας πληροφορίες για τους κρυφούς εταίρους της Triton. Την ίδια ώρα, ο Άλκης μπλέκεται όλο και πιο βαθιά σε μια επικίνδυνη ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916222000 GMT+3" stop="20260916234500 GMT+3" channel="39337317">
+    <title lang="el">PORTO LEONE Κ1 ΕΠ12</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Καπετανάκος µαθαίνει για την συµφωνία που έχει κάνει η Αλεξάνδρα µε τον Βούλγαρη, ενώ ο Γιάμαρης λυγίζει µπροστά στην Γαλήνη, µε την ατµόσφαιρα µεταξύ τους να ηλεκτρίζεται. Η Γαλήνη προσπαθεί να διαχειριστεί την αποκάλυψη του Γιάμαρη ότι υπάρχει µάρτυρας που είδε τον Γρηγόρη το βράδυ του φονικού να είναι µαζί µε τον Στράτο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260916234500 GMT+3" stop="20260917003000 GMT+3" channel="39337317">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
@@ -127088,6 +127916,18 @@
     <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Σε μια εποχή όπου τα πολιτικά, οικονομικά και κοινωνικά δεδομένα αλλάζουν και οι πολίτες αναζητούν την έγκυρη και έγκαιρη ενημέρωση, έρχονται οι Ειδήσεις του ALPHA με δυναμικό, μαχητικό, αποκαλυπτικό και αξιόπιστο χαρακτήρα.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260916210000 GMT+3" stop="20260916222000 GMT+3" channel="289607">
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ68</title>
+    <desc lang="el">Ελληνική Σειρά:Τα εξώδικα συνεχίζονται, το δημοσίευμα για την ERGAN ρίχνει λάδι στη φωτιά και ο Οδυσσέας είναι πεπεισμένος πως πίσω απ’ όλα κρύβεται η Αρετή. Αποφασισμένος να φτάσει μέχρι τέλους, στρέφεται στον Μπακύρα, ζητώντας πληροφορίες για τους κρυφούς εταίρους της Triton. Την ίδια ώρα, ο Άλκης μπλέκεται όλο και πιο βαθιά σε μια επικίνδυνη ιστορία.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916222000 GMT+3" stop="20260916234500 GMT+3" channel="289607">
+    <title lang="el">PORTO LEONE Κ1 ΕΠ12</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Καπετανάκος µαθαίνει για την συµφωνία που έχει κάνει η Αλεξάνδρα µε τον Βούλγαρη, ενώ ο Γιάμαρης λυγίζει µπροστά στην Γαλήνη, µε την ατµόσφαιρα µεταξύ τους να ηλεκτρίζεται. Η Γαλήνη προσπαθεί να διαχειριστεί την αποκάλυψη του Γιάμαρη ότι υπάρχει µάρτυρας που είδε τον Γρηγόρη το βράδυ του φονικού να είναι µαζί µε τον Στράτο.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
   </programme>
   <programme start="20260916234500 GMT+3" stop="20260917003000 GMT+3" channel="289607">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
@@ -136083,6 +136923,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916010000 GMT+3" stop="20260916020000 GMT+3" channel="213719">
+    <title lang="el">Post Credits Κ1 ΕΠ2</title>
+    <desc lang="el">Christian Tom, co-founder and CEO of AND Media, explores a new path for creators who once had to wait for Hollywood to turn their ideas into shows.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916020000 GMT+3" stop="20260916040000 GMT+3" channel="213719">
     <title lang="el">Bloomberg The Asia Trade</title>
     <desc lang="el">Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
@@ -136161,6 +137007,12 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916203000 GMT+3" stop="20260916230000 GMT+3" channel="213719">
+    <title lang="el">Bloomberg Surveillance: The Fed Decides</title>
+    <desc lang="el">The Fed delivers its latest interest rate decision - Tom Keene, Jonathan Ferro, Lisa Abramowicz, Michael McKee and Romaine Bostick discuss the market implications with big names from Wall Street.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916230000 GMT+3" stop="20260917000000 GMT+3" channel="213719">
     <title lang="el">Bloomberg The Close</title>
     <desc lang="el">Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
@@ -136170,6 +137022,12 @@
   <programme start="20260916000000 GMT+3" stop="20260916010000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916010000 GMT+3" stop="20260916020000 GMT+3" channel="71037984">
+    <title lang="el">Post Credits Κ1 ΕΠ2</title>
+    <desc lang="el">Christian Tom, co-founder and CEO of AND Media, explores a new path for creators who once had to wait for Hollywood to turn their ideas into shows.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -136248,6 +137106,12 @@
   <programme start="20260916200000 GMT+3" stop="20260916203000 GMT+3" channel="71037984">
     <title lang="el">Bloomberg: Balance of Power</title>
     <desc lang="el">Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Trump&apos;s administration.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916203000 GMT+3" stop="20260916230000 GMT+3" channel="71037984">
+    <title lang="el">Bloomberg Surveillance: The Fed Decides</title>
+    <desc lang="el">The Fed delivers its latest interest rate decision - Tom Keene, Jonathan Ferro, Lisa Abramowicz, Michael McKee and Romaine Bostick discuss the market implications with big names from Wall Street.</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -140208,6 +141072,12 @@
   <programme start="20260916100000 GMT+3" stop="20260916120000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Tottenham Hotspur: The Match</title>
     <desc lang="el">All the action as Liverpool take on Tottenham Hotspur.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916140000 GMT+3" channel="94430673">
+    <title lang="el">West Ham United v Liverpool U21: The Match</title>
+    <desc lang="el">All the action as Liverpool U21 take on West Ham United.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
