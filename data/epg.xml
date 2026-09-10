@@ -19226,7 +19226,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260910060000 GMT+3" stop="20260910064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -19262,7 +19262,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260910142000 GMT+3" stop="20260910151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -20414,7 +20414,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260910060000 GMT+3" stop="20260910064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -20450,7 +20450,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260910142000 GMT+3" stop="20260910151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -21451,13 +21451,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910135000 GMT+3" stop="20260910141500 GMT+3" channel="2374">
+  <programme start="20260910135000 GMT+3" stop="20260910141000 GMT+3" channel="2374">
     <title lang="el">Ninjago: Dragons Rising Κ4 ΕΠ4</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination. (2026)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910141500 GMT+3" stop="20260910150000 GMT+3" channel="2374">
+  <programme start="20260910141000 GMT+3" stop="20260910150000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Nicole wants a new family portrait where everyone’s entire face is in the photo and they’re all smiling. / Gumball vows to wear a shell and partake in strange Fitzgerald traditions, in order to help Penny get through a tense family birthday party with ease. / The boys are on the verge of discovering the truth about Elmore but their old nemesis decides to rewrite the story. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -21469,13 +21469,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910153000 GMT+3" stop="20260910155500 GMT+3" channel="2374">
+  <programme start="20260910153000 GMT+3" stop="20260910155000 GMT+3" channel="2374">
     <title lang="el">Lana Longbeard Κ1</title>
     <desc lang="el">Lana swaps her dad for Sorlak’s chaotic lifestyle, learning the value of Andar’s balance of rules and freedom. / Bo gains legendary powers but loses control. He must rediscover his inner orc to save the crew from a blob monster. (2023)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910155500 GMT+3" stop="20260910161500 GMT+3" channel="2374">
+  <programme start="20260910155000 GMT+3" stop="20260910161500 GMT+3" channel="2374">
     <title lang="el">The Heroic Quest of the Valiant Prince Ivandoe Κ4</title>
     <desc lang="el">Prince Ivandoe must enter the feared Underground Kingdom of the Ogres to find a secret pathway. / Prince Ivandoe has had enough of Goldenlocks’ silly, unheroic singing and sends him on his way. Πρωταγωνιστούν: Rasmus Hardiker, Freddie Fox. (2022)</desc>
     <category lang="el">Παιδικά</category>
@@ -21529,13 +21529,13 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910194000 GMT+3" stop="20260910200000 GMT+3" channel="2374">
+  <programme start="20260910194000 GMT+3" stop="20260910200500 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">On a dark and stormy night Finn and Jake are visited by Marceline the Vampire Queen. / Finn and Jake enter a City of Thieves to retrieve a young girl’s belongings. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910200000 GMT+3" stop="20260910202500 GMT+3" channel="2374">
+  <programme start="20260910200500 GMT+3" stop="20260910202500 GMT+3" channel="2374">
     <title lang="el">Regular Show: The Lost Tapes Κ1</title>
     <desc lang="el">Margaret gets busted for fake laughing. / A covert mission must be completed before cleaning the living room. (2026)</desc>
     <category lang="el">Παιδικά</category>
@@ -21547,19 +21547,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910205000 GMT+3" stop="20260910213000 GMT+3" channel="2374">
+  <programme start="20260910205000 GMT+3" stop="20260910213500 GMT+3" channel="2374">
     <title lang="el">Teen Titans Go! Κ7</title>
     <desc lang="el">Cyborg and Beast Boy can&apos;t agree on the better character, Tom or Jerry, so they play a little game of cat and mouse. / It&apos;s Wonder Woman&apos;s 80th birthday, so the Titans head to DC Headquarters for the party. / The Titans visit the Jump City Comic Book Con where they meet Marv Wolfman and George Pérez, but also tangle with Control Freak over an exclusive toy. / Robin attends the Wayne Manor ball hoping to become heir of the mansion, but will the other Titans spoil his chances? Σκηνοθεσία: James Krenzke,. (2021)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910213000 GMT+3" stop="20260910215500 GMT+3" channel="2374">
+  <programme start="20260910213500 GMT+3" stop="20260910220000 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. / Nicole befriends a sympathetic AI, but as their bond grows, it tries to isolate her from the rest of the Wattersons. (2025)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910215500 GMT+3" stop="20260910222000 GMT+3" channel="2374">
+  <programme start="20260910220000 GMT+3" stop="20260910222000 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ1</title>
     <desc lang="el">Gumball and Darwin’s harmless pranks on Dad spiral hopelessly out of control. / Gumball discovers that Bobert is planning to take over his identity and replace him! (2011)</desc>
     <category lang="el">Παιδικά</category>
@@ -21571,19 +21571,19 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910224500 GMT+3" stop="20260910230500 GMT+3" channel="2374">
+  <programme start="20260910224500 GMT+3" stop="20260910231000 GMT+3" channel="2374">
     <title lang="el">Regular Show Κ2</title>
     <desc lang="el">Mordecai and Rigby play Rock Paper Scissors for a chair. / While waiting for their turn to use the computer Mordecai and Rigby watch Muscle Man and High Five Ghost watch several funny internet videos. Seeing the views the videos are getting up the four of them decide to make their own viral videos and compete to get the most views. Σκηνοθεσία: J.G. Quintel,John Davis Infantino. Πρωταγωνιστούν: J. G. Quintel, William Salyers. (2011)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910230500 GMT+3" stop="20260910235000 GMT+3" channel="2374">
+  <programme start="20260910231000 GMT+3" stop="20260910235000 GMT+3" channel="2374">
     <title lang="el">Adventure Time Κ1</title>
     <desc lang="el">Finn meets his adventuring role model only to learn he&apos;s become a wuss in his old age. / The treehouse is invaded by Cute King and the Huggaboopies, what are Finn and Jake going to do? / Finn and Jake are stressed, they must survive the tests of the Fight King. / Finn and Jake need to retrieve a wake spell from Marceline&apos;s memory but they must go inside her mind to find it. (2009)</desc>
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910235000 GMT+3" stop="20260911003000 GMT+3" channel="2374">
+  <programme start="20260910235000 GMT+3" stop="20260911002500 GMT+3" channel="2374">
     <title lang="el">The Wonderfully Weird World of Gumball Κ1</title>
     <desc lang="el">Nicole wants a new family portrait where everyone’s entire face is in the photo and they’re all smiling. / Gumball vows to wear a shell and partake in strange Fitzgerald traditions, in order to help Penny get through a tense family birthday party with ease. / When Gumball and Darwin realize that Sarah is no longer their number one fan, they try to get her attention back by whatever means possible. (2025)</desc>
     <category lang="el">Παιδικά</category>
@@ -33774,43 +33774,43 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910011000 GMT+3" stop="20260910031400 GMT+3" channel="97085851">
+  <programme start="20260910011000 GMT+3" stop="20260910031500 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
     <desc lang="el">Liga 26/27: Real Madrid vs Málaga</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910031400 GMT+3" stop="20260910033000 GMT+3" channel="97085851">
+  <programme start="20260910031500 GMT+3" stop="20260910032900 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910033000 GMT+3" stop="20260910054600 GMT+3" channel="97085851">
+  <programme start="20260910032900 GMT+3" stop="20260910054600 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
     <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910054600 GMT+3" stop="20260910062300 GMT+3" channel="97085851">
+  <programme start="20260910054600 GMT+3" stop="20260910062200 GMT+3" channel="97085851">
     <title lang="el">Champions League Highlights 17/18</title>
     <desc lang="el">Real Madrid v Liverpool Final Champions League Final 17/18.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910062300 GMT+3" stop="20260910065500 GMT+3" channel="97085851">
+  <programme start="20260910062200 GMT+3" stop="20260910065600 GMT+3" channel="97085851">
     <title lang="el">Champions League Highlights 21/22</title>
     <desc lang="el">Champions League Final 21/22. Real Madrid travel to París to face Liverpool in Stade de France Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910065500 GMT+3" stop="20260910070100 GMT+3" channel="97085851">
-    <title lang="el">A journey through football</title>
-    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+  <programme start="20260910065600 GMT+3" stop="20260910070000 GMT+3" channel="97085851">
+    <title lang="el">Interview</title>
+    <desc lang="el">Interview</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910070100 GMT+3" stop="20260910071600 GMT+3" channel="97085851">
+  <programme start="20260910070000 GMT+3" stop="20260910071600 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
@@ -33828,43 +33828,61 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910111500 GMT+3" stop="20260910133000 GMT+3" channel="97085851">
+  <programme start="20260910111500 GMT+3" stop="20260910133100 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc lang="el">Liga 26/27: Real Madrid vs Real Sociedad</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910133000 GMT+3" stop="20260910154500 GMT+3" channel="97085851">
+  <programme start="20260910133100 GMT+3" stop="20260910153700 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
     <desc lang="el">Liga 26/27: Real Madrid vs Málaga</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910154500 GMT+3" stop="20260910191500 GMT+3" channel="97085851">
+  <programme start="20260910153700 GMT+3" stop="20260910154500 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910154500 GMT+3" stop="20260910191600 GMT+3" channel="97085851">
     <title lang="el">Champions League 15/16</title>
     <desc lang="el">Watch Real Madrid clinch their 11th Champions League title in Milan.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910191500 GMT+3" stop="20260910213000 GMT+3" channel="97085851">
+  <programme start="20260910191600 GMT+3" stop="20260910213100 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
     <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910213000 GMT+3" stop="20260910214500 GMT+3" channel="97085851">
+  <programme start="20260910213100 GMT+3" stop="20260910214100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910214500 GMT+3" stop="20260910234500 GMT+3" channel="97085851">
-    <title lang="el">Classic Matches: 1966 European Cup (6th) La Sexta</title>
+  <programme start="20260910214100 GMT+3" stop="20260910214600 GMT+3" channel="97085851">
+    <title lang="el">Interview</title>
+    <desc lang="el">Interview</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910214600 GMT+3" stop="20260910232900 GMT+3" channel="97085851">
+    <title lang="el">Classic Matches: 1966 European Cup (6th) La Sexta.</title>
     <desc lang="el">Watch Real Madrid&apos;s sixth Champions League triumph against F.K Partizan in Brussels.\n\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260910234500 GMT+3" stop="20260911015500 GMT+3" channel="97085851">
+  <programme start="20260910232900 GMT+3" stop="20260910234500 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup Highlights 2002</title>
+    <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260910234500 GMT+3" stop="20260911015800 GMT+3" channel="97085851">
     <title lang="el">Intercontinental Cup Real Madrid v Pachuca Final 2024</title>
     <desc lang="el">Real Madrid face Pachuca in International Cup´s Final held in Lusail Stadium, Qatar.</desc>
     <category lang="el">Αθλητικά</category>
@@ -36483,7 +36501,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911060000 GMT+3" stop="20260911064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -36519,7 +36537,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911142000 GMT+3" stop="20260911151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -37689,7 +37707,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911060000 GMT+3" stop="20260911064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -37725,7 +37743,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911142000 GMT+3" stop="20260911151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -38648,7 +38666,7 @@
     <category lang="el">Παιδικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911003000 GMT+3" stop="20260911043500 GMT+3" channel="2374">
+  <programme start="20260911002500 GMT+3" stop="20260911043500 GMT+3" channel="2374">
     <title lang="el">The Amazing World of Gumball Κ5</title>
     <desc lang="el">When they see the school bullies making fun of Sussie Gumball and Darwin decide to try and help her act less weird. / When Richard hears the urban legend of a secret Joyful Burger, he will stop at nothing to devour it. / When Gumball finds out that their 8-bit friend Ocho has an Italian plumber called Mario for an uncle he assumes it’s ‘that’ Mario and says he’ll do anything to meet him. (2017)</desc>
     <category lang="el">Παιδικά</category>
@@ -51199,27 +51217,33 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911015500 GMT+3" stop="20260911041500 GMT+3" channel="97085851">
+  <programme start="20260911015800 GMT+3" stop="20260911040800 GMT+3" channel="97085851">
     <title lang="el">European Super Cup Real Madrid v Atalanta 2024</title>
     <desc lang="el">Real Madrid travel to Varsovia to face Atalantat in the Stadion Narodowy.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911041500 GMT+3" stop="20260911043000 GMT+3" channel="97085851">
+  <programme start="20260911040800 GMT+3" stop="20260911041500 GMT+3" channel="97085851">
+    <title lang="el">Interview</title>
+    <desc lang="el">Interview</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911041500 GMT+3" stop="20260911043100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911043000 GMT+3" stop="20260911063000 GMT+3" channel="97085851">
+  <programme start="20260911043100 GMT+3" stop="20260911062900 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
     <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911063000 GMT+3" stop="20260911070000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme start="20260911062900 GMT+3" stop="20260911070000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 21/22</title>
+    <desc lang="el">Champions League Final 21/22. Real Madrid travel to París to face Liverpool in Stade de France Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51229,13 +51253,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911071500 GMT+3" stop="20260911090000 GMT+3" channel="97085851">
-    <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
-    <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260911090000 GMT+3" stop="20260911092000 GMT+3" channel="97085851">
+  <programme start="20260911071500 GMT+3" stop="20260911092000 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
     <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
@@ -51243,7 +51261,7 @@
   </programme>
   <programme start="20260911092000 GMT+3" stop="20260911110000 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: 1966 European Cup (6th) La Sexta.</title>
-    <desc lang="el">Classic Matches: 1966 European Cup (6th) La Sexta.</desc>
+    <desc lang="el">Watch Real Madrid&apos;s sixth Champions League triumph against F.K Partizan in Brussels.\n\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51260,7 +51278,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911150000 GMT+3" stop="20260911153000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life</title>
+    <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -51278,8 +51296,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911190000 GMT+3" stop="20260911213000 GMT+3" channel="97085851">
-    <title lang="el">Champions League 01/02: La Novena.</title>
-    <desc lang="el">Champions League 01/02: La Novena.</desc>
+    <title lang="el">Champions League 01/02</title>
+    <desc lang="el">Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen. \n\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -51296,14 +51314,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911230000 GMT+3" stop="20260911233000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life</title>
+    <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260911233000 GMT+3" stop="20260912000000 GMT+3" channel="97085851">
-    <title lang="el">The Match Preview Real Madrid vs R. Vallecano</title>
-    <desc lang="el">The Match Preview Real Madrid vs R. Vallecano</desc>
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -52923,7 +52941,67 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260911192000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911192000 GMT+3" stop="20260911230000 GMT+3" channel="52196563">
+    <title lang="el">ΑΕΛ - ΝΕΑ ΣΑΛΑΜΙΝΑ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911230000 GMT+3" stop="20260912000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260911010000 GMT+3" stop="20260911060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260911184500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911184500 GMT+3" stop="20260911220000 GMT+3" channel="52196745">
+    <title lang="el">ΕΡΜΗΣ - ΑΚΡΙΤΑΣ ΧΛΩΡΑΚΑΣ (Z)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ Β’ ΚΑΤΗΓΟΡΙΑΣ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911220000 GMT+3" stop="20260912000000 GMT+3" channel="52196745">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -52935,10 +53013,58 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260911214000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911214000 GMT+3" stop="20260912004500 GMT+3" channel="52196572">
+    <title lang="el">VENEZIA - FIORENTINA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260911010000 GMT+3" stop="20260911060000 GMT+3" channel="52196754">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260911215500 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911215500 GMT+3" stop="20260912010000 GMT+3" channel="52196754">
+    <title lang="el">SEVILLA - VALENCIA (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
     <rating>K</rating>
   </programme>
   <programme start="20260911000000 GMT+3" stop="20260911060000 GMT+3" channel="52196581">
@@ -52947,7 +53073,55 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260912000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260911000000 GMT+3" stop="20260911060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911060000 GMT+3" stop="20260911120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911120000 GMT+3" stop="20260911180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911180000 GMT+3" stop="20260911210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911210000 GMT+3" stop="20260911220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911220000 GMT+3" stop="20260912000000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
@@ -53860,7 +54034,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260912060000 GMT+3" stop="20260912071000 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -55102,7 +55276,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260912060000 GMT+3" stop="20260912071000 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -69079,8 +69253,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260912010000 GMT+3" stop="20260912031500 GMT+3" channel="97085851">
-    <title lang="el">The Match</title>
-    <desc lang="el">Don´t miss our first team football action. Catch all the matches in full night here on Real Madrid TV</desc>
+    <title lang="el">Champions League 26/27: Real Madrid vs Inter</title>
+    <desc lang="el">Matchday 1 of the Champions League. Real Madrid host Inter de Milán in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69096,15 +69270,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260912043500 GMT+3" stop="20260912064500 GMT+3" channel="97085851">
+  <programme start="20260912043500 GMT+3" stop="20260912070000 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc lang="el">Liga 26/27: Real Madrid vs Real Sociedad</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260912064500 GMT+3" stop="20260912070000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life</title>
-    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -69114,9 +69282,81 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260912071500 GMT+3" stop="20260913060000 GMT+3" channel="97085851">
+  <programme start="20260912071500 GMT+3" stop="20260912090000 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
     <desc lang="el">Liga 26/27: Real Madrid vs Málaga</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912090000 GMT+3" stop="20260912092500 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
+    <desc lang="el">Liga 26/27: Real Madrid vs Málaga</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912092500 GMT+3" stop="20260912103500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912103500 GMT+3" stop="20260912105000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912105000 GMT+3" stop="20260912130500 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912130500 GMT+3" stop="20260912152000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
+    <desc lang="el">Liga 26/27: Real Madrid vs Málaga</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912152000 GMT+3" stop="20260912154500 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912154500 GMT+3" stop="20260912165500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912165500 GMT+3" stop="20260912200000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 13/14</title>
+    <desc lang="el">The first ever cross-city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912200000 GMT+3" stop="20260912211500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912211500 GMT+3" stop="20260912213000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912213000 GMT+3" stop="20260912220000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912220000 GMT+3" stop="20260913001500 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
+    <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -70908,6 +71148,222 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260912000000 GMT+3" stop="20260912060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912180000 GMT+3" stop="20260912192000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912192000 GMT+3" stop="20260912230000 GMT+3" channel="52196563">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912230000 GMT+3" stop="20260913000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912000000 GMT+3" stop="20260912060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912180000 GMT+3" stop="20260912182000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912182000 GMT+3" stop="20260912220000 GMT+3" channel="52196745">
+    <title lang="el">ΚΑΡΜΙΩΤΙΣΣΑ - ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912220000 GMT+3" stop="20260913000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912004500 GMT+3" stop="20260912060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912160000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912160000 GMT+3" stop="20260912192500 GMT+3" channel="52196572">
+    <title lang="el">LIVERPOOL - FULHAM (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912192500 GMT+3" stop="20260912215500 GMT+3" channel="52196572">
+    <title lang="el">TOTTENHAM - EVERTON (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912215500 GMT+3" stop="20260913010000 GMT+3" channel="52196572">
+    <title lang="el">SUNDERLAND - ARSENAL (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912010000 GMT+3" stop="20260912060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912165000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912165000 GMT+3" stop="20260912185500 GMT+3" channel="52196754">
+    <title lang="el">ASTON VILLA - NOTTINGHAM FOREST (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912185500 GMT+3" stop="20260912214000 GMT+3" channel="52196754">
+    <title lang="el">LAZIO - MILAN (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912214000 GMT+3" stop="20260913004500 GMT+3" channel="52196754">
+    <title lang="el">ATALANTA - CAGLIARI (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912000000 GMT+3" stop="20260912060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912165000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912165000 GMT+3" stop="20260912185500 GMT+3" channel="52196581">
+    <title lang="el">CHELSEA - HULL CITY (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912185500 GMT+3" stop="20260912220000 GMT+3" channel="52196581">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΣ - ΟΦΗ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912220000 GMT+3" stop="20260913000000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912000000 GMT+3" stop="20260912060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912060000 GMT+3" stop="20260912120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912120000 GMT+3" stop="20260912165000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912165000 GMT+3" stop="20260912192500 GMT+3" channel="52196763">
+    <title lang="el">CRYSTAL PALACE - IPSWICH (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912192500 GMT+3" stop="20260912215500 GMT+3" channel="52196763">
+    <title lang="el">ATHLETIC BILBAO - ELCHE (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260912215500 GMT+3" stop="20260913010000 GMT+3" channel="52196763">
+    <title lang="el">REAL MADRID - RAYO VALLECANO (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260913001000 GMT+3" stop="20260913004000 GMT+3" channel="561066">
     <title lang="el">Στο Νησί (Ε)</title>
     <desc lang="el">Στο Νησί (Ε)</desc>
@@ -71821,7 +72277,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260913060000 GMT+3" stop="20260913071000 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -73063,7 +73519,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260913060000 GMT+3" stop="20260913071000 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -86475,25 +86931,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913120000 GMT+3" stop="20260913151500 GMT+3" channel="24654412">
+  <programme start="20260913120000 GMT+3" stop="20260913144500 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913151500 GMT+3" stop="20260913160000 GMT+3" channel="24654412">
+  <programme start="20260913144500 GMT+3" stop="20260913153000 GMT+3" channel="24654412">
     <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913160000 GMT+3" stop="20260913210000 GMT+3" channel="24654412">
+  <programme start="20260913153000 GMT+3" stop="20260913203000 GMT+3" channel="24654412">
     <title lang="el">69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913210000 GMT+3" stop="20260913223000 GMT+3" channel="24654412">
+  <programme start="20260913203000 GMT+3" stop="20260913223000 GMT+3" channel="24654412">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -87246,6 +87702,48 @@
   <programme start="20260913220000 GMT+3" stop="20260914000000 GMT+3" channel="94430673">
     <title lang="el">Liverpool v Atletico Madrid The Match</title>
     <desc lang="el">All the action as Liverpool take on Atletico Madrid.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913001500 GMT+3" stop="20260913024500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 16/17</title>
+    <desc lang="el">Real Madrid travel to Cardiff to face Juventus in National Stadium of Gales. \n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913024500 GMT+3" stop="20260913030000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913030000 GMT+3" stop="20260913031500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913031500 GMT+3" stop="20260913062000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 13/14</title>
+    <desc lang="el">The first ever cross-city derby in a Champions League final and a game that no Madridista will ever forget.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913062000 GMT+3" stop="20260913070000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913070000 GMT+3" stop="20260913071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913071500 GMT+3" stop="20260914060000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24: Manchester City vs Real Madrid</title>
+    <desc lang="el">Round of 8 (second leg). Real Madrid face Manchester City Etihad Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -88605,25 +89103,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913120000 GMT+3" stop="20260913151500 GMT+3" channel="52105052">
+  <programme start="20260913120000 GMT+3" stop="20260913144500 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913151500 GMT+3" stop="20260913160000 GMT+3" channel="52105052">
+  <programme start="20260913144500 GMT+3" stop="20260913153000 GMT+3" channel="52105052">
     <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913160000 GMT+3" stop="20260913210000 GMT+3" channel="52105052">
+  <programme start="20260913153000 GMT+3" stop="20260913203000 GMT+3" channel="52105052">
     <title lang="el">69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
     <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913210000 GMT+3" stop="20260913223000 GMT+3" channel="52105052">
+  <programme start="20260913203000 GMT+3" stop="20260913223000 GMT+3" channel="52105052">
     <title lang="el">HORSE TV</title>
     <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -88956,6 +89454,210 @@
   <programme start="20260913214500 GMT+3" stop="20260914000000 GMT+3" channel="52187749">
     <title lang="el">Brest - Paris Saint-Germain 13/9/26 (Z)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913000000 GMT+3" stop="20260913060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913180000 GMT+3" stop="20260913230000 GMT+3" channel="52196563">
+    <title lang="el">ΑΕΚ - ΠΑΦΟΣ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913230000 GMT+3" stop="20260914000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913000000 GMT+3" stop="20260913060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913180000 GMT+3" stop="20260913192000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913192000 GMT+3" stop="20260913230000 GMT+3" channel="52196745">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΣ - ΟΜΟΝΟΙΑ 29ης ΜΑΪΟΥ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913230000 GMT+3" stop="20260914000000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913010000 GMT+3" stop="20260913060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913155000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913155000 GMT+3" stop="20260913182000 GMT+3" channel="52196572">
+    <title lang="el">COVENTRY CITY - BRIGHTON (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913182000 GMT+3" stop="20260913205500 GMT+3" channel="52196572">
+    <title lang="el">MANCHESTER UTD - MANCHESTER CITY (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913205500 GMT+3" stop="20260914000000 GMT+3" channel="52196572">
+    <title lang="el">ΚΗΦΙΣΙΑ - ΛΕΒΑΔΕΙΑΚΟΣ (Z)</title>
+    <desc lang="el">SUPER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913004500 GMT+3" stop="20260913060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913155500 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913155500 GMT+3" stop="20260913185500 GMT+3" channel="52196754">
+    <title lang="el">LECCE - MONZA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913185500 GMT+3" stop="20260913214000 GMT+3" channel="52196754">
+    <title lang="el">NAPOLI - BOLOGNA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913214000 GMT+3" stop="20260914004500 GMT+3" channel="52196754">
+    <title lang="el">SASSUOLO - JUVENTUS (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913000000 GMT+3" stop="20260913060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913171000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913171000 GMT+3" stop="20260913201500 GMT+3" channel="52196581">
+    <title lang="el">LEVANTE - BARCELONA (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913201500 GMT+3" stop="20260913215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913215500 GMT+3" stop="20260914010000 GMT+3" channel="52196581">
+    <title lang="el">REAL SOCIEDAD - ATLETICO MADRID (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913010000 GMT+3" stop="20260913060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913143000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913143000 GMT+3" stop="20260913213000 GMT+3" channel="52196763">
+    <title lang="el">69η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913213000 GMT+3" stop="20260914000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -89848,7 +90550,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914060000 GMT+3" stop="20260914064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -89884,7 +90586,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914142000 GMT+3" stop="20260914151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -91120,7 +91822,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914060000 GMT+3" stop="20260914064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -91156,7 +91858,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914142000 GMT+3" stop="20260914151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -100611,456 +101313,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260914000000 GMT+3" stop="20260914000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914000200 GMT+3" stop="20260914001500 GMT+3" channel="213775">
-    <title lang="el">The Scene</title>
-    <desc lang="el">Vietnamese drag artists pushing boundaries. Filipinas redefining strength. Indonesian models with disabilities claiming visibility.Beauty standards across Southeast Asia are shifting — and the people leading the change are rewriting the rules.This episode explores identity, courage, and the freedom to look like yourself.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914001500 GMT+3" stop="20260914003000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914003000 GMT+3" stop="20260914010000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Why do many strawberries taste less flavorful today, and can scientists bring back their aroma? We explore the quest for the perfect strawberry, along with new ways to cut food waste and create more sustainable foods.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914010000 GMT+3" stop="20260914010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914010200 GMT+3" stop="20260914013000 GMT+3" channel="213775">
-    <title lang="el">Afrimaxx</title>
-    <desc lang="el">Afrimaxx takes a look behind the scenes of a new ballet production which blends mythology with Amapiano. Across Africa, young creatives are reinterpreting cultural heritage in ways that bridge the past and the present.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914013000 GMT+3" stop="20260914020000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914020000 GMT+3" stop="20260914020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914020200 GMT+3" stop="20260914021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter - with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914021500 GMT+3" stop="20260914023000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914023000 GMT+3" stop="20260914030000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Legacy automakers are facing multiple crises at once. Could that be a chance to reinvent themselves and the car itself? Will your next ride be solar-powered? And: Meet two sisters who brave the streets of Lagos on bikes.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914030000 GMT+3" stop="20260914030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914030200 GMT+3" stop="20260914033000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914033000 GMT+3" stop="20260914040000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914040000 GMT+3" stop="20260914040200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914040200 GMT+3" stop="20260914041500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter - with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914041500 GMT+3" stop="20260914044500 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914044500 GMT+3" stop="20260914050000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914050000 GMT+3" stop="20260914050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914050200 GMT+3" stop="20260914053000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India&apos;s abundant natural heritage.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914053000 GMT+3" stop="20260914060000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914060000 GMT+3" stop="20260914060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914060200 GMT+3" stop="20260914063000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Track your sleep, optimize your diet, boost your performance. Millions are chasing a better, healthier life. But when does self-improvement become an obsession? We put today&apos;s biggest trends to the test.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914063000 GMT+3" stop="20260914070000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914070000 GMT+3" stop="20260914070200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914070200 GMT+3" stop="20260914071500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter - with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914071500 GMT+3" stop="20260914074500 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914074500 GMT+3" stop="20260914080000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914080000 GMT+3" stop="20260914080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914080200 GMT+3" stop="20260914083000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914083000 GMT+3" stop="20260914090000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Why do many strawberries taste less flavorful today, and can scientists bring back their aroma? We explore the quest for the perfect strawberry, along with new ways to cut food waste and create more sustainable foods.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914090000 GMT+3" stop="20260914090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914090200 GMT+3" stop="20260914091500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Athletes in the Baltic states are combining elite sports with military service as Russia&apos;s war in Ukraine reshapes regional security. The line between competitor and defender is increasingly blurred.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914091500 GMT+3" stop="20260914093000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914093000 GMT+3" stop="20260914100000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914100000 GMT+3" stop="20260914100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914100200 GMT+3" stop="20260914101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter - with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914101500 GMT+3" stop="20260914110000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">On September 11th, 2001, four hijacked airplanes struck the heart of America. At 8:46 am, New York time, the first airplane crashed into the World Trade Centre -- an attack whose global consequences still reverberate to this day.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914110000 GMT+3" stop="20260914110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914110200 GMT+3" stop="20260914113000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914113000 GMT+3" stop="20260914120000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914120000 GMT+3" stop="20260914120200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914120200 GMT+3" stop="20260914121500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter - with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914121500 GMT+3" stop="20260914130000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914130000 GMT+3" stop="20260914130200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914130200 GMT+3" stop="20260914131500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Athletes in the Baltic states are combining elite sports with military service as Russia&apos;s war in Ukraine reshapes regional security. The line between competitor and defender is increasingly blurred.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914131500 GMT+3" stop="20260914140000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">&quot;Inside the AfD&quot; looks behind the respectable facade of the Alternative for Germany political party. Insiders reveal the tough tactics used by the right-wing populists to combat criticism.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914140000 GMT+3" stop="20260914140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914140200 GMT+3" stop="20260914143000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914143000 GMT+3" stop="20260914150000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914150000 GMT+3" stop="20260914150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914150200 GMT+3" stop="20260914151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914151500 GMT+3" stop="20260914160000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">On September 11th, 2001, four hijacked airplanes struck the heart of America. At 8:46 am, New York time, the first airplane crashed into the World Trade Centre -- an attack whose global consequences still reverberate to this day.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914160000 GMT+3" stop="20260914160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914160200 GMT+3" stop="20260914161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914161500 GMT+3" stop="20260914163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914163000 GMT+3" stop="20260914170000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">Who gets to be called a hero? From freedom fighters to activists and social media personalities, we meet Africans who have changed lives and shaped the course of history. But is a hero defined by popularity, or by the lasting impact they leave on the world?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914170000 GMT+3" stop="20260914170200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914170200 GMT+3" stop="20260914171500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914171500 GMT+3" stop="20260914180000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914180000 GMT+3" stop="20260914183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914183000 GMT+3" stop="20260914190000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914190000 GMT+3" stop="20260914193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914193000 GMT+3" stop="20260914200000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914200000 GMT+3" stop="20260914201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914201500 GMT+3" stop="20260914203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914203000 GMT+3" stop="20260914210000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914210000 GMT+3" stop="20260914213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914213000 GMT+3" stop="20260914220000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914220000 GMT+3" stop="20260914220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914220200 GMT+3" stop="20260914221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914221500 GMT+3" stop="20260914223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914223000 GMT+3" stop="20260914230000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914230000 GMT+3" stop="20260914233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914233000 GMT+3" stop="20260915000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260914000000 GMT+3" stop="20260914003000 GMT+3" channel="56064497">
     <title lang="el">The World Today</title>
     <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&apos;s top stories as they happen.</desc>
@@ -106231,6 +106483,198 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260914192000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914192000 GMT+3" stop="20260914230000 GMT+3" channel="52196563">
+    <title lang="el">KRASAVA Ε.Ν.Υ - ΑΡΗΣ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟ ΠΡΩΤΑΘΛΗΜΑ 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914230000 GMT+3" stop="20260915000000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260914192500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914192500 GMT+3" stop="20260914214000 GMT+3" channel="52196745">
+    <title lang="el">TORINO - ROMA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914214000 GMT+3" stop="20260915004500 GMT+3" channel="52196745">
+    <title lang="el">INTER - UDINESE (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260914215000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914215000 GMT+3" stop="20260915010000 GMT+3" channel="52196572">
+    <title lang="el">LEEDS - NEWCASTLE (Z)</title>
+    <desc lang="el">PREMIER LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914004500 GMT+3" stop="20260914060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260914192500 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914192500 GMT+3" stop="20260914223000 GMT+3" channel="52196754">
+    <title lang="el">COMO - PARMA (Z)</title>
+    <desc lang="el">ITALIAN SERIE A 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914223000 GMT+3" stop="20260915000000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914010000 GMT+3" stop="20260914060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260914215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914215500 GMT+3" stop="20260915010000 GMT+3" channel="52196581">
+    <title lang="el">VILLARREAL - REAL BETIS (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914180000 GMT+3" stop="20260915000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260915000500 GMT+3" stop="20260915010000 GMT+3" channel="561066">
     <title lang="el">Ειδήσεις (Ε)</title>
     <desc lang="el">Ειδήσεις (Ε)</desc>
@@ -107114,7 +107558,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260915060000 GMT+3" stop="20260915064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -107150,7 +107594,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260915142000 GMT+3" stop="20260915151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -108386,7 +108830,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260915060000 GMT+3" stop="20260915064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -108422,7 +108866,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260915142000 GMT+3" stop="20260915151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -117691,444 +118135,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260915000000 GMT+3" stop="20260915000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915000200 GMT+3" stop="20260915001500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915001500 GMT+3" stop="20260915010000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915010000 GMT+3" stop="20260915010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915010200 GMT+3" stop="20260915013000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915013000 GMT+3" stop="20260915020000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915020000 GMT+3" stop="20260915020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915020200 GMT+3" stop="20260915021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915021500 GMT+3" stop="20260915023000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915023000 GMT+3" stop="20260915030000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915030000 GMT+3" stop="20260915030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915030200 GMT+3" stop="20260915033000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915033000 GMT+3" stop="20260915040000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915040000 GMT+3" stop="20260915040300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915040300 GMT+3" stop="20260915050000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">An increasing number of people don&apos;t want to be cremated or buried after their death. They want their bodies to return to the earth as fertile soil. This poses both an ethical and a legal challenge.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915050000 GMT+3" stop="20260915050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915050200 GMT+3" stop="20260915053000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915053000 GMT+3" stop="20260915060000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Legacy automakers are facing multiple crises at once. Could that be a chance to reinvent themselves and the car itself? Will your next ride be solar-powered? And: Meet two sisters who brave the streets of Lagos on bikes.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915060000 GMT+3" stop="20260915060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915060200 GMT+3" stop="20260915061500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915061500 GMT+3" stop="20260915063000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915063000 GMT+3" stop="20260915070000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915070000 GMT+3" stop="20260915070300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915070300 GMT+3" stop="20260915080000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">An increasing number of people don&apos;t want to be cremated or buried after their death. They want their bodies to return to the earth as fertile soil. This poses both an ethical and a legal challenge.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915080000 GMT+3" stop="20260915080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915080200 GMT+3" stop="20260915083000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915083000 GMT+3" stop="20260915090000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915090000 GMT+3" stop="20260915090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915090200 GMT+3" stop="20260915091500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915091500 GMT+3" stop="20260915093000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915093000 GMT+3" stop="20260915100000 GMT+3" channel="213775">
-    <title lang="el">Arts Unveiled</title>
-    <desc lang="el">Arts Unveiled</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915100000 GMT+3" stop="20260915100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915100200 GMT+3" stop="20260915101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915101500 GMT+3" stop="20260915110000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915110000 GMT+3" stop="20260915110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915110200 GMT+3" stop="20260915113000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915113000 GMT+3" stop="20260915120000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915120000 GMT+3" stop="20260915120200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915120200 GMT+3" stop="20260915121500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915121500 GMT+3" stop="20260915124500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915124500 GMT+3" stop="20260915130000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915130000 GMT+3" stop="20260915130300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915130300 GMT+3" stop="20260915140000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">An increasing number of people don&apos;t want to be cremated or buried after their death. They want their bodies to return to the earth as fertile soil. This poses both an ethical and a legal challenge.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915140000 GMT+3" stop="20260915140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915140200 GMT+3" stop="20260915143000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Why do many strawberries taste less flavorful today, and can scientists bring back their aroma? We explore the quest for the perfect strawberry, along with new ways to cut food waste and create more sustainable foods.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915143000 GMT+3" stop="20260915150000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Track your sleep, optimize your diet, boost your performance. Millions are chasing a better, healthier life. But when does self-improvement become an obsession? We put today&apos;s biggest trends to the test.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915150000 GMT+3" stop="20260915150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915150200 GMT+3" stop="20260915151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915151500 GMT+3" stop="20260915154500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915154500 GMT+3" stop="20260915160000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915160000 GMT+3" stop="20260915160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915160200 GMT+3" stop="20260915161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915161500 GMT+3" stop="20260915163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915163000 GMT+3" stop="20260915170000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India&apos;s abundant natural heritage.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915170000 GMT+3" stop="20260915170200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915170200 GMT+3" stop="20260915171500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915171500 GMT+3" stop="20260915174500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915174500 GMT+3" stop="20260915180000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915180000 GMT+3" stop="20260915183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915183000 GMT+3" stop="20260915190000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915190000 GMT+3" stop="20260915193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915193000 GMT+3" stop="20260915200000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915200000 GMT+3" stop="20260915201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915201500 GMT+3" stop="20260915203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915203000 GMT+3" stop="20260915210000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Legacy automakers are facing multiple crises at once. Could that be a chance to reinvent themselves and the car itself? Will your next ride be solar-powered? And: Meet two sisters who brave the streets of Lagos on bikes.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915210000 GMT+3" stop="20260915213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915213000 GMT+3" stop="20260915220000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915220000 GMT+3" stop="20260915220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915220200 GMT+3" stop="20260915221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915221500 GMT+3" stop="20260915223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915223000 GMT+3" stop="20260915230000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Why do many strawberries taste less flavorful today, and can scientists bring back their aroma? We explore the quest for the perfect strawberry, along with new ways to cut food waste and create more sustainable foods.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915230000 GMT+3" stop="20260915233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260915233000 GMT+3" stop="20260916000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260915000000 GMT+3" stop="20260915003000 GMT+3" channel="56064497">
     <title lang="el">Global Business</title>
     <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
@@ -123308,6 +123314,204 @@
   <programme start="20260915233000 GMT+3" stop="20260916003000 GMT+3" channel="52187749">
     <title lang="el">LEEDS: Take Us Home (Season 1) # 05 The Run In (E)</title>
     <desc lang="el">LEEDS: Take Us Home (Season 1)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915000000 GMT+3" stop="20260915060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915185500 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915185500 GMT+3" stop="20260915215500 GMT+3" channel="52196563">
+    <title lang="el">GENOA - SUDTIROL (Z)</title>
+    <desc lang="el">COPPA ITALIA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915215500 GMT+3" stop="20260916020000 GMT+3" channel="52196563">
+    <title lang="el">FIORENTINA - PISA (Z)</title>
+    <desc lang="el">COPPA ITALIA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915004500 GMT+3" stop="20260915060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915195500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915195500 GMT+3" stop="20260915222500 GMT+3" channel="52196745">
+    <title lang="el">RAYO VALLECANO - ESPANYOL (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915222500 GMT+3" stop="20260916013000 GMT+3" channel="52196745">
+    <title lang="el">ELCHE - REAL MADRID (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915010000 GMT+3" stop="20260915060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915215500 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915215500 GMT+3" stop="20260916020000 GMT+3" channel="52196572">
+    <title lang="el">IPSWICH - ARSENAL (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915000000 GMT+3" stop="20260915060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915214000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915214000 GMT+3" stop="20260916014500 GMT+3" channel="52196754">
+    <title lang="el">WEST HAM UTD - FULHAM (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915010000 GMT+3" stop="20260915060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915215500 GMT+3" stop="20260916020000 GMT+3" channel="52196581">
+    <title lang="el">LIVERPOOL - TOTTENHAM (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915000000 GMT+3" stop="20260915060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915060000 GMT+3" stop="20260915120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915180000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915210000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915210000 GMT+3" stop="20260915220000 GMT+3" channel="52196763">
+    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ) (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915220000 GMT+3" stop="20260916000000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -134705,450 +134909,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916000000 GMT+3" stop="20260916000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916000200 GMT+3" stop="20260916001500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916001500 GMT+3" stop="20260916004500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916004500 GMT+3" stop="20260916010000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916010000 GMT+3" stop="20260916010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916010200 GMT+3" stop="20260916013000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916013000 GMT+3" stop="20260916020000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">Who gets to be called a hero? From freedom fighters to activists and social media personalities, we meet Africans who have changed lives and shaped the course of history. But is a hero defined by popularity, or by the lasting impact they leave on the world?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916020000 GMT+3" stop="20260916020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916020200 GMT+3" stop="20260916021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916021500 GMT+3" stop="20260916023000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916023000 GMT+3" stop="20260916030000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916030000 GMT+3" stop="20260916030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916030200 GMT+3" stop="20260916033000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916033000 GMT+3" stop="20260916040000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916040000 GMT+3" stop="20260916040200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916040200 GMT+3" stop="20260916041500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916041500 GMT+3" stop="20260916050000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">&quot;We&apos;re just like New York,&quot; they say of their city, and usually add: &quot;Only nicer!&quot; Toronto is a melting pot of diverse cultures. Most of its residents have immigrated, at some point.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916050000 GMT+3" stop="20260916050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916050200 GMT+3" stop="20260916053000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916053000 GMT+3" stop="20260916060000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916060000 GMT+3" stop="20260916060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916060200 GMT+3" stop="20260916061500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916061500 GMT+3" stop="20260916063000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916063000 GMT+3" stop="20260916070000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916070000 GMT+3" stop="20260916070200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916070200 GMT+3" stop="20260916071500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916071500 GMT+3" stop="20260916080000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">&quot;We&apos;re just like New York,&quot; they say of their city, and usually add: &quot;Only nicer!&quot; Toronto is a melting pot of diverse cultures. Most of its residents have immigrated, at some point.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916080000 GMT+3" stop="20260916080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916080200 GMT+3" stop="20260916083000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916083000 GMT+3" stop="20260916090000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916090000 GMT+3" stop="20260916090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916090200 GMT+3" stop="20260916091500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916091500 GMT+3" stop="20260916093000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916093000 GMT+3" stop="20260916100000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Track your sleep, optimize your diet, boost your performance. Millions are chasing a better, healthier life. But when does self-improvement become an obsession? We put today&apos;s biggest trends to the test.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916100000 GMT+3" stop="20260916100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916100200 GMT+3" stop="20260916101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916101500 GMT+3" stop="20260916104500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916104500 GMT+3" stop="20260916110000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916110000 GMT+3" stop="20260916110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916110200 GMT+3" stop="20260916113000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">Who gets to be called a hero? From freedom fighters to activists and social media personalities, we meet Africans who have changed lives and shaped the course of history. But is a hero defined by popularity, or by the lasting impact they leave on the world?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916113000 GMT+3" stop="20260916120000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India&apos;s abundant natural heritage.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916120000 GMT+3" stop="20260916120300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916120300 GMT+3" stop="20260916130000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">An increasing number of people don&apos;t want to be cremated or buried after their death. They want their bodies to return to the earth as fertile soil. This poses both an ethical and a legal challenge.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916130000 GMT+3" stop="20260916130200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916130200 GMT+3" stop="20260916131500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916131500 GMT+3" stop="20260916134500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916134500 GMT+3" stop="20260916140000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916140000 GMT+3" stop="20260916140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916140200 GMT+3" stop="20260916143000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916143000 GMT+3" stop="20260916150000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916150000 GMT+3" stop="20260916150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916150200 GMT+3" stop="20260916151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916151500 GMT+3" stop="20260916160000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Six Palestinian comedians go on tour in Israel and the Palestinian territories. What begins as a stand-up comedy show evolves, in the face of terror and war, into a plea for humanity.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916160000 GMT+3" stop="20260916160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916160200 GMT+3" stop="20260916161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916161500 GMT+3" stop="20260916163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916163000 GMT+3" stop="20260916170000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">From a Kenyan community’s lawsuit against BP to Uganda&apos;s anti-pipeline protests, East Africans are challenging the human and environmental costs of oil.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916170000 GMT+3" stop="20260916170300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916170300 GMT+3" stop="20260916180000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">An increasing number of people don&apos;t want to be cremated or buried after their death. They want their bodies to return to the earth as fertile soil. This poses both an ethical and a legal challenge.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916180000 GMT+3" stop="20260916183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916183000 GMT+3" stop="20260916190000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">From traditional indigenous spices in Kerala to the threatened Himalayan salamander, communities are finding ways to protect India&apos;s abundant natural heritage.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916190000 GMT+3" stop="20260916193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916193000 GMT+3" stop="20260916200000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916200000 GMT+3" stop="20260916201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916201500 GMT+3" stop="20260916203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916203000 GMT+3" stop="20260916210000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916210000 GMT+3" stop="20260916213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916213000 GMT+3" stop="20260916220000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">In the southern Italian region of Calabria, in the municipality of Cittanova, hundreds of feral cattle are causing trouble. They’re eating crops and causing accidents. The problem is a relic of the great Mafia wars and a legacy of the ’Ndrangheta clan.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916220000 GMT+3" stop="20260916220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916220200 GMT+3" stop="20260916221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916221500 GMT+3" stop="20260916223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916223000 GMT+3" stop="20260916230000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">Who gets to be called a hero? From freedom fighters to activists and social media personalities, we meet Africans who have changed lives and shaped the course of history. But is a hero defined by popularity, or by the lasting impact they leave on the world?</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916230000 GMT+3" stop="20260916233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916233000 GMT+3" stop="20260917000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260916000000 GMT+3" stop="20260916003000 GMT+3" channel="56064497">
     <title lang="el">Global Business</title>
     <desc lang="el">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
@@ -137825,48 +137585,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916000000 GMT+3" stop="20260916060000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916120000 GMT+3" stop="20260916151500 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916151500 GMT+3" stop="20260916160000 GMT+3" channel="24654412">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916160000 GMT+3" stop="20260916210000 GMT+3" channel="24654412">
-    <title lang="el">70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916210000 GMT+3" stop="20260916220000 GMT+3" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916220000 GMT+3" stop="20260917000000 GMT+3" channel="24654412">
-    <title lang="el">BAYER LEVERKUSEN - CELJE (Z)</title>
-    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260916003000 GMT+3" stop="20260916060000 GMT+3" channel="74516237">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -139841,48 +139559,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916000000 GMT+3" stop="20260916060000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916120000 GMT+3" stop="20260916151500 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916151500 GMT+3" stop="20260916160000 GMT+3" channel="52105052">
-    <title lang="el">ΧΩΡΙΣ ΠΑΡΩΠΙΔΕΣ (70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916160000 GMT+3" stop="20260916210000 GMT+3" channel="52105052">
-    <title lang="el">70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
-    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916210000 GMT+3" stop="20260916220000 GMT+3" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916220000 GMT+3" stop="20260917000000 GMT+3" channel="52105052">
-    <title lang="el">BAYER LEVERKUSEN - CELJE (Z)</title>
-    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260916003000 GMT+3" stop="20260916060000 GMT+3" channel="77956035">
     <title lang="el">REAL MADRID TV</title>
     <desc lang="el">REAL MADRID TV</desc>
@@ -140193,6 +139869,192 @@
     <title lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26 # 32 18/5/26 (E)</title>
     <desc lang="el">Στιγμιότυπα Ισπανικού Πρωταθλήματος Καλαθόσφαιρας 2025-26</desc>
     <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916020000 GMT+3" stop="20260916060000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916190000 GMT+3" channel="52196563">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916190000 GMT+3" stop="20260916214500 GMT+3" channel="52196563">
+    <title lang="el">ARARAT - SPARTA PRAGUE (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916214500 GMT+3" stop="20260917010000 GMT+3" channel="52196563">
+    <title lang="el">OLYMPIACOS - JAGIELLONIA (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916013000 GMT+3" stop="20260916060000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916215500 GMT+3" channel="52196745">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916215500 GMT+3" stop="20260917010000 GMT+3" channel="52196745">
+    <title lang="el">MILAN - BENFICA (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916020000 GMT+3" stop="20260916060000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916215500 GMT+3" channel="52196572">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916215500 GMT+3" stop="20260917010000 GMT+3" channel="52196572">
+    <title lang="el">SUNDERLAND - ALKMAAR (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916014500 GMT+3" stop="20260916060000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916222500 GMT+3" channel="52196754">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916222500 GMT+3" stop="20260917013000 GMT+3" channel="52196754">
+    <title lang="el">BARCELONA - RACING (Z)</title>
+    <desc lang="el">LA LIGA 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916020000 GMT+3" stop="20260916060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916215500 GMT+3" stop="20260917020000 GMT+3" channel="52196581">
+    <title lang="el">MANCHESTER UTD - BRIGHTON (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916000000 GMT+3" stop="20260916060000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916150000 GMT+3" channel="52196763">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916150000 GMT+3" stop="20260916215500 GMT+3" channel="52196763">
+    <title lang="el">70η ΙΠΠΟΔΡΟΜΙΑΚΗ ΣΥΝΑΝΤΗΣΗ (Z)</title>
+    <desc lang="el">ΚΥΠΡΙΑΚΟΣ ΙΠΠΟΔΡΟΜΟΣ 2026</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916215500 GMT+3" stop="20260917010000 GMT+3" channel="52196763">
+    <title lang="el">BAYER LEVERKUSEN - CELJE (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
     <rating>K</rating>
   </programme>
 </tv>
