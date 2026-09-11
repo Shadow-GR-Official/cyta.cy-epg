@@ -19069,7 +19069,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911060000 GMT+3" stop="20260911064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -19105,7 +19105,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911142000 GMT+3" stop="20260911151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -19129,7 +19129,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911180000 GMT+3" stop="20260911190000 GMT+3" channel="39337317">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ8 ΕΠ58</title>
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ9 ΕΠ58</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -20275,7 +20275,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911060000 GMT+3" stop="20260911064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -20311,7 +20311,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911142000 GMT+3" stop="20260911151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -20335,7 +20335,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260911180000 GMT+3" stop="20260911190000 GMT+3" channel="289607">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ8 ΕΠ58</title>
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ9 ΕΠ58</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -26654,6 +26654,18 @@
   <programme start="20260911223000 GMT+3" stop="20260911230000 GMT+3" channel="216382">
     <title lang="el">Fashion Magazines</title>
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911230000 GMT+3" stop="20260911233000 GMT+3" channel="216382">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260911233000 GMT+3" stop="20260912000000 GMT+3" channel="216382">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
   </programme>
@@ -36638,7 +36650,7 @@
   </programme>
   <programme start="20260912164500 GMT+3" stop="20260912182500 GMT+3" channel="54111184">
     <title lang="el">Formula 1 Qualifying</title>
-    <desc lang="el">Στη δυναμική πίστα της Μαδρίτης, οι οδηγοί της Formula 1 ανεβάζουν ρυθμό με στόχο την pole position του Grand Prix. Η νέα διαδρομή συνδυάζει γρήγορα κομμάτια, απαιτητικές αλλαγές κατεύθυνσης και σημεία έντονου φρεναρίσματος, δοκιμάζοντας στο έπακρο την ακρίβεια και την ταχύτητα των μονοθέσιων. Στις κατατακτήριες, η παραμικρή λεπτομέρεια μπορεί να κρίνει τη διαφορά, καθώς οι οδηγοί αναζητούν τον ιδανικό γύρο και την καλύτερη δυνατή θέση στην εκκίνηση ενός αγώνα που υπόσχεται ένταση και ανατροπές.</desc>
+    <desc lang="el">Στους απαιτητικούς δρόμους του Μπακού, οι οδηγοί της Formula 1 δίνουν τη δική τους μάχη για την pole position του Grand Prix του Αζερμπαϊτζάν. Η μοναδική street circuit συνδυάζει μεγάλες ευθείες υψηλών ταχυτήτων με στενά και τεχνικά περάσματα, απαιτώντας απόλυτη ακρίβεια, συγκέντρωση και θάρρος.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -36943,7 +36955,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260912060000 GMT+3" stop="20260912071000 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -37982,7 +37994,7 @@
   </programme>
   <programme start="20260912164500 GMT+3" stop="20260912182500 GMT+3" channel="289555">
     <title lang="el">Formula 1 Qualifying</title>
-    <desc lang="el">Στη δυναμική πίστα της Μαδρίτης, οι οδηγοί της Formula 1 ανεβάζουν ρυθμό με στόχο την pole position του Grand Prix. Η νέα διαδρομή συνδυάζει γρήγορα κομμάτια, απαιτητικές αλλαγές κατεύθυνσης και σημεία έντονου φρεναρίσματος, δοκιμάζοντας στο έπακρο την ακρίβεια και την ταχύτητα των μονοθέσιων. Στις κατατακτήριες, η παραμικρή λεπτομέρεια μπορεί να κρίνει τη διαφορά, καθώς οι οδηγοί αναζητούν τον ιδανικό γύρο και την καλύτερη δυνατή θέση στην εκκίνηση ενός αγώνα που υπόσχεται ένταση και ανατροπές.</desc>
+    <desc lang="el">Στους απαιτητικούς δρόμους του Μπακού, οι οδηγοί της Formula 1 δίνουν τη δική τους μάχη για την pole position του Grand Prix του Αζερμπαϊτζάν. Η μοναδική street circuit συνδυάζει μεγάλες ευθείες υψηλών ταχυτήτων με στενά και τεχνικά περάσματα, απαιτώντας απόλυτη ακρίβεια, συγκέντρωση και θάρρος.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -38185,7 +38197,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260912060000 GMT+3" stop="20260912071000 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -43763,7 +43775,7 @@
   </programme>
   <programme start="20260912230000 GMT+3" stop="20260913000000 GMT+3" channel="35973256">
     <title lang="el">Izzy Does It Κ1 ΕΠ2</title>
-    <desc lang="el">Izzy faces a tough renovation as a beach loving family needs help updating their new home after buying it sight unseen. (2023)</desc>
+    <desc lang="el">Izzy faces a tough renovation as a beach loving family needs help updating their new home after buying it sight unseen. (2022)</desc>
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
@@ -44181,18 +44193,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260911230000 GMT+3" stop="20260911233000 GMT+3" channel="216382">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260911233000 GMT+3" stop="20260912000000 GMT+3" channel="216382">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260912000000 GMT+3" stop="20260912003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -44468,6 +44468,18 @@
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260912230000 GMT+3" stop="20260912233000 GMT+3" channel="216382">
+    <title lang="el">Fashion Films</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
+    <category lang="el">Μόδα</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260912233000 GMT+3" stop="20260913000000 GMT+3" channel="216382">
+    <title lang="el">Fashion Films</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
+    <category lang="el">Μόδα</category>
+    <rating>15</rating>
   </programme>
   <programme start="20260912000000 GMT+3" stop="20260912003000 GMT+3" channel="123833">
     <title lang="el">Lingerie</title>
@@ -55426,7 +55438,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260913060000 GMT+3" stop="20260913071000 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -56668,7 +56680,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260913060000 GMT+3" stop="20260913071000 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -62216,7 +62228,7 @@
   </programme>
   <programme start="20260913080000 GMT+3" stop="20260913090000 GMT+3" channel="35973256">
     <title lang="el">Izzy Does It Κ1 ΕΠ2</title>
-    <desc lang="el">Izzy faces a tough renovation as a beach loving family needs help updating their new home after buying it sight unseen. (2023)</desc>
+    <desc lang="el">Izzy faces a tough renovation as a beach loving family needs help updating their new home after buying it sight unseen. (2022)</desc>
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
@@ -62784,18 +62796,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260912230000 GMT+3" stop="20260912233000 GMT+3" channel="216382">
-    <title lang="el">Fashion Films</title>
-    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260912233000 GMT+3" stop="20260913000000 GMT+3" channel="216382">
-    <title lang="el">Fashion Films</title>
-    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>15</rating>
-  </programme>
   <programme start="20260913000000 GMT+3" stop="20260913003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -63069,6 +63069,18 @@
   <programme start="20260913223000 GMT+3" stop="20260913230000 GMT+3" channel="216382">
     <title lang="el">Fashion Magazines</title>
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913230000 GMT+3" stop="20260913233000 GMT+3" channel="216382">
+    <title lang="el">Designers</title>
+    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913233000 GMT+3" stop="20260914000000 GMT+3" channel="216382">
+    <title lang="el">Designers</title>
+    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
   </programme>
@@ -70662,14 +70674,86 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913033000 GMT+3" stop="20260913043000 GMT+3" channel="75835625">
+  <programme start="20260913033000 GMT+3" stop="20260913040000 GMT+3" channel="75835625">
     <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.1 - ΜΑΡΙΟΣ ΑΡΓΥΡΙΔΗΣ</title>
     <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913043000 GMT+3" stop="20260913060000 GMT+3" channel="75835625">
+  <programme start="20260913040000 GMT+3" stop="20260913060000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913060000 GMT+3" stop="20260913063000 GMT+3" channel="75835625">
     <title lang="el">MATCH PREVIEW EP.10</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913063000 GMT+3" stop="20260913070000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913070000 GMT+3" stop="20260913090000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913090000 GMT+3" stop="20260913110000 GMT+3" channel="75835625">
+    <title lang="el">ΑΠΟΛΛΩΝ - ΟΜΟΝΟΙΑ (26/04/2026)</title>
+    <desc lang="el">ΠΡΩΤΑΘΛΗΜΑ STOIXIMAN Α ΚΑΤΗΓΟΡΙΑ 2025-26 - PLAY OFFS</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913110000 GMT+3" stop="20260913120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.1 - ΜΑΡΙΟΣ ΑΡΓΥΡΙΔΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913120000 GMT+3" stop="20260913140000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (10/01/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913140000 GMT+3" stop="20260913160000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (10/01/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913160000 GMT+3" stop="20260913180000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - E.N.Π. (10/01/2026)</title>
+    <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΝΕΩΝ 2025-26 - Κ19</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913180000 GMT+3" stop="20260913200000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913200000 GMT+3" stop="20260913220000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913220000 GMT+3" stop="20260913233000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260913233000 GMT+3" stop="20260914000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΡΗΣ - ΟΜΟΝΟΙΑ</title>
     <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -73945,7 +74029,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914060000 GMT+3" stop="20260914064500 GMT+3" channel="39337317">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -73981,7 +74065,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914142000 GMT+3" stop="20260914151500 GMT+3" channel="39337317">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -74005,7 +74089,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914180000 GMT+3" stop="20260914190000 GMT+3" channel="39337317">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ8 ΕΠ58</title>
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ9 ΕΠ58</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -75217,7 +75301,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914060000 GMT+3" stop="20260914064500 GMT+3" channel="289607">
-    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ4 ΕΠ8</title>
+    <title lang="el">60&apos; ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
     <desc lang="el">Ενημερωτική Εκπομπή.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -75253,7 +75337,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914142000 GMT+3" stop="20260914151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ6</title>
+    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -75277,7 +75361,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20260914180000 GMT+3" stop="20260914190000 GMT+3" channel="289607">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ8 ΕΠ58</title>
+    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ9 ΕΠ58</title>
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
@@ -81258,18 +81342,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260913230000 GMT+3" stop="20260913233000 GMT+3" channel="216382">
-    <title lang="el">Designers</title>
-    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260913233000 GMT+3" stop="20260914000000 GMT+3" channel="216382">
-    <title lang="el">Designers</title>
-    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260914000000 GMT+3" stop="20260914003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -81543,6 +81615,18 @@
   <programme start="20260914223000 GMT+3" stop="20260914230000 GMT+3" channel="216382">
     <title lang="el">Fashion Magazines</title>
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914230000 GMT+3" stop="20260914233000 GMT+3" channel="216382">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914233000 GMT+3" stop="20260915000000 GMT+3" channel="216382">
+    <title lang="el">Top Models</title>
+    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
   </programme>
@@ -88464,6 +88548,108 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260914000000 GMT+3" stop="20260914020000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (10/01/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ16</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914020000 GMT+3" stop="20260914040000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (10/01/2026)</title>
+    <desc lang="el">ΑΝΩΤΑΤΗ ΚΑΤΗΓΟΡΙΑ ΠΑΙΔΩΝ 2025-26 - Κ17</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914040000 GMT+3" stop="20260914060000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - E.N.Π. (10/01/2026)</title>
+    <desc lang="el">ΠΑΓΚΥΠΡΙΟ ΠΡΩΤΑΘΛΗΜΑ ΝΕΩΝ 2025-26 - Κ19</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914060000 GMT+3" stop="20260914080000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914080000 GMT+3" stop="20260914100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914100000 GMT+3" stop="20260914100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914100500 GMT+3" stop="20260914113000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.2</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914113000 GMT+3" stop="20260914120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΑΡΗΣ - ΟΜΟΝΟΙΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914120000 GMT+3" stop="20260914130000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.2 - ΣΑΒΒΑΣ ΣΑΒΒΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914130000 GMT+3" stop="20260914150000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ (31/08/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914150000 GMT+3" stop="20260914170000 GMT+3" channel="75835625">
+    <title lang="el">DIGENIS - OMONOIA 1-2 (2006-07)</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914170000 GMT+3" stop="20260914190000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914190000 GMT+3" stop="20260914190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914190500 GMT+3" stop="20260914210000 GMT+3" channel="75835625">
+    <title lang="el">Μ</title>
+    <desc lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914210000 GMT+3" stop="20260914213000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914213000 GMT+3" stop="20260914233000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914233000 GMT+3" stop="20260915000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260914000000 GMT+3" stop="20260914003000 GMT+3" channel="54111722">
     <title lang="el">MATCH HIGHLIGHTS 26/27</title>
     <desc lang="el">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
@@ -88779,6 +88965,24 @@
   <programme start="20260914133000 GMT+3" stop="20260914135500 GMT+3" channel="94430673">
     <title lang="el">Rush Scored Four</title>
     <desc lang="el">An LFC Original mini-documentary that relives the unforgettable afternoon at Goodison in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914135500 GMT+3" stop="20260914143000 GMT+3" channel="94430673">
+    <title lang="el">Live: Press Conference</title>
+    <desc lang="el">Live coverage of Arne Slots press conference ahead of Liverpools Community Shield match at Wembley.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914143000 GMT+3" stop="20260914144500 GMT+3" channel="94430673">
+    <title lang="el">Liverpool v Atletico Madrid: Shortcut</title>
+    <desc lang="el">The best of the action as Liverpool take on Atletico Madrid.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260914144500 GMT+3" stop="20260914150000 GMT+3" channel="94430673">
+    <title lang="el">Goal Rush: Virgil Van Dijk</title>
+    <desc lang="el">A collection of the best Liverpool goals scored by Virgil Van Dijk.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -98950,18 +99154,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260914230000 GMT+3" stop="20260914233000 GMT+3" channel="216382">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260914233000 GMT+3" stop="20260915000000 GMT+3" channel="216382">
-    <title lang="el">Top Models</title>
-    <desc lang="el">An unique chance to get to know everything you&apos;ve ever wanted to know about the world&apos;s most famous beauties. Hear what they have to say about the world of fashion, modeling and what it&apos;s like to be a runway model.</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260915000000 GMT+3" stop="20260915003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -99237,6 +99429,18 @@
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
+  </programme>
+  <programme start="20260915230000 GMT+3" stop="20260915233000 GMT+3" channel="216382">
+    <title lang="el">Fashion Films</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
+    <category lang="el">Μόδα</category>
+    <rating>15</rating>
+  </programme>
+  <programme start="20260915233000 GMT+3" stop="20260916000000 GMT+3" channel="216382">
+    <title lang="el">Fashion Films</title>
+    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
+    <category lang="el">Μόδα</category>
+    <rating>15</rating>
   </programme>
   <programme start="20260915000000 GMT+3" stop="20260915003000 GMT+3" channel="123833">
     <title lang="el">Lingerie</title>
@@ -105967,6 +106171,138 @@
   <programme start="20260915223000 GMT+3" stop="20260916003000 GMT+3" channel="53005467">
     <title lang="el">Paris FC - Lyon 12/9/26 (E)</title>
     <desc lang="el">Γαλλικό Πρωτάθλημα Ποδοσφαίρου 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915000000 GMT+3" stop="20260915010000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.2 - ΣΑΒΒΑΣ ΣΑΒΒΑ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915010000 GMT+3" stop="20260915030000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΟΜΟΝΟΙΑ ΑΡΑΔΙΠΠΟΥ (31/08/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915030000 GMT+3" stop="20260915050000 GMT+3" channel="75835625">
+    <title lang="el">DIGENIS - OMONOIA 1-2 (2006-07)</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915050000 GMT+3" stop="20260915070000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915070000 GMT+3" stop="20260915083000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.3</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915083000 GMT+3" stop="20260915090000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915090000 GMT+3" stop="20260915100000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915100000 GMT+3" stop="20260915100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915100500 GMT+3" stop="20260915110000 GMT+3" channel="75835625">
+    <title lang="el">... ΣΥΝΕΧΕΙΑ ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915110000 GMT+3" stop="20260915113000 GMT+3" channel="75835625">
+    <title lang="el">ΤΑΞΙΔΕΥΩ ΓΙΑ ΣΕΝΑ EP.12</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915113000 GMT+3" stop="20260915120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915120000 GMT+3" stop="20260915130000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.3 - ΣΤΑΘΗΣ ΣΤΑΥΡΙΝΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915130000 GMT+3" stop="20260915150000 GMT+3" channel="75835625">
+    <title lang="el">SINT-TRUIDENSE V.V. - OMONOIA (20/08/2026)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915150000 GMT+3" stop="20260915153000 GMT+3" channel="75835625">
+    <title lang="el">ΔΗΜΟΣΙΟΓΡΑΦΙΚΗ H. BERG (Z)</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915153000 GMT+3" stop="20260915160000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915160000 GMT+3" stop="20260915180000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (03/09/2026)</title>
+    <desc lang="el">SUPER CUP 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915180000 GMT+3" stop="20260915190000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11 (Z)</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915190000 GMT+3" stop="20260915190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915190500 GMT+3" stop="20260915210000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915210000 GMT+3" stop="20260915220000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915220000 GMT+3" stop="20260915233000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.3</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260915233000 GMT+3" stop="20260916000000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -116348,18 +116684,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260915230000 GMT+3" stop="20260915233000 GMT+3" channel="216382">
-    <title lang="el">Fashion Films</title>
-    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260915233000 GMT+3" stop="20260916000000 GMT+3" channel="216382">
-    <title lang="el">Fashion Films</title>
-    <desc lang="el">Experience the largest collection of fashion films with FashionTV!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>15</rating>
-  </programme>
   <programme start="20260916000000 GMT+3" stop="20260916003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -116633,6 +116957,18 @@
   <programme start="20260916223000 GMT+3" stop="20260916230000 GMT+3" channel="216382">
     <title lang="el">Fashion Magazines</title>
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916230000 GMT+3" stop="20260916233000 GMT+3" channel="216382">
+    <title lang="el">Top Photoshoots</title>
+    <desc lang="el">Join FashionTV and take a trip behind the scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more!</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916233000 GMT+3" stop="20260917000000 GMT+3" channel="216382">
+    <title lang="el">Top Photoshoots</title>
+    <desc lang="el">Join FashionTV and take a trip behind the scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more!</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
   </programme>
@@ -123365,6 +123701,138 @@
   <programme start="20260916223000 GMT+3" stop="20260917003000 GMT+3" channel="53005467">
     <title lang="el">Αθλητικά Ντοκιμαντέρ Celtics / Lakers: Best Of Enemies (Part A&apos;) (E)</title>
     <desc lang="el">Αθλητικά Ντοκιμαντέρ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916000000 GMT+3" stop="20260916010000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.3 - ΣΤΑΘΗΣ ΣΤΑΥΡΙΝΟΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916010000 GMT+3" stop="20260916030000 GMT+3" channel="75835625">
+    <title lang="el">SINT-TRUIDENSE V.V. - OMONOIA (20/08/2026)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916030000 GMT+3" stop="20260916033000 GMT+3" channel="75835625">
+    <title lang="el">ΔΗΜΟΣΙΟΓΡΑΦΙΚΗ H. BERG</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916033000 GMT+3" stop="20260916040000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916040000 GMT+3" stop="20260916060000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΠΑΦΟΣ (03/09/2026)</title>
+    <desc lang="el">SUPER CUP 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916070000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916070000 GMT+3" stop="20260916090000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916090000 GMT+3" stop="20260916100000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916100000 GMT+3" stop="20260916100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916100500 GMT+3" stop="20260916113000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.3</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916113000 GMT+3" stop="20260916120000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916130000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, ΕΠ4 - ΑΝΝΑ ΠΑΝΑΓΗ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916130000 GMT+3" stop="20260916140000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916140000 GMT+3" stop="20260916143000 GMT+3" channel="75835625">
+    <title lang="el">ΔΗΜΟΣΙΟΓΡΑΦΙΚΗ H. BERG</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916143000 GMT+3" stop="20260916150000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916150000 GMT+3" stop="20260916160000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916160000 GMT+3" stop="20260916180000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916190000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916190000 GMT+3" stop="20260916194500 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - PRE GAME (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916194500 GMT+3" stop="20260916214500 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - CELTA (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916214500 GMT+3" stop="20260916221500 GMT+3" channel="75835625">
+    <title lang="el">MATCH DAY LIVE - POST GAME (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916221500 GMT+3" stop="20260917000000 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - CELTA (16/09/2026)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -133586,18 +134054,6 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916230000 GMT+3" stop="20260916233000 GMT+3" channel="216382">
-    <title lang="el">Top Photoshoots</title>
-    <desc lang="el">Join FashionTV and take a trip behind the scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260916233000 GMT+3" stop="20260917000000 GMT+3" channel="216382">
-    <title lang="el">Top Photoshoots</title>
-    <desc lang="el">Join FashionTV and take a trip behind the scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more!</desc>
-    <category lang="el">Μόδα</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260917000000 GMT+3" stop="20260917003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -133871,6 +134327,18 @@
   <programme start="20260917223000 GMT+3" stop="20260917230000 GMT+3" channel="216382">
     <title lang="el">Fashion Magazines</title>
     <desc lang="el">FashionTV gives you an exclusive look at photoshoots of magazine editorials from all over the world.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917230000 GMT+3" stop="20260917233000 GMT+3" channel="216382">
+    <title lang="el">Designers</title>
+    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
+    <category lang="el">Μόδα</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917233000 GMT+3" stop="20260918000000 GMT+3" channel="216382">
+    <title lang="el">Designers</title>
+    <desc lang="el">FashionTV gives you a close and exclusive look at the world’s biggest designers. Get to know the masterminds of the fashion world through interviews, inspirations and an in-depth look at their views of fashion.</desc>
     <category lang="el">Μόδα</category>
     <rating>K</rating>
   </programme>
@@ -140645,6 +141113,126 @@
   <programme start="20260917233000 GMT+3" stop="20260918000000 GMT+3" channel="53005467">
     <title lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 3) # 02 Κολύμβηση (E)</title>
     <desc lang="el">Η Εξέλιξη του Αθλητισμού (Σεζόν 3)</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917000000 GMT+3" stop="20260917010000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, ΕΠ4 - ΑΝΝΑ ΠΑΝΑΓΗ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917010000 GMT+3" stop="20260917020000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917020000 GMT+3" stop="20260917023000 GMT+3" channel="75835625">
+    <title lang="el">ΔΗΜΟΣΙΟΓΡΑΦΙΚΗ H. BERG</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917023000 GMT+3" stop="20260917030000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917030000 GMT+3" stop="20260917040000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917040000 GMT+3" stop="20260917060000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917060000 GMT+3" stop="20260917070000 GMT+3" channel="75835625">
+    <title lang="el">MATCH PREVIEW EP.11</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917070000 GMT+3" stop="20260917090000 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - CELTA (16/09/2026)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917090000 GMT+3" stop="20260917100000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, ΕΠ4 - ΑΝΝΑ ΠΑΝΑΓΗ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917100000 GMT+3" stop="20260917100500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917100500 GMT+3" stop="20260917120000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917120000 GMT+3" stop="20260917130000 GMT+3" channel="75835625">
+    <title lang="el">ΠΕΡΙΣΚΟΠΙΟ S2, EP.5 - ΝΙΚΟΛΕΤΤΑ ΑΓΓΕΛΟΔΗΜΟΥ &amp; ΕΜΙΛΗ ΚΩΝΣΤΑΝΤΙΝΟΥ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917130000 GMT+3" stop="20260917150000 GMT+3" channel="75835625">
+    <title lang="el">ΟΜΟΝΟΙΑ - ΑΠΟΛΛΩΝ (12/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917150000 GMT+3" stop="20260917170000 GMT+3" channel="75835625">
+    <title lang="el">ANORTHOSI - OMONOIA 0-2 FT (2006-07)</title>
+    <desc lang="el">RETRO</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917170000 GMT+3" stop="20260917190000 GMT+3" channel="75835625">
+    <title lang="el">ΑΡΗΣ - ΟΜΟΝΟΙΑ (07/09/2026)</title>
+    <desc lang="el">CYPRUS LEAGUE BY STOIXIMAN - Α&apos; ΚΑΤΗΓΟΡΙΑ 2026-27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917190000 GMT+3" stop="20260917190500 GMT+3" channel="75835625">
+    <title lang="el">Δελτίο ειδήσεων</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917190500 GMT+3" stop="20260917193000 GMT+3" channel="75835625">
+    <title lang="el">ΠΑΡΑΚΑΜΕΡΑ OMONOIA - CELTA</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917193000 GMT+3" stop="20260917210000 GMT+3" channel="75835625">
+    <title lang="el">TOTAL GREEN S3, EP.3</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917210000 GMT+3" stop="20260917230000 GMT+3" channel="75835625">
+    <title lang="el">OMONOIA - CELTA (16/09/2026)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-2027</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917230000 GMT+3" stop="20260918060000 GMT+3" channel="75835625">
+    <title lang="el">ΠΡΟΣΩΠΟΓΡΑΦΙΕΣ S.2, ΕΠ.3 - ΠΑΜΠΟΣ ΚΟΝΤΟΓΙΩΡΓΗΣ</title>
+    <desc lang="el">ΕΚΠΟΜΠΗ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
