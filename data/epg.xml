@@ -21124,13 +21124,19 @@
   </programme>
   <programme start="20260916133000 GMT+3" stop="20260916150000 GMT+3" channel="289530">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916150000 GMT+3" stop="20260916181000 GMT+3" channel="289530">
+  <programme start="20260916150000 GMT+3" stop="20260916172500 GMT+3" channel="289530">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916172500 GMT+3" stop="20260916181000 GMT+3" channel="289530">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -22064,6 +22070,138 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916000000 GMT+3" stop="20260916010000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916010000 GMT+3" stop="20260916020000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916020000 GMT+3" stop="20260916030000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916030000 GMT+3" stop="20260916050000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916050000 GMT+3" stop="20260916070000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916070000 GMT+3" stop="20260916073000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916073000 GMT+3" stop="20260916080000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916080000 GMT+3" stop="20260916083000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916083000 GMT+3" stop="20260916090000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916090000 GMT+3" stop="20260916093000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916093000 GMT+3" stop="20260916110000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916110000 GMT+3" stop="20260916120000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916130000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916130000 GMT+3" stop="20260916150000 GMT+3" channel="2221">
+    <title lang="el">Αποκλειστικά</title>
+    <desc lang="el">Το νέο τηλεοπτικό μαγκαζίνο ήρθε να ανατρέψει την μέχρι σήμερα ενημέρωση, αφορά μια δυναμική και δια δραστική ενημερωτική εκπομπή που κρατάει το κοινό σε εγρήγορση με αποκλειστικές ειδήσεις, ρεπορτάζ και κοινωνικά θέματα. «Αποκλειστικά» με την Άννα-Μαρία Ευτυχίου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916150000 GMT+3" stop="20260916160000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916160000 GMT+3" stop="20260916180000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916190000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916190000 GMT+3" stop="20260916200000 GMT+3" channel="2221">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΤΩΡΑ</title>
+    <desc lang="el">Δελτίο Ειδήσεων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916200000 GMT+3" stop="20260916210000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916210000 GMT+3" stop="20260916230000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916230000 GMT+3" stop="20260916233000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260916233000 GMT+3" stop="20260917000000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260916001000 GMT+3" stop="20260916021000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η παρέα που θέλεις να έχεις κάθε μέρα στο σπίτι σου! Με τη μοναδική Χριστιάνα Αρτεμίου και μια ομάδα που ξέρει να δημιουργεί χημεία, να σχολιάζει όσα συμβαίνουν γύρω μας και να βρίσκει το χιούμορ ακόμη και στις πιο απρόβλεπτες στιγμές, κάθε επεισόδιο είναι μια διαφορετική εμπειρία. Από την επικαιρότητα μέχρι τις viral στιγμές, από το γέλιο μέχρι τις αυθόρμητες ανατροπές, όλα μπορούν να συμβούν και τίποτα δεν είναι ακριβώς όπως το περιμένεις.</desc>
@@ -22510,13 +22648,19 @@
   </programme>
   <programme start="20260916133000 GMT+3" stop="20260916150000 GMT+3" channel="114064159">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916150000 GMT+3" stop="20260916181000 GMT+3" channel="114064159">
+  <programme start="20260916150000 GMT+3" stop="20260916172500 GMT+3" channel="114064159">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916172500 GMT+3" stop="20260916181000 GMT+3" channel="114064159">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -37778,9 +37922,27 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916070700 GMT+3" stop="20260916071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916071500 GMT+3" stop="20260916092200 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27:</title>
     <desc lang="el">LXXXI Trofeo Teresa Herrera</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916092200 GMT+3" stop="20260916095700 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 17/18</title>
+    <desc lang="el">Real Madrid v Liverpool Final Champions League Final 17/18.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916095700 GMT+3" stop="20260916103100 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 21/22</title>
+    <desc lang="el">Champions League Final 21/22. Real Madrid travel to París to face Liverpool in Stade de France Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -37796,15 +37958,51 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916161000 GMT+3" stop="20260916162300 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life</title>
+    <desc lang="el">Real Madrid Life</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916162300 GMT+3" stop="20260916163000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916163000 GMT+3" stop="20260916183600 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Espanyol vs Real Madrid</title>
     <desc lang="el">Liga 26/27: Espanyol vs Real Madrid</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916183600 GMT+3" stop="20260916184500 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916184500 GMT+3" stop="20260916205300 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc lang="el">Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916205300 GMT+3" stop="20260916210100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916210100 GMT+3" stop="20260916211500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life</title>
+    <desc lang="el">Real Madrid Life</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916211500 GMT+3" stop="20260916213100 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 01/02</title>
+    <desc lang="el">Champions League Final 01/02. Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -37817,6 +38015,12 @@
   <programme start="20260916214500 GMT+3" stop="20260916234400 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
     <desc lang="el">Real Madrid Pre-season 26/27</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916234400 GMT+3" stop="20260917000000 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 85/86 Real Madrid vs Valencia</title>
+    <desc lang="el">Catch our stars of the 80&apos;s in this historic victory over their east coast rivals Valencia.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -38546,25 +38750,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916073000 GMT+3" stop="20260916093000 GMT+3" channel="4185119">
+  <programme start="20260916073000 GMT+3" stop="20260916093500 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - Τελικός</title>
     <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916093000 GMT+3" stop="20260916110000 GMT+3" channel="4185119">
+  <programme start="20260916093500 GMT+3" stop="20260916110400 GMT+3" channel="4185119">
     <title lang="el">World Tour - ΓΚΡΑΝ ΠΡΙ ΚΕΜΠΕΚ - - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΚΡΑΝ ΠΡΙ ΚΕΜΠΕΚ - - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916110000 GMT+3" stop="20260916120000 GMT+3" channel="4185119">
+  <programme start="20260916110400 GMT+3" stop="20260916120600 GMT+3" channel="4185119">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916120000 GMT+3" stop="20260916133500 GMT+3" channel="4185119">
+  <programme start="20260916120600 GMT+3" stop="20260916133500 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - Τελικός</title>
     <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
@@ -38594,19 +38798,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916195000 GMT+3" stop="20260916210000 GMT+3" channel="4185119">
+  <programme start="20260916195000 GMT+3" stop="20260916205800 GMT+3" channel="4185119">
     <title lang="el">- Οπεν Κίνας - Τελικός</title>
     <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916210000 GMT+3" stop="20260916220000 GMT+3" channel="4185119">
+  <programme start="20260916205800 GMT+3" stop="20260916215500 GMT+3" channel="4185119">
     <title lang="el">Άλμα - Σπρους Μίντοους</title>
     <desc lang="el">Άλμα - Σπρους Μίντοους</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916220000 GMT+3" stop="20260916230000 GMT+3" channel="4185119">
+  <programme start="20260916215500 GMT+3" stop="20260916230000 GMT+3" channel="4185119">
     <title lang="el">PRO SERIES - Γύρος Λουξεμβούργου - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Γύρος Λουξεμβούργου - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
@@ -38660,91 +38864,91 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916083000 GMT+3" stop="20260916093000 GMT+3" channel="5183085">
+  <programme start="20260916083000 GMT+3" stop="20260916093200 GMT+3" channel="5183085">
     <title lang="el">World Tour - ΓΚΡΑΝ ΠΡΙ ΚΕΜΠΕΚ - - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - ΓΚΡΑΝ ΠΡΙ ΚΕΜΠΕΚ - - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916093000 GMT+3" stop="20260916101500 GMT+3" channel="5183085">
+  <programme start="20260916093200 GMT+3" stop="20260916101700 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916101500 GMT+3" stop="20260916110000 GMT+3" channel="5183085">
+  <programme start="20260916101700 GMT+3" stop="20260916110000 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - - Τελικός (MIXED)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - - Τελικός (MIXED)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916110000 GMT+3" stop="20260916120000 GMT+3" channel="5183085">
+  <programme start="20260916110000 GMT+3" stop="20260916115900 GMT+3" channel="5183085">
     <title lang="el">World Tour - Λα Βουέλτα - 21ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">World Tour - Λα Βουέλτα - 21ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916120000 GMT+3" stop="20260916133000 GMT+3" channel="5183085">
+  <programme start="20260916115900 GMT+3" stop="20260916132800 GMT+3" channel="5183085">
     <title lang="el">- Γύρος Αμπρούτσο - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">- Γύρος Αμπρούτσο - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916133000 GMT+3" stop="20260916140000 GMT+3" channel="5183085">
+  <programme start="20260916132800 GMT+3" stop="20260916135700 GMT+3" channel="5183085">
     <title lang="el">ΠΟΛΟ: - Βρετανικό Οπεν ()</title>
     <desc lang="el">ΠΟΛΟ: - Βρετανικό Οπεν ()</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916140000 GMT+3" stop="20260916150000 GMT+3" channel="5183085">
+  <programme start="20260916135700 GMT+3" stop="20260916150400 GMT+3" channel="5183085">
     <title lang="el">FIA WEC - Lone Star Le Mans</title>
     <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916150000 GMT+3" stop="20260916160000 GMT+3" channel="5183085">
+  <programme start="20260916150400 GMT+3" stop="20260916155600 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916160000 GMT+3" stop="20260916180000 GMT+3" channel="5183085">
+  <programme start="20260916155600 GMT+3" stop="20260916175600 GMT+3" channel="5183085">
     <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
     <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916180000 GMT+3" stop="20260916183000 GMT+3" channel="5183085">
+  <programme start="20260916175600 GMT+3" stop="20260916182900 GMT+3" channel="5183085">
     <title lang="el">Κίνα - MXGP - 1ος ΑΓΩΝΑΣ</title>
     <desc lang="el">Κίνα - MXGP - 1ος ΑΓΩΝΑΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916183000 GMT+3" stop="20260916190000 GMT+3" channel="5183085">
+  <programme start="20260916182900 GMT+3" stop="20260916185800 GMT+3" channel="5183085">
     <title lang="el">Κίνα - MXGP - 2ος ΑΓΩΝΑΣ</title>
     <desc lang="el">Κίνα - MXGP - 2ος ΑΓΩΝΑΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916190000 GMT+3" stop="20260916193000 GMT+3" channel="5183085">
+  <programme start="20260916185800 GMT+3" stop="20260916192800 GMT+3" channel="5183085">
     <title lang="el">ΠΟΛΟ: - Βρετανικό Οπεν ()</title>
     <desc lang="el">ΠΟΛΟ: - Βρετανικό Οπεν ()</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916193000 GMT+3" stop="20260916200000 GMT+3" channel="5183085">
+  <programme start="20260916192800 GMT+3" stop="20260916195800 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Γκουιγιάνγκ - SPEED - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916200000 GMT+3" stop="20260916210000 GMT+3" channel="5183085">
+  <programme start="20260916195800 GMT+3" stop="20260916205800 GMT+3" channel="5183085">
     <title lang="el">- Γύρος Αμπρούτσο - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">- Γύρος Αμπρούτσο - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260916210000 GMT+3" stop="20260916230000 GMT+3" channel="5183085">
+  <programme start="20260916205800 GMT+3" stop="20260916230000 GMT+3" channel="5183085">
     <title lang="el">- Οπεν Κίνας - Τελικός</title>
     <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
@@ -39620,6 +39824,30 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260916060000 GMT+3" stop="20260916120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916120000 GMT+3" stop="20260916180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916180000 GMT+3" stop="20260916215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260916215500 GMT+3" stop="20260917020000 GMT+3" channel="52196581">
+    <title lang="el">MANCHESTER UTD - BRIGHTON (Z)</title>
+    <desc lang="el">EFL CARABAO CUP 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260916000000 GMT+3" stop="20260916060000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
@@ -40450,13 +40678,19 @@
   </programme>
   <programme start="20260917133000 GMT+3" stop="20260917150000 GMT+3" channel="289530">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260917150000 GMT+3" stop="20260917181000 GMT+3" channel="289530">
+  <programme start="20260917150000 GMT+3" stop="20260917172500 GMT+3" channel="289530">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917172500 GMT+3" stop="20260917181000 GMT+3" channel="289530">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -41348,6 +41582,138 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260917000000 GMT+3" stop="20260917010000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917010000 GMT+3" stop="20260917020000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917020000 GMT+3" stop="20260917030000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917030000 GMT+3" stop="20260917050000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917050000 GMT+3" stop="20260917070000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917070000 GMT+3" stop="20260917073000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917073000 GMT+3" stop="20260917080000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917080000 GMT+3" stop="20260917083000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917083000 GMT+3" stop="20260917090000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917090000 GMT+3" stop="20260917093000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917093000 GMT+3" stop="20260917110000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917110000 GMT+3" stop="20260917120000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917120000 GMT+3" stop="20260917130000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917130000 GMT+3" stop="20260917150000 GMT+3" channel="2221">
+    <title lang="el">Αποκλειστικά</title>
+    <desc lang="el">Το νέο τηλεοπτικό μαγκαζίνο ήρθε να ανατρέψει την μέχρι σήμερα ενημέρωση, αφορά μια δυναμική και δια δραστική ενημερωτική εκπομπή που κρατάει το κοινό σε εγρήγορση με αποκλειστικές ειδήσεις, ρεπορτάζ και κοινωνικά θέματα. «Αποκλειστικά» με την Άννα-Μαρία Ευτυχίου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917150000 GMT+3" stop="20260917160000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917160000 GMT+3" stop="20260917180000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917180000 GMT+3" stop="20260917190000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917190000 GMT+3" stop="20260917200000 GMT+3" channel="2221">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΤΩΡΑ</title>
+    <desc lang="el">Δελτίο Ειδήσεων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917200000 GMT+3" stop="20260917210000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917210000 GMT+3" stop="20260917230000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917230000 GMT+3" stop="20260917233000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260917233000 GMT+3" stop="20260918000000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260917002000 GMT+3" stop="20260917020000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η παρέα που θέλεις να έχεις κάθε μέρα στο σπίτι σου! Με τη μοναδική Χριστιάνα Αρτεμίου και μια ομάδα που ξέρει να δημιουργεί χημεία, να σχολιάζει όσα συμβαίνουν γύρω μας και να βρίσκει το χιούμορ ακόμη και στις πιο απρόβλεπτες στιγμές, κάθε επεισόδιο είναι μια διαφορετική εμπειρία. Από την επικαιρότητα μέχρι τις viral στιγμές, από το γέλιο μέχρι τις αυθόρμητες ανατροπές, όλα μπορούν να συμβούν και τίποτα δεν είναι ακριβώς όπως το περιμένεις.</desc>
@@ -41794,13 +42160,19 @@
   </programme>
   <programme start="20260917133000 GMT+3" stop="20260917150000 GMT+3" channel="114064159">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260917150000 GMT+3" stop="20260917181000 GMT+3" channel="114064159">
+  <programme start="20260917150000 GMT+3" stop="20260917172500 GMT+3" channel="114064159">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917172500 GMT+3" stop="20260917181000 GMT+3" channel="114064159">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -57128,6 +57500,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260917000000 GMT+3" stop="20260917010100 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260917010100 GMT+3" stop="20260917031600 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
@@ -57140,9 +57518,33 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260917032800 GMT+3" stop="20260917033700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Highlights</title>
+    <desc lang="el">We bring you highlights from RM´s, the best actons, interviews, special features and match highlights.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260917033700 GMT+3" stop="20260917061300 GMT+3" channel="97085851">
     <title lang="el">Champions League 23/24</title>
     <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917061300 GMT+3" stop="20260917061700 GMT+3" channel="97085851">
+    <title lang="el">Interview</title>
+    <desc lang="el">Interview</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917061700 GMT+3" stop="20260917065600 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 17/18</title>
+    <desc lang="el">Real Madrid v Liverpool Final Champions League Final 17/18.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917065600 GMT+3" stop="20260917070400 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -58985,6 +59387,36 @@
     <category lang="el">PPVlive</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260917020000 GMT+3" stop="20260917060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917060000 GMT+3" stop="20260917120000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917120000 GMT+3" stop="20260917180000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917180000 GMT+3" stop="20260917215500 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260917215500 GMT+3" stop="20260918010000 GMT+3" channel="52196581">
+    <title lang="el">BESIKTAS - MARSEILLE (Z)</title>
+    <desc lang="el">UEFA EUROPA LEAGUE 2026-27</desc>
+    <category lang="el">PPVlive</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260917010000 GMT+3" stop="20260917060000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
@@ -59785,13 +60217,19 @@
   </programme>
   <programme start="20260918133000 GMT+3" stop="20260918150000 GMT+3" channel="289530">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918150000 GMT+3" stop="20260918181000 GMT+3" channel="289530">
+  <programme start="20260918150000 GMT+3" stop="20260918171000 GMT+3" channel="289530">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918171000 GMT+3" stop="20260918181000 GMT+3" channel="289530">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -59813,13 +60251,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918210000 GMT+3" stop="20260918223000 GMT+3" channel="289530">
+  <programme start="20260918210000 GMT+3" stop="20260918230000 GMT+3" channel="289530">
     <title lang="el">ΕΥΤΥΧΙΑ</title>
     <desc lang="el">ΕΥΤΥΧΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918223000 GMT+3" stop="20260919001500 GMT+3" channel="289530">
+  <programme start="20260918230000 GMT+3" stop="20260919010000 GMT+3" channel="289530">
     <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
     <desc lang="el">Μια ανατρεπτική ιστορία, που συνδυάζει γέλιο, συγκίνηση και δράση.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -60665,6 +61103,138 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260918000000 GMT+3" stop="20260918010000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918010000 GMT+3" stop="20260918020000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918020000 GMT+3" stop="20260918030000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918030000 GMT+3" stop="20260918050000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918050000 GMT+3" stop="20260918070000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918070000 GMT+3" stop="20260918073000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918073000 GMT+3" stop="20260918080000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918080000 GMT+3" stop="20260918083000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918083000 GMT+3" stop="20260918090000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918090000 GMT+3" stop="20260918093000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918093000 GMT+3" stop="20260918110000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918110000 GMT+3" stop="20260918120000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918120000 GMT+3" stop="20260918130000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918130000 GMT+3" stop="20260918150000 GMT+3" channel="2221">
+    <title lang="el">Αποκλειστικά</title>
+    <desc lang="el">Το νέο τηλεοπτικό μαγκαζίνο ήρθε να ανατρέψει την μέχρι σήμερα ενημέρωση, αφορά μια δυναμική και δια δραστική ενημερωτική εκπομπή που κρατάει το κοινό σε εγρήγορση με αποκλειστικές ειδήσεις, ρεπορτάζ και κοινωνικά θέματα. «Αποκλειστικά» με την Άννα-Μαρία Ευτυχίου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918150000 GMT+3" stop="20260918160000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918160000 GMT+3" stop="20260918180000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918180000 GMT+3" stop="20260918190000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918190000 GMT+3" stop="20260918200000 GMT+3" channel="2221">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΤΩΡΑ</title>
+    <desc lang="el">Δελτίο Ειδήσεων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918200000 GMT+3" stop="20260918210000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918210000 GMT+3" stop="20260918230000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918230000 GMT+3" stop="20260918233000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260918233000 GMT+3" stop="20260919000000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260918001000 GMT+3" stop="20260918020000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η παρέα που θέλεις να έχεις κάθε μέρα στο σπίτι σου! Με τη μοναδική Χριστιάνα Αρτεμίου και μια ομάδα που ξέρει να δημιουργεί χημεία, να σχολιάζει όσα συμβαίνουν γύρω μας και να βρίσκει το χιούμορ ακόμη και στις πιο απρόβλεπτες στιγμές, κάθε επεισόδιο είναι μια διαφορετική εμπειρία. Από την επικαιρότητα μέχρι τις viral στιγμές, από το γέλιο μέχρι τις αυθόρμητες ανατροπές, όλα μπορούν να συμβούν και τίποτα δεν είναι ακριβώς όπως το περιμένεις.</desc>
@@ -61075,13 +61645,19 @@
   </programme>
   <programme start="20260918133000 GMT+3" stop="20260918150000 GMT+3" channel="114064159">
     <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918150000 GMT+3" stop="20260918181000 GMT+3" channel="114064159">
+  <programme start="20260918150000 GMT+3" stop="20260918171000 GMT+3" channel="114064159">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918171000 GMT+3" stop="20260918181000 GMT+3" channel="114064159">
+    <title lang="el">ΓΑΛΑΤΕΙΑ</title>
+    <desc lang="el">Ο Πετρής παίρνει το φαγητό του στον Μεττή για να φάει και προσπαθεί να τον πείσε, να φωνάξουν ένα γιατρό να δει την μολυσμένη του πληγή. Στο μεταξύ οι φίλοι του Πέτρε αναρωτιούνται ποιος είναι ο λόγος που ο Πετρής τους αποφεύγει. Η Φλουρεντζού πάει στο καμπαρέ του Αντζουλή και τον ενημερώνει για όσα έγιναν με τον Κωνσταντά. Η Λεϊλά εκβιάζει τον Καράγιωρκη αν δεν εμποδίσει τον γάμο που της ετοιμάζει η Γαλατού, θα της πει την αλήθεια για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -61103,13 +61679,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918210000 GMT+3" stop="20260918223000 GMT+3" channel="114064159">
+  <programme start="20260918210000 GMT+3" stop="20260918230000 GMT+3" channel="114064159">
     <title lang="el">ΕΥΤΥΧΙΑ</title>
     <desc lang="el">ΕΥΤΥΧΙΑ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918223000 GMT+3" stop="20260919001500 GMT+3" channel="114064159">
+  <programme start="20260918230000 GMT+3" stop="20260919010000 GMT+3" channel="114064159">
     <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
     <desc lang="el">Μια ανατρεπτική ιστορία, που συνδυάζει γέλιο, συγκίνηση και δράση.</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65405,7 +65981,7 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260918030000 GMT+3" stop="20260918060000 GMT+3" channel="9745267">
+  <programme start="20260918023600 GMT+3" stop="20260918060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -65664,25 +66240,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918060000 GMT+3" stop="20260918063500 GMT+3" channel="216595">
+  <programme start="20260918060000 GMT+3" stop="20260918062500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 1 Κ1 ΕΠ23</title>
     <desc lang="el">O Jay σχεδιάζει να ξεκουραστεί στις διακοπές, αλλά η πραγματικότητα έρχεται να του τα αλλάξει. O Phil θέλει να προσθέσει μία νότα ρομαντισμού για χάρη της Claire, ενώ ο Mitchell και ο Cameron διαφωνούν για την περιήγηση στα αξιοθέατα. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2009)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918063500 GMT+3" stop="20260918065500 GMT+3" channel="216595">
+  <programme start="20260918062500 GMT+3" stop="20260918064500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 1 Κ1 ΕΠ24</title>
     <desc lang="el">Η Claire θέλει να μαζέψει την οικογένεια για να φτιάξουν ένα πορτρέτο, αλλά όλοι είναι απασχολημένοι: η Gloria και ο Manny με το να πάνε με τον Phil και τον Alex στους Lakers και ο Cameron με τη νέα του δουλειά ως τραγουδιστής γάμων. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2009)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918065500 GMT+3" stop="20260918074000 GMT+3" channel="216595">
+  <programme start="20260918064500 GMT+3" stop="20260918073000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ13</title>
     <desc lang="el">Ο Τζέιν και η ομάδα μειώνουν τη λίστα των υπόπτων, όταν ένας ντροπιασμένος σχεδιαστής ρούχων που ετοιμάζεται να επιστρέψει στα φώτα, πέφτει θύμα της μόδας. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918074000 GMT+3" stop="20260918082000 GMT+3" channel="216595">
+  <programme start="20260918073000 GMT+3" stop="20260918082000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ5 ΕΠ11</title>
     <desc lang="el">Η ομάδα του Σταθμού 19 προσφέρει βοήθεια σε έναν άντρα που έχει αυτοπυρποληθεί. Ο Theo αποδεικνύει την αφοσίωσή του στη Vic, ο Sullivan ζητά συμβουλές από τον Dr. Webber και ο Travis συνειδητοποιεί κάτι για την ερωτική του ζωή. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65700,85 +66276,85 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918095000 GMT+3" stop="20260918103500 GMT+3" channel="216595">
+  <programme start="20260918095000 GMT+3" stop="20260918104000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 1 Κ1 ΕΠ9</title>
     <desc lang="el">Όταν ένας κλέφτης ταυτοτήτων χωρίς εμφανή δική του ταυτότητα βρίσκεται δολοφονημένος μέσα στο αυτοκίνητό του, η έρευνα οδηγεί την Τζέιν σε ένα ταραχώδες παρελθόν. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918103500 GMT+3" stop="20260918111500 GMT+3" channel="216595">
+  <programme start="20260918104000 GMT+3" stop="20260918112500 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 12 Κ12 ΕΠ9</title>
     <desc lang="el">Severide, Kidd και Van Meter ερευνούν μια πυρκαγιά σε ένα στούντιο ηχογράφησης. Η Kylie βοηθά τον James να κρατήσει ένα μυστικό από τον Boden. Ο Mouch δυσκολεύεται να διατηρήσει τα όριά του με έναν παραϊατρικό πελάτη. Πρωταγωνιστούν: Taylor Kinney,Kara Kilmer, David Eigenberg,Miranda Rae Mayo. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918111500 GMT+3" stop="20260918114000 GMT+3" channel="216595">
+  <programme start="20260918112500 GMT+3" stop="20260918114500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ5</title>
     <desc lang="el">Όταν ο Barney ανακαλύπτει ότι ο Ted γνώρισε την νέα φιλενάδα του στο διαδίκτυο, αμέσως νομίζει οτι είναι τρελή. Όταν εκείνη επιμένει ότι γνωριστήκανε σε μάθημα μαγειρικής, επειδή ζηλεύει τις ιστορίες τους, ο Barney αρχίζει να αναθεωρεί. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918114000 GMT+3" stop="20260918120000 GMT+3" channel="216595">
+  <programme start="20260918114500 GMT+3" stop="20260918121000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ6</title>
     <desc lang="el">Μετά απο δείπνο με εκπρόσωπο από μεγάλο δικηγορικό οίκο, ο Marshall αναθεωρεί τις βλέψεις του περί διάσωσης του πλανήτη. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918120000 GMT+3" stop="20260918124500 GMT+3" channel="216595">
+  <programme start="20260918121000 GMT+3" stop="20260918125500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ14</title>
     <desc lang="el">Ενώ ένα δικαστήριο αποφασίζει για την ενοχή ή την αθωότητα μιας κατηγορούμενης σε δίκη για φόνο, ο Τζέιν προσπαθεί να αποδείξει ότι κατηγορήθηκε άδικα πριν τελειώσει ο χρόνος. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918124500 GMT+3" stop="20260918131000 GMT+3" channel="216595">
+  <programme start="20260918125500 GMT+3" stop="20260918131500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ1</title>
     <desc lang="el">Η Claire πείθει τον Phil να πουλήσει το παλιό του station wagon, αλλά όχι πριν όλοι κάνουν μία τελευταία βόλτα με αυτό και να θυμηθούν τις στιγμές που πέρασαν εκεί μέσα. Ο Mitchell αποφασίζει να χτίσει ένα κάστρο για τη Lily. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918131000 GMT+3" stop="20260918133000 GMT+3" channel="216595">
+  <programme start="20260918131500 GMT+3" stop="20260918133500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ2</title>
     <desc lang="el">Ο Cameron είναι έξαλλος με τον Mitchell, επειδή δημοσίως δεν είναι διαχυτικός, ενώ η Gloria θυμώνει με τον Jay επειδή δεν σέβεται τις Κολομβιανές της παραδόσεις. Η Claire ξεπερνάει τα όρια, η Alex προσπαθεί να δώσει το πρώτο της φιλί. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918133000 GMT+3" stop="20260918141500 GMT+3" channel="216595">
+  <programme start="20260918133500 GMT+3" stop="20260918142000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 1 Κ1 ΕΠ10</title>
     <desc lang="el">Η Τζέιν, η Μάουρα και ο Φράνκι Τζούνιορ βρίσκονται παγιδευμένοι σε μια μάχη επιβίωσης στην έδρα τους. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918141500 GMT+3" stop="20260918150000 GMT+3" channel="216595">
+  <programme start="20260918142000 GMT+3" stop="20260918150500 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ2</title>
     <desc lang="el">Η ηθοποιός Σάρα Λέβι συμμετέχει μαζί με την Κρίστεν και τη Γκέιλ σε μια δοκιμασία Quickfire εμπνευσμένη από το εμβληματικό καναδικό πιάτο poutine. Στη συνέχεια, ο Ντανιέλ Μπουλού εντάσσεται στην κριτική επιτροπή. Πρωταγωνιστούν: Kristen Kish, Tom Colicchio, Gail Simmons. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918150000 GMT+3" stop="20260918154500 GMT+3" channel="216595">
+  <programme start="20260918150500 GMT+3" stop="20260918155000 GMT+3" channel="216595">
     <title lang="el">Castle 5 Κ5 ΕΠ5</title>
     <desc lang="el">Ενώ ερευνούν μια συγκλονιστική δολοφονία, η Beckett και η ομάδα της αποκαλύπτουν στοιχεία που συνδέουν τον Castle με τη δολοφονία. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918154500 GMT+3" stop="20260918163000 GMT+3" channel="216595">
+  <programme start="20260918155000 GMT+3" stop="20260918163500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ5 ΕΠ12</title>
     <desc lang="el">Είναι τα εγκαίνια της κλινικής Dean Miller Memorial. Στο μεταξύ, ο Sullivan δίνει τελεσίγραφο στον Beckett και η ομάδα καλείται σε ένα περιστατικό ελεύθερης πτώσης με αλεξίπτωτο. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918163000 GMT+3" stop="20260918171500 GMT+3" channel="216595">
+  <programme start="20260918163500 GMT+3" stop="20260918172000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 12 Κ12 ΕΠ10</title>
     <desc lang="el">Ο Severide ανεβαίνει βαθμό στον Σταθμό 51. Η Kidd παλεύει να σώσει το πρόγραμμά της Girls on Fire. Η οικογένεια του Cruz απειλείται όταν επανεμφανίζεται κάποιος από το παρελθόν του Javi. Πρωταγωνιστούν: Taylor Kinney,Kara Kilmer, David Eigenberg,Miranda Rae Mayo. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918171500 GMT+3" stop="20260918173500 GMT+3" channel="216595">
+  <programme start="20260918172000 GMT+3" stop="20260918174000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ7</title>
     <desc lang="el">Ο μήνας του μέλιτος τελειώνει όταν η Lily και ο Marshall αποφασίζουν να αγοράσουν νέο διαμέρισμα. Τα λάθη τους είναι απανωτά, ενώ ο Marshall ανακαλύπτει ένα κρυφό μυστικό της Lily όταν κάνουν την αίτηση για το δάνειο. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918173500 GMT+3" stop="20260918180000 GMT+3" channel="216595">
+  <programme start="20260918174000 GMT+3" stop="20260918180000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ8</title>
     <desc lang="el">O Ted πιστεύει ότι έχει βρεί την τέλεια κοπέλα, αλλά όταν η παρέα ανακαλύπτει ένα μοιραίο ελάττωμα, λειτουργεί ως ντόμινο και αρχίζουν όλοι και συζητάνε τα δικά τους. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65814,25 +66390,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918210000 GMT+3" stop="20260918213500 GMT+3" channel="216595">
+  <programme start="20260918210000 GMT+3" stop="20260918214500 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ3</title>
     <desc lang="el">Στην εβδομαδιαία δοκιμασία Quickfire, οι σεφ πρέπει να φτιάξουν τη δική τους εκδοχή για το τζαμαϊκανό πιτάκι. Πρωταγωνιστούν: Kristen Kish, Tom Colicchio, Gail Simmons. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918213500 GMT+3" stop="20260918223000 GMT+3" channel="216595">
+  <programme start="20260918214500 GMT+3" stop="20260918224000 GMT+3" channel="216595">
     <title lang="el">Good American Family 1 Κ1 ΕΠ2</title>
     <desc lang="el">Η Νατάλια ξεκινά το σχολείο. Πρωταγωνιστούν: Ellen Pompeo,Imogen Reid,Mark Duplass. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260918223000 GMT+3" stop="20260918231500 GMT+3" channel="216595">
+  <programme start="20260918224000 GMT+3" stop="20260918232500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ16</title>
     <desc lang="el">Ο Τζέιν ξανασμίγει με τον πρώην εχθρό του, τον Μπρετ Στάιλς, τον χαρισματικό ηγέτη της αίρεσης &apos;Visualize&apos;, όταν δολοφονείται ο επικεφαλής μιας οργάνωσης ακτιβιστών κατά των αίρεσης. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918231500 GMT+3" stop="20260919000000 GMT+3" channel="216595">
+  <programme start="20260918232500 GMT+3" stop="20260919001000 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ3</title>
     <desc lang="el">Στην εβδομαδιαία δοκιμασία Quickfire, οι σεφ πρέπει να φτιάξουν τη δική τους εκδοχή για το τζαμαϊκανό πιτάκι. Πρωταγωνιστούν: Kristen Kish, Tom Colicchio, Gail Simmons. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65916,163 +66492,163 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918060000 GMT+3" stop="20260918064000 GMT+3" channel="2755">
+  <programme start="20260918060000 GMT+3" stop="20260918064500 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ4</title>
     <desc lang="el">Μετά από ένα μπέρδεμα στην εντατική, ο Κόνραντ ανακοινώνει τον θάνατο ασθενούς σε λάθος οικογένεια και προσπαθεί να το διορθώσει. Στο μεταξύ, η Νικ προσπαθεί να βρει το ιστορικό ενός ασθενούς που έχει αναλάβει η Λέιν, ο Ντέβον δένεται με μια ηλικιωμένη ασθενή και η Μίνα υποχρεώνεται να φύγει από την αίθουσα χειρουργείου όταν το παρακάνει. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918064000 GMT+3" stop="20260918070000 GMT+3" channel="2755">
+  <programme start="20260918064500 GMT+3" stop="20260918071000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ5</title>
     <desc lang="el">Όταν κοκαΐνη και όπλα κλέβονται από το ντουλάπι με τα αποδεικτικά στοιχεία, η ομάδα πρέπει να ερευνήσει το ίδιο το Τμήμα. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918070000 GMT+3" stop="20260918072500 GMT+3" channel="2755">
+  <programme start="20260918071000 GMT+3" stop="20260918073000 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ12</title>
     <desc lang="el">Ο Μάικλ καλείται ως μάρτυρας όταν η Τζαν μηνύει την Dunder Mifflin. Η Κέλι μιλάει άσχημα για την Παμ όταν ο Ντάριλ κερδίζει τον Τζιμ στο πινγκ-πονγκ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918072500 GMT+3" stop="20260918075000 GMT+3" channel="2755">
+  <programme start="20260918073000 GMT+3" stop="20260918075500 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ13</title>
     <desc lang="el">Ο Τζιμ και η Παμ ξεμένουν από δικαιολογίες για να αποφύγουν ένα δείπνο με τους όλο και πιο δυσλειτουργικούς Τζαν και Μάικλ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918075000 GMT+3" stop="20260918083500 GMT+3" channel="2755">
+  <programme start="20260918075500 GMT+3" stop="20260918084500 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ9</title>
     <desc lang="el">Η ομάδα καλείται να ερευνήσει τα λείψανα ενός καθηγητή ψυχολογίας. Τα πειράματα του καθηγητή πάνω στους μαθητές του δημιουργούν μια μακριά λίστα υπόπτων. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918083500 GMT+3" stop="20260918092000 GMT+3" channel="2755">
+  <programme start="20260918084500 GMT+3" stop="20260918093000 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ10</title>
     <desc lang="el">Η ομάδα παλεύει να θεραπεύσει τραύματα που προκλήθηκαν από επίθεση καρχαρία. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260918092000 GMT+3" stop="20260918094000 GMT+3" channel="2755">
+  <programme start="20260918093000 GMT+3" stop="20260918095500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 9 Κ9 ΕΠ18</title>
     <desc lang="el">Ο Μπαρτ γίνεται φίλος με τον Γουίγκαμ, παίρνει το κλειδί της πόλης, κινδυνεύει η ζωή του δημάρχου. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1997)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918094000 GMT+3" stop="20260918100500 GMT+3" channel="2755">
+  <programme start="20260918095500 GMT+3" stop="20260918102000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 9 Κ9 ΕΠ19</title>
     <desc lang="el">Ο Χόμερ και η παρέα μπαίνουν στο Ναυτικό. Παίρνει τον έλεγχο ενός υποβρυχίου και προκαλεί συμβάν. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1997)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918100500 GMT+3" stop="20260918103000 GMT+3" channel="2755">
+  <programme start="20260918102000 GMT+3" stop="20260918104000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ10</title>
     <desc lang="el">Ο Σέλντον παλεύει απεγνωσμένα με ένα τραγούδι που έχει καρφωθεί στο μυαλό του. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918103000 GMT+3" stop="20260918105500 GMT+3" channel="2755">
+  <programme start="20260918104000 GMT+3" stop="20260918110500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ11</title>
     <desc lang="el">Ο Σέλντον και η Έιμι περνούν την πρώτη τους νύχτα μαζί. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918105500 GMT+3" stop="20260918114000 GMT+3" channel="2755">
+  <programme start="20260918110500 GMT+3" stop="20260918115000 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ10</title>
     <desc lang="el">Η σειρά τιμά τον Alfred Hitchcock σε ένα επεισόδιο που τοποθετεί την ομάδα αλλά και το FBI στο Χόλιγουντ του 1950. Η Brennan παίζει μια αστυνομικό του Λος Άντζελες και ο Booth είναι ένας γνωστός κλέφτης κοσμημάτων. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918114000 GMT+3" stop="20260918120000 GMT+3" channel="2755">
+  <programme start="20260918115000 GMT+3" stop="20260918121500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ7</title>
     <desc lang="el">Ο αρχηγός Χολτ αντιμετωπίζει μια προσωπική απώλεια. Ο Τζέικ πρέπει να αποφασίσει αν θα πάει τον Τέρι ή τον Τσαρλς σε μια αποκλειστική εκδήλωση. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918120000 GMT+3" stop="20260918122500 GMT+3" channel="2755">
+  <programme start="20260918121500 GMT+3" stop="20260918123500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ8</title>
     <desc lang="el">Ο Νταγκ Τζούντι επιστρέφει και αυτή τη φορά, η υπόθεση ανάμεσα σ&apos; εκείνον και τον Τζέικ είναι προσωπική. Η Έιμι και ο Τσαρλς προσπαθούν να βρουν τον τέλειο νέο αυτόματο πωλητή για το Τμήμα. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918122500 GMT+3" stop="20260918131000 GMT+3" channel="2755">
+  <programme start="20260918123500 GMT+3" stop="20260918132000 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ5</title>
     <desc lang="el">Τρεις ταυτόχρονες επεμβάσεις στο νοσοκομείο φέρνουν το προσωπικό στα όριά του. Αποφασισμένη να αποσυμφορήσει την κατάσταση, η Νικ ζητά τον Τζουντ σε μία από τις επεμβάσεις κάνοντας τον Κόνραντ να ζηλέψει. Στο μεταξύ, η δρ Λέιν Χάντερ επιχειρεί να απαξιώσει τους ισχυρισμούς της Νικ, ο Ντέβον ζορίζεται μ&apos; έναν ασθενή που έχει ένα ντροπιαστικό πρόβλημα και ένας γενναιόδωρος ευεργέτης έρχεται στο νοσοκομείο για να δωρίσει χρήματα στο πρόγραμμα ογκολογίας της δρος Λέιν. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918131000 GMT+3" stop="20260918133500 GMT+3" channel="2755">
+  <programme start="20260918132000 GMT+3" stop="20260918134500 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ14</title>
     <desc lang="el">Ο Ντουάιτ βοηθά τον Μάικλ να βρει ένα όμορφο μοντέλο για τον κατάλογο προμηθειών της εταιρείας. Ο Τζιμ δίνει μια παιχνιδιάρικη απάντηση στο τελεσίγραφο της Παμ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918133500 GMT+3" stop="20260918135500 GMT+3" channel="2755">
+  <programme start="20260918134500 GMT+3" stop="20260918141000 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ15</title>
     <desc lang="el">Ο Μάικλ και ο Ντουάιτ βλέπουν μια απρόσμενη πλευρά του Ράιαν σε ένα κλαμπ της Νέας Υόρκης. Το σχέδιο του Τζιμ για να μη δουλέψει το Σάββατο τού γυρνάει μπούμερανγκ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918135500 GMT+3" stop="20260918144000 GMT+3" channel="2755">
+  <programme start="20260918141000 GMT+3" stop="20260918145500 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ11</title>
     <desc lang="el">Μια επισκέπτρια υποψιάζεται ότι δύο επιβάτες έχουν βάλει στο μάτι το θησαυροφυλάκιο του πλοίου. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260918144000 GMT+3" stop="20260918150500 GMT+3" channel="2755">
+  <programme start="20260918145500 GMT+3" stop="20260918151500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 9 Κ9 ΕΠ20</title>
     <desc lang="el">Ο Χόμερ βοηθάει να παγιδευτεί ο Μπερνς και μαθαίνει ότι υπάρχει χαρτονόμισμα ενός τρισεκατομμυρίου. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1997)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918150500 GMT+3" stop="20260918152500 GMT+3" channel="2755">
+  <programme start="20260918151500 GMT+3" stop="20260918154000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 9 Κ9 ΕΠ21</title>
     <desc lang="el">Ο Μπαρτ και η Λίζα βρίσκουν δουλειά στις παιδικές ειδήσεις και ο Χόμερ αποκτά μια μαϊμού, τον Μότζο. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1997)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918152500 GMT+3" stop="20260918155000 GMT+3" channel="2755">
+  <programme start="20260918154000 GMT+3" stop="20260918160000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ12</title>
     <desc lang="el">Ο Στιούαρτ μετακομίζει από το σπίτι του Χάουαρντ και της Μπερναντέτ. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918155000 GMT+3" stop="20260918161500 GMT+3" channel="2755">
+  <programme start="20260918160000 GMT+3" stop="20260918162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ13</title>
     <desc lang="el">Όταν ο Σέλντον αρρωσταίνει, όλη η παρέα υποφέρει. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918161500 GMT+3" stop="20260918170500 GMT+3" channel="2755">
+  <programme start="20260918162000 GMT+3" stop="20260918171000 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ11</title>
     <desc lang="el">Η ομάδα, με τη βοήθεια της φίλης-μέντιουμ της Angela, εισχωρεί στον αλλόκοτο κόσμο της μαντείας όταν το πτώμα ενός μέντιουμ της περιοχής βρίσκεται σε αποσύνθεση μέσα στον κορμό ενός δέντρου. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918170500 GMT+3" stop="20260918172500 GMT+3" channel="2755">
+  <programme start="20260918171000 GMT+3" stop="20260918173000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ9</title>
     <desc lang="el">Όταν μια φάρσα πάει εντελώς στραβά, τα πράγματα στο Τμήμα παίρνουν ξεκάθαρη τροπή αλά Αγκάθα Κρίστι. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918172500 GMT+3" stop="20260918175000 GMT+3" channel="2755">
+  <programme start="20260918173000 GMT+3" stop="20260918175500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ10</title>
     <desc lang="el">Ο Τζέικ και ο πατέρας του ασχολούνται με μια έκρυθμη οικογενειακή δουλειά. Η Έιμι και η Ρόζα ερευνούν μια πολύκροτη υπόθεση. Ο Τέρι θέλει να ενταχθεί στο συγκρότημα της αστυνομίας. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918175000 GMT+3" stop="20260918183500 GMT+3" channel="2755">
+  <programme start="20260918175500 GMT+3" stop="20260918184000 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ6</title>
     <desc lang="el">Καθώς ο Κόνραντ παλεύει να τα βγάλει πέρα με μια ομάδα ευέξαπτων θεραπόντων γιατρών εκ μέρους ενός ασθενούς με μια μυστηριώδη χρόνια ασθένεια, πρέπει επίσης ν&apos; αντιμετωπίσει τον πατέρα του που εμφανίστηκε απροειδοποίητα στο νοσοκομείο. Όταν η Μίνα κάνει τα πάντα για να βοηθήσει έναν νεαρό από τη γειτονιά της που πήγε να την κλέψει, η Νικ προσφέρεται να βοηθήσει και ανακαλύπτει ένα καλά κρυμμένο μυστικό της Μίνα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918183500 GMT+3" stop="20260918190000 GMT+3" channel="2755">
+  <programme start="20260918184000 GMT+3" stop="20260918190500 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ16</title>
     <desc lang="el">Ο Στάνλεϊ μιλά απότομα στον Μάικλ και οι δυο τους μαλώνουν. Ο Ντουάιτ κάνει μια πανούργα συμφωνία για το αμάξι του Άντι. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918190000 GMT+3" stop="20260918192500 GMT+3" channel="2755">
+  <programme start="20260918190500 GMT+3" stop="20260918192500 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ17</title>
     <desc lang="el">Ο Τζιμ πηγαίνει για γκολφ ελπίζοντας ότι θα κλείσει έναν μεγάλο πελάτη. Ο Μάικλ είναι υπέυθυνος σ&apos; ένα περίπτερο σε έκθεση εύρεσης εργασίας στο πανεπιστήμιο της Παμ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -66096,31 +66672,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918210000 GMT+3" stop="20260918212500 GMT+3" channel="2755">
+  <programme start="20260918210000 GMT+3" stop="20260918212000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ14</title>
     <desc lang="el">Ο Λέοναρντ, η Πένι και η παρέα επιτέλους γνωρίζουν τη γιαγιάκα του Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918212500 GMT+3" stop="20260918215000 GMT+3" channel="2755">
+  <programme start="20260918212000 GMT+3" stop="20260918214500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ15</title>
     <desc lang="el">Ο Σέλντον και η Έιμι παρουσιάζουν ένα ζωντανό επεισόδιο της εκπομπής &apos;Διασκέδαση με Σημαίες&apos;. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918215000 GMT+3" stop="20260918223500 GMT+3" channel="2755">
+  <programme start="20260918214500 GMT+3" stop="20260918223000 GMT+3" channel="2755">
     <title lang="el">Chicago P.D. 13 Κ13 ΕΠ4</title>
     <desc lang="el">Η Υπηρεσία Πληροφοριών δίνει μάχη με τον χρόνο όταν ένας άντρας από τη γειτονιά του Torres πέφτει θύμα βίαιης απαγωγής. Πρωταγωνιστούν: Jason Beghe,Marina Squerciati,Patrick John Flueger,LaRoyce Hawkins,Benjamin Levy Aguilar,Amy Morton. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260918223500 GMT+3" stop="20260918232000 GMT+3" channel="2755">
+  <programme start="20260918223000 GMT+3" stop="20260918231500 GMT+3" channel="2755">
     <title lang="el">Tracker 3 Κ3 ΕΠ5</title>
     <desc lang="el">Τέσσερις έφηβοι εξαφανίζονται σε μια πεζοπορία στα Όρη Σάντα Κρουζ. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Jensen Ackles. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918232000 GMT+3" stop="20260919001000 GMT+3" channel="2755">
+  <programme start="20260918231500 GMT+3" stop="20260919000500 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ12</title>
     <desc lang="el">Ο Τρίσταν παλεύει να αποδείξει την αξία του στην Έιβερι. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -66900,13 +67476,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918065000 GMT+3" stop="20260918071000 GMT+3" channel="216459">
+  <programme start="20260918065000 GMT+3" stop="20260918071500 GMT+3" channel="216459">
     <title lang="el">Οι Πειρατές των Κατεδαφίσεων Κ1 ΕΠ11</title>
     <desc lang="el">Ο Brian και ο Lee καταθέτουν μια προσφορά για μια αγροικία του 1920 που έχει μετατραπεί σε διοικητικό κτίριο στην πανεπιστημιούπολη του UNH. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918071000 GMT+3" stop="20260918073500 GMT+3" channel="216459">
+  <programme start="20260918071500 GMT+3" stop="20260918073500 GMT+3" channel="216459">
     <title lang="el">Οι Πειρατές των Κατεδαφίσεων Κ1 ΕΠ12</title>
     <desc lang="el">Ο Lee και ο Brian καταθέτουν μια οικονομική προσφορά για την κατεδάφιση ενός αστυνομικού τμήματος. Όταν όμως πάνε εκεί, έρχονται αντιμέτωποι με σμήνη μελισσών! (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -67002,13 +67578,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918181000 GMT+3" stop="20260918183000 GMT+3" channel="216459">
+  <programme start="20260918181000 GMT+3" stop="20260918183500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ4</title>
     <desc lang="el">Σε αυτό το επεισόδιο, ανακαλύπτουμε τις παγίδες που κρύβονται όταν γλιστράμε το καγιάκ μέσα στο νερό, τους κινδύνους της αιώρησης από γέφυρα και τους κρυφούς κινδύνους του άλματος πάνω σε μίνι τραμπολίνο. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918183000 GMT+3" stop="20260918192000 GMT+3" channel="216459">
+  <programme start="20260918183500 GMT+3" stop="20260918192000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ11 ΕΠ9</title>
     <desc lang="el">Το 2011, ένα σοβιετικού τύπου Yak-42D, το οποίο μετέφερε την καλύτερη ομάδα χόκεϊ της Ρωσίας συνετρίβη στον Βόλγα ποταμό, αφήνοντας πίσω του μόνο έναν επιζώντα. (2011)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -67032,13 +67608,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918215000 GMT+3" stop="20260918231000 GMT+3" channel="216459">
+  <programme start="20260918215000 GMT+3" stop="20260918232000 GMT+3" channel="216459">
     <title lang="el">Χρόνος και Νερό ΕΠ1</title>
     <desc lang="el">Ενώ οι παγετώνες της Ισλανδίας λιώνουν, ένας συγγραφέας ψάχνει τον τρόπο να αποχαιρετήσει τον πάγο και τους παππούδες του. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260918231000 GMT+3" stop="20260919004000 GMT+3" channel="216459">
+  <programme start="20260918232000 GMT+3" stop="20260919005500 GMT+3" channel="216459">
     <title lang="el">B’ ΠΠ: Ήρωες των Αιθέρων ΕΠ1</title>
     <desc lang="el">Από βομβαρδισμούς που αψηφούσαν τον θάνατο μέχρι αερομαχίες με Ναζί πιλότους, ρίχνουμε μια εντυπωσιακή ματιά στο πώς η θαρραλέα ομάδα της 8ης Αεροπορικής Δύναμης άλλαξε δραστικά την τύχη των Συμμάχων κατά τον Β&apos; Παγκόσμιο Πόλεμο. (2020)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -76464,6 +77040,78 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260918090000 GMT+3" stop="20260918093000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
+    <desc lang="el">Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918093000 GMT+3" stop="20260918103500 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918103500 GMT+3" stop="20260918125000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc lang="el">Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918125000 GMT+3" stop="20260918131000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918131000 GMT+3" stop="20260918152500 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
+    <desc lang="el">Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918152500 GMT+3" stop="20260918180000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24</title>
+    <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918180000 GMT+3" stop="20260918203000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc lang="el">Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918203000 GMT+3" stop="20260918213000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc lang="el">Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918213000 GMT+3" stop="20260918214500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918214500 GMT+3" stop="20260918230000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc lang="el">Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918230000 GMT+3" stop="20260918233000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life. Weekly review show</title>
+    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260918233000 GMT+3" stop="20260919000000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview At. Madrid vs Real Madrid</title>
+    <desc lang="el">A full Liga preview with expert analysis and exclusive interviews from Real Madrid&apos;s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260918030000 GMT+3" stop="20260918090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -76799,7 +77447,7 @@
   </programme>
   <programme start="20260918210000 GMT+3" stop="20260918230000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Δ. Στρούμπος Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76811,7 +77459,7 @@
   </programme>
   <programme start="20260918233000 GMT+3" stop="20260919013000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76861,7 +77509,7 @@
   </programme>
   <programme start="20260918213000 GMT+3" stop="20260918233000 GMT+3" channel="216415">
     <title lang="el">Μπάγερν Μονάχου - Ουνιόν Βερολίνου (Ζ)</title>
-    <desc lang="el">Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες αναμετρήσεις. Απολαύστε όλους τους αγώνες στα κανάλια Novasports! Ποδόσφαιρο</desc>
+    <desc lang="el">Η Μπάγερν (4η-7β), που έφυγε με νίκη 2-1 από την έδρα της Έλβερσμπεργκ, και η Ουνιόν (16η-1β), που ηττήθηκε στην έδρα της με 3-1 από τη Σάλκε, έρχονται αντιμέτωπες στο πλαίσιο της 4ης αγωνιστικής. Περιγραφή: Γ. Δούσκας Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76915,13 +77563,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918193000 GMT+3" stop="20260918213500 GMT+3" channel="218883">
+  <programme start="20260918193000 GMT+3" stop="20260918213000 GMT+3" channel="218883">
     <title lang="el">Βόλφσμπουργκ - Ντάρμσταντ (Z)</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο</desc>
+    <desc lang="el">Η Βόλφσμπουργκ (5η-8β) φιλοξενεί την Ντάρμσταντ (16η-4β) στην 6η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Ακ. Κουζούλης Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260918213500 GMT+3" stop="20260918220000 GMT+3" channel="218883">
+  <programme start="20260918213000 GMT+3" stop="20260918220000 GMT+3" channel="218883">
     <title lang="el">Πρωτάθλημα FIA Karting 2026</title>
     <desc lang="el">Το Πρωτάθλημα Karting της FIA είναι η διασημότερη διοργάνωση καρτ στον κόσμο. Αρκετοί πρωταθλητές της, όπως ο Άιρτον Σένα, ο Αλέν Προστ και ο Μαξ Φερστάπεν, έχουν συμμετάσχει και έχουν κερδίσει το Παγκόσμιο Πρωτάθλημα Οδηγών F1. Μηχανοκίνητα</desc>
     <category lang="el">Αθλητικά</category>
@@ -77019,7 +77667,7 @@
   </programme>
   <programme start="20260918170000 GMT+3" stop="20260918190000 GMT+3" channel="10965554">
     <title lang="el">Ολυμπιακός - Φενέρμπαχτσε (Ζ)</title>
-    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Μπάσκετ</desc>
+    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Περιγραφή: Ν. Αυγουλής Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77031,7 +77679,7 @@
   </programme>
   <programme start="20260918200000 GMT+3" stop="20260918220000 GMT+3" channel="10965554">
     <title lang="el">Ντουμπάι - Ρεάλ Μαδρίτης (Ζ)</title>
-    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Μπάσκετ</desc>
+    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Περιγραφή: Χρ. Καούρης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -77083,7 +77731,7 @@
   </programme>
   <programme start="20260918163000 GMT+3" stop="20260918183000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 171 (Ζ)</title>
-    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
+    <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Περιγραφή: Ακ. Κουζούλης Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
@@ -78239,6 +78887,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260918010000 GMT+3" stop="20260918060000 GMT+3" channel="52196581">
+    <title lang="el">Σύντομα κοντά σας</title>
+    <desc lang="el">Σύντομα κοντά σας</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260918013000 GMT+3" stop="20260918060000 GMT+3" channel="52196763">
     <title lang="el">Σύντομα κοντά σας</title>
     <desc lang="el">Σύντομα κοντά σας</desc>
@@ -78971,13 +79625,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260919001500 GMT+3" stop="20260919013000 GMT+3" channel="289530">
+  <programme start="20260919010000 GMT+3" stop="20260919020000 GMT+3" channel="289530">
     <title lang="el">Jack Irish</title>
     <desc lang="el">Ο Τζακ, πρώην δικηγόρος και νυν ιδιωτικός ερευνητής, αναλαμβάνει να εντοπίσει έναν αγνοούμενο, όμως σύντομα βρίσκεται μπλεγμένος σε μια υπόθεση δολοφονίας και σε ένα δίκτυο ισχυρών συμφερόντων που τον οδηγούν από το Φιτζρόι έως ένα απομακρυσμένο χωριό στι</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919013000 GMT+3" stop="20260919040000 GMT+3" channel="289530">
+  <programme start="20260919020000 GMT+3" stop="20260919040000 GMT+3" channel="289530">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -79043,21 +79697,27 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919164500 GMT+3" stop="20260919181000 GMT+3" channel="289530">
-    <title lang="el">ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-    <desc lang="el">ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</desc>
+  <programme start="20260919164500 GMT+3" stop="20260919172000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">Βουράτε να βουρήσουμεν... αρχίσουν οι Γειτόνοι! Οι πιο αγαπημένοι ήρωες της πιο δημοφιλούς σειράς στην ιστορία της κυπριακής τηλεόρασης είναι καθημερινά στο ΣΙΓΜΑ σε μια κωμική σειρά που άφησε εποχή!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919181000 GMT+3" stop="20260919181500 GMT+3" channel="289530">
+  <programme start="20260919172000 GMT+3" stop="20260919180000 GMT+3" channel="289530">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919180000 GMT+3" stop="20260919180500 GMT+3" channel="289530">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
     <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919181500 GMT+3" stop="20260919200000 GMT+3" channel="289530">
-    <title lang="el">The Wall</title>
-    <desc lang="el">Με τον Γιώργο Λιανό</desc>
+  <programme start="20260919180500 GMT+3" stop="20260919200000 GMT+3" channel="289530">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -79067,9 +79727,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919210000 GMT+3" stop="20260920003000 GMT+3" channel="289530">
-    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+  <programme start="20260919210000 GMT+3" stop="20260919230000 GMT+3" channel="289530">
+    <title lang="el">ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ</title>
+    <desc lang="el">ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919230000 GMT+3" stop="20260920000000 GMT+3" channel="289530">
+    <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+    <desc lang="el">Μια ανατρεπτική ιστορία, που συνδυάζει γέλιο, συγκίνηση και δράση.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -79163,15 +79829,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919200000 GMT+3" stop="20260919221500 GMT+3" channel="39337317">
+  <programme start="20260919200000 GMT+3" stop="20260919231000 GMT+3" channel="39337317">
     <title lang="el">EUROLEAGUE SUPER CUP: ΤΕΛΙΚΟΣ (Ζ)</title>
     <desc lang="el">Καλαθοσφαιρα - ΤΕΛΙΚΟΣ</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260919221500 GMT+3" stop="20260919231000 GMT+3" channel="39337317">
-    <title lang="el">Ο ΓΙΑΤΡΟΣ Κ2 ΕΠ29</title>
-    <desc lang="el">Ελληνική Σειρά: Μια απρόσμενη εισαγωγή στην Παθολογική θα αναστατώσει το τμήμα και ειδικά την Άλμα. Η αδερφή της νοσηλεύεται χωρίς οι γιατροί να μπορούν να κάνουν διάγνωση, ενώ η ίδια έχει παράλληλα να αντιμετωπίσει και τις τεταμένες σχέσεις με την οικογένειά της. Η κατάσταση της Όλγας επιδεινώνεται και η κοπέλα, βλέποντας το τέλος να πλησιάζει, προσεγγίζει τον Ορέστη ώστε να αναλάβει το παιδί τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -79847,6 +80507,138 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260919000000 GMT+3" stop="20260919010000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919010000 GMT+3" stop="20260919020000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919020000 GMT+3" stop="20260919030000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919030000 GMT+3" stop="20260919050000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919050000 GMT+3" stop="20260919070000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919070000 GMT+3" stop="20260919073000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919073000 GMT+3" stop="20260919080000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919080000 GMT+3" stop="20260919083000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919083000 GMT+3" stop="20260919090000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919090000 GMT+3" stop="20260919093000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919093000 GMT+3" stop="20260919110000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919110000 GMT+3" stop="20260919120000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919120000 GMT+3" stop="20260919130000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919130000 GMT+3" stop="20260919150000 GMT+3" channel="2221">
+    <title lang="el">Αποκλειστικά</title>
+    <desc lang="el">Το νέο τηλεοπτικό μαγκαζίνο ήρθε να ανατρέψει την μέχρι σήμερα ενημέρωση, αφορά μια δυναμική και δια δραστική ενημερωτική εκπομπή που κρατάει το κοινό σε εγρήγορση με αποκλειστικές ειδήσεις, ρεπορτάζ και κοινωνικά θέματα. «Αποκλειστικά» με την Άννα-Μαρία Ευτυχίου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919150000 GMT+3" stop="20260919160000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919160000 GMT+3" stop="20260919180000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919180000 GMT+3" stop="20260919190000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919190000 GMT+3" stop="20260919200000 GMT+3" channel="2221">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΤΩΡΑ</title>
+    <desc lang="el">Δελτίο Ειδήσεων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919200000 GMT+3" stop="20260919210000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919210000 GMT+3" stop="20260919230000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919230000 GMT+3" stop="20260919233000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260919233000 GMT+3" stop="20260920000000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260919004000 GMT+3" stop="20260919020000 GMT+3" channel="289555">
     <title lang="el">ΠΑΜΕ ΠΑΡΕΑ (E)</title>
     <desc lang="el">Η παρέα που θέλεις να έχεις κάθε μέρα στο σπίτι σου! Με τη μοναδική Χριστιάνα Αρτεμίου και μια ομάδα που ξέρει να δημιουργεί χημεία, να σχολιάζει όσα συμβαίνουν γύρω μας και να βρίσκει το χιούμορ ακόμη και στις πιο απρόβλεπτες στιγμές, κάθε επεισόδιο είναι μια διαφορετική εμπειρία. Από την επικαιρότητα μέχρι τις viral στιγμές, από το γέλιο μέχρι τις αυθόρμητες ανατροπές, όλα μπορούν να συμβούν και τίποτα δεν είναι ακριβώς όπως το περιμένεις.</desc>
@@ -80177,15 +80969,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919200000 GMT+3" stop="20260919221500 GMT+3" channel="289607">
+  <programme start="20260919200000 GMT+3" stop="20260919231000 GMT+3" channel="289607">
     <title lang="el">EUROLEAGUE SUPER CUP: ΤΕΛΙΚΟΣ (Ζ)</title>
     <desc lang="el">Καλαθοσφαιρα - ΤΕΛΙΚΟΣ</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260919221500 GMT+3" stop="20260919231000 GMT+3" channel="289607">
-    <title lang="el">Ο ΓΙΑΤΡΟΣ Κ2 ΕΠ29</title>
-    <desc lang="el">Ελληνική Σειρά: Μια απρόσμενη εισαγωγή στην Παθολογική θα αναστατώσει το τμήμα και ειδικά την Άλμα. Η αδερφή της νοσηλεύεται χωρίς οι γιατροί να μπορούν να κάνουν διάγνωση, ενώ η ίδια έχει παράλληλα να αντιμετωπίσει και τις τεταμένες σχέσεις με την οικογένειά της. Η κατάσταση της Όλγας επιδεινώνεται και η κοπέλα, βλέποντας το τέλος να πλησιάζει, προσεγγίζει τον Ορέστη ώστε να αναλάβει το παιδί τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -80195,13 +80981,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919001500 GMT+3" stop="20260919013000 GMT+3" channel="114064159">
+  <programme start="20260919010000 GMT+3" stop="20260919020000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
     <desc lang="el">Ο Τζακ, πρώην δικηγόρος και νυν ιδιωτικός ερευνητής, αναλαμβάνει να εντοπίσει έναν αγνοούμενο, όμως σύντομα βρίσκεται μπλεγμένος σε μια υπόθεση δολοφονίας και σε ένα δίκτυο ισχυρών συμφερόντων που τον οδηγούν από το Φιτζρόι έως ένα απομακρυσμένο χωριό στι</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919013000 GMT+3" stop="20260919040000 GMT+3" channel="114064159">
+  <programme start="20260919020000 GMT+3" stop="20260919040000 GMT+3" channel="114064159">
     <title lang="el">Studio ΣΤΙΣ 3</title>
     <desc lang="el">Η Νάνσυ Ζαμπέτογλου και ο Θανάσης Αναγνωστόπουλος βρίσκονται καθημερινά, Δευτέρα με Παρασκευή, στο «Studio στις 3»! Οι δύο δημοσιογράφοι παρουσιάζουν ένα πολυθεματικό μαγκαζίνο που εστιάζει στην ουσία της επικαιρότητας, της καθημερινότητας και της ψυχαγωγ</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -80267,21 +81053,27 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919164500 GMT+3" stop="20260919181000 GMT+3" channel="114064159">
-    <title lang="el">ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</title>
-    <desc lang="el">ΠΑΝΤΡΕΜΕΝΟΙ ΚΙ ΟΙ ΔΥΟ</desc>
+  <programme start="20260919164500 GMT+3" stop="20260919172000 GMT+3" channel="114064159">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">Βουράτε να βουρήσουμεν... αρχίσουν οι Γειτόνοι! Οι πιο αγαπημένοι ήρωες της πιο δημοφιλούς σειράς στην ιστορία της κυπριακής τηλεόρασης είναι καθημερινά στο ΣΙΓΜΑ σε μια κωμική σειρά που άφησε εποχή!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919181000 GMT+3" stop="20260919181500 GMT+3" channel="114064159">
+  <programme start="20260919172000 GMT+3" stop="20260919180000 GMT+3" channel="114064159">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919180000 GMT+3" stop="20260919180500 GMT+3" channel="114064159">
     <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
     <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919181500 GMT+3" stop="20260919200000 GMT+3" channel="114064159">
-    <title lang="el">The Wall</title>
-    <desc lang="el">Με τον Γιώργο Λιανό</desc>
+  <programme start="20260919180500 GMT+3" stop="20260919200000 GMT+3" channel="114064159">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -80291,9 +81083,15 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919210000 GMT+3" stop="20260920003000 GMT+3" channel="114064159">
-    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
-    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
+  <programme start="20260919210000 GMT+3" stop="20260919230000 GMT+3" channel="114064159">
+    <title lang="el">ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ</title>
+    <desc lang="el">ΣΜΥΡΝΗ ΜΟΥ ΑΓΑΠΗΜΕΝΗ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919230000 GMT+3" stop="20260920000000 GMT+3" channel="114064159">
+    <title lang="el">ΣΕ ΞΕΝΑ ΧΕΡΙΑ</title>
+    <desc lang="el">Μια ανατρεπτική ιστορία, που συνδυάζει γέλιο, συγκίνηση και δράση.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -84835,61 +85633,61 @@
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919000000 GMT+3" stop="20260919004500 GMT+3" channel="216595">
+  <programme start="20260919001000 GMT+3" stop="20260919005500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ18 ΕΠ15</title>
     <desc lang="el">Η Bailey αγχώνεται όταν μια επιτροπή διαπίστευσης έρχεται στο Grey Sloan για να ελέγξει το πρόγραμμα ειδικότητας, ενώ ο Richard έχει μια δική του αξιολόγηση την ίδια μέρα. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,James Pickens,Kevin McKidd, Caterina Scorsone, Camilla Luddington,Kelly McCreary,Kim Raver,Jake Borelli,Chris Carmack.Richard Flood,Anthony Hill. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919004500 GMT+3" stop="20260919013000 GMT+3" channel="216595">
+  <programme start="20260919005500 GMT+3" stop="20260919014000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 2 Κ2 ΕΠ1</title>
     <desc lang="el">Όταν δέχεται σφαίρα κατά τη διάρκεια μιας πολιορκίας στο τμήμα, η Τζέιν τιμάται ως ηρωίδα - μέχρι που χτυπά η καταστροφή. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919013000 GMT+3" stop="20260919021500 GMT+3" channel="216595">
+  <programme start="20260919014000 GMT+3" stop="20260919022000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ16</title>
     <desc lang="el">Ο Τζέιν ξανασμίγει με τον πρώην εχθρό του, τον Μπρετ Στάιλς, τον χαρισματικό ηγέτη της αίρεσης &apos;Visualize&apos;, όταν δολοφονείται ο επικεφαλής μιας οργάνωσης ακτιβιστών κατά των αίρεσης. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919021500 GMT+3" stop="20260919023500 GMT+3" channel="216595">
+  <programme start="20260919022000 GMT+3" stop="20260919024500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ3</title>
     <desc lang="el">Ένας σεισμός αφήνει την Claire παγιδευμένη στο μπάνιο μαζί με τον υδραυλικό. Ο Manny περνάει μια υπαρξιακή κρίση, ενώ ο Mitchell και ο Cameron λένε όλο και μεγαλύτερα ψέματα χρησιμοποιώντας τον σεισμό για να φύγουν από ένα πάρτι. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919023500 GMT+3" stop="20260919030000 GMT+3" channel="216595">
+  <programme start="20260919024500 GMT+3" stop="20260919030500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ4</title>
     <desc lang="el">Η Claire και ο Mitchell αλληλοβοήθιουνται προκειμένου να γλιτώσουν τους αγαπημένους τους από την ντροπή. Η Haley δίνει στην Alex την αδερφική της συμβουλή στο πώς να είναι κουλ. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919030000 GMT+3" stop="20260919034000 GMT+3" channel="216595">
+  <programme start="20260919030500 GMT+3" stop="20260919035000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 12 Κ12 ΕΠ10</title>
     <desc lang="el">Ο Severide ανεβαίνει βαθμό στον Σταθμό 51. Η Kidd παλεύει να σώσει το πρόγραμμά της Girls on Fire. Η οικογένεια του Cruz απειλείται όταν επανεμφανίζεται κάποιος από το παρελθόν του Javi. Πρωταγωνιστούν: Taylor Kinney,Kara Kilmer, David Eigenberg,Miranda Rae Mayo. (2023)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919034000 GMT+3" stop="20260919040500 GMT+3" channel="216595">
+  <programme start="20260919035000 GMT+3" stop="20260919041000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ7</title>
     <desc lang="el">Ο μήνας του μέλιτος τελειώνει όταν η Lily και ο Marshall αποφασίζουν να αγοράσουν νέο διαμέρισμα. Τα λάθη τους είναι απανωτά, ενώ ο Marshall ανακαλύπτει ένα κρυφό μυστικό της Lily όταν κάνουν την αίτηση για το δάνειο. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919040500 GMT+3" stop="20260919042500 GMT+3" channel="216595">
+  <programme start="20260919041000 GMT+3" stop="20260919043500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ8</title>
     <desc lang="el">O Ted πιστεύει ότι έχει βρεί την τέλεια κοπέλα, αλλά όταν η παρέα ανακαλύπτει ένα μοιραίο ελάττωμα, λειτουργεί ως ντόμινο και αρχίζουν όλοι και συζητάνε τα δικά τους. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919042500 GMT+3" stop="20260919051000 GMT+3" channel="216595">
+  <programme start="20260919043500 GMT+3" stop="20260919051500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ5 ΕΠ12</title>
     <desc lang="el">Είναι τα εγκαίνια της κλινικής Dean Miller Memorial. Στο μεταξύ, ο Sullivan δίνει τελεσίγραφο στον Beckett και η ομάδα καλείται σε ένα περιστατικό ελεύθερης πτώσης με αλεξίπτωτο. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919051000 GMT+3" stop="20260919060000 GMT+3" channel="216595">
+  <programme start="20260919051500 GMT+3" stop="20260919060000 GMT+3" channel="216595">
     <title lang="el">Castle 5 Κ5 ΕΠ5</title>
     <desc lang="el">Ενώ ερευνούν μια συγκλονιστική δολοφονία, η Beckett και η ομάδα της αποκαλύπτουν στοιχεία που συνδέουν τον Castle με τη δολοφονία. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -85033,13 +85831,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260919001000 GMT+3" stop="20260919005500 GMT+3" channel="2755">
+  <programme start="20260919000500 GMT+3" stop="20260919005000 GMT+3" channel="2755">
     <title lang="el">Chicago P.D. 13 Κ13 ΕΠ4</title>
     <desc lang="el">Η Υπηρεσία Πληροφοριών δίνει μάχη με τον χρόνο όταν ένας άντρας από τη γειτονιά του Torres πέφτει θύμα βίαιης απαγωγής. Πρωταγωνιστούν: Jason Beghe,Marina Squerciati,Patrick John Flueger,LaRoyce Hawkins,Benjamin Levy Aguilar,Amy Morton. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260919005500 GMT+3" stop="20260919011500 GMT+3" channel="2755">
+  <programme start="20260919005000 GMT+3" stop="20260919011500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 9 Κ9 ΕΠ22</title>
     <desc lang="el">Ο Χόμερ νικά τον προϊστάμενο του Υγειονομικού με μια δυσφημιστική εκστρατεία και τρελές υποσχέσεις. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1997)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -85051,43 +85849,43 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919014000 GMT+3" stop="20260919020500 GMT+3" channel="2755">
+  <programme start="20260919014000 GMT+3" stop="20260919020000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ14</title>
     <desc lang="el">Ο Λέοναρντ, η Πένι και η παρέα επιτέλους γνωρίζουν τη γιαγιάκα του Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919020500 GMT+3" stop="20260919023000 GMT+3" channel="2755">
+  <programme start="20260919020000 GMT+3" stop="20260919022000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ15</title>
     <desc lang="el">Ο Σέλντον και η Έιμι παρουσιάζουν ένα ζωντανό επεισόδιο της εκπομπής &apos;Διασκέδαση με Σημαίες&apos;. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919023000 GMT+3" stop="20260919025500 GMT+3" channel="2755">
+  <programme start="20260919022000 GMT+3" stop="20260919024500 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ16</title>
     <desc lang="el">Ο Στάνλεϊ μιλά απότομα στον Μάικλ και οι δυο τους μαλώνουν. Ο Ντουάιτ κάνει μια πανούργα συμφωνία για το αμάξι του Άντι. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919025500 GMT+3" stop="20260919032000 GMT+3" channel="2755">
+  <programme start="20260919024500 GMT+3" stop="20260919031000 GMT+3" channel="2755">
     <title lang="el">The Office 4 Κ4 ΕΠ17</title>
     <desc lang="el">Ο Τζιμ πηγαίνει για γκολφ ελπίζοντας ότι θα κλείσει έναν μεγάλο πελάτη. Ο Μάικλ είναι υπέυθυνος σ&apos; ένα περίπτερο σε έκθεση εύρεσης εργασίας στο πανεπιστήμιο της Παμ. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fische,B. J. Nova. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919032000 GMT+3" stop="20260919034000 GMT+3" channel="2755">
+  <programme start="20260919031000 GMT+3" stop="20260919033500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ9</title>
     <desc lang="el">Όταν μια φάρσα πάει εντελώς στραβά, τα πράγματα στο Τμήμα παίρνουν ξεκάθαρη τροπή αλά Αγκάθα Κρίστι. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919034000 GMT+3" stop="20260919040500 GMT+3" channel="2755">
+  <programme start="20260919033500 GMT+3" stop="20260919040000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 7 Κ7 ΕΠ10</title>
     <desc lang="el">Ο Τζέικ και ο πατέρας του ασχολούνται με μια έκρυθμη οικογενειακή δουλειά. Η Έιμι και η Ρόζα ερευνούν μια πολύκροτη υπόθεση. Ο Τέρι θέλει να ενταχθεί στο συγκρότημα της αστυνομίας. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Andre Braugher. (2020)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919040500 GMT+3" stop="20260919045000 GMT+3" channel="2755">
+  <programme start="20260919040000 GMT+3" stop="20260919045000 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ6</title>
     <desc lang="el">Καθώς ο Κόνραντ παλεύει να τα βγάλει πέρα με μια ομάδα ευέξαπτων θεραπόντων γιατρών εκ μέρους ενός ασθενούς με μια μυστηριώδη χρόνια ασθένεια, πρέπει επίσης ν&apos; αντιμετωπίσει τον πατέρα του που εμφανίστηκε απροειδοποίητα στο νοσοκομείο. Όταν η Μίνα κάνει τα πάντα για να βοηθήσει έναν νεαρό από τη γειτονιά της που πήγε να την κλέψει, η Νικ προσφέρεται να βοηθήσει και ανακαλύπτει ένα καλά κρυμμένο μυστικό της Μίνα. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -86023,39 +86821,39 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260919004000 GMT+3" stop="20260919013000 GMT+3" channel="216459">
+  <programme start="20260919005500 GMT+3" stop="20260919014000 GMT+3" channel="216459">
     <title lang="el">Αυτοψία της Καταστροφής - Ειδική Έκδοση Κ1 ΕΠ1</title>
     <desc lang="el">Σε θάλασσα, ξηρά και διάστημα, οι ειδικοί αναλύουν τρεις μεγάλες καταστροφές για να αποκαλύψουν τις κρυφές και απρόσμενες αιτίες. Γιατί απέτυχε η επιστροφή του διαστημικού λεωφορείου, γιατί έκανε έκρηξη μια εξέδρα εξόρυξης πετρελαίου και γιατί καταστράφηκε ένα πυρηνικό εργοστάσιο; (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919013000 GMT+3" stop="20260919024500 GMT+3" channel="216459">
+  <programme start="20260919014000 GMT+3" stop="20260919031500 GMT+3" channel="216459">
     <title lang="el">Χρόνος και Νερό ΕΠ1</title>
     <desc lang="el">Ενώ οι παγετώνες της Ισλανδίας λιώνουν, ένας συγγραφέας ψάχνει τον τρόπο να αποχαιρετήσει τον πάγο και τους παππούδες του. (2025)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919024500 GMT+3" stop="20260919033500 GMT+3" channel="216459">
+  <programme start="20260919031500 GMT+3" stop="20260919040500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ11 ΕΠ9</title>
     <desc lang="el">Το 2011, ένα σοβιετικού τύπου Yak-42D, το οποίο μετέφερε την καλύτερη ομάδα χόκεϊ της Ρωσίας συνετρίβη στον Βόλγα ποταμό, αφήνοντας πίσω του μόνο έναν επιζώντα. (2011)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919033500 GMT+3" stop="20260919042000 GMT+3" channel="216459">
+  <programme start="20260919040500 GMT+3" stop="20260919045000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ11 ΕΠ10</title>
     <desc lang="el">Όταν ο Πολωνός Πρόεδρος Lech Kaczynski σκοτώνεται σε αεροπορικό δυστύχημα, οι ερευνητές ανακαλύπτουν ότι δεν επρόκειτο απλώς για ένα λάθος του πιλότου. (2011)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919042000 GMT+3" stop="20260919051000 GMT+3" channel="216459">
-    <title lang="el">Τραγωδία στον Αέρα Κ11 ΕΠ11</title>
-    <desc lang="el">Όταν ο πύργος ελέγχου ζητά από την πτήση 409 να αλλάξει πορεία, οι πιλότοι επιβεβαιώνουν την αλλαγή. Λίγα λεπτά αργότερα, το αεροπλάνο πέφτει στη θάλασσα. (2011)</desc>
+  <programme start="20260919045000 GMT+3" stop="20260919053500 GMT+3" channel="216459">
+    <title lang="el">Αυτοψία της Καταστροφής - Ειδική Έκδοση Κ1 ΕΠ1</title>
+    <desc lang="el">Σε θάλασσα, ξηρά και διάστημα, οι ειδικοί αναλύουν τρεις μεγάλες καταστροφές για να αποκαλύψουν τις κρυφές και απρόσμενες αιτίες. Γιατί απέτυχε η επιστροφή του διαστημικού λεωφορείου, γιατί έκανε έκρηξη μια εξέδρα εξόρυξης πετρελαίου και γιατί καταστράφηκε ένα πυρηνικό εργοστάσιο; (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260919051000 GMT+3" stop="20260919060000 GMT+3" channel="216459">
-    <title lang="el">Αυτοψία της Καταστροφής - Ειδική Έκδοση Κ1 ΕΠ1</title>
-    <desc lang="el">Σε θάλασσα, ξηρά και διάστημα, οι ειδικοί αναλύουν τρεις μεγάλες καταστροφές για να αποκαλύψουν τις κρυφές και απρόσμενες αιτίες. Γιατί απέτυχε η επιστροφή του διαστημικού λεωφορείου, γιατί έκανε έκρηξη μια εξέδρα εξόρυξης πετρελαίου και γιατί καταστράφηκε ένα πυρηνικό εργοστάσιο; (2026)</desc>
+  <programme start="20260919053500 GMT+3" stop="20260919060000 GMT+3" channel="216459">
+    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ3</title>
+    <desc lang="el">Σε αυτό το επεισόδιο, ανακαλύπτουμε τα πάντα για τους κινδύνους που κρύβουν τα μαστίγια, τα άλματα πάνω από ανθρώπους καθώς και το σπρώξιμο της κούνιας. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
@@ -96043,6 +96841,48 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260919000000 GMT+3" stop="20260919010000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919010000 GMT+3" stop="20260919031500 GMT+3" channel="97085851">
+    <title lang="el">Champions League 17/18: Bayern Munich vs Real Madrid</title>
+    <desc lang="el">Watch Real Madrid produce another famous European comeback at the Allianz Arena.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919031500 GMT+3" stop="20260919033000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919033000 GMT+3" stop="20260919054500 GMT+3" channel="97085851">
+    <title lang="el">The Match</title>
+    <desc lang="el">Don´t miss our first team football action. Catch all the matches in full night here on Real Madrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919054500 GMT+3" stop="20260919070000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919070000 GMT+3" stop="20260919071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260919071500 GMT+3" stop="20260920060000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
+    <desc lang="el">Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260919030000 GMT+3" stop="20260919090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -96279,7 +97119,7 @@
   </programme>
   <programme start="20260919013000 GMT+3" stop="20260919033000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96323,13 +97163,13 @@
   </programme>
   <programme start="20260919190000 GMT+3" stop="20260919210000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260919210000 GMT+3" stop="20260919230000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96538,7 +97378,7 @@
   </programme>
   <programme start="20260919170000 GMT+3" stop="20260919190000 GMT+3" channel="10965554">
     <title lang="el">1ο EuroLeague Super Cup (Ζ)</title>
-    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Μπάσκετ</desc>
+    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Περιγραφή: Ν. Αυγουλής Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96550,7 +97390,7 @@
   </programme>
   <programme start="20260919200000 GMT+3" stop="20260919220000 GMT+3" channel="10965554">
     <title lang="el">1ο EuroLeague Super Cup (Ζ)</title>
-    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Μπάσκετ</desc>
+    <desc lang="el">To 1o EuroLeague Super Cup διεξάγεται στο Άμπου Ντάμπι και τέσσερις ομάδες διεκδικούν τον τίτλο: ο πρωταθλητής Ευρώπης Ολυμπιακός, η φιναλίστ Ρεάλ, η περσινή νικήτρια Φενέρμπαχτσε και η οικοδέσποινα Ντουμπάι. Περιγραφή: Χρ. Καούρης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -98633,15 +99473,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920181000 GMT+3" stop="20260920181500 GMT+3" channel="289530">
-    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260920200000 GMT+3" stop="20260920210000 GMT+3" channel="289530">
-    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ</desc>
+  <programme start="20260920161000 GMT+3" stop="20260920172000 GMT+3" channel="289530">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">Βουράτε να βουρήσουμεν... αρχίσουν οι Γειτόνοι! Οι πιο αγαπημένοι ήρωες της πιο δημοφιλούς σειράς στην ιστορία της κυπριακής τηλεόρασης είναι καθημερινά στο ΣΙΓΜΑ σε μια κωμική σειρά που άφησε εποχή!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -98651,9 +99485,27 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260921000000 GMT+3" stop="20260921013000 GMT+3" channel="289530">
-    <title lang="el">ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ</title>
-    <desc lang="el">Ένας άνεργος νέος που ψάχνει για δουλειά, ερωτεύεται μια σκηνοθέτιδα του κινηματογράφου, που δεν του δίνει σημασία. Όταν όμως ο πατέρας της πέφτει θύμα ληστείας εκείνη ζητά την βοήθεια του. Κωμωδία παραγωγής 1987. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. (1987)</desc>
+  <programme start="20260920181000 GMT+3" stop="20260920181500 GMT+3" channel="289530">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920181500 GMT+3" stop="20260920200000 GMT+3" channel="289530">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920200000 GMT+3" stop="20260920210000 GMT+3" channel="289530">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920210000 GMT+3" stop="20260921000000 GMT+3" channel="289530">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -98771,17 +99623,17 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920210000 GMT+3" stop="20260920221000 GMT+3" channel="39337317">
+  <programme start="20260920210000 GMT+3" stop="20260920221500 GMT+3" channel="39337317">
     <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ68</title>
     <desc lang="el">Ελληνική Σειρά:Τα εξώδικα συνεχίζονται, το δημοσίευμα για την ERGAN ρίχνει λάδι στη φωτιά και ο Οδυσσέας είναι πεπεισμένος πως πίσω απ’ όλα κρύβεται η Αρετή. Αποφασισμένος να φτάσει μέχρι τέλους, στρέφεται στον Μπακύρα, ζητώντας πληροφορίες για τους κρυφούς εταίρους της Triton. Την ίδια ώρα, ο Άλκης μπλέκεται όλο και πιο βαθιά σε μια επικίνδυνη ιστορία.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260920221000 GMT+3" stop="20260920231000 GMT+3" channel="39337317">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ71</title>
-    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας πηγαίνει να ζητήσει εξηγήσεις από την Αρετή, για όσα την άκουσε να λέει η Αλεξάνδρα και η Αρετή λιποθυμά στα χέρια του. Η επίσκεψη της Κατερίνης στην Εύα και η ταραχή που βιώνει έχουν ολέθριες συνέπειες για την υγεία της, με αποτέλεσμα την εισαγωγή της στο νοσοκομείο. Ο Σάββας παίρνει επιτέλους το πολυπόθητο διαζύγιο και ετοιμάζεται να ξεκινήσει την καινούργια του ζωή με τη Μίνα, το ίδιο κι ο Άλκης που ετοιμάζεται να φύγει με τη Φαίη και τα λεφτά.</desc>
+  <programme start="20260920221500 GMT+3" stop="20260920231000 GMT+3" channel="39337317">
+    <title lang="el">Ο ΓΙΑΤΡΟΣ Κ2 ΕΠ30</title>
+    <desc lang="el">Ελληνική Σειρά:Με την Όλγα να βρίσκεται ακόμη πιο κοντά στον θάνατο, ο Αλέξανδρος επισκέπτεται τον Ορέστη και του ζητάει να αναλάβει την κηδεμονία τον Γιάννη. Εκείνος όμως κλείνει κάθε πιθανή δίοδο επικοινωνίας. Η Σοφία νιώθει ολοένα και περισσότερο τον Ανδρέα μακριά της, πράγμα που την οδηγεί σε μια μεγάλη και οριστική απόφαση για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
+    <rating>K</rating>
   </programme>
   <programme start="20260920231000 GMT+3" stop="20260921000000 GMT+3" channel="39337317">
     <title lang="el">MCP WARRIOR Κ1 ΕΠ11</title>
@@ -99413,6 +100265,138 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260920000000 GMT+3" stop="20260920010000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920010000 GMT+3" stop="20260920020000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920020000 GMT+3" stop="20260920030000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920030000 GMT+3" stop="20260920050000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920050000 GMT+3" stop="20260920070000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920070000 GMT+3" stop="20260920073000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920073000 GMT+3" stop="20260920080000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920080000 GMT+3" stop="20260920083000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920083000 GMT+3" stop="20260920090000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920090000 GMT+3" stop="20260920093000 GMT+3" channel="2221">
+    <title lang="el">ΤΗΛΕΑΓΟΡΕΣ</title>
+    <desc lang="el">Προώθηση προιόντων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920093000 GMT+3" stop="20260920110000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920110000 GMT+3" stop="20260920120000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920120000 GMT+3" stop="20260920130000 GMT+3" channel="2221">
+    <title lang="el">ΠΑΙΔΙΚΗ ΣΕΙΡΑ</title>
+    <desc lang="el">Μεταγλωττισμένα Παιδικά Παραμύθια και Σειρές.</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920130000 GMT+3" stop="20260920150000 GMT+3" channel="2221">
+    <title lang="el">Αποκλειστικά</title>
+    <desc lang="el">Το νέο τηλεοπτικό μαγκαζίνο ήρθε να ανατρέψει την μέχρι σήμερα ενημέρωση, αφορά μια δυναμική και δια δραστική ενημερωτική εκπομπή που κρατάει το κοινό σε εγρήγορση με αποκλειστικές ειδήσεις, ρεπορτάζ και κοινωνικά θέματα. «Αποκλειστικά» με την Άννα-Μαρία Ευτυχίου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920150000 GMT+3" stop="20260920160000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920160000 GMT+3" stop="20260920180000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920180000 GMT+3" stop="20260920190000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920190000 GMT+3" stop="20260920200000 GMT+3" channel="2221">
+    <title lang="el">ΕΙΔΗΣΕΙΣ ΤΩΡΑ</title>
+    <desc lang="el">Δελτίο Ειδήσεων</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920200000 GMT+3" stop="20260920210000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920210000 GMT+3" stop="20260920230000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920230000 GMT+3" stop="20260920233000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260920233000 GMT+3" stop="20260921000000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260920001000 GMT+3" stop="20260920021000 GMT+3" channel="289555">
     <title lang="el">MILLION DOLLAR BABY</title>
     <desc lang="el">Ένας παλαίμαχος προπονητής του μποξ, με πάθος για την κέλτικη λογοτεχνία, αλλά και εσωτερική οδύνη για την απώλεια επαφής με την κόρη του, δέχεται ύστερα από πολλούς δισταγμούς να αναλάβει την προπόνηση μιας 30χρονης σερβιτόρας, η οποία, αν και μεγάλη σε ηλικία, φαίνεται να έχει ταλέντο στη γυναικεία πυγμαχία. Λιτή σκηνοθεσία, ώριμο παίξιμο από τον Ίστγουντ, χρυσή σφαίρα ερμηνείας στη Χίλαρι Σουόνκ, 4 βραβεία Όσκαρ. Σκηνοθεσία: Κλιντ &apos;Ιστγουντ.</desc>
@@ -99755,17 +100739,17 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920210000 GMT+3" stop="20260920221000 GMT+3" channel="289607">
+  <programme start="20260920210000 GMT+3" stop="20260920221500 GMT+3" channel="289607">
     <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ68</title>
     <desc lang="el">Ελληνική Σειρά:Τα εξώδικα συνεχίζονται, το δημοσίευμα για την ERGAN ρίχνει λάδι στη φωτιά και ο Οδυσσέας είναι πεπεισμένος πως πίσω απ’ όλα κρύβεται η Αρετή. Αποφασισμένος να φτάσει μέχρι τέλους, στρέφεται στον Μπακύρα, ζητώντας πληροφορίες για τους κρυφούς εταίρους της Triton. Την ίδια ώρα, ο Άλκης μπλέκεται όλο και πιο βαθιά σε μια επικίνδυνη ιστορία.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260920221000 GMT+3" stop="20260920231000 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ71</title>
-    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας πηγαίνει να ζητήσει εξηγήσεις από την Αρετή, για όσα την άκουσε να λέει η Αλεξάνδρα και η Αρετή λιποθυμά στα χέρια του. Η επίσκεψη της Κατερίνης στην Εύα και η ταραχή που βιώνει έχουν ολέθριες συνέπειες για την υγεία της, με αποτέλεσμα την εισαγωγή της στο νοσοκομείο. Ο Σάββας παίρνει επιτέλους το πολυπόθητο διαζύγιο και ετοιμάζεται να ξεκινήσει την καινούργια του ζωή με τη Μίνα, το ίδιο κι ο Άλκης που ετοιμάζεται να φύγει με τη Φαίη και τα λεφτά.</desc>
+  <programme start="20260920221500 GMT+3" stop="20260920231000 GMT+3" channel="289607">
+    <title lang="el">Ο ΓΙΑΤΡΟΣ Κ2 ΕΠ30</title>
+    <desc lang="el">Ελληνική Σειρά:Με την Όλγα να βρίσκεται ακόμη πιο κοντά στον θάνατο, ο Αλέξανδρος επισκέπτεται τον Ορέστη και του ζητάει να αναλάβει την κηδεμονία τον Γιάννη. Εκείνος όμως κλείνει κάθε πιθανή δίοδο επικοινωνίας. Η Σοφία νιώθει ολοένα και περισσότερο τον Ανδρέα μακριά της, πράγμα που την οδηγεί σε μια μεγάλη και οριστική απόφαση για τη σχέση τους.</desc>
     <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
+    <rating>K</rating>
   </programme>
   <programme start="20260920231000 GMT+3" stop="20260921000000 GMT+3" channel="289607">
     <title lang="el">MCP WARRIOR Κ1 ΕΠ11</title>
@@ -99845,15 +100829,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920181000 GMT+3" stop="20260920181500 GMT+3" channel="114064159">
-    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
-    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260920200000 GMT+3" stop="20260920210000 GMT+3" channel="114064159">
-    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
-    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ</desc>
+  <programme start="20260920161000 GMT+3" stop="20260920172000 GMT+3" channel="114064159">
+    <title lang="el">ΒΟΥΡΑΤΕ ΓΕΙΤΟΝΟΙ (E)</title>
+    <desc lang="el">Βουράτε να βουρήσουμεν... αρχίσουν οι Γειτόνοι! Οι πιο αγαπημένοι ήρωες της πιο δημοφιλούς σειράς στην ιστορία της κυπριακής τηλεόρασης είναι καθημερινά στο ΣΙΓΜΑ σε μια κωμική σειρά που άφησε εποχή!</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -99863,9 +100841,27 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260921000000 GMT+3" stop="20260921013000 GMT+3" channel="114064159">
-    <title lang="el">ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ</title>
-    <desc lang="el">Ένας άνεργος νέος που ψάχνει για δουλειά, ερωτεύεται μια σκηνοθέτιδα του κινηματογράφου, που δεν του δίνει σημασία. Όταν όμως ο πατέρας της πέφτει θύμα ληστείας εκείνη ζητά την βοήθεια του. Κωμωδία παραγωγής 1987. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. (1987)</desc>
+  <programme start="20260920181000 GMT+3" stop="20260920181500 GMT+3" channel="114064159">
+    <title lang="el">ΓΕΓΟΝΟΤΑ ΣΕ ΣΥΝΤΟΜΙΑ</title>
+    <desc lang="el">Οι κυριότερες ειδήσεις της ημέρας</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920181500 GMT+3" stop="20260920200000 GMT+3" channel="114064159">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ (E)</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920200000 GMT+3" stop="20260920210000 GMT+3" channel="114064159">
+    <title lang="el">ΤΟΜΕΣ ΣΤΑ ΓΕΓΟΝΟΤΑ</title>
+    <desc lang="el">Το αναλυτικό δελτίο ειδήσεων του ΣΙΓΜΑ</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920210000 GMT+3" stop="20260921000000 GMT+3" channel="114064159">
+    <title lang="el">ΜΠΛΕ ΩΡΕΣ</title>
+    <desc lang="el">Πήλιο. Τσαγκαράδα. Λίγο πριν το ξημέρωμα την ώρα που ο ουρανός είναι ακόμα μπλε... Αυτές τις μπλε ώρες, ο Άγγελος και η Εύα, μπορούν να συναντηθούν μόνο για λίγο... παράνομα... κρυφά... ερωτευμένοι και αποφασισμένοι να νικήσουν όλα τα εμπόδια... Οι «Μπλε Ώρες», η νέα δραματική σειρά των Ανδρέα Γεωργίου, Κούλλη Νικολάου και Βάνας Δημητρίου, ξεκινούν το ταξίδι τους στο ΣΙΓΜΑ και τα πρώτα επεισόδια κρύβουν έρωτα, πάθος, ανατροπές, αλλά και τραγικά γεγονότα που πυροδοτούν συγκλονιστικές εξελίξεις.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -116186,7 +117182,7 @@
   </programme>
   <programme start="20260920213000 GMT+3" stop="20260920233000 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Χρ. Καούρης Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -116845,19 +117841,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920163000 GMT+3" stop="20260920181500 GMT+3" channel="5183085">
+  <programme start="20260920163000 GMT+3" stop="20260920164500 GMT+3" channel="5183085">
+    <title lang="el">ALL SPORTS Ξεκλειδώνοντας τη δύναμη του αθλητισμού</title>
+    <desc lang="el">ALL SPORTS Ξεκλειδώνοντας τη δύναμη του αθλητισμού</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260920164500 GMT+3" stop="20260920183000 GMT+3" channel="5183085">
     <title lang="el">Άλμα - Σαιν-Τροπέ</title>
     <desc lang="el">Άλμα - Σαιν-Τροπέ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920181500 GMT+3" stop="20260920191500 GMT+3" channel="5183085">
+  <programme start="20260920183000 GMT+3" stop="20260920193000 GMT+3" channel="5183085">
     <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Τσονγκίνγκ - - Τελικός (Άνδρες και γυναίκες)</title>
     <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Τσονγκίνγκ - - Τελικός (Άνδρες και γυναίκες)</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260920191500 GMT+3" stop="20260920200000 GMT+3" channel="5183085">
+  <programme start="20260920193000 GMT+3" stop="20260920200000 GMT+3" channel="5183085">
     <title lang="el">Τρέιλ: GT World Series - ()</title>
     <desc lang="el">Τρέιλ: GT World Series - ()</desc>
     <category lang="el">Αθλητικά</category>
@@ -118483,6 +119485,12 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
+  <programme start="20260921000000 GMT+3" stop="20260921013000 GMT+3" channel="289530">
+    <title lang="el">ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ</title>
+    <desc lang="el">Ένας άνεργος νέος που ψάχνει για δουλειά, ερωτεύεται μια σκηνοθέτιδα του κινηματογράφου, που δεν του δίνει σημασία. Όταν όμως ο πατέρας της πέφτει θύμα ληστείας εκείνη ζητά την βοήθεια του. Κωμωδία παραγωγής 1987. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. (1987)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260921013000 GMT+3" stop="20260921023000 GMT+3" channel="289530">
     <title lang="el">Jack Irish</title>
     <desc lang="el">Ο Τζακ, πρώην δικηγόρος και νυν ιδιωτικός ερευνητής, αναλαμβάνει να εντοπίσει έναν αγνοούμενο, όμως σύντομα βρίσκεται μπλεγμένος σε μια υπόθεση δολοφονίας και σε ένα δίκτυο ισχυρών συμφερόντων που τον οδηγούν από το Φιτζρόι έως ένα απομακρυσμένο χωριό στι</desc>
@@ -118622,14 +119630,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260921210000 GMT+3" stop="20260921222000 GMT+3" channel="39337317">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ72</title>
-    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας βρίσκεται αντιμέτωπος με τη μεγαλύτερη ανατροπή της ζωής του, όταν μαθαίνει πως έχει έναν άγνωστο αδελφό. Η κρυφή ζωή του πατέρα του αποκαλύπτεται την ίδια ώρα που η Κατερίνη δίνει μάχη για τη ζωή της και οι γιατροί θέτουν επιτακτικά το ενδεχόμενο μεταφοράς της στο εξωτερικό. Παράλληλα, η Αλεξάνδρα στέκεται δίπλα στον Οδυσσέα, σε μια στιγμή που εκείνος είναι πιο ευάλωτος από ποτέ, πιέζοντάς τον διακριτικά να της δώσει χώρο στη ζωή του.</desc>
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ71</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας πηγαίνει να ζητήσει εξηγήσεις από την Αρετή, για όσα την άκουσε να λέει η Αλεξάνδρα και η Αρετή λιποθυμά στα χέρια του. Η επίσκεψη της Κατερίνης στην Εύα και η ταραχή που βιώνει έχουν ολέθριες συνέπειες για την υγεία της, με αποτέλεσμα την εισαγωγή της στο νοσοκομείο. Ο Σάββας παίρνει επιτέλους το πολυπόθητο διαζύγιο και ετοιμάζεται να ξεκινήσει την καινούργια του ζωή με τη Μίνα, το ίδιο κι ο Άλκης που ετοιμάζεται να φύγει με τη Φαίη και τα λεφτά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
   <programme start="20260921222000 GMT+3" stop="20260921234500 GMT+3" channel="39337317">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ14</title>
-    <desc lang="el">Ελληνική Σειρά: Ο Καστίλιας ζητάει από τον Γιάμαρη να παραιτηθεί προκειµένου να αναλάβει ο ίδιος την υπόθεση του Στράτου. Η Αλεξάνδρα αποκαλύπτει στον εµβρόντητο Στελάρα ποιος είναι ο φονιάς του γιου της και ο Καπετανάκος ανακοινώνει στον έντροµο Αντρέα ότι σκοπεύει να συναντηθεί µε τον πρόεδρο του Ολυµπιακού για να µιλήσουν για τη µεταγραφή του.</desc>
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ72</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας βρίσκεται αντιμέτωπος με τη μεγαλύτερη ανατροπή της ζωής του, όταν μαθαίνει πως έχει έναν άγνωστο αδελφό. Η κρυφή ζωή του πατέρα του αποκαλύπτεται την ίδια ώρα που η Κατερίνη δίνει μάχη για τη ζωή της και οι γιατροί θέτουν επιτακτικά το ενδεχόμενο μεταφοράς της στο εξωτερικό. Παράλληλα, η Αλεξάνδρα στέκεται δίπλα στον Οδυσσέα, σε μια στιγμή που εκείνος είναι πιο ευάλωτος από ποτέ, πιέζοντάς τον διακριτικά να της δώσει χώρο στη ζωή του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -119161,6 +120169,12 @@
     <category lang="el">Γενικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260921000000 GMT+3" stop="20260921060000 GMT+3" channel="2221">
+    <title lang="el">TAINIA</title>
+    <desc lang="el">Κοινωνικά θέματα με τον Δημήτρη Ιωάννου</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>12</rating>
+  </programme>
   <programme start="20260921070000 GMT+3" stop="20260921073000 GMT+3" channel="2221">
     <title lang="el">ΝΤΟΚΙΜΑΝΤΕΡ</title>
     <desc lang="el">Η ζωή στην άγρια φύση</desc>
@@ -119606,14 +120620,14 @@
     <rating>K</rating>
   </programme>
   <programme start="20260921210000 GMT+3" stop="20260921222000 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ72</title>
-    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας βρίσκεται αντιμέτωπος με τη μεγαλύτερη ανατροπή της ζωής του, όταν μαθαίνει πως έχει έναν άγνωστο αδελφό. Η κρυφή ζωή του πατέρα του αποκαλύπτεται την ίδια ώρα που η Κατερίνη δίνει μάχη για τη ζωή της και οι γιατροί θέτουν επιτακτικά το ενδεχόμενο μεταφοράς της στο εξωτερικό. Παράλληλα, η Αλεξάνδρα στέκεται δίπλα στον Οδυσσέα, σε μια στιγμή που εκείνος είναι πιο ευάλωτος από ποτέ, πιέζοντάς τον διακριτικά να της δώσει χώρο στη ζωή του.</desc>
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ71</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας πηγαίνει να ζητήσει εξηγήσεις από την Αρετή, για όσα την άκουσε να λέει η Αλεξάνδρα και η Αρετή λιποθυμά στα χέρια του. Η επίσκεψη της Κατερίνης στην Εύα και η ταραχή που βιώνει έχουν ολέθριες συνέπειες για την υγεία της, με αποτέλεσμα την εισαγωγή της στο νοσοκομείο. Ο Σάββας παίρνει επιτέλους το πολυπόθητο διαζύγιο και ετοιμάζεται να ξεκινήσει την καινούργια του ζωή με τη Μίνα, το ίδιο κι ο Άλκης που ετοιμάζεται να φύγει με τη Φαίη και τα λεφτά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
   <programme start="20260921222000 GMT+3" stop="20260921234500 GMT+3" channel="289607">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ14</title>
-    <desc lang="el">Ελληνική Σειρά: Ο Καστίλιας ζητάει από τον Γιάμαρη να παραιτηθεί προκειµένου να αναλάβει ο ίδιος την υπόθεση του Στράτου. Η Αλεξάνδρα αποκαλύπτει στον εµβρόντητο Στελάρα ποιος είναι ο φονιάς του γιου της και ο Καπετανάκος ανακοινώνει στον έντροµο Αντρέα ότι σκοπεύει να συναντηθεί µε τον πρόεδρο του Ολυµπιακού για να µιλήσουν για τη µεταγραφή του.</desc>
+    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ72</title>
+    <desc lang="el">Ελληνική Σειρά:Ο Οδυσσέας βρίσκεται αντιμέτωπος με τη μεγαλύτερη ανατροπή της ζωής του, όταν μαθαίνει πως έχει έναν άγνωστο αδελφό. Η κρυφή ζωή του πατέρα του αποκαλύπτεται την ίδια ώρα που η Κατερίνη δίνει μάχη για τη ζωή της και οι γιατροί θέτουν επιτακτικά το ενδεχόμενο μεταφοράς της στο εξωτερικό. Παράλληλα, η Αλεξάνδρα στέκεται δίπλα στον Οδυσσέα, σε μια στιγμή που εκείνος είναι πιο ευάλωτος από ποτέ, πιέζοντάς τον διακριτικά να της δώσει χώρο στη ζωή του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
@@ -119622,6 +120636,12 @@
     <desc lang="el">Ελληνική Σειρά.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
+  </programme>
+  <programme start="20260921000000 GMT+3" stop="20260921013000 GMT+3" channel="114064159">
+    <title lang="el">ΚΛΕΦΤΡΟΝΙ ΚΑΙ ΤΖΕΝΤΛΕΜΑΝ</title>
+    <desc lang="el">Ένας άνεργος νέος που ψάχνει για δουλειά, ερωτεύεται μια σκηνοθέτιδα του κινηματογράφου, που δεν του δίνει σημασία. Όταν όμως ο πατέρας της πέφτει θύμα ληστείας εκείνη ζητά την βοήθεια του. Κωμωδία παραγωγής 1987. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Σκηνοθεσία: Γιάννης Χαρτοματζίδης. Πρωταγωνιστούν: Στάθης Ψάλτης, Έφη Πίκουλα, Πάνος Ευαγγελόπουλος. (1987)</desc>
+    <category lang="el">Ψυχαγωγία</category>
+    <rating>K</rating>
   </programme>
   <programme start="20260921013000 GMT+3" stop="20260921023000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
@@ -137456,8 +138476,8 @@
     <rating>12</rating>
   </programme>
   <programme start="20260922222000 GMT+3" stop="20260922234500 GMT+3" channel="39337317">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ9</title>
-    <desc lang="el">Ελληνική Σειρά: O Γιάμαρης εισβάλλει στο σπίτι της Άντζελας απαιτώντας να μάθει τη σχέση της με τον Στράτο και το ταξίδι που ετοίμαζαν για την Αμερική, ενώ παράλληλα ένα νέο για τον Κονταρά που βρίσκεται στην φυλακή της Τρίπολης ταράζει τις σχέσεις Γιάμαρη – Καπετανάκου. Τα πάνω κάτω έρχονται στο Πόρτο Λεόνε όταν η Ρίτα στήνει μια παγίδα στην Καίτη, τη στιγμή που ένα ειδύλλιο μεταξύ Βούλας και Ορέστη ξεκινά.</desc>
+    <title lang="el">PORTO LEONE Κ1 ΕΠ14</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Καστίλιας ζητάει από τον Γιάμαρη να παραιτηθεί προκειµένου να αναλάβει ο ίδιος την υπόθεση του Στράτου. Η Αλεξάνδρα αποκαλύπτει στον εµβρόντητο Στελάρα ποιος είναι ο φονιάς του γιου της και ο Καπετανάκος ανακοινώνει στον έντροµο Αντρέα ότι σκοπεύει να συναντηθεί µε τον πρόεδρο του Ολυµπιακού για να µιλήσουν για τη µεταγραφή του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
@@ -138512,8 +139532,8 @@
     <rating>12</rating>
   </programme>
   <programme start="20260922222000 GMT+3" stop="20260922234500 GMT+3" channel="289607">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ9</title>
-    <desc lang="el">Ελληνική Σειρά: O Γιάμαρης εισβάλλει στο σπίτι της Άντζελας απαιτώντας να μάθει τη σχέση της με τον Στράτο και το ταξίδι που ετοίμαζαν για την Αμερική, ενώ παράλληλα ένα νέο για τον Κονταρά που βρίσκεται στην φυλακή της Τρίπολης ταράζει τις σχέσεις Γιάμαρη – Καπετανάκου. Τα πάνω κάτω έρχονται στο Πόρτο Λεόνε όταν η Ρίτα στήνει μια παγίδα στην Καίτη, τη στιγμή που ένα ειδύλλιο μεταξύ Βούλας και Ορέστη ξεκινά.</desc>
+    <title lang="el">PORTO LEONE Κ1 ΕΠ14</title>
+    <desc lang="el">Ελληνική Σειρά: Ο Καστίλιας ζητάει από τον Γιάμαρη να παραιτηθεί προκειµένου να αναλάβει ο ίδιος την υπόθεση του Στράτου. Η Αλεξάνδρα αποκαλύπτει στον εµβρόντητο Στελάρα ποιος είναι ο φονιάς του γιου της και ο Καπετανάκος ανακοινώνει στον έντροµο Αντρέα ότι σκοπεύει να συναντηθεί µε τον πρόεδρο του Ολυµπιακού για να µιλήσουν για τη µεταγραφή του.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
   </programme>
