@@ -21196,25 +21196,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260923000000 GMT+3" stop="20260923060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923060000 GMT+3" stop="20260923120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923120000 GMT+3" stop="20260923180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923180000 GMT+3" stop="20260924000000 GMT+3" channel="561178">
+  <programme start="20260923000000 GMT+3" stop="20260923014500 GMT+3" channel="561178">
     <title lang="el">This is One Channel CY</title>
     <desc lang="el">This is One Channel CY</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -38170,81 +38152,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260923073000 GMT+3" stop="20260923093000 GMT+3" channel="4185119">
+  <programme start="20260923073000 GMT+3" stop="20260923093400 GMT+3" channel="4185119">
     <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
     <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923093000 GMT+3" stop="20260923110000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923110000 GMT+3" stop="20260923130000 GMT+3" channel="4185119">
-    <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
-    <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923130000 GMT+3" stop="20260923140000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923140000 GMT+3" stop="20260923150000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923150000 GMT+3" stop="20260923170000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923170000 GMT+3" stop="20260923183000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923183000 GMT+3" stop="20260923190000 GMT+3" channel="4185119">
-    <title lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</title>
-    <desc lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923190000 GMT+3" stop="20260923193000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923193000 GMT+3" stop="20260923203000 GMT+3" channel="4185119">
-    <title lang="el">Σέιλ GP - Γενεύη</title>
-    <desc lang="el">Σέιλ GP - Γενεύη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923203000 GMT+3" stop="20260923213000 GMT+3" channel="4185119">
-    <title lang="el">Άλμα - Λάνακεν</title>
-    <desc lang="el">Άλμα - Λάνακεν</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923213000 GMT+3" stop="20260923233000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923233000 GMT+3" stop="20260924010000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Κιγκάλι - - ΑΝΔΡΕΣ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -38272,93 +38182,9 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260923080000 GMT+3" stop="20260923093000 GMT+3" channel="5183085">
+  <programme start="20260923080000 GMT+3" stop="20260923092700 GMT+3" channel="5183085">
     <title lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
     <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923093000 GMT+3" stop="20260923110000 GMT+3" channel="5183085">
-    <title lang="el">- Οπεν Κίνας - Τελικός</title>
-    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923110000 GMT+3" stop="20260923120000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 1ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923120000 GMT+3" stop="20260923130000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923130000 GMT+3" stop="20260923143000 GMT+3" channel="5183085">
-    <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
-    <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923143000 GMT+3" stop="20260923150000 GMT+3" channel="5183085">
-    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
-    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923150000 GMT+3" stop="20260923163000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923163000 GMT+3" stop="20260923180000 GMT+3" channel="5183085">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923180000 GMT+3" stop="20260923193000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923193000 GMT+3" stop="20260923210000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923210000 GMT+3" stop="20260923213000 GMT+3" channel="5183085">
-    <title lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</title>
-    <desc lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923213000 GMT+3" stop="20260923220000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923220000 GMT+3" stop="20260923230000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - Lone Star Le Mans</title>
-    <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923230000 GMT+3" stop="20260923233000 GMT+3" channel="5183085">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260923233000 GMT+3" stop="20260924010000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -40407,30 +40233,6 @@
     <desc lang="el">Εκτελεστής – crime action – 15</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260924000000 GMT+3" stop="20260924060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924060000 GMT+3" stop="20260924120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924120000 GMT+3" stop="20260924180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924180000 GMT+3" stop="20260925000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260924000000 GMT+3" stop="20260924010000 GMT+3" channel="574264">
     <title lang="el">ΠΡΟΣΩΠΙΚΑ (E)</title>
@@ -47145,103 +46947,103 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924082000 GMT+3" stop="20260924090500 GMT+3" channel="216459">
+  <programme start="20260924082000 GMT+3" stop="20260924091000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ5</title>
     <desc lang="el">Όταν η πτήση 587 της American Airlines συνετρίβη στο Queens της Νέας Υόρκης μετά την 11η Σεπτεμβρίου, το συμβάν θεωρήθηκε τρομοκρατική ενέργεια, όμως οι έρευνες έδειξαν κάτι διαφορετικό. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924090500 GMT+3" stop="20260924095500 GMT+3" channel="216459">
+  <programme start="20260924091000 GMT+3" stop="20260924095500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ6</title>
     <desc lang="el">Μια ομάδα κυνηγών τυφώνων κινδυνεύει όταν μια φωτιά καταστρέφει το αεροσκάφος ενώ βρίσκεται μέσα στον τυφώνα Hugo. Καταφέρνουν να γλιτώσουν αλλά οι ερευνητές πρέπει να ανακαλύψουν γιατί μια ομάδα έμπειρων επαγγελματιών παραλίγο να σκοτωθεί πάνω στο καθήκον. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924095500 GMT+3" stop="20260924104000 GMT+3" channel="216459">
+  <programme start="20260924095500 GMT+3" stop="20260924104500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ7</title>
     <desc lang="el">Μετά την έκρηξη που σημειώθηκε πάνω από τη Μεσόγειο σε μια πτήση από την Ιταλία το 1980, θα περάσουν 30 χρόνια για να διευκρινιστεί εάν επρόκειτο για τρομοκρατικό κτύπημα. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924104000 GMT+3" stop="20260924113000 GMT+3" channel="216459">
+  <programme start="20260924104500 GMT+3" stop="20260924113000 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ4 ΕΠ3</title>
     <desc lang="el">Ένα εναέριο ταξίδι πάνω από τη Σερβία αποκαλύπτει έναν ουρανοξύστη που έχει σπάσει ρεκόρ, έναν ξεχωριστό τρόπο καλλιέργειας πιπεριών και μια ιδιαίτερη προσπάθεια προστασίας ζώων. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924113000 GMT+3" stop="20260924121500 GMT+3" channel="216459">
+  <programme start="20260924113000 GMT+3" stop="20260924122000 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ4 ΕΠ4</title>
     <desc lang="el">Ένα εναέριο ταξίδι πάνω από το Βέλγιο αποκαλύπτει την προετοιμασία πίσω από ένα δημοφιλές φεστιβάλ, το γυάλισμα ενός κτιρίου σε σχήμα σιδερένιου κρύσταλλου και τον ταχύτατο καθαρισμό της μεγαλύτερης εκκλησίας της χώρας. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924121500 GMT+3" stop="20260924130000 GMT+3" channel="216459">
+  <programme start="20260924122000 GMT+3" stop="20260924130500 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ7</title>
     <desc lang="el">Όταν ένα τρέιλερ που αποκολλήθηκε απειλεί έναν κεντρικό δρόμο, ο Θορντ κινδυνεύει να συνθλιβεί για να ολοκληρώσει μια δύσκολη διάσωση. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924130000 GMT+3" stop="20260924132500 GMT+3" channel="216459">
+  <programme start="20260924130500 GMT+3" stop="20260924133000 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ9</title>
     <desc lang="el">Ο Shooter εξετάζει ένα MG-42, ένα γερμανικό πολυβόλο του Β&apos; Παγκοσμίου Πολέμου που χρησιμοποιούσαν στη Νορμανδία και μπορούσε να ρίξει μέχρι και 1.500 σφαίρες το λεπτό. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924132500 GMT+3" stop="20260924135000 GMT+3" channel="216459">
+  <programme start="20260924133000 GMT+3" stop="20260924135500 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ10</title>
     <desc lang="el">Τα αγόρια βρίσκονται στο Galveston του Τέξας όπου ο Sean γνωρίζει τον ιδιοκτήτη ενός μεγάλου πιστολιού, παρόμοιο μ&apos; αυτό που χρησιμοποιήθηκε για τη δολοφονία του Αβραάμ Λίνκολν. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924135000 GMT+3" stop="20260924143500 GMT+3" channel="216459">
+  <programme start="20260924135500 GMT+3" stop="20260924144000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ17</title>
     <desc lang="el">Τα πρώτα σημάδια του χειμώνα έχουν εμφανιστεί στην Αλάσκα και η Επόμενη Γενιά πρέπει να προχωρήσει μπροστά για να επιβιώσει ή να αντιμετωπίσει τις τρομερές συνέπειες. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924143500 GMT+3" stop="20260924152000 GMT+3" channel="216459">
+  <programme start="20260924144000 GMT+3" stop="20260924152500 GMT+3" channel="216459">
     <title lang="el">Space IL: Με Στόχο τη Σελήνη ΕΠ1</title>
     <desc lang="el">Το ταξίδι του ρομποτικού διαστημόπλοιου της εταιρείας SpaceIL καθώς επιχειρεί να γίνει το πρώτο όχημα ιδιωτικής χρηματοδότησης που θα προσεδαφιστεί στη Σελήνη. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924152000 GMT+3" stop="20260924161000 GMT+3" channel="216459">
+  <programme start="20260924152500 GMT+3" stop="20260924161500 GMT+3" channel="216459">
     <title lang="el">Άρης Κ1 ΕΠ3</title>
     <desc lang="el">Το 2033, η αποστολή του Daedalus κινδυνεύει καθώς το πλήρωμα δυσκολεύεται να βρει μόνιμο καταφύγιο. Στο παρόν, η Ευρωπαϊκή Διαστημική Υπηρεσία και η Roscosmos, η Ομοσπονδιακή Υπηρεσία Διαστήματος της Ρωσίας, συνεργάζονται για την εκτόξευση ενός διαστημόπλοιου που θα μπει σε τροχιά με σκοπό να βοηθήσει τις μελλοντικές αποστολές στον Άρη για την εγκατάσταση των πρώτων εποίκων. (2016)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924161000 GMT+3" stop="20260924170000 GMT+3" channel="216459">
+  <programme start="20260924161500 GMT+3" stop="20260924170000 GMT+3" channel="216459">
     <title lang="el">Χαμένες Πόλεις με τον Albert Lin Κ1 ΕΠ4</title>
     <desc lang="el">Ο εξερευνητής του National Geographic Albert Lin ταξιδεύει στην Πέτρα της Ιορδανίας για να ανακαλύψει την προέλευση της διάσημης πόλης. Ανακαλύπτει ότι χτίστηκε από τους Ναβαταίους και βρίσκει στοιχεία για τις πόλεις και τους ναούς τους. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924170000 GMT+3" stop="20260924174500 GMT+3" channel="216459">
+  <programme start="20260924170000 GMT+3" stop="20260924175000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ6 ΕΠ10</title>
     <desc lang="el">Ο Tim Shaw και ο Fuzz Townshend αναλαμβάνουν να μεταποιήσουν το Mk1 Ford Capri του 1974 της Helen. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924174500 GMT+3" stop="20260924181000 GMT+3" channel="216459">
+  <programme start="20260924175000 GMT+3" stop="20260924181500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ11</title>
     <desc lang="el">Σε αυτό το επεισόδιο, ανακαλύπτουμε τα μυστικά του εξοπλισμού των Ninja, τον καλύτερο τρόπο για να μπείτε σε μια τράπεζα με άλμα από κούνια και τι να αποφύγετε όταν κάνετε ιστιοπλοΐα πίσω από πλοίο. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924181000 GMT+3" stop="20260924183500 GMT+3" channel="216459">
+  <programme start="20260924181500 GMT+3" stop="20260924183500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ12</title>
     <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε τα πάντα για το Parkour Press, τους κινδύνους του να κινούμαστε πάνω σε βάρκα και τους τρόπους με τους οποίους μπορείτε να τραυματιστείτε κάνοντας άλμα με ποδήλατο από ένα περβάζι. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924183500 GMT+3" stop="20260924192000 GMT+3" channel="216459">
+  <programme start="20260924183500 GMT+3" stop="20260924192500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ8</title>
     <desc lang="el">Πάνω από τη Γαλλία, ένα πολύ καλά εκπαιδευμένο πλήρωμα δοκιμάζει μια εμπορική πτήση. Καθώς, όμως, ετοιμάζονται να προσγειωθούν, ο πιλότος ξαφνικά χάνει τον έλεγχο. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924192000 GMT+3" stop="20260924201000 GMT+3" channel="216459">
+  <programme start="20260924192500 GMT+3" stop="20260924201000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ9</title>
     <desc lang="el">9 Αυγούστου 2007. Η πτήση 1121 της Air Moorea έχει μόλις απογειωθεί με προορισμό την Ταϊτή, όταν πέφτει σε απότομο κενό και συντρίβεται στη θάλασσα, σκοτώνοντας τους 20 επιβαίνοντες. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -47265,13 +47067,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260924223500 GMT+3" stop="20260924232500 GMT+3" channel="216459">
+  <programme start="20260924223500 GMT+3" stop="20260925000500 GMT+3" channel="216459">
     <title lang="el">Ναζί στη Νυρεμβέργη: Η Χαμένη Μαρτυρία ΕΠ1</title>
     <desc lang="el">Άγνωστες μέχρι σήμερα καταθέσεις από τη δίκη της Νυρεμβέργης αποκαλύπτουν νέες, σοκαριστικές λεπτομέρειες για τον Β’ Παγκόσμιο Πόλεμο και τις εσωτερικές λειτουργίες των Ναζί. Μέσα από αποκλειστικά ηχητικά ντοκουμέντα, θα ακούσουμε εγκληματίες, πιστούς ακόλουθους του Χίτλερ, όπως οι Χέρμαν Γκέρινγκ, Βίλχελμ Κάιτελ, Άλμπερτ Σπέερ και Ρούντολφ Ες, καθώς επίσης και τα θύματα αλλά και μάρτυρες, που κατέθεσαν με γενναιότητα εναντίον τους. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260924232500 GMT+3" stop="20260925001000 GMT+3" channel="216459">
+  <programme start="20260925000500 GMT+3" stop="20260925005500 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση Κ7 ΕΠ1</title>
     <desc lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -50580,18 +50382,6 @@
   <programme start="20260924170000 GMT+3" stop="20260924180000 GMT+3" channel="1945">
     <title lang="el">Connect the World ΕΠ452</title>
     <desc lang="el">Becky Anderson explores diverse perspectives and explains global issues of the day. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924180000 GMT+3" stop="20260924183000 GMT+3" channel="1945">
-    <title lang="el">One World ΕΠ39</title>
-    <desc lang="el">Zain Asher and Bianna Golodryga cover the top global and national issues of the day. (2026)</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924183000 GMT+3" stop="20260924190000 GMT+3" channel="1945">
-    <title lang="el">CNN Creators ΕΠ38</title>
-    <desc lang="el">A team of digital-native storytellers navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends. (2026)</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -57056,42 +56846,35 @@
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260924060000 GMT+3" stop="20260924100000 GMT+3" channel="46137848">
+  <programme start="20260924060000 GMT+3" stop="20260924094500 GMT+3" channel="46137848">
     <title lang="el">Novasports Start</title>
     <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260924100000 GMT+3" stop="20260924120000 GMT+3" channel="46137848">
+  <programme start="20260924094500 GMT+3" stop="20260924114500 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 500 2025</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Charleston Open της σειράς WTA 500, που διεξάγεται στο Τσάρλεστον των ΗΠΑ το διάστημα από 31 Μαρτίου μέχρι 6 Απριλίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924120000 GMT+3" stop="20260924140000 GMT+3" channel="46137848">
+  <programme start="20260924114500 GMT+3" stop="20260924135000 GMT+3" channel="46137848">
     <title lang="el">Μπανταλόνα - Γουλβς Βίλνιους</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2024/25, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 20 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924140000 GMT+3" stop="20260924160000 GMT+3" channel="46137848">
-    <title lang="el">Λεβαδειακός - Κηφισιά</title>
-    <desc lang="el">Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα κανάλια Novasports! Ποδόσφαιρο</desc>
+  <programme start="20260924135000 GMT+3" stop="20260924150000 GMT+3" channel="46137848">
+    <title lang="el">Novasports Start</title>
+    <desc lang="el">Μοναδικό αθλητικό θέαμα με ποδόσφαιρο και μπάσκετ από την Ευρώπη! Ζωντανοί αγώνες από όλα τα κορυφαία ευρωπαϊκά πρωταθλήματα ποδοσφαίρου αλλά και αγώνες μπάσκετ από τη EuroLeague και το EuroCup!</desc>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260924153000 GMT+3" stop="20260924173000 GMT+3" channel="46137848">
+    <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Singapore Tennis Open της σειράς WTA 500, που πραγματοποιείται στη Σιγκαπούρη το διάστημα 21-27 Σεπτεμβρίου. Περιγραφή: Γ. Λιώρης Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924160000 GMT+3" stop="20260924180000 GMT+3" channel="46137848">
-    <title lang="el">Μπόχουμ - Φορτούνα Ντίσελντορφ</title>
-    <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Κολωνία. Ποδόσφαιρο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924180000 GMT+3" stop="20260924191500 GMT+3" channel="46137848">
-    <title lang="el">Timeline</title>
-    <desc lang="el">Κάντε μια βουτιά στο παρελθόν με τη σειρά που είναι αφιερωμένη στην πορεία μίας ομάδας σε προηγούμενες σεζόν αλλά και ενός ολόκληρου πρωταθλήματος που έγραψε ιστορία ή που μας έκοψε την ανάσα! Μπάσκετ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924191500 GMT+3" stop="20260924210000 GMT+3" channel="46137848">
+  <programme start="20260924173000 GMT+3" stop="20260924191500 GMT+3" channel="46137848">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Singapore Tennis Open της σειράς WTA 500, που πραγματοποιείται στη Σιγκαπούρη το διάστημα 21-27 Σεπτεμβρίου. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -57513,198 +57296,6 @@
   <programme start="20260924180000 GMT+3" stop="20260925000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924010000 GMT+3" stop="20260924023000 GMT+3" channel="4185119">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924023000 GMT+3" stop="20260924040000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924040000 GMT+3" stop="20260924043000 GMT+3" channel="4185119">
-    <title lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</title>
-    <desc lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924043000 GMT+3" stop="20260924060000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
-    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924060000 GMT+3" stop="20260924073000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924073000 GMT+3" stop="20260924093000 GMT+3" channel="4185119">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924093000 GMT+3" stop="20260924110000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924110000 GMT+3" stop="20260924123000 GMT+3" channel="4185119">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924123000 GMT+3" stop="20260924130000 GMT+3" channel="4185119">
-    <title lang="el">GOLF PGA TOUR Discovery Γκολφ</title>
-    <desc lang="el">GOLF PGA TOUR Discovery Γκολφ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924130000 GMT+3" stop="20260924133000 GMT+3" channel="4185119">
-    <title lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</title>
-    <desc lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924133000 GMT+3" stop="20260924140000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924140000 GMT+3" stop="20260924150000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924150000 GMT+3" stop="20260924170000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924170000 GMT+3" stop="20260924201500 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924201500 GMT+3" stop="20260924202000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924202000 GMT+3" stop="20260925003000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924010000 GMT+3" stop="20260924023000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - MIXED</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924023000 GMT+3" stop="20260924043000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
-    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924043000 GMT+3" stop="20260924060000 GMT+3" channel="5183085">
-    <title lang="el">- Οπεν Κίνας - Τελικός</title>
-    <desc lang="el">- Οπεν Κίνας - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924060000 GMT+3" stop="20260924080000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 24 Ώρες Λε Μαν</title>
-    <desc lang="el">FIA WEC - 24 Ώρες Λε Μαν</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924080000 GMT+3" stop="20260924093000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924093000 GMT+3" stop="20260924110000 GMT+3" channel="5183085">
-    <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
-    <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924110000 GMT+3" stop="20260924120000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 2ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924120000 GMT+3" stop="20260924123000 GMT+3" channel="5183085">
-    <title lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</title>
-    <desc lang="el">PTO Τουρ - ΦΡΕΖΟΥΣ ΣΑΝ ΡΑΦΑΕΛ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924123000 GMT+3" stop="20260924130000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924130000 GMT+3" stop="20260924140000 GMT+3" channel="5183085">
-    <title lang="el">Άλμα - Λάνακεν</title>
-    <desc lang="el">Άλμα - Λάνακεν</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924140000 GMT+3" stop="20260924150000 GMT+3" channel="5183085">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924150000 GMT+3" stop="20260924163000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - Lone Star Le Mans</title>
-    <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924163000 GMT+3" stop="20260924180000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924180000 GMT+3" stop="20260924183000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924183000 GMT+3" stop="20260924193000 GMT+3" channel="5183085">
-    <title lang="el">Άλμα - ΟΥΙΛΙΑΜΣΜΠΟΥΡΓΚ</title>
-    <desc lang="el">Άλμα - ΟΥΙΛΙΑΜΣΜΠΟΥΡΓΚ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924193000 GMT+3" stop="20260925020000 GMT+3" channel="5183085">
-    <title lang="el">Σικάγο - 1Η ΗΜΕΡΑ</title>
-    <desc lang="el">Σικάγο - 1Η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260924000000 GMT+3" stop="20260924031500 GMT+3" channel="52101919">
@@ -59800,30 +59391,6 @@
     <desc lang="el">Σίριαλ κιλερ</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260925000000 GMT+3" stop="20260925060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925060000 GMT+3" stop="20260925120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925120000 GMT+3" stop="20260925180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925180000 GMT+3" stop="20260926000000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260925000000 GMT+3" stop="20260925010000 GMT+3" channel="574264">
     <title lang="el">Από Αγκάθι Ρόδο (E)</title>
@@ -65087,7 +64654,7 @@
     <category lang="el">Ταινίες</category>
     <rating>15</rating>
   </programme>
-  <programme start="20260925030000 GMT+3" stop="20260925060000 GMT+3" channel="9745267">
+  <programme start="20260925022800 GMT+3" stop="20260925060000 GMT+3" channel="9745267">
     <title lang="el">Novacinema3HD</title>
     <desc lang="el">Novacinema3HD: Καθαρή Αδρεναλίνη! Περιπέτειες, ταινίες δράσης, τρόμου και επιστημονικής φαντασίας! Κάθε Παρασκευή βράδυ μοναδικά θρίλερ που θα σας καθηλώσουν!</desc>
     <rating>K</rating>
@@ -65333,13 +64900,13 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925060000 GMT+3" stop="20260925063000 GMT+3" channel="216595">
+  <programme start="20260925060000 GMT+3" stop="20260925062500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ9</title>
     <desc lang="el">Ο Cameron έχει ιδιαίτερη αδυναμία στη μητέρα του και έτσι ο Mitchell δεν ξέρει πώς να του πει ότι η μητέρα του τον κάνει να νιώθει άβολα. Όταν τελικά η Haley χωρίζει με τον Dylan, ο Phil είναι αυτός που το παίρνει πιο κατάκαρδα απ&apos; όλους. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925063000 GMT+3" stop="20260925065000 GMT+3" channel="216595">
+  <programme start="20260925062500 GMT+3" stop="20260925065000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ10</title>
     <desc lang="el">Ο Luke και ο Manny θα πάνε στον πρώτο τους σχολικό χορό και όλοι θέλουν να συμμετέχουν στην προετοιμασία τους. Ο Jay και ο Phil πρέπει να πάνε τα αγόρια σε έναν αγώνα που γίνεται στο εμπορικό κέντρο, γεγονός που τους προκαλεί μεγάλο άγχος. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65363,109 +64930,109 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925090500 GMT+3" stop="20260925095000 GMT+3" channel="216595">
+  <programme start="20260925090500 GMT+3" stop="20260925095500 GMT+3" channel="216595">
     <title lang="el">Castle 5 Κ5 ΕΠ9</title>
     <desc lang="el">Όταν ένας παχουλός άντρας με γένια, ντυμένος με στολή Αϊ Βασίλη, &quot;πέφτει&quot; από τον ουρανό στο Central Park, ο Castle και η Beckett προσπαθούν να λύσουν το μυστήριο. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925095000 GMT+3" stop="20260925103000 GMT+3" channel="216595">
+  <programme start="20260925095500 GMT+3" stop="20260925104000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 2 Κ2 ΕΠ4</title>
     <desc lang="el">Όταν η κόρη ενός αστυνομικού απάγεται μπροστά στα μάτια του μικρότερου αδερφού της, η Τζέιν και η ομάδα σπεύδουν να βρουν το κορίτσι. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925103000 GMT+3" stop="20260925111500 GMT+3" channel="216595">
+  <programme start="20260925104000 GMT+3" stop="20260925112000 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ1</title>
     <desc lang="el">Ένας νέος αρχηγός φέρνει τα πάνω κάτω στον Σταθμό 51. Η Βάιολετ και ο Νόβακ προσπαθούν να ανακαλύψουν την αλήθεια πίσω από ένα αυτοκινητιστικό δυστύχημα. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925111500 GMT+3" stop="20260925114000 GMT+3" channel="216595">
+  <programme start="20260925112000 GMT+3" stop="20260925114500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ15</title>
     <desc lang="el">Όταν το αφεντικό του Marshall του φωνάζει, ο ίδιος διερωτάται αν η επίλογη του να εργαστεί σε μεγάλο δικηγορικό γραφείο ηταν η καλύτερη για την καριέρα του. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925114000 GMT+3" stop="20260925120000 GMT+3" channel="216595">
+  <programme start="20260925114500 GMT+3" stop="20260925120500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ16</title>
     <desc lang="el">Η Robin ερωτεύεται έναν πρώην που την είχε πληγώσει στο παρελθόν. Η νέα απογοήτευση δεν αργεί να έρθει και εκεί αναλαμβάνει ο Barney που προσπαθεί να την πείσει πόσο καταπληκτική είναι στην πραγματικότητα. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925120000 GMT+3" stop="20260925124500 GMT+3" channel="216595">
+  <programme start="20260925120500 GMT+3" stop="20260925125000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ19</title>
     <desc lang="el">Ενώ ερευνά τη δολοφονία ενός υπαλλήλου καζίνο, ο Τζέιν συναντά έναν μάγο με τον οποίο έκανε περιοδείες όταν ήταν μέντιουμ και ανακαλύπτει ότι κρύβει ένα σοκαριστικό μυστικό. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925124500 GMT+3" stop="20260925130500 GMT+3" channel="216595">
+  <programme start="20260925125000 GMT+3" stop="20260925131000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ11</title>
     <desc lang="el">Η Claire είναι αποφασισμένη να επαγρυπνά προκειμένου να πιάσει το αμάξι που τρέχει με ιλιγγιώδη ταχύτητα στη γειτονιά τους. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925130500 GMT+3" stop="20260925132500 GMT+3" channel="216595">
+  <programme start="20260925131000 GMT+3" stop="20260925133500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ12</title>
     <desc lang="el">Η Claire και ο Phil θέλουν η Alex να χαλαρώσει λίγο με τις σπουδές της, αλλά μετά αναρωτιούνται για τις δικές τους πνευματικές πορείες. Ο Mitch και ο Cam πέφτουν πάνω σε μια παλιά αγαπημένη του Mitchell και κάνουν μια φοβερή ανακάλυψη. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925132500 GMT+3" stop="20260925141000 GMT+3" channel="216595">
+  <programme start="20260925133500 GMT+3" stop="20260925141500 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 2 Κ2 ΕΠ5</title>
     <desc lang="el">Ο προπονητής μιας ομάδας μπέιζμπολ βρίσκεται νεκρός, καθώς οι ιδιοκτήτες της ομάδας και ένας σημαντικός παίκτης μάχονται για τον έλεγχο της ομάδας. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925141000 GMT+3" stop="20260925145500 GMT+3" channel="216595">
+  <programme start="20260925141500 GMT+3" stop="20260925150000 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ3</title>
     <desc lang="el">Στην εβδομαδιαία δοκιμασία Quickfire, οι σεφ πρέπει να φτιάξουν τη δική τους εκδοχή για το τζαμαϊκανό πιτάκι. Πρωταγωνιστούν: Kristen Kish, Tom Colicchio, Gail Simmons. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925145500 GMT+3" stop="20260925154000 GMT+3" channel="216595">
+  <programme start="20260925150000 GMT+3" stop="20260925154500 GMT+3" channel="216595">
     <title lang="el">Castle 5 Κ5 ΕΠ10</title>
     <desc lang="el">Ενώ ο Castle ερευνά τη δολοφονία ενός ισχυρού δικηγόρου, εμφανίζεται η πρώην σύζυγός του, μετατρέποντας την προσωπική του ζωή σε χάος. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925154000 GMT+3" stop="20260925162500 GMT+3" channel="216595">
+  <programme start="20260925154500 GMT+3" stop="20260925163000 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ5 ΕΠ17</title>
     <desc lang="el">Vic και Theo καλούνται σε ένα οικογενειακό περιστατικό ανάμεσα στους γονείς ενός τρανς εφήβου. Ο Jack μαθαίνει σοκαριστικές νέες λεπτομέρειες για την παιδική του ηλικία και ο Ben με τον Travis βοηθούν έναν ασθενή. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925162500 GMT+3" stop="20260925171000 GMT+3" channel="216595">
+  <programme start="20260925163000 GMT+3" stop="20260925171500 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ2</title>
     <desc lang="el">Όταν ο Damon παρακούει τις εντολές της Kidd σε μια κλήση, στρέφεται στη Severide για να τον προστατεύσει. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925171000 GMT+3" stop="20260925173000 GMT+3" channel="216595">
+  <programme start="20260925171500 GMT+3" stop="20260925173500 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ17</title>
     <desc lang="el">Μετά το σπάσιμο του &quot;αδελφικού κώδικα&quot;, οι ενοχές που μαστίζουν τον Barney, τον αναγκάζουν να ασχοληθεί με τις μακροχρόνιες επιπτώσεις. H Lily σώζει ένα ζώο από σφαγή, και ο Ted προετοιμάζεται για τα γενέθλια ορόσημο. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925173000 GMT+3" stop="20260925175500 GMT+3" channel="216595">
+  <programme start="20260925173500 GMT+3" stop="20260925180000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ18</title>
     <desc lang="el">Όταν ο Ted μοιράζεται μυστικό της Stella με την παρέα, θα πρέπει να αντιμετωπίσει τις συνέπειες της πράξης του. O Barney ψάχνει για νέο κολλητό για να αντικαταστήσει τον Ted ως νούμερο δύο του. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925175500 GMT+3" stop="20260925184000 GMT+3" channel="216595">
+  <programme start="20260925180000 GMT+3" stop="20260925184500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ20</title>
     <desc lang="el">Ο Τζέιν και η ομάδα προσπαθούν να καταλάβουν ποιος θα είχε λόγο να σκοτώσει έναν δημοφιλή καθηγητή Αγγλικών. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925184000 GMT+3" stop="20260925192500 GMT+3" channel="216595">
+  <programme start="20260925184500 GMT+3" stop="20260925193000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 2 Κ2 ΕΠ6</title>
     <desc lang="el">Η γνώση της Μάουρα για την αμερικανική ιστορία αποκτά σημασία καθώς αυτή και η Τζέιν προσπαθούν να λύσουν μια δολοφονία σε μια αναπαράσταση του Πολέμου της Επανάστασης. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925192500 GMT+3" stop="20260925195000 GMT+3" channel="216595">
+  <programme start="20260925193000 GMT+3" stop="20260925195000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ13</title>
     <desc lang="el">Απρόσμενες και άβολες καταστάσεις περιμένουν την οικογένεια όταν τα παιδιά ετοιμάζουν πρωινό για τους γονείς τους χάριν της επετείου τους. Μόλις, όμως, μπαίνουν στην κρεβατοκάμαρα βρίσκουν τον Phil και την Claire σε ακατάλληλες σκηνές. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65483,25 +65050,25 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925210000 GMT+3" stop="20260925213500 GMT+3" channel="216595">
+  <programme start="20260925210000 GMT+3" stop="20260925214500 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ4</title>
     <desc lang="el">Ο ηθοποιός Μάικλ Σέρα ενώνει τις δυνάμεις του με την Κρίστεν στην κουζίνα για τη δοκιμασία Quickfire αυτής της εβδομάδας, κατά την οποία οι γνώσεις των σεφ σε θέματα γενικών γνώσεων δοκιμάζονται. Πρωταγωνιστούν: Kristen Kish,Gail Simmons,Tom Colicchio. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925213500 GMT+3" stop="20260925223000 GMT+3" channel="216595">
+  <programme start="20260925214500 GMT+3" stop="20260925223500 GMT+3" channel="216595">
     <title lang="el">Good American Family 1 Κ1 ΕΠ3</title>
     <desc lang="el">Η Κριστίν ερευνά την ηλικία της Νατάλια. Πρωταγωνιστούν: Ellen Pompeo,Imogen Reid,Mark Duplass. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260925223000 GMT+3" stop="20260925231500 GMT+3" channel="216595">
+  <programme start="20260925223500 GMT+3" stop="20260925232500 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ21</title>
     <desc lang="el">Δύσκολα τα πράγματα, όταν ο Τζέιν και η ομάδα προσπαθούν να βρουν τον δολοφόνο ενός νεαρού άνδρα που βρέθηκε καμένος έξω από ένα καμπαρέ με μιμητές γυναικών. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925231500 GMT+3" stop="20260926000000 GMT+3" channel="216595">
+  <programme start="20260925232500 GMT+3" stop="20260926001000 GMT+3" channel="216595">
     <title lang="el">Top Chef 22 Κ22 ΕΠ4</title>
     <desc lang="el">Ο ηθοποιός Μάικλ Σέρα ενώνει τις δυνάμεις του με την Κρίστεν στην κουζίνα για τη δοκιμασία Quickfire αυτής της εβδομάδας, κατά την οποία οι γνώσεις των σεφ σε θέματα γενικών γνώσεων δοκιμάζονται. Πρωταγωνιστούν: Kristen Kish,Gail Simmons,Tom Colicchio. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65585,163 +65152,163 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925060000 GMT+3" stop="20260925064000 GMT+3" channel="2755">
+  <programme start="20260925060000 GMT+3" stop="20260925065000 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ9</title>
     <desc lang="el">Η πρώην αρραβωνιαστικιά του Κόνραντ, Κάθριν, εισάγεται στο νοσοκομείο με κοιλιακό άλγος που αποδεικνύεται μεγάλο ιατρικό μυστήριο. Καθώς ο Κόνραντ παλεύει πεισματικά να καταλήξει σε διάγνωση και αντιτίθεται στην ιδέα να τη χειρουργήσει ο Μπελ, η Νικ αποκτά μια εικόνα για το παρελθόν του Κόνραντ. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925064000 GMT+3" stop="20260925070000 GMT+3" channel="2755">
+  <programme start="20260925065000 GMT+3" stop="20260925071000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ2</title>
     <desc lang="el">Η ομάδα δέχεται την πρόταση του Χολτ για μια απόδραση το Σαββατοκύριακο. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925070000 GMT+3" stop="20260925072500 GMT+3" channel="2755">
+  <programme start="20260925071000 GMT+3" stop="20260925073500 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ3</title>
     <desc lang="el">Μετά το πρόσφατο σκάνδαλο του Ράιαν στην εταιρεία, η Χόλι πρέπει να οργανώσει ένα σεμινάριο επιχειρηματικής ηθικής. Η συνάντηση βγαίνει εκτός ελέγχου όταν ο Μάικλ αφήνει όλους να μιλήσουν ελεύθερα για την ανήθικη συμπεριφορά τους στη δουλειά. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925072500 GMT+3" stop="20260925075000 GMT+3" channel="2755">
+  <programme start="20260925073500 GMT+3" stop="20260925080000 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ4</title>
     <desc lang="el">Ο Μάικλ εξασκείται για τη γέννηση του μωρού της Τζαν, βάζοντας τον Ντουάιτ να εξετάσει πιθανά σενάρια τοκετού. Στο μεταξύ, ο Μάικλ λέει στη Χόλι ότι θα προσποιηθεί ότι την αντιπαθεί για το καλό της Τζαν. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925075000 GMT+3" stop="20260925083000 GMT+3" channel="2755">
+  <programme start="20260925080000 GMT+3" stop="20260925084500 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ14</title>
     <desc lang="el">Η ομάδα ανακαλύπτει τον απρόσμενα ανταγωνιστικό κόσμο του μίνι γκολφ καθώς προσπαθεί να λύσει τον φόνο ενός σούπερ σταρ αθλητή. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925083000 GMT+3" stop="20260925091500 GMT+3" channel="2755">
+  <programme start="20260925084500 GMT+3" stop="20260925093000 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ15</title>
     <desc lang="el">Η Έιβερι πιέζει τη Ρόζι να αντιμετωπίσει το πρόβλημα υγείας της. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260925091500 GMT+3" stop="20260925094000 GMT+3" channel="2755">
+  <programme start="20260925093000 GMT+3" stop="20260925095500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ3</title>
     <desc lang="el">Ο Μπαρτ σκοτώνει κατά λάθος ένα πουλί, αισθάνεται ένοχος και μεγαλώνει τα αβγά του σαν δικά του. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925094000 GMT+3" stop="20260925100500 GMT+3" channel="2755">
+  <programme start="20260925095500 GMT+3" stop="20260925102000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ4</title>
     <desc lang="el">Μαλλιά προκαλούν χάος, ο Μπαρτ κι η Λίζα είναι σε καρτούν, η οικογένεια μαθαίνει κάτι για τη Μάγκι. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925100500 GMT+3" stop="20260925102500 GMT+3" channel="2755">
+  <programme start="20260925102000 GMT+3" stop="20260925104000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ20</title>
     <desc lang="el">Μυστικά αποκαλύπτονται σε μια εκδρομή το Σαββατοκύριακο. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925102500 GMT+3" stop="20260925105000 GMT+3" channel="2755">
+  <programme start="20260925104000 GMT+3" stop="20260925110000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ21</title>
     <desc lang="el">Όλοι επιλέγουν πλευρά σε έναν καβγά μεταξύ του Λέοναρντ και του Σέλντον. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925105000 GMT+3" stop="20260925113500 GMT+3" channel="2755">
+  <programme start="20260925110000 GMT+3" stop="20260925114500 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ15</title>
     <desc lang="el">Όταν τα λείψανα ενός μεγάλου τζογαδόρου βρίσκονται μέσα σε έναν βιομηχανικό καταστροφέα, ο Booth ρισκάρει να ξαναπέσει στον εθισμό του στον τζόγο καθώς, μαζί με την Brennan, εισχωρούν στον κόσμο του υπόγειου πόκερ. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925113500 GMT+3" stop="20260925120000 GMT+3" channel="2755">
+  <programme start="20260925114500 GMT+3" stop="20260925120500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ4</title>
     <desc lang="el">Ο Τζέικ και η Έιμι δημιουργούν ένα σύστημα εξισορρόπησης εργασίας και παιδικής φροντίδας. Η Ρόζα αποκτά νέο φιλοξενούμενο. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925120000 GMT+3" stop="20260925122000 GMT+3" channel="2755">
+  <programme start="20260925120500 GMT+3" stop="20260925123000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ5</title>
     <desc lang="el">Ο Τζέικ πηγαίνει βόλτα έναν παλιό φίλο. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925122000 GMT+3" stop="20260925130500 GMT+3" channel="2755">
+  <programme start="20260925123000 GMT+3" stop="20260925131500 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ10</title>
     <desc lang="el">Ο Κόνραντ πέφτει πάνω σ&apos; έναν ποδηλάτη και χτυπά τον αστράγαλό του, αλλά παλεύει να το ξεπεράσει όταν αναλαμβάνει το περιστατικό μιας παλιάς καθηγήτριάς του, η οποία έχει παραισθήσεις με παλιούς ασθενείς της. Ο Ντέβον αναλαμβάνει να κάνει εισαγωγή στον Κόνραντ, ο οποίος αρνείται. Η Νικ προσπαθεί να διαχειριστεί τα συναισθήματά της καθώς πενθεί την απώλεια ενός ασθενούς και ο Μπελ χειρουργεί έναν ξένο αξιωματούχο με απρόβλεπτες επιπλοκές. Στο μεταξύ, η Λέιν και ο Μπελ έρχονται ακόμα πιο κοντά. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925130500 GMT+3" stop="20260925133000 GMT+3" channel="2755">
+  <programme start="20260925131500 GMT+3" stop="20260925134000 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ5</title>
     <desc lang="el">Ο Μάικλ βοηθά την Παμ να βρει δουλειά μερικής απασχόλησης στην εταιρεία, ώστε να έχει την οικονομική δυνατότητα να πάει σε σχολή καλών τεχνών. Ο Μάικλ και η Χόλι ξεκινούν από νωρίς το ραντεβού τους στο γραφείο. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925133000 GMT+3" stop="20260925135500 GMT+3" channel="2755">
+  <programme start="20260925134000 GMT+3" stop="20260925140000 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ6</title>
     <desc lang="el">Η Παμ ντρέπεται όταν είναι το μόνο άτομο στην εταιρεία που φοράει κοστούμι στο Χαλογουίν. Η Χόλι και ο Μάικλ κάνουν το μακρύ τους ταξίδι στη Νάσουα όταν μαθαίνουν σοκαριστικά νέα από την εταιρεία. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925135500 GMT+3" stop="20260925143500 GMT+3" channel="2755">
+  <programme start="20260925140000 GMT+3" stop="20260925145000 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ16</title>
     <desc lang="el">Οι περιοδείες βιβλίων δύο αντικρουόμενων ομάδων προγραμματίστηκαν για την ίδια μέρα. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260925143500 GMT+3" stop="20260925150000 GMT+3" channel="2755">
+  <programme start="20260925145000 GMT+3" stop="20260925151000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ5</title>
     <desc lang="el">Ένα ατύχημα με αλεξίπτωτο οδηγεί τον Χόμερ να γίνει ο προσωπικός βοηθός ενός διάσημου ζευγαριού. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925150000 GMT+3" stop="20260925152500 GMT+3" channel="2755">
+  <programme start="20260925151000 GMT+3" stop="20260925153500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ6</title>
     <desc lang="el">Ο Χόμερ μαθαίνει το μεσαίο του όνομα και γίνεται φίλος με ζευγάρι επιχειρηματιών της αντικουλτούρας. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925152500 GMT+3" stop="20260925155000 GMT+3" channel="2755">
+  <programme start="20260925153500 GMT+3" stop="20260925155500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ22</title>
     <desc lang="el">Ο Σέλντον και η Μπερναντέτ κάνουν παρέα όσο οι υπόλοιποι έχουν βγει έξω. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925155000 GMT+3" stop="20260925161500 GMT+3" channel="2755">
+  <programme start="20260925155500 GMT+3" stop="20260925162000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ23</title>
     <desc lang="el">Η Πένι δυσκολεύεται να δεθεί με τη μητέρα του Λέοναρντ, την Μπέβερλι. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925161500 GMT+3" stop="20260925170000 GMT+3" channel="2755">
+  <programme start="20260925162000 GMT+3" stop="20260925170500 GMT+3" channel="2755">
     <title lang="el">Bones 10 Κ10 ΕΠ16</title>
     <desc lang="el">Τα λείψανα ενός διάσημου τηλεοπτικού σεφ ανακαλύπτονται σε ένα τοπικό πάρκο και η ομάδα πρέπει να ψάξει για στοιχεία σε εστιατόρια για τα οποία είχε γράψει κριτικές. Πρωταγωνιστούν: Emily Deschanel,David Boreanaz,Michaela Conlin,Tamara Taylor,T.J. Thyn. (2014)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925170000 GMT+3" stop="20260925172500 GMT+3" channel="2755">
+  <programme start="20260925170500 GMT+3" stop="20260925173000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ6</title>
     <desc lang="el">Όταν το FBI αναλαμβάνει μια πολύκροτη υπόθεση, ο Τζέικ συνεχίζει να ερευνά. Η Έιμι και η Ρόζα διαπραγματεύονται με τον Ο&apos; Σάλιβαν και το συνδικάτο των αστυνομικών. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925172500 GMT+3" stop="20260925175000 GMT+3" channel="2755">
+  <programme start="20260925173000 GMT+3" stop="20260925175500 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ7</title>
     <desc lang="el">Ο Τέρι, ο Τζέικ και ο Τσαρλς επισκέπτονται το οικογενειακό αγρόκτημα των Μπόιλ. Η Έιμι και η Ρόζα βοηθούν τον αρχηγό Χολτ. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925175000 GMT+3" stop="20260925183500 GMT+3" channel="2755">
+  <programme start="20260925175500 GMT+3" stop="20260925184000 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ11</title>
     <desc lang="el">Όταν η Νικ αποτελεί αντικείμενο έρευνας για τον θάνατο της Λίλι, ο Κόνραντ σπεύδει να την υπερασπιστεί, αλλά κάνει τα πράγματα χειρότερα. Κατά τη διάρκεια μιας επέμβασης ρουτίνας, ο ασθενής του Μπελ κατά λάθος πιάνει φωτιά, με το νοσοκομείο να διεξάγει αμέσως έρευνα στα ιατρικά αρχεία του. Ωστόσο, η διευθύνων σύμβουλος του νοσοκομείου, Κλερ Θορπ, δεν συνειδητοποιεί με ποιον τα έχει βάλει όταν ο Μπελ σχεδιάζει την αντεπίθεσή του. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925183500 GMT+3" stop="20260925190000 GMT+3" channel="2755">
+  <programme start="20260925184000 GMT+3" stop="20260925190500 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ7</title>
     <desc lang="el">Ο Ντουάιτ και ο Τζιμ σοκάρονται όταν μαθαίνουν τα αποτελέσματα της ετήσιας έρευνας πελατών. Η Παμ και ο Τζιμ αποφασίζουν ότι θέλουν να περνούν κάθε λεπτό μαζί χρησιμοποιώντας τα Bluetooth τους. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925190000 GMT+3" stop="20260925192500 GMT+3" channel="2755">
+  <programme start="20260925190500 GMT+3" stop="20260925192500 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ8</title>
     <desc lang="el">Ο Μάικλ εκστασιάζεται όταν ο Ντέιβιντ Γουάλας αποφασίζει να τον στείλει σε επαγγελματικό ταξίδι στον Καναδά. Ο Άντι και ο Όσκαρ γίνονται απρόσμενοι φίλοι όταν ο Μάικλ αποφασίζει να τους πάρει μαζί του στο ταξίδι. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -65765,31 +65332,31 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925210000 GMT+3" stop="20260925212500 GMT+3" channel="2755">
+  <programme start="20260925210000 GMT+3" stop="20260925212000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ24</title>
     <desc lang="el">Ο πατέρας του Λέοναρντ εμφανίζεται στο φινάλε του κύκλου. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925212500 GMT+3" stop="20260925215000 GMT+3" channel="2755">
+  <programme start="20260925212000 GMT+3" stop="20260925214500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 10 Κ10 ΕΠ1</title>
     <desc lang="el">Γνωρίστε τη μητέρα και τον αδερφό της Πένι στην πρεμιέρα του κύκλου! Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925215000 GMT+3" stop="20260925223500 GMT+3" channel="2755">
+  <programme start="20260925214500 GMT+3" stop="20260925223000 GMT+3" channel="2755">
     <title lang="el">Chicago P.D. 13 Κ13 ΕΠ6</title>
     <desc lang="el">Ο Torres παρασύρεται σε μια θανατηφόρα συνωμοσία όταν μια δουλειά ρουτίνας παίρνει βίαιη τροπή. Πρωταγωνιστούν: Jason Beghe,Marina Squerciati,Patrick John Flueger,LaRoyce Hawkins,Benjamin Levy Aguilar,Amy Morton. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260925223500 GMT+3" stop="20260925232000 GMT+3" channel="2755">
+  <programme start="20260925223000 GMT+3" stop="20260925231500 GMT+3" channel="2755">
     <title lang="el">Tracker 3 Κ3 ΕΠ7</title>
     <desc lang="el">Η έρευνα για τον πατέρα του οδηγεί τον Κόλτερ σε έναν άντρα που ψάχνει απεγνωσμένα την κόρη του. Πρωταγωνιστούν: Justin Hartley,Fiona Rene,Jensen Ackles. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925232000 GMT+3" stop="20260926000500 GMT+3" channel="2755">
+  <programme start="20260925231500 GMT+3" stop="20260926000000 GMT+3" channel="2755">
     <title lang="el">Doctor Odyssey 1 Κ1 ΕΠ17</title>
     <desc lang="el">Ο Μαξ αφήνει το πλοίο και βρίσκεται αντιμέτωπος με έναν σεισμό. Πρωταγωνιστούν: Joshua Jackson, Phillipa Soo, Sean Teale, Don Johnson. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -66521,187 +66088,175 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260925001000 GMT+3" stop="20260925005500 GMT+3" channel="216459">
+  <programme start="20260925005500 GMT+3" stop="20260925014000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση Κ7 ΕΠ2</title>
     <desc lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925005500 GMT+3" stop="20260925014500 GMT+3" channel="216459">
+  <programme start="20260925014000 GMT+3" stop="20260925022500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ8</title>
     <desc lang="el">Πάνω από τη Γαλλία, ένα πολύ καλά εκπαιδευμένο πλήρωμα δοκιμάζει μια εμπορική πτήση. Καθώς, όμως, ετοιμάζονται να προσγειωθούν, ο πιλότος ξαφνικά χάνει τον έλεγχο. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925014500 GMT+3" stop="20260925023000 GMT+3" channel="216459">
+  <programme start="20260925022500 GMT+3" stop="20260925031500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ9</title>
     <desc lang="el">9 Αυγούστου 2007. Η πτήση 1121 της Air Moorea έχει μόλις απογειωθεί με προορισμό την Ταϊτή, όταν πέφτει σε απότομο κενό και συντρίβεται στη θάλασσα, σκοτώνοντας τους 20 επιβαίνοντες. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925023000 GMT+3" stop="20260925032000 GMT+3" channel="216459">
+  <programme start="20260925031500 GMT+3" stop="20260925040500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ10</title>
     <desc lang="el">Οι ερευνητές προσπαθούν να ανακαλύψουν γιατί η μηχανή στην πτήση 32 της Quantas εξερράγη και αν αυτό σημαίνει ότι κινδυνεύουν και τα υπόλοιπα A380. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925032000 GMT+3" stop="20260925040500 GMT+3" channel="216459">
+  <programme start="20260925040500 GMT+3" stop="20260925045000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση Κ7 ΕΠ1</title>
     <desc lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925040500 GMT+3" stop="20260925045500 GMT+3" channel="216459">
+  <programme start="20260925045000 GMT+3" stop="20260925054000 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση Κ7 ΕΠ2</title>
     <desc lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. - Ειδική Έκδοση (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925045500 GMT+3" stop="20260925052000 GMT+3" channel="216459">
+  <programme start="20260925054000 GMT+3" stop="20260925060500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ11</title>
     <desc lang="el">Σε αυτό το επεισόδιο, ανακαλύπτουμε τα μυστικά του εξοπλισμού των Ninja, τον καλύτερο τρόπο για να μπείτε σε μια τράπεζα με άλμα από κούνια και τι να αποφύγετε όταν κάνετε ιστιοπλοΐα πίσω από πλοίο. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925052000 GMT+3" stop="20260925054000 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ12</title>
-    <desc lang="el">Σε αυτό το επεισόδιο, μαθαίνουμε τα πάντα για το Parkour Press, τους κινδύνους του να κινούμαστε πάνω σε βάρκα και τους τρόπους με τους οποίους μπορείτε να τραυματιστείτε κάνοντας άλμα με ποδήλατο από ένα περβάζι. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260925054000 GMT+3" stop="20260925060500 GMT+3" channel="216459">
-    <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ13</title>
-    <desc lang="el">Μααθαίνουμε τα πάντα για τα παγόβουνα, τους πολλούς τρόπους με τους οποίους μπορούμε να τραυματιστούμε πηδώντας από μια προβλήτα καθώς και το τι πρέπει να προσέχετε την επόμενη φορά που θα κάνετε ποδήλατο πάνω σε τραμπάλα. (2018)</desc>
-    <category lang="el">Ντοκυμαντέρ</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260925060500 GMT+3" stop="20260925064500 GMT+3" channel="216459">
+  <programme start="20260925060500 GMT+3" stop="20260925065000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ7</title>
     <desc lang="el">Όταν ένα τρέιλερ που αποκολλήθηκε απειλεί έναν κεντρικό δρόμο, ο Θορντ κινδυνεύει να συνθλιβεί για να ολοκληρώσει μια δύσκολη διάσωση. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925064500 GMT+3" stop="20260925071000 GMT+3" channel="216459">
+  <programme start="20260925065000 GMT+3" stop="20260925071500 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ9</title>
     <desc lang="el">Ο Shooter εξετάζει ένα MG-42, ένα γερμανικό πολυβόλο του Β&apos; Παγκοσμίου Πολέμου που χρησιμοποιούσαν στη Νορμανδία και μπορούσε να ρίξει μέχρι και 1.500 σφαίρες το λεπτό. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925071000 GMT+3" stop="20260925073500 GMT+3" channel="216459">
+  <programme start="20260925071500 GMT+3" stop="20260925074000 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ10</title>
     <desc lang="el">Τα αγόρια βρίσκονται στο Galveston του Τέξας όπου ο Sean γνωρίζει τον ιδιοκτήτη ενός μεγάλου πιστολιού, παρόμοιο μ&apos; αυτό που χρησιμοποιήθηκε για τη δολοφονία του Αβραάμ Λίνκολν. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925073500 GMT+3" stop="20260925082000 GMT+3" channel="216459">
+  <programme start="20260925074000 GMT+3" stop="20260925082500 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ17</title>
     <desc lang="el">Τα πρώτα σημάδια του χειμώνα έχουν εμφανιστεί στην Αλάσκα και η Επόμενη Γενιά πρέπει να προχωρήσει μπροστά για να επιβιώσει ή να αντιμετωπίσει τις τρομερές συνέπειες. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925082000 GMT+3" stop="20260925090500 GMT+3" channel="216459">
+  <programme start="20260925082500 GMT+3" stop="20260925091000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ8</title>
     <desc lang="el">Πάνω από τη Γαλλία, ένα πολύ καλά εκπαιδευμένο πλήρωμα δοκιμάζει μια εμπορική πτήση. Καθώς, όμως, ετοιμάζονται να προσγειωθούν, ο πιλότος ξαφνικά χάνει τον έλεγχο. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925090500 GMT+3" stop="20260925095500 GMT+3" channel="216459">
+  <programme start="20260925091000 GMT+3" stop="20260925100000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ9</title>
     <desc lang="el">9 Αυγούστου 2007. Η πτήση 1121 της Air Moorea έχει μόλις απογειωθεί με προορισμό την Ταϊτή, όταν πέφτει σε απότομο κενό και συντρίβεται στη θάλασσα, σκοτώνοντας τους 20 επιβαίνοντες. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925095500 GMT+3" stop="20260925104500 GMT+3" channel="216459">
+  <programme start="20260925100000 GMT+3" stop="20260925105000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ12 ΕΠ10</title>
     <desc lang="el">Οι ερευνητές προσπαθούν να ανακαλύψουν γιατί η μηχανή στην πτήση 32 της Quantas εξερράγη και αν αυτό σημαίνει ότι κινδυνεύουν και τα υπόλοιπα A380. (2013)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925104500 GMT+3" stop="20260925113000 GMT+3" channel="216459">
+  <programme start="20260925105000 GMT+3" stop="20260925113500 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ4 ΕΠ5</title>
     <desc lang="el">Ένα εντυπωσιακό εναέριο ταξίδι πάνω από τη Βουλγαρία αποκαλύπτει την εκπληκτική αναπαλαίωση του καθεδρικού της Βάρνα, ένα μνημείο που μοιάζει με ΑΤΙΑ και τα ερείπια ενός αρχαίου ιερού. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925113000 GMT+3" stop="20260925121500 GMT+3" channel="216459">
+  <programme start="20260925113500 GMT+3" stop="20260925122000 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ4 ΕΠ6</title>
     <desc lang="el">Το εναέριο ταξίδι πάνω από τη Ρουμανία αποκαλύπτει τον μεγαλύτερο Ορθόδοξο καθεδρικό ναό του κόσμου, μια στενή ατμομηχανή και Χριστούγεννα στο &apos;Κάστρο του Κόμη Δράκουλα&apos;. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925121500 GMT+3" stop="20260925130500 GMT+3" channel="216459">
+  <programme start="20260925122000 GMT+3" stop="20260925131000 GMT+3" channel="216459">
     <title lang="el">Διάσωση στον Παγετό Κ8 ΕΠ8</title>
     <desc lang="el">Σε μια απότομη πλαγιά, ψηλά πάνω από το φιόρδ, ο Μπιορν ρισκάρει τα πάντα για να σώσει ένα τρακτέρ που απειλεί να πέσει - και να τον πάρει μαζί του. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925130500 GMT+3" stop="20260925133000 GMT+3" channel="216459">
+  <programme start="20260925131000 GMT+3" stop="20260925133000 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ11</title>
     <desc lang="el">O Shooter ανακαλύπτει την ιταλική εκδοχή ενός M-14 και ενθουσιάζεται όταν ο ιδιοκτήτης του τον αφήνει να το δοκιμάσει στο σκοπευτήριο. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925133000 GMT+3" stop="20260925135000 GMT+3" channel="216459">
+  <programme start="20260925133000 GMT+3" stop="20260925135500 GMT+3" channel="216459">
     <title lang="el">Κυνηγοί Πολεμικών Κειμηλίων Κ1 ΕΠ12</title>
     <desc lang="el">Τα αγόρια ανακαλύπτουν ένα πιστόλι από την Αμερικανική Επανάσταση, ένα μαχαίρι Bowie και ένα Winchester του 1907, που χρησιμοποιούσαν οι γκάνγκστερ τη δεκαετία του 1920. (2012)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925135000 GMT+3" stop="20260925143500 GMT+3" channel="216459">
+  <programme start="20260925135500 GMT+3" stop="20260925144000 GMT+3" channel="216459">
     <title lang="el">Αλάσκα: Η Επόμενη Γενιά Κ5 ΕΠ18</title>
     <desc lang="el">Για να επιβιώσουν τον χειμώνα, οι κάτοικοι της Αλάσκας πρέπει να μάθουν νέες δεξιότητες, χρησιμοποιώντας εφευρετικότητα στην άγρια φύση. (2022)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925143500 GMT+3" stop="20260925152500 GMT+3" channel="216459">
+  <programme start="20260925144000 GMT+3" stop="20260925153000 GMT+3" channel="216459">
     <title lang="el">Neil Armstrong: Άγνωστα Ντοκουμέντα ΕΠ1</title>
     <desc lang="el">Μοναδικά ηχητικά ντοκουμέντα από τα τελευταία χρόνια ζωής του αστροναύτη Neil Armstrong, αποκαλύπτουν ένα λεπτομερές προφίλ του διάσημου και ιδιαίτερα εσωστρεφούς άνδρα. Με τη βοήθεια άγνωστων μέχρι σήμερα φωτογραφιών και αρχειακό υλικό, το ωριαίο αυτό ντοκιμαντέρ προσφέρει στους τηλεθεατές ένα συγκινητικό ταξίδι στις σκέψεις και τις εμπειρίες του ανθρώπου που πάτησε πρώτος στη Σελήνη. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925152500 GMT+3" stop="20260925161500 GMT+3" channel="216459">
+  <programme start="20260925153000 GMT+3" stop="20260925162000 GMT+3" channel="216459">
     <title lang="el">Άρης Κ1 ΕΠ4</title>
     <desc lang="el">Τέσσερα χρόνια έχουν περάσει από τη στιγμή που το πλήρωμα του Daedalus έφτιαξε την πρώτη αποικία στον Άρη, την Olympus Town. Στο παρόν, ο γεμάτος ζωή Σταθμός McMurdo στην Ανταρκτική αποτελεί ένα σύγχρονο παράδειγμα για το πώς θα είναι ο εποικισμός των ανθρώπων στον Άρη. (2016)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925161500 GMT+3" stop="20260925170000 GMT+3" channel="216459">
+  <programme start="20260925162000 GMT+3" stop="20260925170500 GMT+3" channel="216459">
     <title lang="el">Χαμένες Πόλεις με τον Albert Lin Κ1 ΕΠ5</title>
     <desc lang="el">Ο εξερευνητής του National Geographic Albert Lin ταξιδεύει στο Περού για να ανακαλύψει την προέλευση της πιο διάσημης τοποθεσίας του, του Μάτσου Πίτσου. Ανακαλύπτει ότι η πόλη των Ίνκας μπορεί να είχε εμπνευστεί από έναν παλιότερο πολιτισμό. (2019)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925170000 GMT+3" stop="20260925175000 GMT+3" channel="216459">
+  <programme start="20260925170500 GMT+3" stop="20260925175500 GMT+3" channel="216459">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S. Κ7 ΕΠ3</title>
     <desc lang="el">Ο Tim και ο Fuzz αναλαμβάνουν μια Triumph TR4 του &apos;62, του 63χρονου Kel. Η ανακατασκευή που είχε στο μυαλό του ο Kel δυστυχώς μπήκε στην αναμονή μετά από μια σειρά από οικογενειακές τραγωδίες και ένα βαρύ εγκεφαλικό που του στέρησε το μεγαλύτερο μέρος της όρασής του. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925175000 GMT+3" stop="20260925181000 GMT+3" channel="216459">
+  <programme start="20260925175500 GMT+3" stop="20260925181500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ13</title>
     <desc lang="el">Μααθαίνουμε τα πάντα για τα παγόβουνα, τους πολλούς τρόπους με τους οποίους μπορούμε να τραυματιστούμε πηδώντας από μια προβλήτα καθώς και το τι πρέπει να προσέχετε την επόμενη φορά που θα κάνετε ποδήλατο πάνω σε τραμπάλα. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925181000 GMT+3" stop="20260925183500 GMT+3" channel="216459">
+  <programme start="20260925181500 GMT+3" stop="20260925184000 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ14</title>
     <desc lang="el">Σε αυτό το ειδικό επεισόδιο μηχανικής, ανακαλύπτουμε τα μυστικά πίσω από τις κατεδαφίσεις με εκρηκτικά, πώς δουλεύουν τα φράγματα και τι πρέπει να προσέχετε όταν χρησιμοποιείτε σκάλα. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925183500 GMT+3" stop="20260925192000 GMT+3" channel="216459">
+  <programme start="20260925184000 GMT+3" stop="20260925192500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ13 ΕΠ1</title>
     <desc lang="el">Μια δυνατή δόνηση και η μυρωδιά καπνού προειδοποιούν τους πιλότους της πτήσης 92 της British Midland για φωτιά στη μηχανή. Φαίνεται να είναι μια σπάνια περίπτωση διπλής μηχανικής βλάβης, αλλά οι έρευνες αποκαλύπτουν ότι μια τραγική παρεξήγηση μπορεί να είναι ο λόγος της συντριβής. (2014)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925192000 GMT+3" stop="20260925201000 GMT+3" channel="216459">
+  <programme start="20260925192500 GMT+3" stop="20260925201500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ13 ΕΠ2</title>
     <desc lang="el">26 Μαΐου 1991. Ο ιδιοκτήτης αεροπορικής εταιρείας και οδηγός της Formula 1 Niki Lauda συνεργάζεται με εμπειρογνώμονες για να ανακαλύψει γιατί η πτήση 004 της Lauda Air από την Μπανγκόκ στη Βιέννη έκανε ξαφνική ελεύθερη πτώση και συνετρίβη. (2014)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260925201000 GMT+3" stop="20260925210000 GMT+3" channel="216459">
+  <programme start="20260925201500 GMT+3" stop="20260925210000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ13 ΕΠ3</title>
     <desc lang="el">3 Σεπτεμβρίου 1989. Οι εμπειρογνώμονες έρχονται αντιμέτωποι με ένα ακατανόητο μυστήριο όταν η πτήση 254 της Varig πέφτει σε μια απομονωμένη ζούγκλα, περίπου 700 μίλια εκτός της πορείας της. (2014)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -76623,13 +76178,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260925010000 GMT+3" stop="20260925013000 GMT+3" channel="216415">
+  <programme start="20260925013000 GMT+3" stop="20260925023000 GMT+3" channel="216415">
     <title lang="el">ONE FC Weekly</title>
     <desc lang="el">Το ONE FC Weekly παρουσιάζει μερικούς από τους πιο επιδέξιους αθλητές πολεμικών τεχνών στον κόσμο και τους κορυφαίους αγώνες τους. Κάντε ένα ταξίδι στο χρόνο καθώς ξαναζούμε τις πιο συναρπαστικές τους στιγμές όλα αυτά τα χρόνια. Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260925013000 GMT+3" stop="20260925060000 GMT+3" channel="216415">
+  <programme start="20260925023000 GMT+3" stop="20260925060000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος αγώνες Super League &amp; EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -76676,8 +76231,9 @@
     <rating>K</rating>
   </programme>
   <programme start="20260925211500 GMT+3" stop="20260925214500 GMT+3" channel="216415">
-    <title lang="el">Novasports Prime</title>
-    <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος αγώνες Super League &amp; EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
+    <title lang="el">Ο Κόσμος των Freesports</title>
+    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260925214500 GMT+3" stop="20260925234500 GMT+3" channel="216415">
@@ -77047,198 +76603,6 @@
   <programme start="20260925180000 GMT+3" stop="20260926000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925003000 GMT+3" stop="20260925010000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925010000 GMT+3" stop="20260925023000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925023000 GMT+3" stop="20260925040000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925040000 GMT+3" stop="20260925043000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925043000 GMT+3" stop="20260925060000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925060000 GMT+3" stop="20260925073000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925073000 GMT+3" stop="20260925093000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925093000 GMT+3" stop="20260925103000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925103000 GMT+3" stop="20260925110000 GMT+3" channel="4185119">
-    <title lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</title>
-    <desc lang="el">Παγκόσμιο Πρωτάθλημα Αυτοκινήτων Αντοχής Αποκαλύπτοντας την αντοχή</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925110000 GMT+3" stop="20260925120000 GMT+3" channel="4185119">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925120000 GMT+3" stop="20260925130000 GMT+3" channel="4185119">
-    <title lang="el">Άλμα - ΟΥΙΛΙΑΜΣΜΠΟΥΡΓΚ</title>
-    <desc lang="el">Άλμα - ΟΥΙΛΙΑΜΣΜΠΟΥΡΓΚ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925130000 GMT+3" stop="20260925140000 GMT+3" channel="4185119">
-    <title lang="el">Σέιλ GP - Γενεύη</title>
-    <desc lang="el">Σέιλ GP - Γενεύη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925140000 GMT+3" stop="20260925150000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925150000 GMT+3" stop="20260925170000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925170000 GMT+3" stop="20260925205000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925205000 GMT+3" stop="20260925210000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925210000 GMT+3" stop="20260925230000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925230000 GMT+3" stop="20260926010000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925020000 GMT+3" stop="20260925043000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925043000 GMT+3" stop="20260925060000 GMT+3" channel="5183085">
-    <title lang="el">- Γιουχάν Όπεν - Τελικός</title>
-    <desc lang="el">- Γιουχάν Όπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925060000 GMT+3" stop="20260925080000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925080000 GMT+3" stop="20260925093000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925093000 GMT+3" stop="20260925110000 GMT+3" channel="5183085">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925110000 GMT+3" stop="20260925120000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 3ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925120000 GMT+3" stop="20260925130000 GMT+3" channel="5183085">
-    <title lang="el">Σέιλ GP - Γενεύη</title>
-    <desc lang="el">Σέιλ GP - Γενεύη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925130000 GMT+3" stop="20260925140000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925140000 GMT+3" stop="20260925143000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925143000 GMT+3" stop="20260925170000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925170000 GMT+3" stop="20260925190000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925190000 GMT+3" stop="20260925193000 GMT+3" channel="5183085">
-    <title lang="el">Αυστραλία - MXGP - 2ος ΑΓΩΝΑΣ</title>
-    <desc lang="el">Αυστραλία - MXGP - 2ος ΑΓΩΝΑΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925193000 GMT+3" stop="20260925210000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Σάο Πάουλο</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925210000 GMT+3" stop="20260926020000 GMT+3" channel="5183085">
-    <title lang="el">Σικάγο - 2Η ΗΜΕΡΑ</title>
-    <desc lang="el">Σικάγο - 2Η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260925000000 GMT+3" stop="20260925020000 GMT+3" channel="52101919">
@@ -78987,7 +78351,7 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260926054000 GMT+3" stop="20260926060000 GMT+3" channel="289568">
+  <programme start="20260926054000 GMT+3" stop="20260926061500 GMT+3" channel="289568">
     <title lang="el">Μαγειρευουμε Παρεα, Season Ιι ( E ) Με Τον Σεφ Ανδρέα Κωνσταντίνου</title>
     <desc lang="el">Εκπομπή Μαγειρικής σε ΕΠΑΝΑΛΗΨΗ. Με τον σεφ Ανδρέα Κωνσταντίνου.  Εκπομπή: 73Βη ( Ε ) (2ης σεζόν)  Για σήμερα ο σεφ μαγειρεύει:  1. Φτερούγες με Ασιατική Σάλτσα  2. Αλλιώτικη Τάρτα με Μούρα (επιδόρπιο, γλυκό)  Στο στούντιο μαζί με τον σεφ, Καλεσμένoς/φιλοξενούμενος: όχι σήμερα</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -79082,30 +78446,6 @@
     <desc lang="el">Οι άγγελοι της ερήμου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>15</rating>
-  </programme>
-  <programme start="20260926000000 GMT+3" stop="20260926060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926060000 GMT+3" stop="20260926120000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926120000 GMT+3" stop="20260926180000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926180000 GMT+3" stop="20260927060000 GMT+3" channel="561178">
-    <title lang="el">This is One Channel CY</title>
-    <desc lang="el">This is One Channel CY</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
   </programme>
   <programme start="20260926004000 GMT+3" stop="20260926010000 GMT+3" channel="574264">
     <title lang="el">Τι Κολυμπάει και Γελάει; Cosmos Shorts</title>
@@ -84486,61 +83826,61 @@
     <category lang="el">Ταινίες</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926000000 GMT+3" stop="20260926004500 GMT+3" channel="216595">
+  <programme start="20260926001000 GMT+3" stop="20260926005500 GMT+3" channel="216595">
     <title lang="el">Grey&apos;s Anatomy Κ18 ΕΠ20</title>
     <desc lang="el">Η έλλειψη αίματος στο Grey Sloan Memorial συνεχίζεται. Στο μεταξύ, η Meredith παίρνει μια ριψοκίνδυνη απόφαση σχετικά με έναν ασθενή και αποκαλύπτονται οι πράξεις του Owen να βοηθήσει άλλους βετεράνους. Πρωταγωνιστούν: Ellen Pompeo,Chandra Wilson,James Pickens,Kevin McKidd, Caterina Scorsone, Camilla Luddington,Kelly McCreary,Kim Raver,Jake Borelli,Chris Carmack.Richard Flood,Anthony Hill. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926004500 GMT+3" stop="20260926013000 GMT+3" channel="216595">
+  <programme start="20260926005500 GMT+3" stop="20260926014000 GMT+3" channel="216595">
     <title lang="el">Rizzoli &amp; Isles 2 Κ2 ΕΠ6</title>
     <desc lang="el">Η γνώση της Μάουρα για την αμερικανική ιστορία αποκτά σημασία καθώς αυτή και η Τζέιν προσπαθούν να λύσουν μια δολοφονία σε μια αναπαράσταση του Πολέμου της Επανάστασης. Πρωταγωνιστούν: Angie Harmon,Sasha Alexander,Bruce McGill. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926013000 GMT+3" stop="20260926021500 GMT+3" channel="216595">
+  <programme start="20260926014000 GMT+3" stop="20260926022000 GMT+3" channel="216595">
     <title lang="el">The Mentalist 4 Κ4 ΕΠ21</title>
     <desc lang="el">Δύσκολα τα πράγματα, όταν ο Τζέιν και η ομάδα προσπαθούν να βρουν τον δολοφόνο ενός νεαρού άνδρα που βρέθηκε καμένος έξω από ένα καμπαρέ με μιμητές γυναικών. Πρωταγωνιστούν: Simon Baker,Robin Tunney,Tim Kang,Amanda Righetti. (2011)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926021500 GMT+3" stop="20260926023500 GMT+3" channel="216595">
+  <programme start="20260926022000 GMT+3" stop="20260926024000 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ13</title>
     <desc lang="el">Απρόσμενες και άβολες καταστάσεις περιμένουν την οικογένεια όταν τα παιδιά ετοιμάζουν πρωινό για τους γονείς τους χάριν της επετείου τους. Μόλις, όμως, μπαίνουν στην κρεβατοκάμαρα βρίσκουν τον Phil και την Claire σε ακατάλληλες σκηνές. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926023500 GMT+3" stop="20260926030000 GMT+3" channel="216595">
+  <programme start="20260926024000 GMT+3" stop="20260926030500 GMT+3" channel="216595">
     <title lang="el">Modern Family: Season 2 Κ2 ΕΠ14</title>
     <desc lang="el">Ο Phil και η Claire επαναπροσεγγίζουν τους ρόλο τους. Ο Jay ετοιμάζει μια έκπληξη για την Gloria. Ένας κρυφός θαυμαστής μπαίνει ανάμεσα στον Cameron και τον Mitchell, αλλά δεν μπορούν να καταλήξουν για ποιον είναι το ενδιαφέρον. Πρωταγωνιστούν: Ed O&apos;Neill,Sofía Vergara,Julie Bowen,Ty Burrell. (2010)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926030000 GMT+3" stop="20260926034000 GMT+3" channel="216595">
+  <programme start="20260926030500 GMT+3" stop="20260926034500 GMT+3" channel="216595">
     <title lang="el">Chicago Fire 13 Κ13 ΕΠ2</title>
     <desc lang="el">Όταν ο Damon παρακούει τις εντολές της Kidd σε μια κλήση, στρέφεται στη Severide για να τον προστατεύσει. Πρωταγωνιστούν: Taylor Kinney, David Eigenberg,Miranda Rae Mayo. (2024)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926034000 GMT+3" stop="20260926040500 GMT+3" channel="216595">
+  <programme start="20260926034500 GMT+3" stop="20260926041000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ17</title>
     <desc lang="el">Μετά το σπάσιμο του &quot;αδελφικού κώδικα&quot;, οι ενοχές που μαστίζουν τον Barney, τον αναγκάζουν να ασχοληθεί με τις μακροχρόνιες επιπτώσεις. H Lily σώζει ένα ζώο από σφαγή, και ο Ted προετοιμάζεται για τα γενέθλια ορόσημο. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926040500 GMT+3" stop="20260926042500 GMT+3" channel="216595">
+  <programme start="20260926041000 GMT+3" stop="20260926043000 GMT+3" channel="216595">
     <title lang="el">How I Met Your Mother Κ3 ΕΠ18</title>
     <desc lang="el">Όταν ο Ted μοιράζεται μυστικό της Stella με την παρέα, θα πρέπει να αντιμετωπίσει τις συνέπειες της πράξης του. O Barney ψάχνει για νέο κολλητό για να αντικαταστήσει τον Ted ως νούμερο δύο του. Πρωταγωνιστούν: Jason Segel,Josh Radnor,Alyson Hannigan. (2007)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926042500 GMT+3" stop="20260926051000 GMT+3" channel="216595">
+  <programme start="20260926043000 GMT+3" stop="20260926051500 GMT+3" channel="216595">
     <title lang="el">Station 19 Κ5 ΕΠ17</title>
     <desc lang="el">Vic και Theo καλούνται σε ένα οικογενειακό περιστατικό ανάμεσα στους γονείς ενός τρανς εφήβου. Ο Jack μαθαίνει σοκαριστικές νέες λεπτομέρειες για την παιδική του ηλικία και ο Ben με τον Travis βοηθούν έναν ασθενή. Πρωταγωνιστούν: Jaina Lee Ortiz,Jason George,Grey Damon,Barrett Doss,Alberto Frezza,Jay Hayden. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926051000 GMT+3" stop="20260926060000 GMT+3" channel="216595">
+  <programme start="20260926051500 GMT+3" stop="20260926060000 GMT+3" channel="216595">
     <title lang="el">Castle 5 Κ5 ΕΠ10</title>
     <desc lang="el">Ενώ ο Castle ερευνά τη δολοφονία ενός ισχυρού δικηγόρου, εμφανίζεται η πρώην σύζυγός του, μετατρέποντας την προσωπική του ζωή σε χάος. Πρωταγωνιστούν: Nathan Fillion,Stana Katic. (2012)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -84690,79 +84030,79 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926000500 GMT+3" stop="20260926005000 GMT+3" channel="2755">
+  <programme start="20260926000000 GMT+3" stop="20260926005000 GMT+3" channel="2755">
     <title lang="el">Chicago P.D. 13 Κ13 ΕΠ6</title>
     <desc lang="el">Ο Torres παρασύρεται σε μια θανατηφόρα συνωμοσία όταν μια δουλειά ρουτίνας παίρνει βίαιη τροπή. Πρωταγωνιστούν: Jason Beghe,Marina Squerciati,Patrick John Flueger,LaRoyce Hawkins,Benjamin Levy Aguilar,Amy Morton. (2025)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>18</rating>
   </programme>
-  <programme start="20260926005000 GMT+3" stop="20260926011500 GMT+3" channel="2755">
+  <programme start="20260926005000 GMT+3" stop="20260926011000 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ7</title>
     <desc lang="el">Η Λίζα αγοράζει ένα διαγώνισμα. Ο βαθμός της επιτρέπει στο σχολείο να πάρει κι άλλη χρηματοδότηση. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926011500 GMT+3" stop="20260926014000 GMT+3" channel="2755">
+  <programme start="20260926011000 GMT+3" stop="20260926013500 GMT+3" channel="2755">
     <title lang="el">The Simpsons 10 Κ10 ΕΠ8</title>
     <desc lang="el">Ο παππούς χρειάζεται νέο νεφρό, μα ο Χόμερ, πριν κάνει δωρεά, καταφεύγει σε ένα πλοίο χαμένων ψυχών. Πρωταγωνιστούν: Dan Castellaneta,Julie Kavner,Nancy Cartwright. (1998)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926014000 GMT+3" stop="20260926020500 GMT+3" channel="2755">
+  <programme start="20260926013500 GMT+3" stop="20260926020000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ24</title>
     <desc lang="el">Ο πατέρας του Λέοναρντ εμφανίζεται στο φινάλε του κύκλου. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926020500 GMT+3" stop="20260926023000 GMT+3" channel="2755">
+  <programme start="20260926020000 GMT+3" stop="20260926022500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 10 Κ10 ΕΠ1</title>
     <desc lang="el">Γνωρίστε τη μητέρα και τον αδερφό της Πένι στην πρεμιέρα του κύκλου! Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926023000 GMT+3" stop="20260926025500 GMT+3" channel="2755">
+  <programme start="20260926022500 GMT+3" stop="20260926024500 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ7</title>
     <desc lang="el">Ο Ντουάιτ και ο Τζιμ σοκάρονται όταν μαθαίνουν τα αποτελέσματα της ετήσιας έρευνας πελατών. Η Παμ και ο Τζιμ αποφασίζουν ότι θέλουν να περνούν κάθε λεπτό μαζί χρησιμοποιώντας τα Bluetooth τους. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926025500 GMT+3" stop="20260926031500 GMT+3" channel="2755">
+  <programme start="20260926024500 GMT+3" stop="20260926031000 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ8</title>
     <desc lang="el">Ο Μάικλ εκστασιάζεται όταν ο Ντέιβιντ Γουάλας αποφασίζει να τον στείλει σε επαγγελματικό ταξίδι στον Καναδά. Ο Άντι και ο Όσκαρ γίνονται απρόσμενοι φίλοι όταν ο Μάικλ αποφασίζει να τους πάρει μαζί του στο ταξίδι. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926031500 GMT+3" stop="20260926034000 GMT+3" channel="2755">
+  <programme start="20260926031000 GMT+3" stop="20260926033000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ6</title>
     <desc lang="el">Όταν το FBI αναλαμβάνει μια πολύκροτη υπόθεση, ο Τζέικ συνεχίζει να ερευνά. Η Έιμι και η Ρόζα διαπραγματεύονται με τον Ο&apos; Σάλιβαν και το συνδικάτο των αστυνομικών. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926034000 GMT+3" stop="20260926040500 GMT+3" channel="2755">
+  <programme start="20260926033000 GMT+3" stop="20260926040000 GMT+3" channel="2755">
     <title lang="el">Brooklyn Nine-Nine 8 Κ8 ΕΠ7</title>
     <desc lang="el">Ο Τέρι, ο Τζέικ και ο Τσαρλς επισκέπτονται το οικογενειακό αγρόκτημα των Μπόιλ. Η Έιμι και η Ρόζα βοηθούν τον αρχηγό Χολτ. Πρωταγωνιστούν: Andy Samberg,Stephanie Beatriz,Terry Crews,Melissa Fumero,Joe Lo Truglio,Dirk Blocker,Joel McKinnon Miller,Andre Braugher. (2021)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926040500 GMT+3" stop="20260926045000 GMT+3" channel="2755">
+  <programme start="20260926040000 GMT+3" stop="20260926044500 GMT+3" channel="2755">
     <title lang="el">The Resident 1 Κ1 ΕΠ11</title>
     <desc lang="el">Όταν η Νικ αποτελεί αντικείμενο έρευνας για τον θάνατο της Λίλι, ο Κόνραντ σπεύδει να την υπερασπιστεί, αλλά κάνει τα πράγματα χειρότερα. Κατά τη διάρκεια μιας επέμβασης ρουτίνας, ο ασθενής του Μπελ κατά λάθος πιάνει φωτιά, με το νοσοκομείο να διεξάγει αμέσως έρευνα στα ιατρικά αρχεία του. Ωστόσο, η διευθύνων σύμβουλος του νοσοκομείου, Κλερ Θορπ, δεν συνειδητοποιεί με ποιον τα έχει βάλει όταν ο Μπελ σχεδιάζει την αντεπίθεσή του. Πρωταγωνιστούν: Matt Czuchry,Emily VanCamp,Manish Dayal,Moran Atias,Merrin Dungey,Shaunette Renée Wilson,Bruce Greenwood. (2017)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926045000 GMT+3" stop="20260926051500 GMT+3" channel="2755">
+  <programme start="20260926044500 GMT+3" stop="20260926051000 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 9 Κ9 ΕΠ24</title>
     <desc lang="el">Ο πατέρας του Λέοναρντ εμφανίζεται στο φινάλε του κύκλου. Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2015)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926051500 GMT+3" stop="20260926054000 GMT+3" channel="2755">
+  <programme start="20260926051000 GMT+3" stop="20260926053500 GMT+3" channel="2755">
     <title lang="el">The Big Bang Theory 10 Κ10 ΕΠ1</title>
     <desc lang="el">Γνωρίστε τη μητέρα και τον αδερφό της Πένι στην πρεμιέρα του κύκλου! Πρωταγωνιστούν: Jim Parsons,Johnny Galecki,Kaley Cuoco,Kunal Nayyar,Simon Helberg. (2016)</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926054000 GMT+3" stop="20260926060000 GMT+3" channel="2755">
+  <programme start="20260926053500 GMT+3" stop="20260926060000 GMT+3" channel="2755">
     <title lang="el">The Office 5 Κ5 ΕΠ7</title>
     <desc lang="el">Ο Ντουάιτ και ο Τζιμ σοκάρονται όταν μαθαίνουν τα αποτελέσματα της ετήσιας έρευνας πελατών. Η Παμ και ο Τζιμ αποφασίζουν ότι θέλουν να περνούν κάθε λεπτό μαζί χρησιμοποιώντας τα Bluetooth τους. Πρωταγωνιστούν: Steve Carell,Rainn Wilson,John Krasinski,Jenna Fischer,B. J. Novak. (2008)</desc>
     <category lang="el">Ψυχαγωγία</category>
@@ -85686,13 +85026,13 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926001000 GMT+3" stop="20260926005500 GMT+3" channel="216459">
+  <programme start="20260926001000 GMT+3" stop="20260926010000 GMT+3" channel="216459">
     <title lang="el">Αυτοψία της Καταστροφής - Ειδική Έκδοση Κ1 ΕΠ2</title>
     <desc lang="el">Ένας γερανός μεγάλου ύψους, μια εμβληματική γέφυρα και ένα πολυσύχναστο εμπορικό κέντρο: Τι προκάλεσε την ξαφνική κατάρρευσή τους; Ειδικοί αναλύουν επιστημονικά αυτές τις τρεις μεγάλες καταστροφές για να αποκαλύψουν τις κρυφές και απρόσμενες αιτίες τους. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926005500 GMT+3" stop="20260926014500 GMT+3" channel="216459">
+  <programme start="20260926010000 GMT+3" stop="20260926014500 GMT+3" channel="216459">
     <title lang="el">Δίωξη Λαθρεμπορίου Κ1 ΕΠ1</title>
     <desc lang="el">Λιμενικοί στο Μαϊάμι αναχαιτίζουν σκάφος που μεταφέρει πάνω από 500 κιλά κοκαΐνης. Στο μεταξύ, συνοριοφύλακες στο Μισισίπι επιχειρούν σε κεντρικό αυτοκινητόδρομο, ο οποίος εκτιμάται ότι χρησιμοποιείται από καρτέλ για τη διακίνηση ναρκωτικών, χρημάτων και ανθρώπων. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -85704,37 +85044,37 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926023000 GMT+3" stop="20260926031500 GMT+3" channel="216459">
+  <programme start="20260926023000 GMT+3" stop="20260926032000 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ13 ΕΠ2</title>
     <desc lang="el">26 Μαΐου 1991. Ο ιδιοκτήτης αεροπορικής εταιρείας και οδηγός της Formula 1 Niki Lauda συνεργάζεται με εμπειρογνώμονες για να ανακαλύψει γιατί η πτήση 004 της Lauda Air από την Μπανγκόκ στη Βιέννη έκανε ξαφνική ελεύθερη πτώση και συνετρίβη. (2014)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926031500 GMT+3" stop="20260926040500 GMT+3" channel="216459">
+  <programme start="20260926032000 GMT+3" stop="20260926040500 GMT+3" channel="216459">
     <title lang="el">Τραγωδία στον Αέρα Κ13 ΕΠ3</title>
     <desc lang="el">3 Σεπτεμβρίου 1989. Οι εμπειρογνώμονες έρχονται αντιμέτωποι με ένα ακατανόητο μυστήριο όταν η πτήση 254 της Varig πέφτει σε μια απομονωμένη ζούγκλα, περίπου 700 μίλια εκτός της πορείας της. (2014)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926040500 GMT+3" stop="20260926045000 GMT+3" channel="216459">
+  <programme start="20260926040500 GMT+3" stop="20260926045500 GMT+3" channel="216459">
     <title lang="el">Αυτοψία της Καταστροφής - Ειδική Έκδοση Κ1 ΕΠ2</title>
     <desc lang="el">Ένας γερανός μεγάλου ύψους, μια εμβληματική γέφυρα και ένα πολυσύχναστο εμπορικό κέντρο: Τι προκάλεσε την ξαφνική κατάρρευσή τους; Ειδικοί αναλύουν επιστημονικά αυτές τις τρεις μεγάλες καταστροφές για να αποκαλύψουν τις κρυφές και απρόσμενες αιτίες τους. (2026)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926045000 GMT+3" stop="20260926053500 GMT+3" channel="216459">
+  <programme start="20260926045500 GMT+3" stop="20260926054000 GMT+3" channel="216459">
     <title lang="el">Δίωξη Λαθρεμπορίου Κ1 ΕΠ1</title>
     <desc lang="el">Λιμενικοί στο Μαϊάμι αναχαιτίζουν σκάφος που μεταφέρει πάνω από 500 κιλά κοκαΐνης. Στο μεταξύ, συνοριοφύλακες στο Μισισίπι επιχειρούν σε κεντρικό αυτοκινητόδρομο, ο οποίος εκτιμάται ότι χρησιμοποιείται από καρτέλ για τη διακίνηση ναρκωτικών, χρημάτων και ανθρώπων. (2024)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926053500 GMT+3" stop="20260926060000 GMT+3" channel="216459">
+  <programme start="20260926054000 GMT+3" stop="20260926060500 GMT+3" channel="216459">
     <title lang="el">Έξω από τα Όρια της Επιστήμης Κ6 ΕΠ13</title>
     <desc lang="el">Μααθαίνουμε τα πάντα για τα παγόβουνα, τους πολλούς τρόπους με τους οποίους μπορούμε να τραυματιστούμε πηδώντας από μια προβλήτα καθώς και το τι πρέπει να προσέχετε την επόμενη φορά που θα κάνετε ποδήλατο πάνω σε τραμπάλα. (2018)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20260926060000 GMT+3" stop="20260926064500 GMT+3" channel="216459">
+  <programme start="20260926060500 GMT+3" stop="20260926064500 GMT+3" channel="216459">
     <title lang="el">Η Ευρώπη από Ψηλά Κ3 ΕΠ2</title>
     <desc lang="el">Μια εναέρια περιήγηση της Κροατίας αποκαλύπτει ένα ρωμαϊκό αρχιτεκτονικό αριστούργημα, έναν παράδεισο αναρρίχησης και μια φυσική πλημμυρική πεδιάδα στο μέγεθος της Νέας Υόρκης. (2021)</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -96522,168 +95862,6 @@
   <programme start="20260926180000 GMT+3" stop="20260927000000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926010000 GMT+3" stop="20260926023000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926023000 GMT+3" stop="20260926043000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926043000 GMT+3" stop="20260926060000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - Lone Star Le Mans</title>
-    <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926060000 GMT+3" stop="20260926073000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926073000 GMT+3" stop="20260926080000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926080000 GMT+3" stop="20260926083000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926083000 GMT+3" stop="20260926090000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926090000 GMT+3" stop="20260926093000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926093000 GMT+3" stop="20260926110000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926110000 GMT+3" stop="20260926130000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926130000 GMT+3" stop="20260926140000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926140000 GMT+3" stop="20260926160000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926160000 GMT+3" stop="20260926211500 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926211500 GMT+3" stop="20260926230000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926230000 GMT+3" stop="20260927010000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926020000 GMT+3" stop="20260926043000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - Lone Star Le Mans</title>
-    <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926043000 GMT+3" stop="20260926060000 GMT+3" channel="5183085">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926060000 GMT+3" stop="20260926080000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - Lone Star Le Mans</title>
-    <desc lang="el">FIA WEC - Lone Star Le Mans</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926080000 GMT+3" stop="20260926093000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926093000 GMT+3" stop="20260926110000 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926110000 GMT+3" stop="20260926120000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 4ο Σκέλος - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926120000 GMT+3" stop="20260926130000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926130000 GMT+3" stop="20260926140000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926140000 GMT+3" stop="20260926150000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926150000 GMT+3" stop="20260926170000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926170000 GMT+3" stop="20260926190000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260926190000 GMT+3" stop="20260927020000 GMT+3" channel="5183085">
-    <title lang="el">Σικάγο - 3η ΗΜΕΡΑ</title>
-    <desc lang="el">Σικάγο - 3η ΗΜΕΡΑ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260926000000 GMT+3" stop="20260926010000 GMT+3" channel="52101919">
@@ -116070,156 +115248,6 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260927010000 GMT+3" stop="20260927023000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927023000 GMT+3" stop="20260927043000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927043000 GMT+3" stop="20260927113000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927113000 GMT+3" stop="20260927130000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927130000 GMT+3" stop="20260927140000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927140000 GMT+3" stop="20260927160000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927160000 GMT+3" stop="20260927230000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927230000 GMT+3" stop="20260928000000 GMT+3" channel="4185119">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927020000 GMT+3" stop="20260927030000 GMT+3" channel="5183085">
-    <title lang="el">Σέιλ GP - Γενεύη</title>
-    <desc lang="el">Σέιλ GP - Γενεύη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927030000 GMT+3" stop="20260927033000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927033000 GMT+3" stop="20260927040000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927040000 GMT+3" stop="20260927043000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927043000 GMT+3" stop="20260927071500 GMT+3" channel="5183085">
-    <title lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</title>
-    <desc lang="el">HOME NATIONS SERIES - Αγγλικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927071500 GMT+3" stop="20260927074500 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Κεμπέκ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927074500 GMT+3" stop="20260927081500 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Πίτσταλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927081500 GMT+3" stop="20260927084500 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Σιέρ Ζινάλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927084500 GMT+3" stop="20260927091500 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927091500 GMT+3" stop="20260927114500 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927114500 GMT+3" stop="20260927130000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 5ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 5ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927130000 GMT+3" stop="20260927140000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927140000 GMT+3" stop="20260927160000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927160000 GMT+3" stop="20260927180000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927180000 GMT+3" stop="20260927200000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927200000 GMT+3" stop="20260927220000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927220000 GMT+3" stop="20260928010000 GMT+3" channel="5183085">
-    <title lang="el">Σικάγο - 4η ημέρα</title>
-    <desc lang="el">Σικάγο - 4η ημέρα</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260927000000 GMT+3" stop="20260927020000 GMT+3" channel="52101919">
     <title lang="el">ΑΣΤΕΡΑΣ - ΑΡΗΣ 10/9/26</title>
     <desc lang="el">ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ 2026-27</desc>
@@ -134444,198 +133472,6 @@
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260928000000 GMT+3" stop="20260928021500 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928021500 GMT+3" stop="20260928023000 GMT+3" channel="4185119">
-    <title lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</title>
-    <desc lang="el">ΠΟΔΗΛΑΣΙΑ CYCLING SHOW</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928023000 GMT+3" stop="20260928040000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928040000 GMT+3" stop="20260928060000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928060000 GMT+3" stop="20260928073000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928073000 GMT+3" stop="20260928090000 GMT+3" channel="4185119">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928090000 GMT+3" stop="20260928120000 GMT+3" channel="4185119">
-    <title lang="el">- - 1ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 1ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928120000 GMT+3" stop="20260928133000 GMT+3" channel="4185119">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928133000 GMT+3" stop="20260928143000 GMT+3" channel="4185119">
-    <title lang="el">- - 1ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 1ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928143000 GMT+3" stop="20260928173000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928173000 GMT+3" stop="20260928183000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928183000 GMT+3" stop="20260928190000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928190000 GMT+3" stop="20260928210000 GMT+3" channel="4185119">
-    <title lang="el">Άλμα - Βιέννη</title>
-    <desc lang="el">Άλμα - Βιέννη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928210000 GMT+3" stop="20260928220000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928220000 GMT+3" stop="20260928230000 GMT+3" channel="4185119">
-    <title lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928230000 GMT+3" stop="20260929000000 GMT+3" channel="4185119">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928010000 GMT+3" stop="20260928023000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928023000 GMT+3" stop="20260928040000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928040000 GMT+3" stop="20260928060000 GMT+3" channel="5183085">
-    <title lang="el">- Βρετανικό Οπεν - Τελικός</title>
-    <desc lang="el">- Βρετανικό Οπεν - Τελικός</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928060000 GMT+3" stop="20260928080000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928080000 GMT+3" stop="20260928090000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928090000 GMT+3" stop="20260928103000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928103000 GMT+3" stop="20260928120000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928120000 GMT+3" stop="20260928130000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928130000 GMT+3" stop="20260928143000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928143000 GMT+3" stop="20260928153000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928153000 GMT+3" stop="20260928173000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928173000 GMT+3" stop="20260928193000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928193000 GMT+3" stop="20260928210000 GMT+3" channel="5183085">
-    <title lang="el">ΛΟΝΔΙΝΟ - -</title>
-    <desc lang="el">ΛΟΝΔΙΝΟ - -</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928210000 GMT+3" stop="20260928220000 GMT+3" channel="5183085">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928220000 GMT+3" stop="20260928230000 GMT+3" channel="5183085">
-    <title lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</title>
-    <desc lang="el">PRO SERIES - Αγώνας Κροατίας - 6ο Ετάπ - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928230000 GMT+3" stop="20260929010000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260928000000 GMT+3" stop="20260928020000 GMT+3" channel="52101919">
     <title lang="el">FH HAFNARFJORDUR (ISL) - APOLLON LADIES 2/9/26</title>
     <desc lang="el">UEFA WOMEN&apos;S EUROPA CUP 2026-27</desc>
@@ -152547,192 +151383,6 @@
   <programme start="20260929233000 GMT+3" stop="20260930060000 GMT+3" channel="52027180">
     <title lang="el">Novasportsextra4HD</title>
     <desc lang="el">Ένα pop up κανάλι με επιλεγμένες ζωντανές αναμετρήσεις από όλες τις διοργανώσεις που πραγματοποιούνται τα Σαββατοκύριακα ή μέσα στην εβδομάδα.</desc>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929000000 GMT+3" stop="20260929010000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929010000 GMT+3" stop="20260929023000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929023000 GMT+3" stop="20260929040000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929040000 GMT+3" stop="20260929060000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929060000 GMT+3" stop="20260929070000 GMT+3" channel="4185119">
-    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ ΣΠΙΤΙ ΤΩΝ ΟΛΥΜΠΙΑΚΩΝ ΑΓΩΝΩΝ HALL OF FAME ΑΘΗΝΑ 2004</title>
-    <desc lang="el">Τα τελευταία νέα από τους βραδινούς αγώνες.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929070000 GMT+3" stop="20260929090000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929090000 GMT+3" stop="20260929120000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929120000 GMT+3" stop="20260929133000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929133000 GMT+3" stop="20260929143000 GMT+3" channel="4185119">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929143000 GMT+3" stop="20260929173000 GMT+3" channel="4185119">
-    <title lang="el">- - 3ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 3ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929173000 GMT+3" stop="20260929181500 GMT+3" channel="4185119">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929181500 GMT+3" stop="20260929190000 GMT+3" channel="4185119">
-    <title lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΑΝΔΡΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929190000 GMT+3" stop="20260929200000 GMT+3" channel="4185119">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929200000 GMT+3" stop="20260929210000 GMT+3" channel="4185119">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929210000 GMT+3" stop="20260929230000 GMT+3" channel="4185119">
-    <title lang="el">- - 3ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 3ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929230000 GMT+3" stop="20260930000000 GMT+3" channel="4185119">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929010000 GMT+3" stop="20260929023000 GMT+3" channel="5183085">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929023000 GMT+3" stop="20260929040000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929040000 GMT+3" stop="20260929060000 GMT+3" channel="5183085">
-    <title lang="el">- - 2ος ΓΥΡΟΣ</title>
-    <desc lang="el">- - 2ος ΓΥΡΟΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929060000 GMT+3" stop="20260929090000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929090000 GMT+3" stop="20260929110000 GMT+3" channel="5183085">
-    <title lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</title>
-    <desc lang="el">Τρέιλ: GT World Series - Γκρέιτ Γουόλ ()</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929110000 GMT+3" stop="20260929120000 GMT+3" channel="5183085">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929120000 GMT+3" stop="20260929133000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929133000 GMT+3" stop="20260929143000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929143000 GMT+3" stop="20260929153000 GMT+3" channel="5183085">
-    <title lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</title>
-    <desc lang="el">ΓΥΝΑΙΚΕΣ ΕΛΙΤ DH - Γουϊστλερ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929153000 GMT+3" stop="20260929173000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929173000 GMT+3" stop="20260929180000 GMT+3" channel="5183085">
-    <title lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</title>
-    <desc lang="el">ΔΙΕΘΝΗΣ ΣΕΙΡΑ ΑΓΩΝΩΝ - Κόπερ - LEAD - Τελικός (Άνδρες και γυναίκες)</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929180000 GMT+3" stop="20260929200000 GMT+3" channel="5183085">
-    <title lang="el">Άλμα - Βιέννη</title>
-    <desc lang="el">Άλμα - Βιέννη</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929200000 GMT+3" stop="20260929210000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΑΝΔΡΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929210000 GMT+3" stop="20260929230000 GMT+3" channel="5183085">
-    <title lang="el">FIA WEC - 6 ώρες του Φούτζι</title>
-    <desc lang="el">FIA WEC - 6 ώρες του Φούτζι</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929230000 GMT+3" stop="20260930010000 GMT+3" channel="5183085">
-    <title lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</title>
-    <desc lang="el">ΠΑΓΚOΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ - Μόντρεαλ - - ΓΥΝΑΙΚΕΣ</desc>
-    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20260929000000 GMT+3" stop="20260929020000 GMT+3" channel="52101919">
