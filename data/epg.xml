@@ -37479,7 +37479,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924030400 GMT+3" stop="20260924032200 GMT+3" channel="97085851">
+  <programme start="20260924030400 GMT+3" stop="20260924031300 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
@@ -37503,25 +37503,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924071800 GMT+3" stop="20260924102000 GMT+3" channel="97085851">
+  <programme start="20260924071800 GMT+3" stop="20260924101700 GMT+3" channel="97085851">
     <title lang="el">Champions League 21/22: Real Madrid vs Manchester City</title>
     <desc lang="el">Semi-Final (second leg). .Real Madrid host Manchester City in the Estadio Santiago Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924102000 GMT+3" stop="20260924133500 GMT+3" channel="97085851">
+  <programme start="20260924101700 GMT+3" stop="20260924132800 GMT+3" channel="97085851">
     <title lang="el">Champions League 23/24: Manchester City vs Real Madrid</title>
     <desc lang="el">Round of 8 (second leg). Real Madrid face Manchester City Etihad Stadium.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924133500 GMT+3" stop="20260924145000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
-    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260924145000 GMT+3" stop="20260924170500 GMT+3" channel="97085851">
+  <programme start="20260924145300 GMT+3" stop="20260924164900 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
     <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
@@ -37533,7 +37527,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924192000 GMT+3" stop="20260924213000 GMT+3" channel="97085851">
+  <programme start="20260924192000 GMT+3" stop="20260924212400 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
     <desc lang="el">Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -37545,13 +37539,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924214500 GMT+3" stop="20260924233000 GMT+3" channel="97085851">
+  <programme start="20260924214500 GMT+3" stop="20260924232600 GMT+3" channel="97085851">
     <title lang="el">Classic Matches: 1966 European Cup (6th) La Sexta</title>
     <desc lang="el">Watch Real Madrid&apos;s sixth Champions League triumph against F.K Partizan in Brussels.\n\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260924233000 GMT+3" stop="20260925014500 GMT+3" channel="97085851">
+  <programme start="20260924234600 GMT+3" stop="20260925015500 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Real Sociedad</title>
     <desc lang="el">Matchday 1 of Liga. Real Madrid host Real Sociedad in the Estadio Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -57034,25 +57028,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260925014500 GMT+3" stop="20260925040000 GMT+3" channel="97085851">
+  <programme start="20260925015500 GMT+3" stop="20260925040000 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Rayo Vallecano</title>
     <desc lang="el">Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260925040000 GMT+3" stop="20260925041500 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925041500 GMT+3" stop="20260925064500 GMT+3" channel="97085851">
-    <title lang="el">Intercontinental Cup Final Real Madrid vs Wanderers</title>
-    <desc lang="el">Youth League champions face CONMEBOL Libertadores winners Santiago Wanderers in the Intercontinental Cup Final.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925064500 GMT+3" stop="20260925070000 GMT+3" channel="97085851">
+  <programme start="20260925040000 GMT+3" stop="20260925041200 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
     <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
     <category lang="el">Αθλητικά</category>
@@ -57064,13 +57046,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260925071500 GMT+3" stop="20260925090000 GMT+3" channel="97085851">
-    <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
-    <desc lang="el">Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260925090000 GMT+3" stop="20260925093000 GMT+3" channel="97085851">
+  <programme start="20260925071500 GMT+3" stop="20260925093000 GMT+3" channel="97085851">
     <title lang="el">Liga 26/27: Real Madrid vs Málaga</title>
     <desc lang="el">Matchday 3 of Liga. Real Madrid host Málaga in the Estadio Bernabéu.</desc>
     <category lang="el">Αθλητικά</category>
@@ -76788,7 +76764,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260926071500 GMT+3" stop="20260927060000 GMT+3" channel="97085851">
+  <programme start="20260926071500 GMT+3" stop="20260926090000 GMT+3" channel="97085851">
     <title lang="el">Pre-season 2026/27. Schalke 04 vs Real Madrid</title>
     <desc lang="el">Real Madrid Pre-season 26/27</desc>
     <category lang="el">Αθλητικά</category>
@@ -79206,7 +79182,7 @@
     <title lang="el">ΤΟ ΨΩΝΙΟ</title>
     <desc lang="el">Ο Σωτήρης Χαρίτος είναι ένας πολύ καλός μηχανικός αυτοκινήτων, που όμως επιθυμεί να γίνει ηθοποιός. Τρέχει παντού κάνοντας τον κομπάρσο, ώσπου κάποια στιγμή, ύστερα από μια παταγώδη αποτυχία, πιάνει την καλή παίζοντας στην τηλεόραση το βλάκα με... τεράστια επιτυχία. Κωμωδία παραγωγής 1983. Πρωταγωνιστούν: Σωτήρης Μουστάκας, Σωτήρης Τζεβελέκος, Σόφη Ζαννίνου. Σκηνοθεσία: Όμηρος Ευστρατιάδης. Σκηνοθεσία: Όμηρος Ευστρατιάδης. Πρωταγωνιστούν: Σωτήρης Μουστάκας, Σωτήρης Τζεβελέκος, Σόφη Ζαννίνου. (1983)</desc>
     <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
+    <rating>15</rating>
   </programme>
   <programme start="20260927020000 GMT+3" stop="20260927030000 GMT+3" channel="289530">
     <title lang="el">Jack Irish</title>
@@ -80456,21 +80432,9 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260927210000 GMT+3" stop="20260927221500 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ77</title>
-    <desc lang="el">Ελληνική Σειρά: Η Πολυξένη καταρρέει συναισθηματικά μετά από μια δύσκολη βραδιά και, ενώ προσπαθεί να κρατήσει τον έλεγχο, η σχέση της με τον Θαλή αποκαλύπτει ξεκάθαρα πόσο άνιση και επισφαλής είναι. Η Ασπασία έρχεται σε σφοδρή σύγκρουση με τον Σταύρο για τη στάση τους απέναντι στη Στέλλα, με τις ενοχές, τον φόβο και την εξάντληση να τη φέρνουν στα όριά της.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260927221500 GMT+3" stop="20260927231000 GMT+3" channel="289607">
+  <programme start="20260927221500 GMT+3" stop="20260928060000 GMT+3" channel="289607">
     <title lang="el">Ο ΓΙΑΤΡΟΣ Κ2 ΕΠ31</title>
     <desc lang="el">Ελληνική Σειρά:Κάνοντας παύση στη ροή της ιστορίας, αυτό το επεισόδιο μας ταξιδεύει πίσω στο 2010 και συγκεκριμένα την περίοδο κατά την οποία η Άννα διαγνώστηκε για πρώτη φορά με κακοήθεια. Η κατάστασή της ήταν ιδιαιτέρως σοβαρή, με τον γιατρό να την πληροφορεί ότι της απομένουν λίγοι μήνες ζωής. Και τότε ήταν που ο Απόστολος ενημέρωσε τον Ανδρέα για την πειραματική θεραπεία που έκανε η Άννα στην Αμερική και την έκανε να βγει νικήτρια απ’ την περιπέτειά της.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927231000 GMT+3" stop="20260928000000 GMT+3" channel="289607">
-    <title lang="el">THE CHASE GR ( E ) Κ5 ΕΠ180</title>
-    <desc lang="el">Τηλεπαιχνίδι με την Μαρία Μπεκατώρου</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
@@ -80478,7 +80442,7 @@
     <title lang="el">ΤΟ ΨΩΝΙΟ</title>
     <desc lang="el">Ο Σωτήρης Χαρίτος είναι ένας πολύ καλός μηχανικός αυτοκινήτων, που όμως επιθυμεί να γίνει ηθοποιός. Τρέχει παντού κάνοντας τον κομπάρσο, ώσπου κάποια στιγμή, ύστερα από μια παταγώδη αποτυχία, πιάνει την καλή παίζοντας στην τηλεόραση το βλάκα με... τεράστια επιτυχία. Κωμωδία παραγωγής 1983. Πρωταγωνιστούν: Σωτήρης Μουστάκας, Σωτήρης Τζεβελέκος, Σόφη Ζαννίνου. Σκηνοθεσία: Όμηρος Ευστρατιάδης. Σκηνοθεσία: Όμηρος Ευστρατιάδης. Πρωταγωνιστούν: Σωτήρης Μουστάκας, Σωτήρης Τζεβελέκος, Σόφη Ζαννίνου. (1983)</desc>
     <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
+    <rating>15</rating>
   </programme>
   <programme start="20260927020000 GMT+3" stop="20260927030000 GMT+3" channel="114064159">
     <title lang="el">Jack Irish</title>
@@ -92515,462 +92479,6 @@
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260927000000 GMT+3" stop="20260927000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927000200 GMT+3" stop="20260927003000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927003000 GMT+3" stop="20260927010000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927010000 GMT+3" stop="20260927010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927010200 GMT+3" stop="20260927020000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Germany is one of the most important destination countries for counterfeit goods in Europe. The trade in counterfeit goods is booming—especially in clothing and accessories. But most dangerous of all are counterfeit medications.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927020000 GMT+3" stop="20260927020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927020200 GMT+3" stop="20260927021500 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927021500 GMT+3" stop="20260927023000 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927023000 GMT+3" stop="20260927030000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Archaeological treasures reveal much about the early Bavarians of southern Germany. Meanwhile people will probably leave mountains of synthetic textiles behind. Plus: mining and building on the moon.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927030000 GMT+3" stop="20260927030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927030200 GMT+3" stop="20260927033000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927033000 GMT+3" stop="20260927040000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Cocaine and heroin are addictive. But smartphones, shopping, gaming and even work can also become compulsive. In Good Shape explores how everyday habits can spiral into addiction and what helps people regain control.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927040000 GMT+3" stop="20260927040200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927040200 GMT+3" stop="20260927041500 GMT+3" channel="213775">
-    <title lang="el">The Scene</title>
-    <desc lang="el">Community based homestays in Thailand. Jewelry forged from wartime bombs in Laos. Coral reef protection in Raja Ampat. Southeast Asia is reimagining travel as a force for good — ethical, sustainable, and meaningful. This is what responsible exploration looks like.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927041500 GMT+3" stop="20260927043000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927043000 GMT+3" stop="20260927050000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927050000 GMT+3" stop="20260927050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927050200 GMT+3" stop="20260927051500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927051500 GMT+3" stop="20260927060000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">To what extent do German hospitals rely on foreign healthcare professionals? This film looks at expert opinions and the personal experiences of doctors from abroad, to highlight the structural challenges facing the German hospital system.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927060000 GMT+3" stop="20260927060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927060200 GMT+3" stop="20260927061500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927061500 GMT+3" stop="20260927063000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927063000 GMT+3" stop="20260927070000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927070000 GMT+3" stop="20260927070200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927070200 GMT+3" stop="20260927073000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927073000 GMT+3" stop="20260927080000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927080000 GMT+3" stop="20260927080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927080200 GMT+3" stop="20260927090000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Germany is one of the most important destination countries for counterfeit goods in Europe. The trade in counterfeit goods is booming—especially in clothing and accessories. But most dangerous of all are counterfeit medications.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927090000 GMT+3" stop="20260927090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927090200 GMT+3" stop="20260927091500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927091500 GMT+3" stop="20260927093000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927093000 GMT+3" stop="20260927100000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927100000 GMT+3" stop="20260927100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927100200 GMT+3" stop="20260927101500 GMT+3" channel="213775">
-    <title lang="el">The Scene</title>
-    <desc lang="el">Community based homestays in Thailand. Jewelry forged from wartime bombs in Laos. Coral reef protection in Raja Ampat. Southeast Asia is reimagining travel as a force for good — ethical, sustainable, and meaningful. This is what responsible exploration looks like.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927101500 GMT+3" stop="20260927103000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927103000 GMT+3" stop="20260927110000 GMT+3" channel="213775">
-    <title lang="el">Arts Unveiled</title>
-    <desc lang="el">Arts Unveiled</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927110000 GMT+3" stop="20260927110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927110200 GMT+3" stop="20260927111500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927111500 GMT+3" stop="20260927120000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Venice is a city unlike any other, so it&apos;s no surprise its cemetery is also unique. Located halfway between the city of Venice and the glassblowing island of Murano, Venetians find their final resting place on the cemetery island of San Michele.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927120000 GMT+3" stop="20260927120200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927120200 GMT+3" stop="20260927121500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927121500 GMT+3" stop="20260927123000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927123000 GMT+3" stop="20260927130000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">The 77 Percent</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927130000 GMT+3" stop="20260927130200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927130200 GMT+3" stop="20260927133000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">Eco India</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927133000 GMT+3" stop="20260927140000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927140000 GMT+3" stop="20260927140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927140200 GMT+3" stop="20260927143000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927143000 GMT+3" stop="20260927150000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927150000 GMT+3" stop="20260927150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927150200 GMT+3" stop="20260927151500 GMT+3" channel="213775">
-    <title lang="el">The Scene</title>
-    <desc lang="el">Community based homestays in Thailand. Jewelry forged from wartime bombs in Laos. Coral reef protection in Raja Ampat. Southeast Asia is reimagining travel as a force for good — ethical, sustainable, and meaningful. This is what responsible exploration looks like.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927151500 GMT+3" stop="20260927153000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927153000 GMT+3" stop="20260927160000 GMT+3" channel="213775">
-    <title lang="el">Arts Unveiled</title>
-    <desc lang="el">Arts Unveiled</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927160000 GMT+3" stop="20260927160300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927160300 GMT+3" stop="20260927170000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927170000 GMT+3" stop="20260927170200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927170200 GMT+3" stop="20260927171500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927171500 GMT+3" stop="20260927173000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927173000 GMT+3" stop="20260927180000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927180000 GMT+3" stop="20260927181500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927181500 GMT+3" stop="20260927183000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">In the travelling fairgrounds of India, one attraction still draws crowds with raw danger and adrenaline: the &quot;Well of Death&quot;. Inside a wooden cylinder, stunt riders race along vertical walls, performing breathtaking feats inches from disaster. Among them is Rehana Khan, one of the country&apos;s few female stunt riders.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927183000 GMT+3" stop="20260927190000 GMT+3" channel="213775">
-    <title lang="el">Arts Unveiled</title>
-    <desc lang="el">Arts Unveiled</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927190000 GMT+3" stop="20260927191500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927191500 GMT+3" stop="20260927193000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927193000 GMT+3" stop="20260927200000 GMT+3" channel="213775">
-    <title lang="el">Afrimaxx</title>
-    <desc lang="el">At &quot;Travel Through Africa” in Lilongwe, Malawi, we explore how creativity can open doors. From film and sport to art and food, Africans are making culture, opportunity and experiences more accessible to all.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927200000 GMT+3" stop="20260927201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927201500 GMT+3" stop="20260927203000 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927203000 GMT+3" stop="20260927210000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927210000 GMT+3" stop="20260927211500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927211500 GMT+3" stop="20260927213000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927213000 GMT+3" stop="20260927220000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927220000 GMT+3" stop="20260927221500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927221500 GMT+3" stop="20260927230000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927230000 GMT+3" stop="20260927231500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927231500 GMT+3" stop="20260927233000 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260927233000 GMT+3" stop="20260928000000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260927000000 GMT+3" stop="20260927003000 GMT+3" channel="56064497">
     <title lang="el">The World Today</title>
     <desc lang="el">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&apos;s top stories as they happen.</desc>
@@ -96970,12 +96478,12 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260927004500 GMT+3" stop="20260927020000 GMT+3" channel="216415">
+  <programme start="20260927004500 GMT+3" stop="20260927024500 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος αγώνες Super League &amp; EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260927020000 GMT+3" stop="20260927060000 GMT+3" channel="216415">
+  <programme start="20260927024500 GMT+3" stop="20260927060000 GMT+3" channel="216415">
     <title lang="el">Novasports Prime</title>
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος αγώνες Super League &amp; EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
@@ -100031,132 +99539,6 @@
     <desc lang="el">Στο όχι και τόσο μακρινό 2028, η πολυεθνική εταιρία OmniCorp βρίσκεται στην κορυφή της ρομποτικής τεχνολογίας. Τα μη επανδρωμένα ρομπότ που κατασκευάζει χρησιμοποιούνται κατά όρον από το στρατό σε μάχες εκτός των ΗΠΑ, φέρνοντας ζεστό χρήμα στα ταμεία της. Τώρα όμως η OmniCorp βρίσκεται σε μια μεγάλη πρόκληση, καθώς ετοιμάζεται να φέρει τις τεχνολογίες της στο έδαφος της Αμερικής εκμεταλλευόμενη μια σύμπτωση.</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
-  </programme>
-  <programme start="20260928000000 GMT+3" stop="20260928010000 GMT+3" channel="289607">
-    <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260928010000 GMT+3" stop="20260928020000 GMT+3" channel="289607">
-    <title lang="el">ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (E) Κ1 ΕΠ3</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260928020000 GMT+3" stop="20260928030000 GMT+3" channel="289607">
-    <title lang="el">ΟΙ ΙΣΤΟΡΙΕΣ ΤΟΥ ΑΣΤΥΝΟΜΟΥ ΜΠΕΚΑ (E) Κ1 ΕΠ7</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260928030000 GMT+3" stop="20260928034500 GMT+3" channel="289607">
-    <title lang="el">ΣΙΩΠΗΛΟΣ ΔΡΟΜΟΣ (E) Κ1 ΕΠ1</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260928034500 GMT+3" stop="20260928044500 GMT+3" channel="289607">
-    <title lang="el">ΣΚΟΤΕΙΝΗ ΘΑΛΑΣΣΑ (E) Κ1 ΕΠ3</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>15</rating>
-  </programme>
-  <programme start="20260928044500 GMT+3" stop="20260928060000 GMT+3" channel="289607">
-    <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ (E) Κ10 ΕΠ7</title>
-    <desc lang="el">Ενημερωτική Εκπομπή, με τον Νίκο Μάνεση</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928060000 GMT+3" stop="20260928064500 GMT+3" channel="289607">
-    <title lang="el">DEAL (E) Κ9 ΕΠ162</title>
-    <desc lang="el">Τηλεπαιχνίδι με τον Γιώργο Θαναηλάκη</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928064500 GMT+3" stop="20260928092000 GMT+3" channel="289607">
-    <title lang="el">ALPHA ΚΑΛΗΜΕΡΑ (Ζ) Κ8 ΕΠ16</title>
-    <desc lang="el">Ενημερωτική Εκπομπή με την Κατερίνα Αγαπητού</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928092000 GMT+3" stop="20260928094000 GMT+3" channel="289607">
-    <title lang="el">NO LEFTOVERS (E) Κ2 ΕΠ1</title>
-    <desc lang="el">Μαγειρική με την Χριστίνα Χριστοφή</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928094000 GMT+3" stop="20260928110000 GMT+3" channel="289607">
-    <title lang="el">ΧΑΜΟΓΕΛΑ ΚΑΙ ΠΑΛΙ (Ζ) Κ6 ΕΠ1</title>
-    <desc lang="el">Ψυχαγωγική Εκπομπή.Η Σίσσυ Χρηστίδου, πάντα αυθεντική και άμεση, έχει χτίσει μια μοναδική σχέση με τους τηλεθεατές. Με σταθερή παρουσία και μεγάλη τηλεοπτική εμπειρία, καθαρό λόγο, ευαισθησία και αντίληψη του παλμού της κοινωνίας, παραμένει η ιδανική οικοδέσποινα της εκπομπής που εξελίσσεται μαζί με τις ανάγκες του κοινού.  Η δεμένη ομάδα της Σίσσυς Χρηστίδου με την ισχυρή χημεία, παραμένει σταθερός πυρήνας του «Χαμογέλα και πάλι!».</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928110000 GMT+3" stop="20260928134000 GMT+3" channel="289607">
-    <title lang="el">ALPHA ΕΝΗΜΕΡΩΣΗ (Z) Κ11 ΕΠ16</title>
-    <desc lang="el">Ενημερωτική Εκπομπή με την Κάτια Σάββα</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928134000 GMT+3" stop="20260928142000 GMT+3" channel="289607">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (E) Κ8 ΕΠ45</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928142000 GMT+3" stop="20260928151500 GMT+3" channel="289607">
-    <title lang="el">ΤΟ ΣΟΙ ΣΟΥ (E) Κ4</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928151500 GMT+3" stop="20260928170000 GMT+3" channel="289607">
-    <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ (Ζ) Κ11 ΕΠ11</title>
-    <desc lang="el">Ψυχαγωγική Εκπομπή με την Χριστιάνα Αριστοτέλους</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928170000 GMT+3" stop="20260928175500 GMT+3" channel="289607">
-    <title lang="el">THE CHASE GR Κ5 ΕΠ201</title>
-    <desc lang="el">Τηλεπαιχνίδι με την Μαρία Μπεκατώρου</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928175500 GMT+3" stop="20260928180000 GMT+3" channel="289607">
-    <title lang="el">ΕΙΔΗΣΕΙΣ ΚΑΙ ΔΕΛΤΙΟ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <desc lang="el">Δελτίο Ειδήσεων στη Νοηματική</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928180000 GMT+3" stop="20260928190000 GMT+3" channel="289607">
-    <title lang="el">ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ Κ9 ΕΠ58</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928190000 GMT+3" stop="20260928200000 GMT+3" channel="289607">
-    <title lang="el">DEAL Κ9 ΕΠ166</title>
-    <desc lang="el">Τηλεπαιχνίδι με τον Γιώργο Θαναηλάκη</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928200000 GMT+3" stop="20260928210000 GMT+3" channel="289607">
-    <title lang="el">ALPHA NEWS</title>
-    <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Η βραδινή ενημέρωση στον ALPHA Κύπρου συνεχίζεται, προσφέροντας μια ολοκληρωμένη εικόνα της επικαιρότητας, με εγκυρότητα, αντικειμενικότητα, υπευθυνότητα και σεβασμό προς τον τηλεθεατή</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928210000 GMT+3" stop="20260928222000 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ78</title>
-    <desc lang="el">Ελληνική Σειρά:Η Μαγδαληνή αισθάνεται το βάρος γύρω από την οικογένεια να μεγαλώνει, καθώς γεγονότα που δεν μπορεί να ελέγξει διαταράσσουν την ήδη εύθραυστη ισορροπία της. Η Ασπασία παίρνει μια απόφαση που αλλάζει ριζικά τη σχέση της με τον Σταύρο, την ώρα που η κατάσταση της Στέλλας στο νοσοκομείο επηρεάζει κάθε τους κίνηση. Η Μελισσάνθη βιώνει την πιο οδυνηρή στιγμή της, καθώς η αγωνία για τον Άγγελο κορυφώνεται και την οδηγεί σε μια φυγή που φανερώνει πόσο μόνη αισθάνεται.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260928222000 GMT+3" stop="20260928234500 GMT+3" channel="289607">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ17</title>
-    <desc lang="el">Ελληνική Σειρά:Ο Βούλγαρης γίνεται θηρίο ανήµερο µε τη Λένα και ξεσπάει στη Γαλήνη, η οποία σταµατά να παίρνει το µέρος του και να στηρίζει τις αποφάσεις του. Παράλληλα, αν και η Γαλήνη προσπαθεί να πείσει τον Γρηγόρη να είναι καχύποπτος µε την απεσταλµένη της Αλεξάνδρας, την Αγγελική, εκείνος την ερωτεύεται σφόδρα.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
   </programme>
   <programme start="20260928234500 GMT+3" stop="20260929003000 GMT+3" channel="289607">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
@@ -107528,6 +106910,246 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260928001500 GMT+3" stop="20260928004400 GMT+3" channel="9744258">
+    <title lang="el">Love on the Rocks Κ1 ΕΠ8</title>
+    <desc lang="el">After climbing the Grand Teton, the couple head to Utah where a change of plans has them trading in their climbing shoes for an ATV. They take on Hells Revenge, a 4x4 trail only recommended for extremely experienced drivers...which they are not.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928004400 GMT+3" stop="20260928010000 GMT+3" channel="9744258">
+    <title lang="el">Born to Κ1 ΕΠ6</title>
+    <desc lang="el">Nani Roma has raced cars and bikes in his professional career. However, Nani doesn&apos;t race in normal competitions on normal circuits. He races in the Dakar Rally.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928010000 GMT+3" stop="20260928021500 GMT+3" channel="9744258">
+    <title lang="el">Magical Bones: Black Magic Live</title>
+    <desc lang="el">Magical Bones: Black Magic Live features 60-minutes of action-packed illusion and magic performed live, all culminating in a death-defying escapism stunt filmed on the River Thames by the iconic Tower Bridge.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260928021500 GMT+3" stop="20260928024400 GMT+3" channel="9744258">
+    <title lang="el">Backyard Ballistics Κ1 ΕΠ1</title>
+    <desc lang="el">Jörg and Cheyenne are challenged to build a Rubber Powered Cannon! Cheyenne sets about building the wheels, framework, and crank for the cannon whilst Jörg sets about doing the science behind the rubber! Time to cause some serious carnage!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928024400 GMT+3" stop="20260928031400 GMT+3" channel="9744258">
+    <title lang="el">Backyard Ballistics Κ1 ΕΠ2</title>
+    <desc lang="el">Jörg and Cheyenne are challenged to build a javelin Launcher. The two work together and build a machine that is so impressive that Jörg thinks it could beat a professional athlete. But will they beat an Olympic medallist in the finale?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928031400 GMT+3" stop="20260928032900 GMT+3" channel="9744258">
+    <title lang="el">Edward Van Gils: Godfather of Street Football</title>
+    <desc lang="el">Meet Edward van Gils, the Godfather of Street Football, who dedicates his life to educating and inspiring communities across the world, all through the power of the beautiful game.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928032900 GMT+3" stop="20260928035900 GMT+3" channel="9744258">
+    <title lang="el">The Blockchain Life Κ1 ΕΠ5</title>
+    <desc lang="el">The blockchain is supposed to be the great equaliser. But on the blockchain, gender balance seems to be even more disturbed than in the real world. In this episode we&apos;re meeting the women who are trying to fight for equal rights on the blockchain.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928035900 GMT+3" stop="20260928043000 GMT+3" channel="9744258">
+    <title lang="el">The Blockchain Life Κ1 ΕΠ6</title>
+    <desc lang="el">We’re in Nigeria where the impact of blockchain is arguably bigger than in most other places. But a government ban, after crypto was used to fund protests, disrupted this emerging industry and now people are having to find ways to work around it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928043000 GMT+3" stop="20260928045700 GMT+3" channel="9744258">
+    <title lang="el">FMX Nomads Κ1 ΕΠ1</title>
+    <desc lang="el">Join Dan Whitby, Samson Eaton and Arran Powley for a day in the life of globetrotting freestyle motocross team, Bolddog.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928045700 GMT+3" stop="20260928052800 GMT+3" channel="9744258">
+    <title lang="el">QI</title>
+    <desc lang="el">Hollywood star Dan Fogler (Fantastic Beasts) travels across Asia to investigate the truth about qi (‘chi’) - the life force said to animate the human body which can give an individual superhuman powers.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928052800 GMT+3" stop="20260928054200 GMT+3" channel="9744258">
+    <title lang="el">The Streets Κ1 ΕΠ4</title>
+    <desc lang="el">James Lance gets to grips with his Colombian roots while trying to build a career as a Latin hip hop artist. After raising himself as a teenager, he refuses to give up and dreams of a better future.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928054200 GMT+3" stop="20260928055700 GMT+3" channel="9744258">
+    <title lang="el">The Streets Κ1 ΕΠ5</title>
+    <desc lang="el">Jamie Hancock was raised in Houston’s South Park area, a place notorious for gang violence, but also where hip hop artists created a new sound. Today, a new positive message is being created by people like Jamie through music.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928055700 GMT+3" stop="20260928062700 GMT+3" channel="9744258">
+    <title lang="el">Capturing Winter Κ1 ΕΠ3</title>
+    <desc lang="el">Layla Kerley is a self-taught adventure photographer and one of the few females in her field. Together with Bruno Compagnet, co-founder of freeski brand Blackcrows, they plan to traverse one of the last wildernesses in Europe: the Italian Dolomites.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928062700 GMT+3" stop="20260928070000 GMT+3" channel="9744258">
+    <title lang="el">Capturing Winter Κ1 ΕΠ4</title>
+    <desc lang="el">Renowned winter photographer, Tristan Shu, attempts his dream project; a photograph that combines astrophotography with action sports. His aim is to capture ski and snowboard tricks at night, set against the Milky-way and the spectacular Mont-Blanc.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928070000 GMT+3" stop="20260928072900 GMT+3" channel="9744258">
+    <title lang="el">Around the World in 80 Tricks Κ1 ΕΠ1</title>
+    <desc lang="el">Bones introduce his trademark trickery to people in Paris and Barcelona, performing mind reading and an attempt to escape a straitjacket while breakdancing.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928072900 GMT+3" stop="20260928075900 GMT+3" channel="9744258">
+    <title lang="el">Around the World in 80 Tricks Κ1 ΕΠ2</title>
+    <desc lang="el">In this episode Bones is back in his home city, London where he stuns locals with his mind reading, card trickery and disappearing skills.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928075900 GMT+3" stop="20260928082900 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ6</title>
+    <desc lang="el">The Masters of Dirt crew invades Audi Nines, one of the world&apos;s most prestigious mountain bike events to showcase some never-before-seen tricks and recruit a new rider to join the team.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928082900 GMT+3" stop="20260928084400 GMT+3" channel="9744258">
+    <title lang="el">Science of Sound Κ1 ΕΠ5</title>
+    <desc lang="el">It&apos;s no surprise that trained musicians experience music differently than others. Sure, musicians can hear and recognize similar chords or melodies across different songs, but is that all?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928084400 GMT+3" stop="20260928085900 GMT+3" channel="9744258">
+    <title lang="el">Science of Sound Κ1 ΕΠ6</title>
+    <desc lang="el">In the era of music streaming, there are millions of songs at our fingertips. But in a world of near infinite music choices, music discovery and exposure have changed drastically.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928085900 GMT+3" stop="20260928093000 GMT+3" channel="9744258">
+    <title lang="el">Droners Κ1 ΕΠ1</title>
+    <desc lang="el">From New York to Hong Kong, DRONERS tags along with FPV crews to cover underground races and meet the key-players in the emerging drone community.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928093000 GMT+3" stop="20260928100000 GMT+3" channel="9744258">
+    <title lang="el">Droners Κ1 ΕΠ2</title>
+    <desc lang="el">DRONERS goes behind-the-scenes at an international racing tournament to discover the young pilots climbing the ranks - and raking in the cash along the way.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928100000 GMT+3" stop="20260928103000 GMT+3" channel="9744258">
+    <title lang="el">The Garms Dealer Κ1 ΕΠ5</title>
+    <desc lang="el">Arsenal&apos;s number 10 and Sam&apos;s good friend Emile Smith Rowe is looking to get hold of a pair of the most sought-after sneakers on the market: the rare Travis Scott Dunks. Can the Garms Dealer find him a pair in time, and for the right price?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928103000 GMT+3" stop="20260928105900 GMT+3" channel="9744258">
+    <title lang="el">Quick Connections with Alie Ward Κ1 ΕΠ1</title>
+    <desc lang="el">How did the invention of photography lead us to a world where we live entirely virtually? Alie Ward will point us towards a future where we might upload ourselves to the web.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928105900 GMT+3" stop="20260928115900 GMT+3" channel="9744258">
+    <title lang="el">Spartan X Κ1 ΕΠ7</title>
+    <desc lang="el">Another elimination game is coming up and with a big game changer, everything can happen and no one is certain of a spot in the competition.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928115900 GMT+3" stop="20260928125900 GMT+3" channel="9744258">
+    <title lang="el">Spartan X Κ1 ΕΠ8</title>
+    <desc lang="el">Can our only two female fighters left, Anabel and Francesca, stay in the game and beat the men? Or are the cards already dealt?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928125900 GMT+3" stop="20260928133000 GMT+3" channel="9744258">
+    <title lang="el">Disruptive Behaviour</title>
+    <desc lang="el">Reuben Christian travels to Istanbul to meet the innovators who are changing the city and discover how technology is disrupting the old order.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928133000 GMT+3" stop="20260928143000 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Processes Κ1 ΕΠ1</title>
+    <desc lang="el">Francesca Chiorando is in the UK to visit custom electric guitar makers Crimson Guitars and the iconic Marshall Amplification factory in Milton Keynes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928143000 GMT+3" stop="20260928153000 GMT+3" channel="9744258">
+    <title lang="el">Ultimate Processes Κ1 ΕΠ2</title>
+    <desc lang="el">Francesca Chiorando hits the racetrack for a test drive in one of the fastest motorsport cars in the world, a hand-built Prodrive Aston Martin.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928153000 GMT+3" stop="20260928160000 GMT+3" channel="9744258">
+    <title lang="el">Fast and Famous Κ1 ΕΠ1</title>
+    <desc lang="el">Racing Driver Arie Luyendyk Jr. challenges two celebrities, kickboxer Rico Verhoeven and footballer Sol Campbell, to see who is the fastest around the track.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928160000 GMT+3" stop="20260928163200 GMT+3" channel="9744258">
+    <title lang="el">Supercar Blondie: Living the Dream Κ1 ΕΠ1</title>
+    <desc lang="el">Alex Hirschi started her own vlog reviewing the world’s most exclusive and expensive supercars and her meteoric rise has seen her gain millions of followers and her very own TV Series.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928163200 GMT+3" stop="20260928173300 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel: the Renovation Diaries</title>
+    <desc lang="el">The owner of Kestrel Beer buys an original 1930’s Riley Kestrel, with the intention of restoring it and then breaking the land-speed record. This documentary follows the events from restoration to record day.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928173300 GMT+3" stop="20260928174700 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ2</title>
+    <desc lang="el">The record attempt is only one week away and everything seems to be on track, until the results of a dyno test put a spanner in the works.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928174700 GMT+3" stop="20260928175900 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ3</title>
+    <desc lang="el">The official press launch of The Flying Kestrel at legendary racetrack, Santa Pod. The Kestrel team is joined by Victor Riley of Riley Cars, and celebrity Rachel Riley.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928175900 GMT+3" stop="20260928185900 GMT+3" channel="9744258">
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ1</title>
+    <desc lang="el">Supercar Blondie goes to Hollywood arriving in a million dollar V12 Ferrari. In the &apos;City of Angels&apos; Alex is brought into contact with the Brotherhood of Racing, a community of drivers looking to create safe racing conditions for amateurs.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928185900 GMT+3" stop="20260928195900 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ5</title>
+    <desc lang="el">A rare 1971 Mercedes Benz 280 SE 3.5 Coupe gets restored to its original specifications.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928195900 GMT+3" stop="20260928210000 GMT+3" channel="9744258">
+    <title lang="el">Geared Up Κ1 ΕΠ6</title>
+    <desc lang="el">A pink, air-cooled, 1973 Porsche 911 RS is upgraded with a custom built engine, new paint, and new wheels and tires.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928210000 GMT+3" stop="20260928220000 GMT+3" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ4</title>
+    <desc lang="el">Japanese car culture holds a special place in Sung&apos;s heart. He&apos;s back exploring the home of drifting to see the coolest mods, and quirkiest characters. Sung finds that a quest for brilliance and excellence makes this the best place to get inspired.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928220000 GMT+3" stop="20260928230000 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel: the Renovation Diaries</title>
+    <desc lang="el">The owner of Kestrel Beer buys an original 1930’s Riley Kestrel, with the intention of restoring it and then breaking the land-speed record. This documentary follows the events from restoration to record day.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928230000 GMT+3" stop="20260928233100 GMT+3" channel="9744258">
+    <title lang="el">Fast and Famous Κ1 ΕΠ1</title>
+    <desc lang="el">Racing Driver Arie Luyendyk Jr. challenges two celebrities, kickboxer Rico Verhoeven and footballer Sol Campbell, to see who is the fastest around the track.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260928233100 GMT+3" stop="20260929000100 GMT+3" channel="9744258">
+    <title lang="el">Supercar Blondie: Living the Dream Κ1 ΕΠ1</title>
+    <desc lang="el">Alex Hirschi started her own vlog reviewing the world’s most exclusive and expensive supercars and her meteoric rise has seen her gain millions of followers and her very own TV Series.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260928000000 GMT+3" stop="20260928003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -111185,456 +110807,6 @@
   <programme start="20260928210000 GMT+3" stop="20260929000000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg BusinessWeek</title>
     <desc lang="el">Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928000000 GMT+3" stop="20260928000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928000200 GMT+3" stop="20260928001500 GMT+3" channel="213775">
-    <title lang="el">The Scene</title>
-    <desc lang="el">Community based homestays in Thailand. Jewelry forged from wartime bombs in Laos. Coral reef protection in Raja Ampat. Southeast Asia is reimagining travel as a force for good — ethical, sustainable, and meaningful. This is what responsible exploration looks like.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928001500 GMT+3" stop="20260928003000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928003000 GMT+3" stop="20260928010000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Archaeological treasures reveal much about the early Bavarians of southern Germany. Meanwhile people will probably leave mountains of synthetic textiles behind. Plus: mining and building on the moon.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928010000 GMT+3" stop="20260928010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928010200 GMT+3" stop="20260928013000 GMT+3" channel="213775">
-    <title lang="el">Afrimaxx</title>
-    <desc lang="el">At &quot;Travel Through Africa” in Lilongwe, Malawi, we explore how creativity can open doors. From film and sport to art and food, Africans are making culture, opportunity and experiences more accessible to all.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928013000 GMT+3" stop="20260928020000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928020000 GMT+3" stop="20260928020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928020200 GMT+3" stop="20260928021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928021500 GMT+3" stop="20260928023000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928023000 GMT+3" stop="20260928030000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928030000 GMT+3" stop="20260928030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928030200 GMT+3" stop="20260928033000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928033000 GMT+3" stop="20260928040000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928040000 GMT+3" stop="20260928040200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928040200 GMT+3" stop="20260928041500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928041500 GMT+3" stop="20260928044500 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928044500 GMT+3" stop="20260928050000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928050000 GMT+3" stop="20260928050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928050200 GMT+3" stop="20260928053000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">Eco India</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928053000 GMT+3" stop="20260928060000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928060000 GMT+3" stop="20260928060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928060200 GMT+3" stop="20260928063000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Cocaine and heroin are addictive. But smartphones, shopping, gaming and even work can also become compulsive. In Good Shape explores how everyday habits can spiral into addiction and what helps people regain control.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928063000 GMT+3" stop="20260928070000 GMT+3" channel="213775">
-    <title lang="el">Euromaxx</title>
-    <desc lang="el">Euromaxx</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928070000 GMT+3" stop="20260928070200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928070200 GMT+3" stop="20260928071500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928071500 GMT+3" stop="20260928074500 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928074500 GMT+3" stop="20260928080000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928080000 GMT+3" stop="20260928080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928080200 GMT+3" stop="20260928083000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928083000 GMT+3" stop="20260928090000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Archaeological treasures reveal much about the early Bavarians of southern Germany. Meanwhile people will probably leave mountains of synthetic textiles behind. Plus: mining and building on the moon.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928090000 GMT+3" stop="20260928090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928090200 GMT+3" stop="20260928091500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928091500 GMT+3" stop="20260928093000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928093000 GMT+3" stop="20260928100000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928100000 GMT+3" stop="20260928100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928100200 GMT+3" stop="20260928101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928101500 GMT+3" stop="20260928110000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">To what extent do German hospitals rely on foreign healthcare professionals? This film looks at expert opinions and the personal experiences of doctors from abroad, to highlight the structural challenges facing the German hospital system.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928110000 GMT+3" stop="20260928110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928110200 GMT+3" stop="20260928113000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928113000 GMT+3" stop="20260928120000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928120000 GMT+3" stop="20260928120200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928120200 GMT+3" stop="20260928121500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">Our deep dive format explains the stories that matter -   with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what&apos;s driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928121500 GMT+3" stop="20260928130000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928130000 GMT+3" stop="20260928130200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928130200 GMT+3" stop="20260928131500 GMT+3" channel="213775">
-    <title lang="el">Sports Life</title>
-    <desc lang="el">Sports Life</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928131500 GMT+3" stop="20260928140000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Venice is a city unlike any other, so it&apos;s no surprise its cemetery is also unique. Located halfway between the city of Venice and the glassblowing island of Murano, Venetians find their final resting place on the cemetery island of San Michele.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928140000 GMT+3" stop="20260928140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928140200 GMT+3" stop="20260928143000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928143000 GMT+3" stop="20260928150000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928150000 GMT+3" stop="20260928150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928150200 GMT+3" stop="20260928151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928151500 GMT+3" stop="20260928160000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">To what extent do German hospitals rely on foreign healthcare professionals? This film looks at expert opinions and the personal experiences of doctors from abroad, to highlight the structural challenges facing the German hospital system.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928160000 GMT+3" stop="20260928160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928160200 GMT+3" stop="20260928161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928161500 GMT+3" stop="20260928163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928163000 GMT+3" stop="20260928170000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">The 77 Percent</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928170000 GMT+3" stop="20260928170200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928170200 GMT+3" stop="20260928171500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928171500 GMT+3" stop="20260928180000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928180000 GMT+3" stop="20260928183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928183000 GMT+3" stop="20260928190000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928190000 GMT+3" stop="20260928193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928193000 GMT+3" stop="20260928200000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928200000 GMT+3" stop="20260928201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928201500 GMT+3" stop="20260928203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928203000 GMT+3" stop="20260928210000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928210000 GMT+3" stop="20260928213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928213000 GMT+3" stop="20260928220000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928220000 GMT+3" stop="20260928220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928220200 GMT+3" stop="20260928221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928221500 GMT+3" stop="20260928223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928223000 GMT+3" stop="20260928230000 GMT+3" channel="213775">
-    <title lang="el">Best of DW Podcasts</title>
-    <desc lang="el">Best of DW Podcasts</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928230000 GMT+3" stop="20260928233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260928233000 GMT+3" stop="20260929000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -115800,13 +114972,13 @@
     <desc lang="el">Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA και Davis Cup, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260928120000 GMT+3" stop="20260928140000 GMT+3" channel="46137467">
+  <programme start="20260928120000 GMT+3" stop="20260928141500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260928140000 GMT+3" stop="20260928160000 GMT+3" channel="46137467">
+  <programme start="20260928141500 GMT+3" stop="20260928160000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -115818,19 +114990,19 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260928180000 GMT+3" stop="20260928200000 GMT+3" channel="46137467">
+  <programme start="20260928180000 GMT+3" stop="20260928191500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260928200000 GMT+3" stop="20260928220000 GMT+3" channel="46137467">
+  <programme start="20260928191500 GMT+3" stop="20260928210000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260928220000 GMT+3" stop="20260929000000 GMT+3" channel="46137467">
+  <programme start="20260928210000 GMT+3" stop="20260928234500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
@@ -118574,42 +117746,6 @@
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260929003000 GMT+3" stop="20260929013000 GMT+3" channel="289607">
-    <title lang="el">Ο ΤΙΜΩΡΟΣ (E) Κ1 ΕΠ47</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929013000 GMT+3" stop="20260929021500 GMT+3" channel="289607">
-    <title lang="el">ΜΑΥΡΟ ΡΟΔΟ (E) Κ1 ΕΠ96</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929021500 GMT+3" stop="20260929031500 GMT+3" channel="289607">
-    <title lang="el">ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ (E) Κ1 ΕΠ1</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929031500 GMT+3" stop="20260929040000 GMT+3" channel="289607">
-    <title lang="el">SINGLES 3 (E) Κ1 ΕΠ1</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929040000 GMT+3" stop="20260929044500 GMT+3" channel="289607">
-    <title lang="el">ΚΟΚΚΙΝΟ ΔΩΜΑΤΙΟ (E) Κ1 ΕΠ23</title>
-    <desc lang="el">Ελληνική Σειρά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929044500 GMT+3" stop="20260929060000 GMT+3" channel="289607">
-    <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ (E) Κ11 ΕΠ11</title>
-    <desc lang="el">Ψυχαγωγική Εκπομπή με την Χριστιάνα Αριστοτέλους</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20260929060000 GMT+3" stop="20260929064500 GMT+3" channel="289607">
     <title lang="el">DEAL (E) Κ9 ΕΠ162</title>
     <desc lang="el">Τηλεπαιχνίδι με τον Γιώργο Θαναηλάκη</desc>
@@ -118687,18 +117823,6 @@
     <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Η βραδινή ενημέρωση στον ALPHA Κύπρου συνεχίζεται, προσφέροντας μια ολοκληρωμένη εικόνα της επικαιρότητας, με εγκυρότητα, αντικειμενικότητα, υπευθυνότητα και σεβασμό προς τον τηλεθεατή</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
-  </programme>
-  <programme start="20260929210000 GMT+3" stop="20260929222000 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ79</title>
-    <desc lang="el">Ελληνική Σειρά:Η Ιουλία κάνει ένα ακόμη βήμα στην προσπάθειά της να φτάσει στην αλήθεια για τον θάνατο του Φωκά, καθώς νέα στοιχεία και μια συνάντηση εκτός σπιτιού δείχνουν ότι η υπόθεση μόνο απλή δεν είναι και απαιτεί προσεκτικούς χειρισμούς. Η Πολυξένη έρχεται σε ανοιχτή σύγκρουση με τον Θαλή, ζητώντας ξεκάθαρα όρια και παρουσία στη σχέση τους, ενώ ταυτόχρονα μια επαγγελματική συνάντηση στο στούντιο την φέρνει αντιμέτωπη με κριτική που την αναγκάζει να δει τον εαυτό της πιο βαθιά.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260929222000 GMT+3" stop="20260929234500 GMT+3" channel="289607">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ18</title>
-    <desc lang="el">Ελληνική Σειρά: Στους αρραβώνες της Λένας µε τον Χρόνη, ο Γιάμαρης συνειδητοποιεί το καθεστώς τρόµου κάτω από το οποίο ζει η Γαλήνη, ενώ ο Χρόνης αποκαλύπτει κάτι στη Λένα που την θυμώνει πολύ. Ο Βούλγαρης ενημερώνεται από την Αγγελική ότι έχει γίνει ληστεία στην εταιρεία και η Αλεξάνδρα προσπαθεί να ψαρέψει τον Αντρέα για να µάθει ποια είναι η γυναίκα που έχει στο µυαλό του.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
   </programme>
   <programme start="20260929234500 GMT+3" stop="20260930003000 GMT+3" channel="289607">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
@@ -125967,6 +125091,192 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260929000100 GMT+3" stop="20260929001400 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ2</title>
+    <desc lang="el">The Flying Kestrel team regroup at Jon’s workshop as he shows them his new groundbreaking ideas to rebuild the car to give them the best chance at breaking a land speed record.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260929001400 GMT+3" stop="20260929004100 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ3</title>
+    <desc lang="el">The new version of the Flying Kestrel is ready to be put to the test at one of the most state of the art wind tunnels. Has the team done enough to create a record-breaking car?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260929004100 GMT+3" stop="20260929010000 GMT+3" channel="9744258">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ4</title>
+    <desc lang="el">At Santa Pod raceway, engineer and driver Jon Webster reveals the final Flying Kestrel to Joel and Nigel McNully, he gives them a tour around the finished car and shows them all the changes he has made, all to hopefully get a land speed record.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260929010000 GMT+3" stop="20260929020000 GMT+3" channel="9744258">
+    <title lang="el">Spartan X Κ1 ΕΠ7</title>
+    <desc lang="el">Another elimination game is coming up and with a big game changer, everything can happen and no one is certain of a spot in the competition.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929020000 GMT+3" stop="20260929030000 GMT+3" channel="9744258">
+    <title lang="el">Spartan X Κ1 ΕΠ8</title>
+    <desc lang="el">Can our only two female fighters left, Anabel and Francesca, stay in the game and beat the men? Or are the cards already dealt?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929030000 GMT+3" stop="20260929031500 GMT+3" channel="9744258">
+    <title lang="el">Edward Van Gils: Godfather of Street Football</title>
+    <desc lang="el">Meet Edward van Gils, the Godfather of Street Football, who dedicates his life to educating and inspiring communities across the world, all through the power of the beautiful game.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929031500 GMT+3" stop="20260929035900 GMT+3" channel="9744258">
+    <title lang="el">Kungfu - Wise Κ1 ΕΠ1</title>
+    <desc lang="el">Kleber travels to Foshan and seeks out masters of two different lineages: Ip Man and Snake Style. First he visits the Ip Man lineage, based on the legendary kungfu master whose life story spawned hundreds of martial arts movies.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929035900 GMT+3" stop="20260929044400 GMT+3" channel="9744258">
+    <title lang="el">Kungfu - Wise Κ1 ΕΠ2</title>
+    <desc lang="el">In Foshan, Kleber seeks out Liu Weixin, a master of Pak Mei kungfu and on whom the hit game &quot;Sifu&quot; was based. He experiences this style&apos;s relentless and lightning-fast strikes, but also learns from its master how to balance life and kungfu.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929044400 GMT+3" stop="20260929054200 GMT+3" channel="9744258">
+    <title lang="el">City Beats Κ1 ΕΠ3</title>
+    <desc lang="el">DJ and house music producer Carly Foxx travels to Paris, the city of love, for inspiration and discovers its diversity and a creative trend called retrofuture.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929054200 GMT+3" stop="20260929064200 GMT+3" channel="9744258">
+    <title lang="el">City Beats Κ1 ΕΠ4</title>
+    <desc lang="el">DJ and house music producer Carly Foxx journeys Berlin, one of the worlds undisputed techno capitals, and discovers the sound of freedom buried in its history.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929064200 GMT+3" stop="20260929070000 GMT+3" channel="9744258">
+    <title lang="el">The Streets Κ1 ΕΠ6</title>
+    <desc lang="el">Los Angeles based electronic music producer and DJ Moe Espinosa, aka Drumcell, has created sonic soundscapes which tell cinematic stories with his music. Moe has always tried to avoid commercialism and by having a vision that remains independent.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929070000 GMT+3" stop="20260929075900 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ1</title>
+    <desc lang="el">Eighteen contestants are ready to participate in this brand reality game, hosted by Brendan Moar. They have to go over, under or thru the obstacles.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929075900 GMT+3" stop="20260929090000 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ2</title>
+    <desc lang="el">With Vivian and Valerya out, Thru continues with the second track. The teams have to follow their path through an old warzone and emotions run high.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929090000 GMT+3" stop="20260929100000 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ3</title>
+    <desc lang="el">After the emotional exits of Frank and Tung Tung, the competition continues with an Olympic touch. Will team red earn money for their jackpot this time?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929100000 GMT+3" stop="20260929105900 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ4</title>
+    <desc lang="el">Trusting Vitor was difficult, so the red team sent him away. Blue team fights back, without soldier Keith. No closed doors this time but mud, insect and reed.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929105900 GMT+3" stop="20260929120000 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ5</title>
+    <desc lang="el">Both teams have proven to be equally strong. How will the red team perform without &apos;motherly&apos; Erika? And will team bonding continue in the blue team?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929120000 GMT+3" stop="20260929125900 GMT+3" channel="9744258">
+    <title lang="el">F2: Tackling Europe Κ1 ΕΠ3</title>
+    <desc lang="el">The Freestyler&apos;s travel to Belgium for the latest leg of their European road trip.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929125900 GMT+3" stop="20260929135900 GMT+3" channel="9744258">
+    <title lang="el">F2: Tackling Europe Κ1 ΕΠ4</title>
+    <desc lang="el">The Freestyler&apos;s head to the Netherlands meeting up with football legends Edgar Davids and Ronald de Boer.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929135900 GMT+3" stop="20260929143100 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ3</title>
+    <desc lang="el">What starts as a business trip to Innsbruck for Georgie and Bienve, turns into a reunion with MTB icon - Fabio Wibmer. Discover how the YouTube superstar lives, how Georgie overcomes his fears, and witness some of the most epic riding of the season.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929143100 GMT+3" stop="20260929153000 GMT+3" channel="9744258">
+    <title lang="el">Sandboarding on Dragon Hill</title>
+    <desc lang="el">Follow mountain bike legend, Brett Tippie, as he travels with local sandboarding world champion, Jose Martinez, and MTB star, Richie Schley, to ride the world’s biggest sand dune in the Chilean Atacama desert.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929153000 GMT+3" stop="20260929163000 GMT+3" channel="9744258">
+    <title lang="el">Modern Explorers Κ1 ΕΠ3</title>
+    <desc lang="el">Wing suit flying on the coast of Sardinia is unexplored territory. Niccolo desperately wants to try a new line with Espen which finishes on a beach.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929163000 GMT+3" stop="20260929173000 GMT+3" channel="9744258">
+    <title lang="el">Modern Explorers Κ1 ΕΠ4</title>
+    <desc lang="el">Jokke travels to the US, first to have some fun in California and then on to Alaska to go speed flying with his friend Miles Daisher. Chopper time!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929173000 GMT+3" stop="20260929183000 GMT+3" channel="9744258">
+    <title lang="el">Breakthrough: Women Changing the Game Κ1 ΕΠ5</title>
+    <desc lang="el">Leilani confronts her coach about the lack of playtime, Natalie makes an embarrassing mistake, Emily’s F4 struggles continue after her dad returns home, and Hollie competes in one of the biggest races of the British season.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929183000 GMT+3" stop="20260929194300 GMT+3" channel="9744258">
+    <title lang="el">Breakthrough: Women Changing the Game Κ1 ΕΠ6</title>
+    <desc lang="el">Leilani changes her focus to the WFA, Emily’s money issues come to a head as she faces a difficult choice, while Natalie and Hollie both put up stunning season-end performances.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929194300 GMT+3" stop="20260929205800 GMT+3" channel="9744258">
+    <title lang="el">Chile: Chiloe</title>
+    <desc lang="el">The home of fun, lifestyle, and entertainment. Adventure awaits!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260929205800 GMT+3" stop="20260929214200 GMT+3" channel="9744258">
+    <title lang="el">My Van Life Κ1 ΕΠ5</title>
+    <desc lang="el">Lisa heads to Utah, the ultimate playground for Van Life adrenaline junkies: aka Dirt Bags. Base jumper Derrick shows that by confronting death, it helps us appreciate life. We meet a solo female traveler who challenges Lisa by taking her bouldering.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929214200 GMT+3" stop="20260929221200 GMT+3" channel="9744258">
+    <title lang="el">Journey Within Κ1 ΕΠ6</title>
+    <desc lang="el">In Cape Town, the journey unfolds, connecting with mentors, experiencing creative breakthroughs, spiritual rituals, and ancestral connections. From this transformative experience, Marilia discovers the power of inner strength and connection.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929221200 GMT+3" stop="20260929224300 GMT+3" channel="9744258">
+    <title lang="el">Journey Within Κ1 ΕΠ7</title>
+    <desc lang="el">Marilia explores Cornwall, visits Bodmin Moor, meets a life coach and artist. She engages in nature activities, learns animal massage, forages seaweed, and relaxes at a spa. The episode captures Cornwall&apos;s landscapes and immersive experiences.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929224300 GMT+3" stop="20260929231300 GMT+3" channel="9744258">
+    <title lang="el">Travels with Darley Κ1 ΕΠ1</title>
+    <desc lang="el">Explore Quebec City, the Eastern Townships and Montreal with host Darley Newman. Dive into the New France Festival and First Nations culture in Quebec City, nature and adventure cycling through the treetops in the Eastern Townships.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929231300 GMT+3" stop="20260929234300 GMT+3" channel="9744258">
+    <title lang="el">Travels with Darley Κ1 ΕΠ2</title>
+    <desc lang="el">Explore history, culture and cuisine in İstanbul, Antalya and along Türkiye’s Aegean Coast. See the top sights in İstanbul and enjoy a behind the scenes look at old and new architecture and archeological sites.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260929234300 GMT+3" stop="20260930002800 GMT+3" channel="9744258">
+    <title lang="el">Beyond Borders</title>
+    <desc lang="el">Discover unknown corners of the world in our new show &apos;Beyond Borders&apos;! Join our dynamic duo for an unforgettable journey filled with adventures, culture, and breathtaking views.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260929000000 GMT+3" stop="20260929003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -129498,444 +128808,6 @@
   <programme start="20260929210000 GMT+3" stop="20260930000000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg BusinessWeek</title>
     <desc lang="el">Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929000000 GMT+3" stop="20260929000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929000200 GMT+3" stop="20260929001500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929001500 GMT+3" stop="20260929010000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929010000 GMT+3" stop="20260929010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929010200 GMT+3" stop="20260929013000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929013000 GMT+3" stop="20260929020000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929020000 GMT+3" stop="20260929020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929020200 GMT+3" stop="20260929021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929021500 GMT+3" stop="20260929023000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929023000 GMT+3" stop="20260929030000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929030000 GMT+3" stop="20260929030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929030200 GMT+3" stop="20260929033000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929033000 GMT+3" stop="20260929040000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929040000 GMT+3" stop="20260929040300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929040300 GMT+3" stop="20260929050000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929050000 GMT+3" stop="20260929050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929050200 GMT+3" stop="20260929053000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929053000 GMT+3" stop="20260929060000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929060000 GMT+3" stop="20260929060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929060200 GMT+3" stop="20260929061500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929061500 GMT+3" stop="20260929063000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929063000 GMT+3" stop="20260929070000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929070000 GMT+3" stop="20260929070300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929070300 GMT+3" stop="20260929080000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929080000 GMT+3" stop="20260929080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929080200 GMT+3" stop="20260929083000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929083000 GMT+3" stop="20260929090000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929090000 GMT+3" stop="20260929090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929090200 GMT+3" stop="20260929091500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929091500 GMT+3" stop="20260929093000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929093000 GMT+3" stop="20260929100000 GMT+3" channel="213775">
-    <title lang="el">Arts Unveiled</title>
-    <desc lang="el">Arts Unveiled</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929100000 GMT+3" stop="20260929100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929100200 GMT+3" stop="20260929101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929101500 GMT+3" stop="20260929110000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929110000 GMT+3" stop="20260929110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929110200 GMT+3" stop="20260929113000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929113000 GMT+3" stop="20260929120000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929120000 GMT+3" stop="20260929120200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929120200 GMT+3" stop="20260929121500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929121500 GMT+3" stop="20260929124500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929124500 GMT+3" stop="20260929130000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929130000 GMT+3" stop="20260929130300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929130300 GMT+3" stop="20260929140000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929140000 GMT+3" stop="20260929140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929140200 GMT+3" stop="20260929143000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Archaeological treasures reveal much about the early Bavarians of southern Germany. Meanwhile people will probably leave mountains of synthetic textiles behind. Plus: mining and building on the moon.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929143000 GMT+3" stop="20260929150000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Cocaine and heroin are addictive. But smartphones, shopping, gaming and even work can also become compulsive. In Good Shape explores how everyday habits can spiral into addiction and what helps people regain control.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929150000 GMT+3" stop="20260929150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929150200 GMT+3" stop="20260929151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929151500 GMT+3" stop="20260929154500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929154500 GMT+3" stop="20260929160000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929160000 GMT+3" stop="20260929160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929160200 GMT+3" stop="20260929161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929161500 GMT+3" stop="20260929163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929163000 GMT+3" stop="20260929170000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">Eco India</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929170000 GMT+3" stop="20260929170200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929170200 GMT+3" stop="20260929171500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929171500 GMT+3" stop="20260929174500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929174500 GMT+3" stop="20260929180000 GMT+3" channel="213775">
-    <title lang="el">Reporter</title>
-    <desc lang="el">Reporter</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929180000 GMT+3" stop="20260929183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929183000 GMT+3" stop="20260929190000 GMT+3" channel="213775">
-    <title lang="el">The Dip</title>
-    <desc lang="el">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe&apos;s digital sovereignty, critical supply chains, and the shift in the continent&apos;s industrial and defense sectors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929190000 GMT+3" stop="20260929193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929193000 GMT+3" stop="20260929200000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929200000 GMT+3" stop="20260929201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929201500 GMT+3" stop="20260929203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929203000 GMT+3" stop="20260929210000 GMT+3" channel="213775">
-    <title lang="el">Rev</title>
-    <desc lang="el">Brazil has made it quicker and cheaper to get a driver&apos;s license, but at the cost of safety? We find out in Rio. Plus: a mechanic who converts motorbikes in Mali, and the human cost of quick commerce in India.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929210000 GMT+3" stop="20260929213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929213000 GMT+3" stop="20260929220000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929220000 GMT+3" stop="20260929220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929220200 GMT+3" stop="20260929221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929221500 GMT+3" stop="20260929223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929223000 GMT+3" stop="20260929230000 GMT+3" channel="213775">
-    <title lang="el">Tomorrow Today</title>
-    <desc lang="el">Archaeological treasures reveal much about the early Bavarians of southern Germany. Meanwhile people will probably leave mountains of synthetic textiles behind. Plus: mining and building on the moon.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929230000 GMT+3" stop="20260929233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929233000 GMT+3" stop="20260930000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -133997,13 +132869,13 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260929200000 GMT+3" stop="20260929220000 GMT+3" channel="218883">
+  <programme start="20260929210000 GMT+3" stop="20260929230000 GMT+3" channel="218883">
     <title lang="el">Ερυθρός Αστέρας - Χάποελ Τελ Αβίβ (Z)</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260929220000 GMT+3" stop="20260930000000 GMT+3" channel="218883">
+  <programme start="20260929230000 GMT+3" stop="20260930010000 GMT+3" channel="218883">
     <title lang="el">Ντιναμό Δρέσδης - Χέρτα Βερολίνου</title>
     <desc lang="el">Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου. Στη διοργάνωση συμμετέχουν 18 σύλλογοι, ενώ πέρσι πρωταθλήτρια αναδείχθηκε η Σάλκε. Ποδόσφαιρο</desc>
     <category lang="el">Αθλητικά</category>
@@ -134132,7 +133004,7 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20260929110000 GMT+3" stop="20260929170000 GMT+3" channel="10973069">
+  <programme start="20260929110000 GMT+3" stop="20260929163000 GMT+3" channel="10973069">
     <title lang="el">Novasports5</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
@@ -134188,21 +133060,15 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260929160000 GMT+3" stop="20260929180000 GMT+3" channel="46137467">
+  <programme start="20260929160000 GMT+3" stop="20260929183000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260929180000 GMT+3" stop="20260929200000 GMT+3" channel="46137467">
+  <programme start="20260929183000 GMT+3" stop="20260929204500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Guadalajara Open της σειράς WTA 500, που διεξάγεται το διάστημα 13-19 Σεπτεμβρίου στη Γουαδαλαχάρα του Μεξικού. Τένις</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260929200000 GMT+3" stop="20260929204500 GMT+3" channel="46137467">
-    <title lang="el">Ο Κόσμος των Freesports</title>
-    <desc lang="el">Από το σέρφινγκ και το kitesurfing, το σκι και την χιονοσανίδα, ως τους αγώνες εντούρο και κανόε-καγιάκ, ο κόσμος των freestyle-extreme σπορ είναι κάθε εβδομάδα κοντά σας, γεμάτος ένταση και εκτοξεύοντας την αδρεναλίνη στα ύψη! Αθλητική Εκπομπή</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -137038,18 +135904,6 @@
     <desc lang="el">Κεντρικό δελτίο ειδήσεων του ALPHA. Η βραδινή ενημέρωση στον ALPHA Κύπρου συνεχίζεται, προσφέροντας μια ολοκληρωμένη εικόνα της επικαιρότητας, με εγκυρότητα, αντικειμενικότητα, υπευθυνότητα και σεβασμό προς τον τηλεθεατή</desc>
     <category lang="el">Ψυχαγωγία</category>
     <rating>K</rating>
-  </programme>
-  <programme start="20260930210000 GMT+3" stop="20260930222000 GMT+3" channel="289607">
-    <title lang="el">ΜΙΑ ΝΥΧΤΑ ΜΟΝΟ Κ1 ΕΠ80</title>
-    <desc lang="el">Ελληνική Σειρά:Η Μελισσάνθη βρίσκεται σε έντονη συναισθηματική φόρτιση μετά τον θάνατο του Άγγελου, ενώ μια απρόσμενη επίσκεψη στο Ίδρυμα την φέρνει αντιμέτωπη με εκκρεμότητες που βαραίνουν το παρόν και το μέλλον της. Η Ιουλία συνεχίζει αθόρυβα την αναζήτηση της αλήθειας για τον Φωκά, όμως η πίεση στο σπίτι μεγαλώνει, καθώς η Ευανθία αρχίζει να υποψιάζεται ότι της κρύβουν πράγματα και η υγεία του Κυριάκου γίνεται πηγή νέας ανησυχίας.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>12</rating>
-  </programme>
-  <programme start="20260930222000 GMT+3" stop="20260930234500 GMT+3" channel="289607">
-    <title lang="el">PORTO LEONE Κ1 ΕΠ19</title>
-    <desc lang="el">Ελληνική Σειρά:O Γιάµαρης έχοντας την Αγγελική Δρόσου στο τµήµα µε αφορµή τη διάρρηξη, προσπαθεί να αποσπάσει πληροφορίες για τη σχέση της µε τον Στράτο και τον πραγματικό λόγο που η Αλεξάνδρα την πρότεινε ως γραµµατέα στην εταιρεία του Βούλγαρη. Ο Καστίλιας από την άλλη, µε κρατούμενο τον Ζήση, ετοιμάζει ένα σχέδιο για να αποκαλύψει την εμπλοκή του Γρηγόρη στη δολοφονία του Στράτου.</desc>
-    <category lang="el">Ψυχαγωγία</category>
-    <rating>15</rating>
   </programme>
   <programme start="20260930234500 GMT+3" stop="20261001003000 GMT+3" channel="289607">
     <title lang="el">ΔΥΟ ΞΕΝΟΙ (E) Κ1 ΕΠ10</title>
@@ -144365,6 +143219,210 @@
     <category lang="el">Τρόπος Ζωής</category>
     <rating>K</rating>
   </programme>
+  <programme start="20260930002800 GMT+3" stop="20260930010000 GMT+3" channel="9744258">
+    <title lang="el">Roads End Κ1 ΕΠ1</title>
+    <desc lang="el">Two adrenaline junkies that love nothing more than off road adventure motor biking. And they’re off on their most epic journey ever, to Argentina.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930010000 GMT+3" stop="20260930015900 GMT+3" channel="9744258">
+    <title lang="el">Thru Κ1 ΕΠ5</title>
+    <desc lang="el">Both teams have proven to be equally strong. How will the red team perform without &apos;motherly&apos; Erika? And will team bonding continue in the blue team?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930015900 GMT+3" stop="20260930025800 GMT+3" channel="9744258">
+    <title lang="el">48 HRS: the London Film Project</title>
+    <desc lang="el">In 48HRS: The London Film Project, two teams of young film makers are followed in London. Is their creativity and team effort enough to make the winning film?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930025800 GMT+3" stop="20260930032800 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ1</title>
+    <desc lang="el">To kick off this season of Inside Masters of Dirt, you’ll get to know the legendary M.O.D riders, their stories, and the iconic Vienna shows that forged their legacy as the world’s wildest athletes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930032800 GMT+3" stop="20260930035900 GMT+3" channel="9744258">
+    <title lang="el">Inside the Masters of Dirt Κ2 ΕΠ2</title>
+    <desc lang="el">In Beirut, the Masters of Dirt crew prepare to put on yet another epic show in the Middle East. But even in the hottest countries - when it rains, it pours! See why this tour stop goes down as one of the most challenging in recent M.O.D history!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930035900 GMT+3" stop="20260930041400 GMT+3" channel="9744258">
+    <title lang="el">Edward Van Gils: Godfather of Street Football</title>
+    <desc lang="el">Meet Edward van Gils, the Godfather of Street Football, who dedicates his life to educating and inspiring communities across the world, all through the power of the beautiful game.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930041400 GMT+3" stop="20260930051400 GMT+3" channel="9744258">
+    <title lang="el">Beyond the Boundary Κ1 ΕΠ3</title>
+    <desc lang="el">Pete travels to Rwanda to discover how cricket has become the fastest growing sport in the country.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930051400 GMT+3" stop="20260930061400 GMT+3" channel="9744258">
+    <title lang="el">Beyond the Boundary Κ1 ΕΠ4</title>
+    <desc lang="el">Professional cricketer Pete Trego travels around South Africa on quest to find out why so few black players have made it into the South African national team.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930061400 GMT+3" stop="20260930064500 GMT+3" channel="9744258">
+    <title lang="el">Silly Sustainability Κ1 ΕΠ3</title>
+    <desc lang="el">In our new series with Andy from @How To Make Everything, we&apos;re exploring how to mass-produce building materials from household recyclabes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20260930064500 GMT+3" stop="20260930070000 GMT+3" channel="9744258">
+    <title lang="el">Quick Connections with Alie Ward Κ1 ΕΠ6</title>
+    <desc lang="el">From dissecting stolen corpses and peering into microscopes, the secret structure of the brain and nervous system is exposed. Could this lead to a race of superhumans?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930070000 GMT+3" stop="20260930075900 GMT+3" channel="9744258">
+    <title lang="el">Street Art Challenge Κ1 ΕΠ5</title>
+    <desc lang="el">Two worlds collide in one of the busiest cities in the world when Mexico&apos;s most famous street artist is meeting his equivalent on their home turf in India.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930075900 GMT+3" stop="20260930085900 GMT+3" channel="9744258">
+    <title lang="el">Street Art Challenge Κ1 ΕΠ6</title>
+    <desc lang="el">Two European street artists are teaming up in the Netherlands for the ultimate Street Art Challenge but Mother Nature seems to be doing everything to ruin it.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930085900 GMT+3" stop="20260930095900 GMT+3" channel="9744258">
+    <title lang="el">Jndia: the Fast Life</title>
+    <desc lang="el">Meet Jndia Erbacher. Just a normal girl who likes partying, holidaying and driving drag cars at 550KMPH! Watch Jndia racing dragsters across Europe, striving to break America in her quest to become the fastest woman on Earth.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930095900 GMT+3" stop="20260930102900 GMT+3" channel="9744258">
+    <title lang="el">Dangers of Dark Fest Κ2 ΕΠ1</title>
+    <desc lang="el">The fourth edition of Dark Fest gets underway. The first episode focuses on how the event was organized and experienced by the riders and audience.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930102900 GMT+3" stop="20260930105900 GMT+3" channel="9744258">
+    <title lang="el">Dangers of Dark Fest Κ2 ΕΠ2</title>
+    <desc lang="el">In this episode we discover the fanaticism of the riders. How do they achieve their success during such a dangerous event? The answer turns out to be friendship.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930105900 GMT+3" stop="20260930115900 GMT+3" channel="9744258">
+    <title lang="el">Strange World Κ1 ΕΠ5</title>
+    <desc lang="el">Alex is in Australia’s Northern Territory where a bizarre weather phenomenon took place. Hundreds of fish were reported to have rained down on the outback.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930115900 GMT+3" stop="20260930130000 GMT+3" channel="9744258">
+    <title lang="el">Strange World Κ1 ΕΠ6</title>
+    <desc lang="el">Alex Hannaford heads to America to investigate reports of balls of light, known as Spook Lights, floating in the night sky above a remote country road.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930130000 GMT+3" stop="20260930140000 GMT+3" channel="9744258">
+    <title lang="el">7 Days Κ1 ΕΠ1</title>
+    <desc lang="el">Kevin travels to Switzerland and has 24 hours to go from Zurich to the Swiss mountains, while Jalou finds an exciting way to go from Cannes to Corsica.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930140000 GMT+3" stop="20260930150000 GMT+3" channel="9744258">
+    <title lang="el">7 Days Κ1 ΕΠ2</title>
+    <desc lang="el">Jalou has 24 hours to get from Barcelona to Tarragona where she conquers the Catalonian mountains with her mountain bike. Kevin tries to beat her in Slovenia.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930150000 GMT+3" stop="20260930155900 GMT+3" channel="9744258">
+    <title lang="el">Travel with a Goat Κ1 ΕΠ5</title>
+    <desc lang="el">Two foodies travel through Thailand with an animal. Will they decide to have the animal slaughtered after spending three days together with it?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930155900 GMT+3" stop="20260930162800 GMT+3" channel="9744258">
+    <title lang="el">Love on the Rocks Κ1 ΕΠ9</title>
+    <desc lang="el">Hiking and canyoneering are a nice break from strenuous mountaineering, but it&apos;s hard to relax when a lack of water and mountain lions are part of the equation. Tayler and Jason both need a break...but is the break they need actually from each other?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930162800 GMT+3" stop="20260930165900 GMT+3" channel="9744258">
+    <title lang="el">Love on the Rocks Κ1 ΕΠ10</title>
+    <desc lang="el">Tayler and Jason reconnect during a romantic stay in Lake Tahoe, but Jason struggles keeping his cool while off roading the Rubicon Trail. Are Jason&apos;s high expectations too? And will these expectations shut them down on their next climb, Mt Whitney?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930165900 GMT+3" stop="20260930172900 GMT+3" channel="9744258">
+    <title lang="el">A Simple Path Κ2 ΕΠ2</title>
+    <desc lang="el">Bali, the paradise island of magic. It&apos;s about progression at Motion Skate Park, DIY at the Jungle spot, vegan indulgence at Kynd café, design for the Hand of God, hot bowl grinds at the Dog Bowl and Loco by Nature and Televisi Star worldwide.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930172900 GMT+3" stop="20260930180000 GMT+3" channel="9744258">
+    <title lang="el">A Simple Path Κ2 ΕΠ3</title>
+    <desc lang="el">120 Hours in Milan where dreams come true. Connect at Rufus Skate and textured expressions. The global community at Milano Centrale. Candy Coast, try and try again for creative escape. Flying at Lambrate Skate Park, photographic genius and unity.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930180000 GMT+3" stop="20260930183000 GMT+3" channel="9744258">
+    <title lang="el">Extreme Iceland Κ1 ΕΠ5</title>
+    <desc lang="el">Mike Wilson plans the next steps of his journey around Iceland – to take on the biggest glacier in all of Europe and head for the East Fjords.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930183000 GMT+3" stop="20260930190000 GMT+3" channel="9744258">
+    <title lang="el">Extreme Iceland Κ1 ΕΠ6</title>
+    <desc lang="el">Mike Wilson is stranded on the Vatnajökull glacier. If his team can help get him off the ice, the East Fjords are calling.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930190000 GMT+3" stop="20260930192900 GMT+3" channel="9744258">
+    <title lang="el">MTB Heroes: Trailblazers Κ3 ΕΠ7</title>
+    <desc lang="el">A German MTB legend decides to build a van and travel all the way down to Morocco to explore and ride the great Atlas mountains.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930192900 GMT+3" stop="20260930195900 GMT+3" channel="9744258">
+    <title lang="el">MTB Heroes: Trailblazers Κ3 ΕΠ8</title>
+    <desc lang="el">We meet with a Spanish MTB pro rider who decided to create his own company in order to build the most exclusive and unique carbon bikes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930195900 GMT+3" stop="20260930202900 GMT+3" channel="9744258">
+    <title lang="el">Orphans of the Wild Κ1 ΕΠ10</title>
+    <desc lang="el">A caracal with a broken leg arrives needing immediate medical attention. When the owner of two tame cheetahs also breaks a leg, Marlice must rescue them as well.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930202900 GMT+3" stop="20260930205900 GMT+3" channel="9744258">
+    <title lang="el">Orphans of the Wild Κ1 ΕΠ11</title>
+    <desc lang="el">With all the rain came an abundance of animals - to count them Rudie takes to the air, but only after saving a cheetah’s life on the operating table.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930205900 GMT+3" stop="20260930215900 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ2</title>
+    <desc lang="el">Mammoth mammals migrate from the Antarctic to South Africa&apos;s coast to mate and give birth, featuring aerial displays and massive feeding frenzies.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930215900 GMT+3" stop="20260930230000 GMT+3" channel="9744258">
+    <title lang="el">Wild and Alive Κ1 ΕΠ3</title>
+    <desc lang="el">Willem Burger faces a career-defining mission to relocate the Ivory Coast’s last white rhino after a tragic encounter with a local village chief.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930230000 GMT+3" stop="20260930233000 GMT+3" channel="9744258">
+    <title lang="el">Morbidelli Rising Κ1 ΕΠ3</title>
+    <desc lang="el">There’s danger on the track at the year&apos;s biggest race, Mugello. Franco battles to focus on his goal of ‘Rookie of the Year’ while around him his team implodes.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20260930233000 GMT+3" stop="20261001000000 GMT+3" channel="9744258">
+    <title lang="el">Morbidelli Rising Κ1 ΕΠ4</title>
+    <desc lang="el">Franco continues to claw back points and has a nail biting wait to find out if he has won ‘Rookie of the Year’. Will he be riding again next year?</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20260930000000 GMT+3" stop="20260930003000 GMT+3" channel="216382">
     <title lang="el">Lingerie</title>
     <desc lang="el">Get to know the intimate side of FashionTV. Silk, lace and all things seductive, FashionTV brings you the best in photo shoots, fashion shows and more.</desc>
@@ -147836,450 +146894,6 @@
   <programme start="20260930210000 GMT+3" stop="20261001000000 GMT+3" channel="71037999">
     <title lang="el">Bloomberg BusinessWeek</title>
     <desc lang="el">Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930000000 GMT+3" stop="20260930000200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930000200 GMT+3" stop="20260930001500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930001500 GMT+3" stop="20260930004500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930004500 GMT+3" stop="20260930010000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930010000 GMT+3" stop="20260930010200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930010200 GMT+3" stop="20260930013000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930013000 GMT+3" stop="20260930020000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">The 77 Percent</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930020000 GMT+3" stop="20260930020200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930020200 GMT+3" stop="20260930021500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930021500 GMT+3" stop="20260930023000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930023000 GMT+3" stop="20260930030000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930030000 GMT+3" stop="20260930030200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930030200 GMT+3" stop="20260930033000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930033000 GMT+3" stop="20260930040000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930040000 GMT+3" stop="20260930040200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930040200 GMT+3" stop="20260930041500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930041500 GMT+3" stop="20260930050000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Rudolf Steiner is synonymous with Waldorf education - and its controversial teachings. This documentary explores the impact his ideas have had, and why they continue to draw both supporters and critics, to this day.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930050000 GMT+3" stop="20260930050200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930050200 GMT+3" stop="20260930053000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930053000 GMT+3" stop="20260930060000 GMT+3" channel="213775">
-    <title lang="el">Global US</title>
-    <desc lang="el">Global US</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930060000 GMT+3" stop="20260930060200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930060200 GMT+3" stop="20260930061500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930061500 GMT+3" stop="20260930063000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930063000 GMT+3" stop="20260930070000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930070000 GMT+3" stop="20260930070200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930070200 GMT+3" stop="20260930071500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930071500 GMT+3" stop="20260930080000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Rudolf Steiner is synonymous with Waldorf education - and its controversial teachings. This documentary explores the impact his ideas have had, and why they continue to draw both supporters and critics, to this day.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930080000 GMT+3" stop="20260930080200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930080200 GMT+3" stop="20260930083000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930083000 GMT+3" stop="20260930090000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930090000 GMT+3" stop="20260930090200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930090200 GMT+3" stop="20260930091500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930091500 GMT+3" stop="20260930093000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930093000 GMT+3" stop="20260930100000 GMT+3" channel="213775">
-    <title lang="el">In Good Shape</title>
-    <desc lang="el">Cocaine and heroin are addictive. But smartphones, shopping, gaming and even work can also become compulsive. In Good Shape explores how everyday habits can spiral into addiction and what helps people regain control.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930100000 GMT+3" stop="20260930100200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930100200 GMT+3" stop="20260930101500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930101500 GMT+3" stop="20260930104500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930104500 GMT+3" stop="20260930110000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930110000 GMT+3" stop="20260930110200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930110200 GMT+3" stop="20260930113000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">The 77 Percent</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930113000 GMT+3" stop="20260930120000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">Eco India</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930120000 GMT+3" stop="20260930120300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930120300 GMT+3" stop="20260930130000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930130000 GMT+3" stop="20260930130200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930130200 GMT+3" stop="20260930131500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930131500 GMT+3" stop="20260930134500 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930134500 GMT+3" stop="20260930140000 GMT+3" channel="213775">
-    <title lang="el">Shift</title>
-    <desc lang="el">Facial recognition technology is booming worldwide. It might make life easier, but it might heavily impact people&apos;s privacy. How far along is the technology&apos;s development? And is it possible to elude it? Today&apos;s focus, on SHIFT.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930140000 GMT+3" stop="20260930140200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930140200 GMT+3" stop="20260930143000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930143000 GMT+3" stop="20260930150000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930150000 GMT+3" stop="20260930150200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930150200 GMT+3" stop="20260930151500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930151500 GMT+3" stop="20260930160000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">Nimeksha Siddi is 18 years old and India&apos;s sprinting hope for the 2028 Olympics. Nimeksha belongs to the Siddi ethnic group, whose daily lives are marked by racism and exclusion.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930160000 GMT+3" stop="20260930160200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930160200 GMT+3" stop="20260930161500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930161500 GMT+3" stop="20260930163000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930163000 GMT+3" stop="20260930170000 GMT+3" channel="213775">
-    <title lang="el">Eco Africa</title>
-    <desc lang="el">On this week&apos;s Eco Africa, we check out efforts to protect nature’s waste collectors, the vulture, compostable confetti and a floating neighborhood gaining attention as a way to cope with rising sea levels.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930170000 GMT+3" stop="20260930170300 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930170300 GMT+3" stop="20260930180000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">People on the autism spectrum have dreams like many other people’s: love, a career, friendships. But the path to achieving them is often strewn with challenges.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930180000 GMT+3" stop="20260930183000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930183000 GMT+3" stop="20260930190000 GMT+3" channel="213775">
-    <title lang="el">Eco India</title>
-    <desc lang="el">Eco India</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930190000 GMT+3" stop="20260930193000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930193000 GMT+3" stop="20260930200000 GMT+3" channel="213775">
-    <title lang="el">Made in Germany</title>
-    <desc lang="el">Made in Germany</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930200000 GMT+3" stop="20260930201500 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930201500 GMT+3" stop="20260930203000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930203000 GMT+3" stop="20260930210000 GMT+3" channel="213775">
-    <title lang="el">Close Up</title>
-    <desc lang="el">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, &quot;Close up&quot; is informative, gripping and visually powerful.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930210000 GMT+3" stop="20260930213000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930213000 GMT+3" stop="20260930220000 GMT+3" channel="213775">
-    <title lang="el">DocFilm</title>
-    <desc lang="el">2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country’s cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930220000 GMT+3" stop="20260930220200 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930220200 GMT+3" stop="20260930221500 GMT+3" channel="213775">
-    <title lang="el">DW News Focus</title>
-    <desc lang="el">DW News Focus</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930221500 GMT+3" stop="20260930223000 GMT+3" channel="213775">
-    <title lang="el">Best of DW-Online Content</title>
-    <desc lang="el">Best of DW-Online Content</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930223000 GMT+3" stop="20260930230000 GMT+3" channel="213775">
-    <title lang="el">The 77 Percent</title>
-    <desc lang="el">The 77 Percent</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930230000 GMT+3" stop="20260930233000 GMT+3" channel="213775">
-    <title lang="el">DW News</title>
-    <desc lang="el">DW News</desc>
-    <category lang="el">Ειδήσεις</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20260930233000 GMT+3" stop="20261001000000 GMT+3" channel="213775">
-    <title lang="el">The Day</title>
-    <desc lang="el">The Day</desc>
     <category lang="el">Ειδήσεις</category>
     <rating>K</rating>
   </programme>
@@ -152190,12 +150804,13 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930000000 GMT+3" stop="20260930020000 GMT+3" channel="218883">
-    <title lang="el">Novasports2HD</title>
-    <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
+  <programme start="20260930010000 GMT+3" stop="20260930014500 GMT+3" channel="218883">
+    <title lang="el">Goodwood Festival of Speed</title>
+    <desc lang="el">Το περίφημο Φεστιβάλ Ταχύτητας του Goodwood στο Goodwood House της Αγγλίας είναι μια μοναδική γιορτή της αυτοκίνησης και της ιστορίας της, που όμοιά της δεν υπάρχει! Φέτος πραγματοποιήθηκε στις 9-12 Ιουλίου. Στιγμιότυπα</desc>
+    <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930020000 GMT+3" stop="20260930060000 GMT+3" channel="218883">
+  <programme start="20260930014500 GMT+3" stop="20260930060000 GMT+3" channel="218883">
     <title lang="el">Novasports2HD</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο ευρωπαϊκό ποδόσφαιρο με συνεχή, ζωντανή δράση από Παρασκευή μέχρι Δευτέρα, αλλά και τις υπόλοιπες μέρες της εβδομάδας.</desc>
     <rating>K</rating>
@@ -152343,8 +150958,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20260930213000 GMT+3" stop="20260930220000 GMT+3" channel="10965554">
-    <title lang="el">EuroCup 2026/27</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
+    <title lang="el">Post Game Show (Ζ)</title>
+    <desc lang="el">Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με αποκλειστικές συνεντεύξεις, την ανάλυση και τις πρώτες αντιδράσεις αμέσως μετά το τελικό σφύριγμα. Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -152415,25 +151030,25 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930160000 GMT+3" stop="20260930180000 GMT+3" channel="46137467">
+  <programme start="20260930160000 GMT+3" stop="20260930190000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930180000 GMT+3" stop="20260930200000 GMT+3" channel="46137467">
+  <programme start="20260930190000 GMT+3" stop="20260930213500 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930200000 GMT+3" stop="20260930220000 GMT+3" channel="46137467">
+  <programme start="20260930213500 GMT+3" stop="20260930233000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20260930220000 GMT+3" stop="20261001000000 GMT+3" channel="46137467">
+  <programme start="20260930233000 GMT+3" stop="20261001013000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 250 2026</title>
     <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Τένις, 2024.</desc>
     <category lang="el">Αθλητικά</category>
