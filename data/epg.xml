@@ -76678,7 +76678,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019193000 GMT+3" stop="20261020000000 GMT+3" channel="8242886">
+  <programme start="20261019193000 GMT+3" stop="20261020060000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -78969,7 +78969,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019193000 GMT+3" stop="20261020000000 GMT+3" channel="52105043">
+  <programme start="20261019193000 GMT+3" stop="20261020060000 GMT+3" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -95745,12 +95745,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261020000000 GMT+3" stop="20261020060000 GMT+3" channel="8242886">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20261020060000 GMT+3" stop="20261020093000 GMT+3" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -98084,12 +98078,6 @@
   <programme start="20261020220000 GMT+3" stop="20261021000000 GMT+3" channel="52103938">
     <title lang="el">PARIS SAINT_GERMAIN - BARCELONA (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261020000000 GMT+3" stop="20261020060000 GMT+3" channel="52105043">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
