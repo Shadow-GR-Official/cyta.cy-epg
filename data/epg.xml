@@ -27108,7 +27108,7 @@
   </programme>
   <programme start="20261019230500 GMT+3" stop="20261020000000 GMT+3" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Η δολοφονία ενός μηχανικού λογισμικού οδηγεί τους Ράιλι και Γουόκερ στον κόσμο της τεχνητής νοημοσύνης. Ο Μπάξτερ αναλαμβάνει μια υπόθεση, όπου η τεχνολογία εξελίσσεται ταχύτερα από τους νόμους που την προστατεύουν. Αστυνομική Σκηνοθεσία: Αλεξ Χολ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -37874,51 +37874,129 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019003000 GMT+3" stop="20261019010000 GMT+3" channel="97085851">
+  <programme start="20261019003000 GMT+3" stop="20261019010100 GMT+3" channel="97085851">
     <title lang="el">Real Madrid Life. Weekly review show</title>
     <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019010000 GMT+3" stop="20261019032000 GMT+3" channel="97085851">
+  <programme start="20261019010100 GMT+3" stop="20261019030800 GMT+3" channel="97085851">
     <title lang="el">European Super Cup</title>
     <desc lang="el">Real Madrid travel to Helsinki to face Eintracht Frankfurt in the Olympic Stadion.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019032000 GMT+3" stop="20261019040000 GMT+3" channel="97085851">
-    <title lang="el">Classics Highlights</title>
-    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+  <programme start="20261019030800 GMT+3" stop="20261019032800 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights 96/97 Real Madrid vs Real Sociedad</title>
+    <desc lang="el">Enjoy a fantastic performance from Fabio Capello&apos;s side on their way to lifting the La Liga title.</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019040000 GMT+3" stop="20261019041500 GMT+3" channel="97085851">
+  <programme start="20261019032800 GMT+3" stop="20261019034600 GMT+3" channel="97085851">
+    <title lang="el">Classic Highlights</title>
+    <desc lang="el">This match will be remembered for a stand out performance from the young Raul.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019034600 GMT+3" stop="20261019040000 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019040000 GMT+3" stop="20261019041400 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <desc lang="el">Real Madrid News</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019041500 GMT+3" stop="20261019063000 GMT+3" channel="97085851">
+  <programme start="20261019041400 GMT+3" stop="20261019063000 GMT+3" channel="97085851">
     <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
     <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019063000 GMT+3" stop="20261019070000 GMT+3" channel="97085851">
-    <title lang="el">Real Madrid Life. Weekly review show</title>
-    <desc lang="el">A weekly behind-the-scenes magazine show that brings you all the club´s latest news, stories and interviews.\n</desc>
+  <programme start="20261019063000 GMT+3" stop="20261019064700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life</title>
+    <desc lang="el">Real Madrid Life</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019070000 GMT+3" stop="20261019071500 GMT+3" channel="97085851">
+  <programme start="20261019064700 GMT+3" stop="20261019070000 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019070000 GMT+3" stop="20261019071400 GMT+3" channel="97085851">
     <title lang="el">Real Madrid News</title>
-    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <desc lang="el">Real Madrid News</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019071500 GMT+3" stop="20261020060000 GMT+3" channel="97085851">
+  <programme start="20261019071400 GMT+3" stop="20261019092200 GMT+3" channel="97085851">
     <title lang="el">Champions League 26/27: Roma vs Real Madrid</title>
     <desc lang="el">Matchday 2 of the Champions League. Real Madrid face Roma in Olympic Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019092200 GMT+3" stop="20261019113200 GMT+3" channel="97085851">
+    <title lang="el">Champions League 26/27: Real Madrid vs Inter</title>
+    <desc lang="el">Matchday 1 of the Champions League. Real Madrid host Inter de Milán in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019113200 GMT+3" stop="20261019135100 GMT+3" channel="97085851">
+    <title lang="el">Champions League 21/22</title>
+    <desc lang="el">Real Madrid v Liverpool Final Champions League Final 21/22.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019135100 GMT+3" stop="20261019140700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life</title>
+    <desc lang="el">Real Madrid Life</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019140700 GMT+3" stop="20261019161700 GMT+3" channel="97085851">
+    <title lang="el">Champions League 26/27: Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Champions League. Real Madrid face Roma in Olympic Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019161700 GMT+3" stop="20261019185700 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24</title>
+    <desc lang="el">Borussia Dortmund v Real Madrid Champions League Final 23/24 in Wembley Stadium in London.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019185700 GMT+3" stop="20261019191600 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Life</title>
+    <desc lang="el">Real Madrid Life</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019191600 GMT+3" stop="20261019212000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc lang="el">Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019212000 GMT+3" stop="20261019213200 GMT+3" channel="97085851">
+    <title lang="el">A journey through football</title>
+    <desc lang="el">The story behind one of the most recognised anthems in world sport.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019213200 GMT+3" stop="20261019214500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Real Madrid News</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261019214500 GMT+3" stop="20261020000000 GMT+3" channel="97085851">
+    <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -38474,24 +38552,24 @@
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20261019120000 GMT+3" stop="20261019180000 GMT+3" channel="10973069">
+  <programme start="20261019120000 GMT+3" stop="20261019181500 GMT+3" channel="10973069">
     <title lang="el">Novasports5</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20261019180000 GMT+3" stop="20261019200000 GMT+3" channel="10973069">
+  <programme start="20261019181500 GMT+3" stop="20261019202000 GMT+3" channel="10973069">
     <title lang="el">Μπούργος - Χάποελ Ιερουσαλήμ</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019200000 GMT+3" stop="20261019220000 GMT+3" channel="10973069">
+  <programme start="20261019202000 GMT+3" stop="20261019223000 GMT+3" channel="10973069">
     <title lang="el">Ουλμ - Μπόσνα</title>
     <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261019220000 GMT+3" stop="20261020000000 GMT+3" channel="10973069">
+  <programme start="20261019223000 GMT+3" stop="20261020003000 GMT+3" channel="10973069">
     <title lang="el">ONE Friday Fights 175</title>
     <desc lang="el">Το ONE Friday Fights διεξάγεται από την ONE FC κάθε Παρασκευή στο εμβληματικό Lumpinee Boxing Stadium της Ταϊλάνδης, με μερικούς από τους καλύτερους μαχητές Muay Thai στον κόσμο και ανερχόμενους αστέρες. Πολεμικές Τέχνες</desc>
     <category lang="el">Αθλητικά</category>
@@ -56911,6 +56989,108 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20261020000000 GMT+3" stop="20261020021600 GMT+3" channel="97085851">
+    <title lang="el">Champions League 23/24: Real Madrid vs Bayern Munich</title>
+    <desc lang="el">Semi-Final (second leg). Real Madrid host Bayern Munich in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020021600 GMT+3" stop="20261020032700 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass</title>
+    <desc lang="el">Real Madrid Pass</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020032700 GMT+3" stop="20261020040000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 99/00</title>
+    <desc lang="el">Relive the magical atmosphere of a Champions League semi-final at the Santiago Bernabeu</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020040000 GMT+3" stop="20261020041500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Real Madrid News</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020041500 GMT+3" stop="20261020063100 GMT+3" channel="97085851">
+    <title lang="el">Champions League 26/27: Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Champions League. Real Madrid face Roma in Olympic Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020063100 GMT+3" stop="20261020064600 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 01/02</title>
+    <desc lang="el">Champions League Final 01/02. Watch Real Madrid&apos;s 9th Champions League triumph against Bayer Leverkusen.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020064600 GMT+3" stop="20261020070000 GMT+3" channel="97085851">
+    <title lang="el">Champions League Highlights 99/00</title>
+    <desc lang="el">Relive the magical atmosphere of a Champions League semi-final at the Santiago Bernabeu</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020070000 GMT+3" stop="20261020071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Real Madrid News</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020071500 GMT+3" stop="20261020092500 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc lang="el">Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020092500 GMT+3" stop="20261020110000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020110000 GMT+3" stop="20261020133000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid City</title>
+    <desc lang="el">We bring you a full preview of Real Madrid´s first team activities ahead of each match in all competitions.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020133000 GMT+3" stop="20261020160000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020160000 GMT+3" stop="20261020181500 GMT+3" channel="97085851">
+    <title lang="el">The Match</title>
+    <desc lang="el">Don´t miss our first team football action. Catch all the matches in full night here on Real Madrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020181500 GMT+3" stop="20261020193000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020193000 GMT+3" stop="20261020220000 GMT+3" channel="97085851">
+    <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020220000 GMT+3" stop="20261020221500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261020221500 GMT+3" stop="20261021003000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 26/27: Real Madrid vs Inter</title>
+    <desc lang="el">Matchday 1 of the Champions League. Real Madrid host Inter de Milán in the Estadio Santiago Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20261020030000 GMT+3" stop="20261020090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -57241,13 +57421,13 @@
   </programme>
   <programme start="20261020190000 GMT+3" stop="20261020210000 GMT+3" channel="46137848">
     <title lang="el">Μπότεβγκραντ - Λιετκαμπέλις (Ζ)</title>
-    <desc lang="el">Η Μπότεβγκραντ (0-3) αναζητά την πρώτη της νίκη στη διοργάνωση και αντιμετωπίζει για την 4η αγωνιστική του 4ου ομίλου τη Λιετκαμπέλις (2-1), που επικράτησε με σκορ 95-86 του ΠΑΟΚ στο Πανεβέζις. Μπάσκετ</desc>
+    <desc lang="el">Η Μπότεβγκραντ (0-3) αναζητά την πρώτη της νίκη στη διοργάνωση και αντιμετωπίζει για την 4η αγωνιστική του 4ου ομίλου τη Λιετκαμπέλις (2-1), που επικράτησε με σκορ 95-86 του ΠΑΟΚ στο Πανεβέζις. Περιγραφή: Θ. Σολούκος Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261020210000 GMT+3" stop="20261020213000 GMT+3" channel="46137848">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -57258,7 +57438,7 @@
   </programme>
   <programme start="20261020233000 GMT+3" stop="20261021000000 GMT+3" channel="46137848">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -57316,7 +57496,7 @@
   </programme>
   <programme start="20261020210000 GMT+3" stop="20261020230000 GMT+3" channel="216415">
     <title lang="el">Ροστόκ - Άρης (Ζ)</title>
-    <desc lang="el">Η Ροστόκ (1-2) ηττήθηκε στην έδρα της Λε Μαν με 82-70 και φιλοξενεί για την 4η αγωνιστική του 1ου ομίλου τον Άρη (3-0), που έκανε το τρία στα τρία στο EuroCup επικρατώντας με 88-68 της Ντερτόνα εντός. Μπάσκετ</desc>
+    <desc lang="el">Η Ροστόκ (1-2) ηττήθηκε στην έδρα της Λε Μαν με 82-70 και φιλοξενεί για την 4η αγωνιστική του 1ου ομίλου τον Άρη (3-0), που έκανε το τρία στα τρία στο EuroCup επικρατώντας με 88-68 της Ντερτόνα εντός. Περιγραφή: Γ. Παπαβασιλείου Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -57458,7 +57638,7 @@
   </programme>
   <programme start="20261020213000 GMT+3" stop="20261020233000 GMT+3" channel="10965554">
     <title lang="el">Μανρέσα - Ρόμα (Ζ)</title>
-    <desc lang="el">Η Μανρέσα (1-2) γνώρισε την ήττα με σκορ 100-88 από την Μπαχτσεσεχίρ στην Τουρκία και αντιμετωπίζει για την 4η αγωνιστική του 4ου ομίλου τη Ρόμα (2-1), η οποία προέρχεται από δύο συνεχόμενες νίκες. Μπάσκετ</desc>
+    <desc lang="el">Η Μανρέσα (1-2) γνώρισε την ήττα με σκορ 100-88 από την Μπαχτσεσεχίρ στην Τουρκία και αντιμετωπίζει για την 4η αγωνιστική του 4ου ομίλου τη Ρόμα (2-1), η οποία προέρχεται από δύο συνεχόμενες νίκες. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -57468,7 +57648,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261020000000 GMT+3" stop="20261020060000 GMT+3" channel="10973069">
+  <programme start="20261020003000 GMT+3" stop="20261020060000 GMT+3" channel="10973069">
     <title lang="el">Novasports5</title>
     <desc lang="el">Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <rating>K</rating>
@@ -57491,7 +57671,7 @@
   </programme>
   <programme start="20261020200000 GMT+3" stop="20261020220000 GMT+3" channel="10973069">
     <title lang="el">Μπουντούτσνοστ - Νεπτούνας (Ζ)</title>
-    <desc lang="el">Η Μπουντούτσνοστ (1-2) θέλει να επιστρέψει στις νίκες μετά από δύο σερί ήττες και φιλοξενεί στην 4η αγωνιστική του 3ου ομίλου τη Νεπτούνας (1-2), που πέτυχε την πρώτη της νίκη με 93-89 επί της Μπουργκ εντός. Μπάσκετ</desc>
+    <desc lang="el">Η Μπουντούτσνοστ (1-2) θέλει να επιστρέψει στις νίκες μετά από δύο σερί ήττες και φιλοξενεί στην 4η αγωνιστική του 3ου ομίλου τη Νεπτούνας (1-2), που πέτυχε την πρώτη της νίκη με 93-89 επί της Μπουργκ εντός. Περιγραφή: Τ. Μπαϊρακτάρης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -57525,7 +57705,7 @@
   </programme>
   <programme start="20261020140000 GMT+3" stop="20261020160000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Β. Κωνσταντόπουλος Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -65257,7 +65437,7 @@
   </programme>
   <programme start="20261021191000 GMT+3" stop="20261021201000 GMT+3" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Η δολοφονία ενός μηχανικού λογισμικού οδηγεί τους Ράιλι και Γουόκερ στον κόσμο της τεχνητής νοημοσύνης. Ο Μπάξτερ αναλαμβάνει μια υπόθεση, όπου η τεχνολογία εξελίσσεται ταχύτερα από τους νόμους που την προστατεύουν. Αστυνομική Σκηνοθεσία: Αλεξ Χολ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -75916,6 +76096,126 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20261021003000 GMT+3" stop="20261021010000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021010000 GMT+3" stop="20261021033000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 17/18</title>
+    <desc lang="el">RM v Liverpool Final Champions League Final 17/18. Watch Los Blancos complete a unique hat-trick \n</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021033000 GMT+3" stop="20261021040000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021040000 GMT+3" stop="20261021041500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021041500 GMT+3" stop="20261021063000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc lang="el">Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021063000 GMT+3" stop="20261021070000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021070000 GMT+3" stop="20261021071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021071500 GMT+3" stop="20261021090000 GMT+3" channel="97085851">
+    <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021090000 GMT+3" stop="20261021093000 GMT+3" channel="97085851">
+    <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021093000 GMT+3" stop="20261021104000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021104000 GMT+3" stop="20261021125000 GMT+3" channel="97085851">
+    <title lang="el">Champions League 26/27: Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Champions League. Real Madrid face Roma in Olympic Stadium.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021125000 GMT+3" stop="20261021132000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021132000 GMT+3" stop="20261021143500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021143500 GMT+3" stop="20261021170000 GMT+3" channel="97085851">
+    <title lang="el">Youth League 26/27 Roma vs Real Madrid</title>
+    <desc lang="el">Matchday 2 of the Youth League Real Madrid face Roma in the Fontane Stadium</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021170000 GMT+3" stop="20261021193000 GMT+3" channel="97085851">
+    <title lang="el">Live: Youth League 26/27 Real Madrid vs RB Leipzig</title>
+    <desc lang="el">Matchday 3 of the Youth League Real Madrid host RG Leipzig in the Estadio Alfredo Di Stefano</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021193000 GMT+3" stop="20261021201500 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021201500 GMT+3" stop="20261021211500 GMT+3" channel="97085851">
+    <title lang="el">Live: Champions League Countdown</title>
+    <desc lang="el">Join us for live Champions League build-up as Real Madrid host Bayern in the Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021211500 GMT+3" stop="20261021213000 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021213000 GMT+3" stop="20261021220000 GMT+3" channel="97085851">
+    <title lang="el">The Match Preview</title>
+    <desc lang="el">A full the match preview with expert analysis and exclusive interviews from Real MAdrid´s top stars.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261021220000 GMT+3" stop="20261022000000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup 2002 Real Madrid vs Feyenoord</title>
+    <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20261021030000 GMT+3" stop="20261021090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -76234,13 +76534,13 @@
   </programme>
   <programme start="20261021203000 GMT+3" stop="20261021223000 GMT+3" channel="46137848">
     <title lang="el">Αθηναϊκός Qualco - Σαραγόσα (Ζ)</title>
-    <desc lang="el">Δείτε τους αγώνες της EuroLeague Γυναικών 2026/27, της μεγάλης ευρωπαϊκής διοργάνωσης μπάσκετ στην οποία φέτος συμμετέχει και ο Αθηναϊκός Qualco. Μπάσκετ</desc>
+    <desc lang="el">Ο Αθηναϊκός Qualco (0-1) ξεκίνησε την πορεία του στον 1ο όμιλο της διοργάνωσης με βαριά ήττα 103-65 στην έδρα της Κιμπίρκστις Βίλνιους και υποδέχεται στον Βύρωνα τη Σαραγόσα (1-0) για τη 2η αγωνιστική. Περιγραφή: Θ. Σολούκος Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261021223000 GMT+3" stop="20261021233000 GMT+3" channel="46137848">
     <title lang="el">Longines FEI League of Nations 2026</title>
-    <desc lang="el">Το Longines FEI League of Nations είναι η κορυφαία σειρά υπερπήδησης εμποδίων της FEI για εθνικές ομάδες. Ιππασία</desc>
+    <desc lang="el">Το Longines FEI League of Nations είναι η κορυφαία σειρά υπερπήδησης εμποδίων της FEI για εθνικές ομάδες. Δείτε τη δράση από τον τελικό αγώνα της σεζόν 2026 που πραγματοποιήθηκε στις 4 Οκτωβρίου στην Βαρκελώνη. Ιππασία</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76302,19 +76602,19 @@
   </programme>
   <programme start="20261021193000 GMT+3" stop="20261021200000 GMT+3" channel="216415">
     <title lang="el">Pre Game Show (Ζ)</title>
-    <desc lang="el">Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με τα τελευταία νέα της ομάδας, αποκλειστικές ενημερώσεις και το ρεπορτάζ λίγο πριν την έναρξη του αγώνα. Αθλητικά Νέα</desc>
+    <desc lang="el">Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με τα τελευταία νέα της ομάδας, αποκλειστικές ενημερώσεις και το ρεπορτάζ λίγο πριν την έναρξη του αγώνα. Περιγραφή: Γ. Πάγκος Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261021200000 GMT+3" stop="20261021220000 GMT+3" channel="216415">
     <title lang="el">ΠΑΟΚ - Ουλμ (Ζ)</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
+    <desc lang="el">Ο ΠΑΟΚ (2-1) θέλει να επιστρέψει στις νίκες μετά την εκτός έδρας ήττα από τη Λιετκαμπέλις με 95-86 και συναντά στην 4η αγωνιστική του 4ου ομίλου την Ουλμ (2-1), που επικράτησε με 102-93 της Μπόσνα εντός. Περιγραφή: Γ. Πάγκος Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261021220000 GMT+3" stop="20261021223000 GMT+3" channel="216415">
     <title lang="el">Post Game Show (Ζ)</title>
-    <desc lang="el">Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με αποκλειστικές συνεντεύξεις, την ανάλυση και τις πρώτες αντιδράσεις αμέσως μετά το τελικό σφύριγμα. Αθλητικά Νέα</desc>
+    <desc lang="el">Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με αποκλειστικές συνεντεύξεις, την ανάλυση και τις πρώτες αντιδράσεις αμέσως μετά το τελικό σφύριγμα. Περιγραφή: Γ. Πάγκος Αθλητικά Νέα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76404,7 +76704,7 @@
   </programme>
   <programme start="20261021193000 GMT+3" stop="20261021213000 GMT+3" channel="10965536">
     <title lang="el">Τσεντεβίτα Ολίμπια - Λε Μαν (Ζ)</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
+    <desc lang="el">Η Τσεντεβίτα Ολίμπια (0-3) έχει ξεκινήσει τη σεζόν με τρεις σερί ήττες και συναντά για την 4η αγωνιστική του EuroCup τη Λε Μαν (1-2), που πανηγύρισε την πρώτη της νίκη επί της Ροστόκ εντός με σκορ 82-70. Περιγραφή: Γ. Βαλαβάνης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76456,7 +76756,7 @@
   </programme>
   <programme start="20261021190000 GMT+3" stop="20261021210000 GMT+3" channel="10965554">
     <title lang="el">Χάποελ Τελ Αβίβ - Βίρτους Μπολόνια (Z)</title>
-    <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
+    <desc lang="el">H Χάποελ (4-2) και η Βίρτους Μπολόνια (4-2) έρχονται αντιμέτωπες για την 7η αγωνιστική και προέρχονται από νίκες κόντρα στον Παναθηναϊκό AKTOR εκτός με 91-81 και την Μπασκόνια εντός με 86-78 αντίστοιχα. Περιγραφή: Γ. Παπαβασιλείου Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76501,7 +76801,7 @@
   </programme>
   <programme start="20261021210000 GMT+3" stop="20261021230000 GMT+3" channel="10973069">
     <title lang="el">Νάπολι - Τόφας (Ζ)</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
+    <desc lang="el">Η Νάπολι (3-0) και η Τόφας (3-0) έρχονται αντιμέτωπες για την 4η αγωνιστική του 3ου ομίλου και προέρχονται από νίκες κόντρα στην Σλασκ Βρότσλαβ εκτός έδρας και την Μπουντούτσνοστ εντός έδρας αντίστοιχα. Περιγραφή: Τ. Μπαϊρακτάρης Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76529,7 +76829,7 @@
   </programme>
   <programme start="20261021140000 GMT+3" stop="20261021160000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Δ. Στρούμπος Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -76553,7 +76853,7 @@
   </programme>
   <programme start="20261021203000 GMT+3" stop="20261021223000 GMT+3" channel="46137467">
     <title lang="el">Μπόσνα - Μπαχτσεσεχίρ (Ζ)</title>
-    <desc lang="el">Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού. Ανάμεσα στις 32 ομάδες που συμμετέχουν περιλαμβάνονται σπουδαία ονόματα του ευρωπαϊκού μπάσκετ. Μπάσκετ</desc>
+    <desc lang="el">Η Μπόσνα (0-3) αναζητά την πρώτη της νίκη στη διοργάνωση και φιλοξενεί για την 4η αγωνιστική του 4ου ομίλου την Μπαχτσεσεχίρ (3-0), που έκανε το τρία στα τρία επικρατώντας με 100-88 της Μανρέσα εντός. Περιγραφή: Δ. Καρύδας Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -95225,6 +95525,60 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
+  <programme start="20261022000000 GMT+3" stop="20261022010000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid Pass Weekly analysis show.</title>
+    <desc lang="el">A weekly magazine programme on the biggest and best football club in the world.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022010000 GMT+3" stop="20261022031500 GMT+3" channel="97085851">
+    <title lang="el">The Match</title>
+    <desc lang="el">Don´t miss our first team football action. Catch all the matches in full night here on Real Madrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022031500 GMT+3" stop="20261022033000 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022033000 GMT+3" stop="20261022034500 GMT+3" channel="97085851">
+    <title lang="el">Classics Highlights</title>
+    <desc lang="el">Sit back and enjoy some unforgettable moments with Realmadrid TV</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022034500 GMT+3" stop="20261022060000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Rayo Vallecano</title>
+    <desc lang="el">Matchday 5 of Liga. Real Madrid host Rayo Vallecano in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022060000 GMT+3" stop="20261022070000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc lang="el">Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022070000 GMT+3" stop="20261022071500 GMT+3" channel="97085851">
+    <title lang="el">Real Madrid News</title>
+    <desc lang="el">Broadcast around the world with the latest updates from the world&apos;s biggest football club.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022071500 GMT+3" stop="20261022083000 GMT+3" channel="97085851">
+    <title lang="el">Liga 26/27: Real Madrid vs Villarreal</title>
+    <desc lang="el">Matchday 8 of Liga. Real Madrid host Villarreal in the Estadio Bernabéu.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261022083000 GMT+3" stop="20261023060000 GMT+3" channel="97085851">
+    <title lang="el">European Super Cup 2002 Real Madrid vs Feyenoord</title>
+    <desc lang="el">This match is a must watch for Madridistas with memorable performances from Roberto Carlos, Zidane and Figo.</desc>
+    <category lang="el">Αθλητικά</category>
+    <rating>K</rating>
+  </programme>
   <programme start="20261022030000 GMT+3" stop="20261022090000 GMT+3" channel="12254006">
     <title lang="el">This is MUTV</title>
     <desc lang="el">This is MUTV</desc>
@@ -95573,7 +95927,7 @@
   </programme>
   <programme start="20261022204500 GMT+3" stop="20261022213000 GMT+3" channel="46137848">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -95863,7 +96217,7 @@
   </programme>
   <programme start="20261022140000 GMT+3" stop="20261022160000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Ν. Τζουάννης Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -103728,7 +104082,7 @@
   </programme>
   <programme start="20261023015000 GMT+3" stop="20261023024500 GMT+3" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Η δολοφονία ενός μηχανικού λογισμικού οδηγεί τους Ράιλι και Γουόκερ στον κόσμο της τεχνητής νοημοσύνης. Ο Μπάξτερ αναλαμβάνει μια υπόθεση, όπου η τεχνολογία εξελίσσεται ταχύτερα από τους νόμους που την προστατεύουν. Αστυνομική Σκηνοθεσία: Αλεξ Χολ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -114333,25 +114687,25 @@
   </programme>
   <programme start="20261023080000 GMT+3" stop="20261023100000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Χρ. Κομίνη Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261023100000 GMT+3" stop="20261023120000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Χρ. Κομίνη Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261023120000 GMT+3" stop="20261023140000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Σ. Δημολίτσας Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261023140000 GMT+3" stop="20261023160000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Σ. Δημολίτσας Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -120441,7 +120795,7 @@
   </programme>
   <programme start="20261024200500 GMT+3" stop="20261024210000 GMT+3" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Η δολοφονία ενός μηχανικού λογισμικού οδηγεί τους Ράιλι και Γουόκερ στον κόσμο της τεχνητής νοημοσύνης. Ο Μπάξτερ αναλαμβάνει μια υπόθεση, όπου η τεχνολογία εξελίσσεται ταχύτερα από τους νόμους που την προστατεύουν. Αστυνομική Σκηνοθεσία: Αλεξ Χολ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -131014,7 +131368,7 @@
   </programme>
   <programme start="20261024160000 GMT+3" stop="20261024163000 GMT+3" channel="218883">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -131026,7 +131380,7 @@
   </programme>
   <programme start="20261024183000 GMT+3" stop="20261024190000 GMT+3" channel="218883">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -131232,13 +131586,13 @@
   </programme>
   <programme start="20261024100000 GMT+3" stop="20261024120000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Χρ. Κομίνη Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261024120000 GMT+3" stop="20261024140000 GMT+3" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Χρ. Κομίνη Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -137209,13 +137563,13 @@
   </programme>
   <programme start="20261025210000 GMT+2" stop="20261025220000 GMT+2" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Έναρξη κύκλου. Η δολοφονία ενός μηχανικού λογισμικού οδηγεί τους Ράιλι και Γουόκερ στον κόσμο της τεχνητής νοημοσύνης. Ο Μπάξτερ αναλαμβάνει μια υπόθεση, όπου η τεχνολογία εξελίσσεται ταχύτερα από τους νόμους που την προστατεύουν. Αστυνομική Σκηνοθεσία: Αλεξ Χολ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
   <programme start="20261025220000 GMT+2" stop="20261025230000 GMT+2" channel="9744271">
     <title lang="el">Law &amp; Order 26</title>
-    <desc lang="el">Δραματικές υποθέσεις που αναπαριστούν τις δύο πλευρές του συστήματος της δικαιοσύνης: το αστυνομικό τμήμα της Νέας Υόρκης και τους ντετέκτιβ των ανθρωποκτονιών και την Εισαγγελία. Αστυνομική Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
+    <desc lang="el">Ο Πράις και ο Γουόκερ απομακρύνονται από μια κρίσιμη υπόθεση λόγω σύγκρουσης συμφερόντων, καθώς συνδέονται με έναν ύποπτο για φόνο. Ο Μπάξτερ δέχεται πιέσεις όταν ένας βασικός μάρτυρας κατηγορίας αλλάζει ξαφνικά την κατάθεσή του. Αστυνομική Σκηνοθεσία: Ερικ Λα Σαλ. Πρωταγωνιστές: Ριντ Σκοτ, Μεκάντ Μπρουκς, Χιου Ντάνσι, Σαμ Γουότερστοουν.</desc>
     <category lang="el">Σειρές</category>
     <rating>12</rating>
   </programme>
@@ -138766,37 +139120,37 @@
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025032000 GMT+2" stop="20261025040500 GMT+2" channel="2831">
+  <programme start="20261025033000 GMT+3" stop="20261025031500 GMT+2" channel="2831">
     <title lang="el">Κρυμμένα Θαύματα του Χειμώνα Κ1 ΕΠ3</title>
     <desc lang="el">Ο χειμώνας στην Ευρώπη αποτελείται από θερμοκρασίες 40 βαθμών υπό το μηδέν. Η άγρια ζωή ωθείται στα όριά της. Τα ζώα εδώ δεν έχουν πολλές επιλογές: ή θα προσαρμοστούν ή θα πεθάνουν.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025040500 GMT+2" stop="20261025044500 GMT+2" channel="2831">
+  <programme start="20261025031500 GMT+2" stop="20261025035500 GMT+2" channel="2831">
     <title lang="el">Λιοντάρι Κ1 ΕΠ2</title>
     <desc lang="el">Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025044500 GMT+2" stop="20261025053000 GMT+2" channel="2831">
+  <programme start="20261025035500 GMT+2" stop="20261025044000 GMT+2" channel="2831">
     <title lang="el">Κρυμμένα Θαύματα του Χειμώνα Κ1 ΕΠ1</title>
     <desc lang="el">Οι δύσκολες συνθήκες του χειμώνα στην Αμερική ωθούν τα ζώα στα όριά τους. Μόνο τα πιο σκληροτράχηλα και εκείνα με τη μεγαλύτερη φαντασία θα επιβιώσουν.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025053000 GMT+2" stop="20261025061500 GMT+2" channel="2831">
+  <programme start="20261025044000 GMT+2" stop="20261025052500 GMT+2" channel="2831">
     <title lang="el">Κρυμμένα Θαύματα του Χειμώνα Κ1 ΕΠ2</title>
     <desc lang="el">Οι δύσκολες συνθήκες του χειμώνα είναι το απόλυτο τεστ για την άγρια ζωή της Ασίας. Μόνο τα ζώα με τις μεγαλύτερες αντοχές αλλά και τη φαντασία θα επιβιώσουν για να δουν την άνοιξη.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025061500 GMT+2" stop="20261025065500 GMT+2" channel="2831">
+  <programme start="20261025052500 GMT+2" stop="20261025061500 GMT+2" channel="2831">
     <title lang="el">Κρυμμένα Θαύματα του Χειμώνα Κ1 ΕΠ3</title>
     <desc lang="el">Ο χειμώνας στην Ευρώπη αποτελείται από θερμοκρασίες 40 βαθμών υπό το μηδέν. Η άγρια ζωή ωθείται στα όριά της. Τα ζώα εδώ δεν έχουν πολλές επιλογές: ή θα προσαρμοστούν ή θα πεθάνουν.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
     <rating>12</rating>
   </programme>
-  <programme start="20261025065500 GMT+2" stop="20261025070000 GMT+2" channel="2831">
+  <programme start="20261025061500 GMT+2" stop="20261025070000 GMT+2" channel="2831">
     <title lang="el">Κρυμμένα Θαύματα του Χειμώνα Κ1 ΕΠ1</title>
     <desc lang="el">Οι δύσκολες συνθήκες του χειμώνα στην Αμερική ωθούν τα ζώα στα όριά τους. Μόνο τα πιο σκληροτράχηλα και εκείνα με τη μεγαλύτερη φαντασία θα επιβιώσουν.</desc>
     <category lang="el">Ντοκυμαντέρ</category>
@@ -147801,7 +148155,7 @@
   </programme>
   <programme start="20261025200000 GMT+2" stop="20261025210000 GMT+2" channel="46137848">
     <title lang="el">Longines FEI League of Nations 2026</title>
-    <desc lang="el">Το Longines FEI League of Nations είναι η κορυφαία σειρά υπερπήδησης εμποδίων της FEI για εθνικές ομάδες. Ιππασία</desc>
+    <desc lang="el">Το Longines FEI League of Nations είναι η κορυφαία σειρά υπερπήδησης εμποδίων της FEI για εθνικές ομάδες. Δείτε τη δράση από τον τελικό αγώνα της σεζόν 2026 που πραγματοποιήθηκε στις 4 Οκτωβρίου στην Βαρκελώνη. Ιππασία</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -147812,13 +148166,13 @@
   </programme>
   <programme start="20261025230000 GMT+2" stop="20261025233000 GMT+2" channel="46137848">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
   <programme start="20261025233000 GMT+2" stop="20261026000000 GMT+2" channel="46137848">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026</title>
-    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Στιγμιότυπα</desc>
+    <desc lang="el">Το Παγκόσμιο Πρωτάθλημα UIM F1H2O αποτελεί την κορυφαία διοργάνωση παράκτιας δράσης powerboat! Απολαύστε τις καλύτερες στιγμές από τον τρίτο γύρο της σειράς, το Γκραν Πρι της Σαγκάης, που πραγματοποιήθηκε στις 4-5 Οκτωβρίου. Στιγμιότυπα</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -148106,7 +148460,7 @@
   </programme>
   <programme start="20261025110000 GMT+2" stop="20261025130000 GMT+2" channel="46137467">
     <title lang="el">Τένις: WTA 500 2026 (Ζ)</title>
-    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Τένις</desc>
+    <desc lang="el">Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Ningbo Open της σειράς WTA 500, που διεξάγεται το διάστημα 19-25 Οκτωβρίου στη Νινγκμπό της Κίνας. Περιγραφή: Δ. Καρύδας Τένις</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
