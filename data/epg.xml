@@ -84847,8 +84847,8 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025085000 GMT+2" stop="20261025103500 GMT+2" channel="216582">
-    <title lang="el">The Best Christmas Pageant Ever</title>
-    <desc lang="el">Όταν μια άτακτη παρέα παιδιών αναλαμβάνει ξαφνικά τη χριστουγεννιάτικη γιορτή της πόλης, επικρατεί χαμός. Ανάμεσα σε γέλια και ανατροπές όλοι ανακαλύπτουν το αληθινό πνεύμα των γιορτών. Κωμωδία, 2024. Σκηνοθεσία: Ντάλας Τζένκινς. Πρωταγωνιστές: Λόρεν Γκράαμ, Βανέσα Μπεναβέντε, Πιτ Χολμς.</desc>
+    <title lang="el">Το Κουκλόσπιτο της Γκάμπι: Η Ταινία</title>
+    <desc lang="el">Όταν το μαγικό κουκλόσπιτο της Γκάμπι χάνεται σε ένα οικογενειακό ταξίδι, η ίδια και η γιαγιά Τζίτζι ξεκινούν μια περιπέτεια για να το πάρουν πίσω, πριν η Γατοπαρέα χάσει το σπίτι της. Οικογενειακή, 2025. Σκηνοθεσία: Ράιαν Κρέγκο.</desc>
     <category lang="el">Ταινίες</category>
     <rating>K</rating>
   </programme>
@@ -150765,37 +150765,31 @@
     <desc lang="el">Κορυφαίο θέαμα με ζωντανούς αγώνες και εκπομπές! Υψηλού ενδιαφέροντος αγώνες Super League &amp; EuroLeague, ευρωπαϊκοί αγώνες ποδοσφαίρου, το Final Four της EuroLeague και οι εκπομπές &apos;Ωρα των Πρωταθλητών&apos; και &apos;Playmakers&apos;.</desc>
     <rating>K</rating>
   </programme>
-  <programme start="20261028160000 GMT+2" stop="20261028170000 GMT+2" channel="216415">
-    <title lang="el">Τένις: Davis Cup 2026, Προκριματικά</title>
-    <desc lang="el">Το Davis Cup είναι η σπουδαιότερη διοργάνωση τένις σε επίπεδο εθνικών ομάδων. Οι 7 νικητές των δύο προκριματικών γύρων συνεχίζουν στο Final Eight, όπου θα συναντήσουν την Ιταλία. Τένις</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261028170000 GMT+2" stop="20261028190000 GMT+2" channel="216415">
+  <programme start="20261028160000 GMT+2" stop="20261028180000 GMT+2" channel="216415">
     <title lang="el">Παναθηναϊκός - Αρμάνι Μιλάνο</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261028190000 GMT+2" stop="20261028203000 GMT+2" channel="216415">
+  <programme start="20261028180000 GMT+2" stop="20261028193000 GMT+2" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
     <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Ρεπορτάζ, σχόλια και ανάλυση για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague καθώς και ΠΑΟΚ και Άρη στο EuroCup. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261028203000 GMT+2" stop="20261028223000 GMT+2" channel="216415">
+  <programme start="20261028193000 GMT+2" stop="20261028213000 GMT+2" channel="216415">
     <title lang="el">Μπεσίκτας - Ολυμπιακός (Ζ)</title>
     <desc lang="el">Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας! Οι κορυφαίες ομάδες της Ευρώπης δίνουν τον καλύτερό τους εαυτό με μοναδικό στόχο το Final Four και την πολυπόθητη &apos;κούπα&apos;. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261028223000 GMT+2" stop="20261028233000 GMT+2" channel="216415">
+  <programme start="20261028213000 GMT+2" stop="20261028224500 GMT+2" channel="216415">
     <title lang="el">Playmakers (Ζ)</title>
     <desc lang="el">Η απόλυτη εκπομπή μπάσκετ του Novasports που παρουσιάζουν οι Γ. Παπαβασιλείου και Δ. Παντέλη! Ρεπορτάζ, σχόλια και ανάλυση για τα ματς Παναθηναϊκού και Ολυμπιακού στη EuroLeague καθώς και ΠΑΟΚ και Άρη στο EuroCup. Μπάσκετ</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261028233000 GMT+2" stop="20261029000000 GMT+2" channel="216415">
+  <programme start="20261028224500 GMT+2" stop="20261028231500 GMT+2" channel="216415">
     <title lang="el">Race Magazine</title>
     <desc lang="el">Δείτε στιγμιότυπα αγώνων ποδηλασίας, κολύμβησης αντοχής, μηχανοκίνητων, ιστιοπλοϊας και μαραθωνίων. Περισσότερες από 50 κορυφαίες διεθνείς υπαίθριες διοργανώσεις σε 25 χώρες καθ&apos; όλη τη διάρκεια του έτους. Ιστιοπλοϊα</desc>
     <category lang="el">Αθλητικά</category>
