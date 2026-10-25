@@ -38174,7 +38174,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025120000 GMT+2" stop="20261025143000 GMT+2" channel="8242886">
-    <title lang="el">ATP 250 - ALMATY (FINAL) (Z)</title>
+    <title lang="el">Daniil MEDVEDEV - Nikoloz BASILASHVILI (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - ALMATY</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -38186,7 +38186,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025173000 GMT+2" stop="20261025200000 GMT+2" channel="8242886">
-    <title lang="el">ATP 250 - BRUSSELS (FINAL) (Z)</title>
+    <title lang="el">Jan-Lennard STRUFF - Tallon GRIEKSPOOR (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - BRUSSELS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -38198,7 +38198,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025210000 GMT+2" stop="20261026000000 GMT+2" channel="8242886">
-    <title lang="el">ATP 250 - LYON (FINAL)</title>
+    <title lang="el">Lorenzo MUSETTI - Taylor FRITZ (FINAL)</title>
     <desc lang="el">2026 ATP 250 - LYON</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -40650,7 +40650,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025120000 GMT+2" stop="20261025143000 GMT+2" channel="52105043">
-    <title lang="el">ATP 250 - ALMATY (FINAL) (Z)</title>
+    <title lang="el">Daniil MEDVEDEV - Nikoloz BASILASHVILI (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - ALMATY</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -40662,7 +40662,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025173000 GMT+2" stop="20261025200000 GMT+2" channel="52105043">
-    <title lang="el">ATP 250 - BRUSSELS (FINAL) (Z)</title>
+    <title lang="el">Jan-Lennard STRUFF - Tallon GRIEKSPOOR (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 250 - BRUSSELS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -40674,7 +40674,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261025210000 GMT+2" stop="20261026000000 GMT+2" channel="52105043">
-    <title lang="el">ATP 250 - LYON (FINAL)</title>
+    <title lang="el">Lorenzo MUSETTI - Taylor FRITZ (FINAL)</title>
     <desc lang="el">2026 ATP 250 - LYON</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -59920,7 +59920,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261026230000 GMT+2" stop="20261027000000 GMT+2" channel="52105043">
+  <programme start="20261026230000 GMT+2" stop="20261027060000 GMT+2" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -78986,12 +78986,6 @@
   <programme start="20261027234500 GMT+2" stop="20261028000000 GMT+2" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261027000000 GMT+2" stop="20261027060000 GMT+2" channel="52105043">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -143811,6 +143805,174 @@
     <title lang="el">24 In 24: Last Chef Standing Κ3 ΕΠ2</title>
     <desc lang="el">The remaining chefs must overcome three challenges that test their ability to cook fast. Judge Judy Joo sends two chefs home.</desc>
     <category lang="el">Τρόπος Ζωής</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031001200 GMT+2" stop="20261031004200 GMT+2" channel="9744258">
+    <title lang="el">Orphans of the Wild Κ1 ΕΠ8</title>
+    <desc lang="el">Even at a Wildlife sanctuary poaching can rear it’s ugly head and quick action needs to be taken.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031004200 GMT+2" stop="20261031010000 GMT+2" channel="9744258">
+    <title lang="el">Science of Sound Κ1 ΕΠ6</title>
+    <desc lang="el">In the era of music streaming, there are millions of songs at our fingertips. But in a world of near infinite music choices, music discovery and exposure have changed drastically.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031010000 GMT+2" stop="20261031015900 GMT+2" channel="9744258">
+    <title lang="el">Science of Thrills Κ1 ΕΠ3</title>
+    <desc lang="el">Engineer and adventurer Rob Bell climbs aboard four spectacular rollercoasters in Europe and America that exploit our fear of heights.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031015900 GMT+2" stop="20261031025800 GMT+2" channel="9744258">
+    <title lang="el">Science of Thrills Κ1 ΕΠ4</title>
+    <desc lang="el">Engineer and adventurer Rob Bell investigates four roller coasters in Europe and America that use inversions, or loops, to create thrilling rides.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031025800 GMT+2" stop="20261031035900 GMT+2" channel="9744258">
+    <title lang="el">Science of Thrills Κ1 ΕΠ5</title>
+    <desc lang="el">Engineer and adventurer Rob Bell investigates four of the longest roller coasters in Europe and America.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031035900 GMT+2" stop="20261031045900 GMT+2" channel="9744258">
+    <title lang="el">Graveyard Carz Κ6 ΕΠ4</title>
+    <desc lang="el">Alyssa and Dave restore the RoadRunner&apos;s heaterbox. Buck checks in on his Challenger and Will and Mike play a prank on Mark.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031045900 GMT+2" stop="20261031055900 GMT+2" channel="9744258">
+    <title lang="el">Graveyard Carz Κ6 ΕΠ5</title>
+    <desc lang="el">Will paints the Phantom &apos;Cuda. Royal and Mark take a walk down memory lane and Alyssa test drives Goldberg&apos;s GTX.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031055900 GMT+2" stop="20261031070000 GMT+2" channel="9744258">
+    <title lang="el">Graveyard Carz Κ6 ΕΠ6</title>
+    <desc lang="el">The convertible top goes on Torino&apos;s GTX. Buck&apos;s Challenger is painted and Alyssa learns a secret about Mark.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031070000 GMT+2" stop="20261031082000 GMT+2" channel="9744258">
+    <title lang="el">Franco ΕΠ1</title>
+    <desc lang="el">Franco Morbidelli enters MotoGP as Moto2 World Champion. Now, the graduate of Valentino Rossi&apos;s Riders Academy could be set for a debut to remember.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031082000 GMT+2" stop="20261031085000 GMT+2" channel="9744258">
+    <title lang="el">Droners Κ1 ΕΠ1</title>
+    <desc lang="el">From New York to Hong Kong, DRONERS tags along with FPV crews to cover underground races and meet the key-players in the emerging drone community.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031085000 GMT+2" stop="20261031092000 GMT+2" channel="9744258">
+    <title lang="el">Droners Κ1 ΕΠ2</title>
+    <desc lang="el">DRONERS goes behind-the-scenes at an international racing tournament to discover the young pilots climbing the ranks - and raking in the cash along the way.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031092000 GMT+2" stop="20261031101900 GMT+2" channel="9744258">
+    <title lang="el">Secrets of Dark Fest</title>
+    <desc lang="el">Ten of the World&apos;s best mountain bike riders gather to compete against one another in South Africa for Dark Fest, a unique and ambitious free riders event.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031101900 GMT+2" stop="20261031112800 GMT+2" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ1</title>
+    <desc lang="el">The nation of 7,000 islands has no problems with beach, sun, or sea; but they suffer tremendously with cuisine image. Jonathan lands in Manila to discover the top chefs are well aware of the issue and, following their advice, he launches off on an expedition to find part of the solution. Driving from headhunting tribal villages, to step-back-in-time colonial towns, to restaurants in the shadow of the American military behemoth an intriguing story slowly pieces together.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20261031112800 GMT+2" stop="20261031122900 GMT+2" channel="9744258">
+    <title lang="el">Food Unknown Κ1 ΕΠ2</title>
+    <desc lang="el">Finland is that one Nordic country that is never on the global cuisine radar. However, the reserved Finns have been quietly perfecting their craft of foraging culture and incorporating it into their unique cuisine. Jonathan Legg explores the entire expanse of the country to understand it’s cuisine, and the ethos of the country’s top chefs; from amazing locally sourced cuisine in Helsinki, to an expedition in Lapland to learn about foraging and the Finnish delicacy, reindeer!</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031122900 GMT+2" stop="20261031132900 GMT+2" channel="9744258">
+    <title lang="el">Find Me a Classic Κ1 ΕΠ5</title>
+    <desc lang="el">Mat Watson sets off to seek out a slice of Americana. A classic car from the USA.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031132900 GMT+2" stop="20261031143000 GMT+2" channel="9744258">
+    <title lang="el">Find Me a Classic Κ1 ΕΠ6</title>
+    <desc lang="el">Mat Watson hunts throughout Europe for a classy Nordic coupe. The Volvo P1800.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031143000 GMT+2" stop="20261031153000 GMT+2" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ2</title>
+    <desc lang="el">Mark announces a top-secret project to the ghouls and Allysa surprises her dad, when she manages to get him his old car for Father’s Day</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031153000 GMT+2" stop="20261031163000 GMT+2" channel="9744258">
+    <title lang="el">Graveyard Carz Κ7 ΕΠ3</title>
+    <desc lang="el">The 1 of a kind 1969 Hemi Roadrunner Convertible, is back on the lift. With the owner soon to arrive, the ghouls have to ramp up and get it finished.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031163000 GMT+2" stop="20261031170000 GMT+2" channel="9744258">
+    <title lang="el">Supercar Blondie: Living the Dream Κ1 ΕΠ1</title>
+    <desc lang="el">Alex Hirschi started her own vlog reviewing the world’s most exclusive and expensive supercars and her meteoric rise has seen her gain millions of followers and her very own TV Series.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031170000 GMT+2" stop="20261031172900 GMT+2" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ5</title>
+    <desc lang="el">Vinnie and team at Muscle Cars of Texas go under the hood of the 69 Malibu. The 63 Z06 factory race car, you have to see what it takes to make this race car look like it came out of the factory. Tagging and bagging time on the 72 Corvette.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031172900 GMT+2" stop="20261031175900 GMT+2" channel="9744258">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ6</title>
+    <desc lang="el">Vinnie is in Scottsdale Arizona for Barrett Jackson 2024. There is so much happening, from checking out awesome vendors, looking at awesome classic cars, and even trying amazing food.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031175900 GMT+2" stop="20261031190000 GMT+2" channel="9744258">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ6</title>
+    <desc lang="el">Sung returns to his home town LA, the car culture capital of the world. This is where Sung feels the most pressure to be on his game. But in the car scene, Sung meets old friends, discovers new inspirations, and finds a way to face life&apos;s challenges.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031190000 GMT+2" stop="20261031195900 GMT+2" channel="9744258">
+    <title lang="el">Rhino Orphanage Κ1 ΕΠ1</title>
+    <desc lang="el">The team at The Rhino Orphanage fights for survival, nurturing calves orphaned by poachers while racing against time to save young Thula’s eyesight.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20261031195900 GMT+2" stop="20261031205900 GMT+2" channel="9744258">
+    <title lang="el">Rhino Orphanage Κ1 ΕΠ2</title>
+    <desc lang="el">Release day arrives for the oldest rhinos, while three others go missing. A new volunteer watches as the high-stakes return to the wild risks disaster</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>12</rating>
+  </programme>
+  <programme start="20261031205900 GMT+2" stop="20261031220100 GMT+2" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ4</title>
+    <desc lang="el">Isolated by the rising Caucasus mountains, the Caspian Sea serves as a prehistoric refuge for rare species across a rugged, landlocked world.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031220100 GMT+2" stop="20261031230600 GMT+2" channel="9744258">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ5</title>
+    <desc lang="el">Beneath the illusions of the shimmering desert heat, the Arabian Peninsula conceals a wealth of life across its diverse, ancient ecosystems.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031230600 GMT+2" stop="20261031233700 GMT+2" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ7</title>
+    <desc lang="el">Don&apos;t mess with organized crime. The dynamic duo tackle scenes from the Mexico cartel series Queen of the South, but take a pitstop at the rest room to test a scene from The Foreigner with Jackie Chan.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
+    <rating>K</rating>
+  </programme>
+  <programme start="20261031233700 GMT+2" stop="20261101000700 GMT+2" channel="9744258">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ8</title>
+    <desc lang="el">Who left Terry Home Alone! Larry did. Terry and Larry test several scenes from the classic film series Home Alone.</desc>
+    <category lang="el">Ντοκυμαντέρ</category>
     <rating>K</rating>
   </programme>
   <programme start="20261031000000 GMT+2" stop="20261031003000 GMT+2" channel="216382">
