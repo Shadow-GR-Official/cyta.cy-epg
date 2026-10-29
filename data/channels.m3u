@@ -193,6 +193,8 @@ http://127.0.0.1/52027167
 http://127.0.0.1/52027399
 #EXTINF:-1 tvg-id="52027412" tvg-name="Novasportsextra3HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240220/61/202402200901512288ks.png",Novasportsextra3HD
 http://127.0.0.1/52027412
+#EXTINF:-1 tvg-id="52027180" tvg-name="Novasportsextra4HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240220/14/202402200901255587nh.png",Novasportsextra4HD
+http://127.0.0.1/52027180
 #EXTINF:-1 tvg-id="4185119" tvg-name="Eurosport 1 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/63/20240226080425294viw.png",Eurosport 1 HD
 http://127.0.0.1/4185119
 #EXTINF:-1 tvg-id="5183085" tvg-name="Eurosport 2 HD" tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202402/20240226/12/20240226080401355m1e.png",Eurosport 2 HD
