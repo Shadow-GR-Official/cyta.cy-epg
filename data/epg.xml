@@ -55343,7 +55343,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261101163000 GMT+2" stop="20261101190000 GMT+2" channel="8242886">
-    <title lang="el">ATP 500 - BASEL (FINAL) (Z)</title>
+    <title lang="el">Jiri LEHECKA - Valentin VACHEROT (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - BASEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -55463,7 +55463,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261101150000 GMT+2" stop="20261101173000 GMT+2" channel="24654412">
-    <title lang="el">ATP 500 - VIENNA (FINAL) (Z)</title>
+    <title lang="el">Alex DE MINAUR - Carlos ALCARAZ (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - VIENNA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -57726,7 +57726,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261101163000 GMT+2" stop="20261101190000 GMT+2" channel="52105043">
-    <title lang="el">ATP 500 - BASEL (FINAL) (Z)</title>
+    <title lang="el">Jiri LEHECKA - Valentin VACHEROT (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - BASEL</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -57846,7 +57846,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261101150000 GMT+2" stop="20261101173000 GMT+2" channel="52105052">
-    <title lang="el">ATP 500 - VIENNA (FINAL) (Z)</title>
+    <title lang="el">Alex DE MINAUR - Carlos ALCARAZ (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 500 - VIENNA</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -74940,7 +74940,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261102180000 GMT+2" stop="20261103000000 GMT+2" channel="8242886">
+  <programme start="20261102180000 GMT+2" stop="20261103060000 GMT+2" channel="8242886">
     <title lang="el">ATP 1000 - PARIS (MD 1) (Z)</title>
     <desc lang="el">2026 ATP 1000 - PARIS</desc>
     <category lang="el">Αθλητικά</category>
@@ -75006,7 +75006,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261102221500 GMT+2" stop="20261103001500 GMT+2" channel="24654412">
+  <programme start="20261102221500 GMT+2" stop="20261103060000 GMT+2" channel="24654412">
     <title lang="el">BENFICA - ALVERCA (Z)</title>
     <desc lang="el">PORTUGUESE LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
@@ -77112,7 +77112,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261102180000 GMT+2" stop="20261103000000 GMT+2" channel="52105043">
+  <programme start="20261102180000 GMT+2" stop="20261103060000 GMT+2" channel="52105043">
     <title lang="el">ATP 1000 - PARIS (MD 1) (Z)</title>
     <desc lang="el">2026 ATP 1000 - PARIS</desc>
     <category lang="el">Αθλητικά</category>
@@ -77178,7 +77178,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261102221500 GMT+2" stop="20261103001500 GMT+2" channel="52105052">
+  <programme start="20261102221500 GMT+2" stop="20261103060000 GMT+2" channel="52105052">
     <title lang="el">BENFICA - ALVERCA (Z)</title>
     <desc lang="el">PORTUGUESE LEAGUE 2026-27</desc>
     <category lang="el">Αθλητικά</category>
@@ -94064,12 +94064,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261103000000 GMT+2" stop="20261103060000 GMT+2" channel="8242886">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20261103060000 GMT+2" stop="20261103120000 GMT+2" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -94121,12 +94115,6 @@
   <programme start="20261103220000 GMT+2" stop="20261104000000 GMT+2" channel="8243873">
     <title lang="el">BARCELONA - ASTON VILLA (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261103001500 GMT+2" stop="20261103060000 GMT+2" channel="24654412">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
@@ -96394,12 +96382,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261103000000 GMT+2" stop="20261103060000 GMT+2" channel="52105043">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20261103060000 GMT+2" stop="20261103120000 GMT+2" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -96451,12 +96433,6 @@
   <programme start="20261103220000 GMT+2" stop="20261104000000 GMT+2" channel="52103947">
     <title lang="el">BARCELONA - ASTON VILLA (Z)</title>
     <desc lang="el">UEFA CHAMPIONS LEAGUE 2026-27</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261103001500 GMT+2" stop="20261103060000 GMT+2" channel="52105052">
-    <title lang="el">HORSE TV</title>
-    <desc lang="el">HORSE TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
