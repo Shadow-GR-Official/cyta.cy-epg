@@ -51683,7 +51683,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261108160000 GMT+2" stop="20261108183000 GMT+2" channel="8242886">
-    <title lang="el">ATP 1000 - PARIS (FINAL) (Z)</title>
+    <title lang="el">Ben SHELTON - Carlos ALCARAZ (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 1000 - PARIS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -54047,7 +54047,7 @@
     <rating>K</rating>
   </programme>
   <programme start="20261108160000 GMT+2" stop="20261108183000 GMT+2" channel="52105043">
-    <title lang="el">ATP 1000 - PARIS (FINAL) (Z)</title>
+    <title lang="el">Ben SHELTON - Carlos ALCARAZ (FINAL) (Z)</title>
     <desc lang="el">2026 ATP 1000 - PARIS</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
@@ -69600,7 +69600,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261109230000 GMT+2" stop="20261110000000 GMT+2" channel="8242886">
+  <programme start="20261109230000 GMT+2" stop="20261110060000 GMT+2" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -71819,7 +71819,7 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261109230000 GMT+2" stop="20261110000000 GMT+2" channel="52105043">
+  <programme start="20261109230000 GMT+2" stop="20261110060000 GMT+2" channel="52105043">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
@@ -87270,12 +87270,6 @@
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
-  <programme start="20261110000000 GMT+2" stop="20261110060000 GMT+2" channel="8242886">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
   <programme start="20261110060000 GMT+2" stop="20261110120000 GMT+2" channel="8242886">
     <title lang="el">MAN UTD TV</title>
     <desc lang="el">MAN UTD TV</desc>
@@ -89529,12 +89523,6 @@
   <programme start="20261110180000 GMT+2" stop="20261111000000 GMT+2" channel="52103938">
     <title lang="el">LIVERPOOL TV</title>
     <desc lang="el">LIVERPOOL TV</desc>
-    <category lang="el">Αθλητικά</category>
-    <rating>K</rating>
-  </programme>
-  <programme start="20261110000000 GMT+2" stop="20261110060000 GMT+2" channel="52105043">
-    <title lang="el">MAN UTD TV</title>
-    <desc lang="el">MAN UTD TV</desc>
     <category lang="el">Αθλητικά</category>
     <rating>K</rating>
   </programme>
